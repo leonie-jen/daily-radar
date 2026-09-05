@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T21:25:56.665618+08:00",
+ "updated_at": "2026-09-05T21:57:54.820415+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -152,7 +152,7 @@
  "quotes": [
   {
    "symbol": "^TWII",
-   "name": "台股加權指數",
+   "name": "台股加權",
    "price": 46551.13,
    "change": 693.47,
    "change_pct": 1.51,
@@ -182,7 +182,7 @@
   },
   {
    "symbol": "^SOX",
-   "name": "費城半導體",
+   "name": "費半",
    "price": 11735.262,
    "change": 383.134,
    "change_pct": 3.38,
@@ -209,6 +209,223 @@
    "currency": "USD",
    "as_of": "2026-09-04",
    "market": "US"
+  }
+ ],
+ "links": [
+  {
+   "category": "每日必看",
+   "sites": [
+    {
+     "name": "哈利的投資研究筆記庫",
+     "url": "https://harrymemo.com/",
+     "note": "台股美股每日盤後 Dashboard"
+    },
+    {
+     "name": "財經M平方 MacroMicro",
+     "url": "https://www.macromicro.me/",
+     "note": "總經數據圖表"
+    },
+    {
+     "name": "TradingView",
+     "url": "https://www.tradingview.com/chart/",
+     "note": "看線圖"
+    },
+    {
+     "name": "Finviz Map",
+     "url": "https://finviz.com/map.ashx",
+     "note": "美股熱力圖一眼看完"
+    }
+   ]
+  },
+  {
+   "category": "台股",
+   "sites": [
+    {
+     "name": "證交所 基本市況報導",
+     "url": "https://mis.twse.com.tw/stock/",
+     "note": "官方即時"
+    },
+    {
+     "name": "Goodinfo 台灣股市資訊網",
+     "url": "https://goodinfo.tw/tw/index.asp",
+     "note": "個股基本面"
+    },
+    {
+     "name": "神秘金字塔 籌碼",
+     "url": "https://norway.twsthr.info/StockHolders.aspx",
+     "note": "大戶持股"
+    },
+    {
+     "name": "公開資訊觀測站",
+     "url": "https://mops.twse.com.tw/mops/web/index",
+     "note": "財報與重大訊息"
+    },
+    {
+     "name": "CMoney 選股",
+     "url": "https://www.cmoney.tw/finance/",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "category": "美股",
+   "sites": [
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/",
+     "note": "綜合報價"
+    },
+    {
+     "name": "StockAnalysis",
+     "url": "https://stockanalysis.com/",
+     "note": "乾淨的財報數據"
+    },
+    {
+     "name": "Koyfin",
+     "url": "https://app.koyfin.com/",
+     "note": "免費版就很夠用"
+    },
+    {
+     "name": "Earnings Whispers",
+     "url": "https://www.earningswhispers.com/calendar",
+     "note": "財報行事曆"
+    },
+    {
+     "name": "SEC EDGAR",
+     "url": "https://www.sec.gov/edgar/searchedgar/companysearch",
+     "note": "原始申報文件"
+    }
+   ]
+  },
+  {
+   "category": "半導體 · 產業研究",
+   "sites": [
+    {
+     "name": "SemiAnalysis",
+     "url": "https://semianalysis.com/",
+     "note": "半導體深度分析"
+    },
+    {
+     "name": "TrendForce 集邦",
+     "url": "https://www.trendforce.com.tw/",
+     "note": "記憶體/面板/晶圓報價"
+    },
+    {
+     "name": "DIGITIMES",
+     "url": "https://www.digitimes.com.tw/",
+     "note": "供應鏈消息"
+    },
+    {
+     "name": "台積電法說會",
+     "url": "https://investor.tsmc.com/chinese/quarterly-results",
+     "note": "每季一定要看"
+    },
+    {
+     "name": "Stratechery",
+     "url": "https://stratechery.com/",
+     "note": "科技產業策略"
+    }
+   ]
+  },
+  {
+   "category": "Web3 · 加密貨幣",
+   "sites": [
+    {
+     "name": "CoinGecko",
+     "url": "https://www.coingecko.com/zh-tw",
+     "note": "幣價與市值"
+    },
+    {
+     "name": "DefiLlama",
+     "url": "https://defillama.com/",
+     "note": "DeFi TVL"
+    },
+    {
+     "name": "Dune",
+     "url": "https://dune.com/browse/dashboards",
+     "note": "鏈上數據儀表板"
+    },
+    {
+     "name": "The Block",
+     "url": "https://www.theblock.co/data",
+     "note": "產業數據"
+    },
+    {
+     "name": "Etherscan",
+     "url": "https://etherscan.io/",
+     "note": "以太坊瀏覽器"
+    }
+   ]
+  },
+  {
+   "category": "美債 · 利率",
+   "sites": [
+    {
+     "name": "FRED 聯準會經濟數據",
+     "url": "https://fred.stlouisfed.org/",
+     "note": "所有總經數據的源頭"
+    },
+    {
+     "name": "美債殖利率曲線",
+     "url": "https://www.ustreasuryyieldcurve.com/",
+     "note": "倒掛看這裡"
+    },
+    {
+     "name": "CME FedWatch",
+     "url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+     "note": "市場預期的升降息機率"
+    },
+    {
+     "name": "美國財政部 每日利率",
+     "url": "https://home.treasury.gov/interest-rates-data-csv-archive",
+     "note": "官方原始資料"
+    }
+   ]
+  },
+  {
+   "category": "黃金 · 原物料",
+   "sites": [
+    {
+     "name": "台銀黃金存摺",
+     "url": "https://rate.bot.com.tw/gold",
+     "note": "台幣計價金價"
+    },
+    {
+     "name": "Kitco",
+     "url": "https://www.kitco.com/",
+     "note": "國際金銀價"
+    },
+    {
+     "name": "Trading Economics 商品",
+     "url": "https://tradingeconomics.com/commodities",
+     "note": "原油銅小麥一次看"
+    }
+   ]
+  },
+  {
+   "category": "匯率 · 換匯",
+   "sites": [
+    {
+     "name": "台銀牌告匯率",
+     "url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
+     "note": "實際換匯就看這個"
+    },
+    {
+     "name": "各銀行匯率比較",
+     "url": "https://www.findrate.tw/USD/",
+     "note": "找最好的價"
+    },
+    {
+     "name": "Wise",
+     "url": "https://wise.com/tw/currency-converter/",
+     "note": "跨國匯款"
+    },
+    {
+     "name": "XE",
+     "url": "https://www.xe.com/currencyconverter/",
+     "note": "國際中間價"
+    }
+   ]
   }
  ]
 }

@@ -1,7 +1,7 @@
 # 📡 每日雷達 daily-radar
 
 一站式看完你在追的所有事情：GT OMSCS 情報、美國 CPT / 簽證風向、自動化測試職缺與文章、
-台幣美金匯率、台股美股、商品降價、刷題紀錄。
+投資網站導航、商品降價、刷題紀錄、習慣打卡。
 
 **每天早上 8 點自動更新，手機瀏覽器打開就能看，零伺服器費用。**
 
@@ -87,12 +87,17 @@ OMSCS 的錄取／被拒心得幾乎都在 Reddit，但 Reddit 對沒登入的�
 | 要訂閱的部落格 | `jobs.blog_feeds` |
 | CPT 相關的搜尋詞 | `cpt.queries` |
 | 每週刷題目標 | `leetcode.weekly_goal` |
+| 投資導航的分類與連結 | `finance.links` |
+| 追蹤哪些習慣、每週目標 | `habits.track` |
 | AI 每次最多處理幾篇（成本上限） | `ai.max_items_per_run` |
 
-### 記錄刷題
+### 記錄刷題 / 習慣打卡
 
-網站「刷題」分頁 → **＋ 記錄今天刷的題** → 填 issue 表單 → 送出。
-Actions 會把它寫進 `data/leetcode.json` 並自動關掉 issue。手機上也能填。
+網站「刷題」或「習慣」分頁 → 點 **＋** 按鈕 → 填 issue 表單 → 送出。
+Actions 會寫進 `data/leetcode.json` / `data/habits.json` 並自動關掉 issue。手機上兩下完成。
+
+習慣分頁會顯示每個習慣的**連續天數**、本週進度、以及最近五週的格子圖（一眼看出哪天斷了）。
+同一天可以打卡多次，會自動合併（早上先勾運動，晚上再補韓文）。
 
 ### 本機測試
 
@@ -119,6 +124,7 @@ cd site && python3 -m http.server 8899        # 開 http://localhost:8899
 | 台股 | 證交所 OpenAPI + MIS 即時報價 | 穩定 |
 | 美股 | CNBC 報價服務 | 穩定 |
 | 投資筆記 | harrymemo.com | **最新兩期是付費會員限定**，只會顯示標題與連結 |
+| 投資導航 | `config.yml` 裡的連結 | 純設定，不用抓 |
 | 商品 | PChome（官方 API）、momo、博客來 | 穩定 |
 | 商品 | 蝦皮、Amazon | 反爬很兇，成功率低 |
 
@@ -141,6 +147,7 @@ scrapers/
   omscs.py cpt.py jobs.py finance.py prices.py
   run_all.py            每日主流程
 tools/log_leetcode.py   把刷題 issue 存成 JSON
+tools/log_habit.py      把打卡 issue 存成 JSON
 site/                   前端（純 HTML/CSS/JS，沒有打包工具）
 data/                   爬蟲產出，由 Actions 自動 commit
 ```

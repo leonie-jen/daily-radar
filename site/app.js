@@ -2,7 +2,7 @@
    所有判斷（相關性、是否降價）都在爬蟲階段算好了。 */
 
 const REPO = 'https://github.com/leonie-jen/daily-radar';   // 換成你的 repo 網址
-const FILES = ['status', 'omscs', 'cpt', 'jobs', 'finance', 'prices', 'leetcode'];
+const FILES = ['status', 'omscs', 'cpt', 'jobs', 'finance', 'prices', 'leetcode', 'habits'];
 const DB = {};
 
 const $  = (s, r = document) => r.querySelector(s);
@@ -40,6 +40,17 @@ function sortItems(items) {
 
 // ---------------------------------------------------------------- 條目
 
+// 文章原本的發布日（跟「我第一次抓到」是兩回事，舊文今天才被撈到很常見）
+function pubDate(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (isNaN(d)) return String(iso).slice(0, 10);
+  const sameYear = d.getFullYear() === new Date().getFullYear();
+  return d.toLocaleDateString('zh-TW', sameYear
+    ? { month: 'numeric', day: 'numeric' }
+    : { year: 'numeric', month: 'numeric', day: 'numeric' });
+}
+
 function itemCard(it) {
   const badges = [];
   if (isNew(it)) badges.push('<span class="badge new">NEW</span>');
@@ -62,7 +73,8 @@ function itemCard(it) {
     ${jobLine}${body}
     <div class="meta" style="margin-top:8px">
       <span class="badge">${esc(it.source || '')}</span>${badges.join('')}
-      <span>${ago(it.first_seen)}</span>
+      ${it.published ? `<span>發布 ${pubDate(it.published)}</span>` : ''}
+      <span>· 抓到 ${ago(it.first_seen)}</span>
     </div>
   </a>`;
 }
@@ -131,6 +143,22 @@ function renderHome() {
     <div class="sub">${week >= goal ? '達標了 🎉' : `還差 ${goal - week} 題`}</div>
   </div>`);
 
+  const habits = DB.status?.habits || [];
+  if (habits.length) {
+    const today = new Date().toISOString().slice(0, 10);
+    const doneToday = new Set(
+      (DB.habits?.entries || []).find(e => e.date === today)?.done || []);
+    cards.push(`<div class="card">
+      <div class="k">今天的習慣</div>
+      <div class="v">${doneToday.size} / ${habits.length}</div>
+      <div class="sub">${habits.map(h =>
+        `<span style="opacity:${doneToday.has(h.key) ? 1 : .3}">${esc(h.emoji || '')}${esc(h.key)}</span>`
+      ).join(' ')}</div>
+      <a class="btn" style="padding:8px 13px;font-size:13px"
+         href="${REPO}/issues/new?template=habit.yml" target="_blank" rel="noopener">打卡</a>
+    </div>`);
+  }
+
   $('#home-cards').innerHTML = cards.join('');
 
   const fresh = ['omscs', 'cpt', 'jobs', 'finance']
@@ -140,24 +168,41 @@ function renderHome() {
 }
 
 function renderFinance() {
+  // 頂端一條摘要：看一眼就好，要細看就點下面的連結去專門的網站
   const fx = DB.finance?.fx;
-  $('#fx-card').innerHTML = fx?.usd_twd ? `<div class="card">
-    <div class="k">美金 / 台幣（${esc(fx.source || '')}）</div>
-    <div class="v">${fx.usd_twd.toFixed(3)}</div>
-    <div class="sub">7 天 ${signed(fx.change_7d)} · 30 天 ${signed(fx.change_30d)}
-      ${fx.alert_below ? ` · 你的提醒價 ${fx.alert_below}` : ''}</div>
-    <div class="sub">${esc(fx.note || '')}</div>
-    ${sparkline(fx.history)}
-  </div>` : '<div class="empty">匯率抓取失敗</div>';
+  const cells = [];
+  if (fx?.usd_twd) cells.push(`<a class="cell" href="https://rate.bot.com.tw/xrt?Lang=zh-TW"
+    target="_blank" rel="noopener">
+    <div class="n">美金/台幣</div>
+    <div class="p ${fx.good_time_to_buy ? 'down' : ''}">${fx.usd_twd.toFixed(2)}</div>
+    <div class="c ${dirClass(fx.change_7d == null ? null : -fx.change_7d)}">
+      ${fx.change_7d == null ? '走勢累積中' : `7天 ${signed(fx.change_7d)}`}</div></a>`);
 
-  $('#quotes').innerHTML = (DB.finance?.quotes || []).map(q => `<div class="quote">
+  (DB.finance?.quotes || []).forEach(q => cells.push(`<div class="cell">
     <div class="n">${esc(q.name || q.symbol)}</div>
     <div class="p ${dirClass(q.change)}">${num(q.price)}</div>
-    <div class="c ${dirClass(q.change)}">${signed(q.change_pct)}%</div>
-    <div class="n" style="margin-top:4px">${esc(q.as_of || '')}</div>
-  </div>`).join('') || '<div class="empty">報價抓取失敗</div>';
+    <div class="c ${dirClass(q.change)}">${signed(q.change_pct)}%</div></div>`));
+
+  $('#ticker-strip').innerHTML = cells.join('');
+
+  // 導航連結（來自 config.yml 的 finance.links）
+  const groups = DB.finance?.links || [];
+  $('#links').innerHTML = groups.map(g => `<div class="linkgroup">
+    <h3>${esc(g.category)}</h3>
+    <div class="linkgrid">${(g.sites || []).map(site => `
+      <a class="linkcard" href="${esc(site.url)}" target="_blank" rel="noopener">
+        <img class="fav" loading="lazy" alt=""
+             src="https://www.google.com/s2/favicons?domain=${esc(hostOf(site.url))}&sz=64">
+        <span class="txt"><b>${esc(site.name)}</b>
+        <small>${esc(site.note || hostOf(site.url))}</small></span>
+      </a>`).join('')}</div>
+  </div>`).join('') || '<div class="empty">還沒設定導航連結，改 config.yml 的 finance.links</div>';
 
   renderList($('#finance-list'), DB.finance?.items || []);
+}
+
+function hostOf(url) {
+  try { return new URL(url).hostname; } catch { return url; }
 }
 
 function renderPrices() {
@@ -214,6 +259,65 @@ function renderLeetcode() {
         ${e.note ? `<p>${esc(e.note)}</p>` : ''}
       </div>`).join('')
       : '<div class="empty">還沒有紀錄。點上面的按鈕開一張 issue 就會自動存進來。</div>'}`;
+}
+
+// 從今天往回數，連續幾天有做這件事（今天還沒打卡不算斷，從昨天開始數）
+function streakOf(done, key) {
+  const day = d => new Date(d).toISOString().slice(0, 10);
+  const has = new Set(done.filter(e => (e.done || []).includes(key)).map(e => e.date));
+  let n = 0;
+  const cur = new Date();
+  if (!has.has(day(cur))) cur.setDate(cur.getDate() - 1);
+  while (has.has(day(cur))) { n++; cur.setDate(cur.getDate() - 1); }
+  return n;
+}
+
+function renderHabits() {
+  const habits = DB.status?.habits || [];
+  const entries = DB.habits?.entries || [];
+  const today = new Date().toISOString().slice(0, 10);
+
+  if (!habits.length) {
+    $('#habits-panel').innerHTML = '<div class="empty">還沒設定習慣，改 config.yml 的 habits.track</div>';
+    return;
+  }
+
+  // 最近 35 天（五週）的方格
+  const days = [...Array(35)].map((_, i) => {
+    const d = new Date(); d.setDate(d.getDate() - 34 + i);
+    return d.toISOString().slice(0, 10);
+  });
+  const doneOn = new Map(entries.map(e => [e.date, new Set(e.done || [])]));
+
+  const weekStart = new Date();
+  weekStart.setDate(weekStart.getDate() - weekStart.getDay());
+  const weekKey = weekStart.toISOString().slice(0, 10);
+
+  const cards = habits.map(h => {
+    const streak = streakOf(entries, h.key);
+    const week = entries.filter(e => e.date >= weekKey && (e.done || []).includes(h.key)).length;
+    const goal = h.goal_per_week || 7;
+    return `<div class="habit">
+      <div class="habit-head">
+        <b>${esc(h.emoji || '')} ${esc(h.key)}</b>
+        <span class="streak ${streak >= 3 ? 'on' : ''}">${streak ? `🔥 連續 ${streak} 天` : '今天開始'}</span>
+      </div>
+      <div class="bar"><i style="width:${Math.min(100, week / goal * 100)}%"></i></div>
+      <div class="meta">本週 ${week} / ${goal} 次${doneOn.get(today)?.has(h.key) ? ' · 今天打過了 ✅' : ''}</div>
+      <div class="heat">${days.map(d =>
+        `<i class="${doneOn.get(d)?.has(h.key) ? 'on' : ''} ${d === today ? 'today' : ''}" title="${d}"></i>`
+      ).join('')}</div>
+    </div>`;
+  }).join('');
+
+  const recent = entries.slice(0, 14).map(e => `<div class="log-row">
+    <span>${esc(e.date)} ${(e.done || []).map(k =>
+      esc((habits.find(h => h.key === k) || {}).emoji || '') + esc(k)).join(' ') || '—'}</span>
+  </div>${e.note ? `<p class="meta" style="padding-bottom:8px">${esc(e.note)}</p>` : ''}`).join('');
+
+  $('#habits-panel').innerHTML = cards
+    + `<a class="btn" href="${REPO}/issues/new?template=habit.yml" target="_blank" rel="noopener">＋ 今天打卡</a>`
+    + (recent ? `<h2 class="sec-h">最近紀錄</h2><div class="item">${recent}</div>` : '');
 }
 
 function renderStatus() {
@@ -280,6 +384,7 @@ async function load() {
   renderFinance();
   renderPrices();
   renderLeetcode();
+  renderHabits();
   renderStatus();
 }
 

@@ -64,6 +64,7 @@ def main() -> int:
         "sections": report,
         "ai": enricher.cost_note(),
         "leetcode_goal": cfg.get("leetcode", {}).get("weekly_goal", 10),
+        "habits": cfg.get("habits", {}).get("track", []),
         "fx_alert_below": cfg.get("finance", {}).get("usd_twd_alert_below"),
     })
 

@@ -1,0 +1,29 @@
+name: 習慣打卡
+description: 勾今天做到的事，送出就好（手機兩下完成）
+title: "打卡"
+labels: ["habit"]
+body:
+  - type: input
+    id: date
+    attributes:
+      label: 日期
+      description: 留空就是今天（台北時間）
+      placeholder: 2026-09-05
+    validations:
+      required: false
+  - type: checkboxes
+    id: done
+    attributes:
+      label: 今天做到的
+      options:
+        - label: "🏃 運動"
+        - label: "🎧 VoiceTube 打卡"
+        - label: "🇰🇷 韓文打卡"
+        - label: "🎓 為研究所努力一點"
+  - type: textarea
+    id: note
+    attributes:
+      label: 一句話（選填）
+      placeholder: 跑了 5K，韓文背了 30 個單字
+    validations:
+      required: false

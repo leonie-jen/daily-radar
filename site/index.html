@@ -26,9 +26,10 @@
     <button data-tab="omscs">OMSCS</button>
     <button data-tab="cpt">CPT 簽證</button>
     <button data-tab="jobs">職缺 · 文章</button>
-    <button data-tab="finance">股市 · 匯率</button>
+    <button data-tab="finance">投資</button>
     <button data-tab="prices">商品</button>
     <button data-tab="leetcode">刷題</button>
+    <button data-tab="habits">習慣</button>
   </div>
 </nav>
 
@@ -68,9 +69,8 @@
   </section>
 
   <section id="tab-finance" class="tab">
-    <div id="fx-card"></div>
-    <h2 class="sec-h">指數與個股</h2>
-    <div id="quotes" class="quotes"></div>
+    <div id="ticker-strip" class="strip"></div>
+    <div id="links"></div>
     <h2 class="sec-h">哈利的投資研究筆記庫</h2>
     <div id="finance-list" class="list"></div>
   </section>
@@ -81,6 +81,10 @@
 
   <section id="tab-leetcode" class="tab">
     <div id="leetcode-panel"></div>
+  </section>
+
+  <section id="tab-habits" class="tab">
+    <div id="habits-panel"></div>
   </section>
 
   <details class="status">

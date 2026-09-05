@@ -1,18 +1,18 @@
 {
- "updated_at": "2026-09-05T21:25:57.898297+08:00",
- "duration_sec": 147.9,
+ "updated_at": "2026-09-05T21:57:56.148285+08:00",
+ "duration_sec": 123.4,
  "sections": [
   {
    "key": "omscs",
    "label": "OMSCS 情報",
    "ok": true,
-   "items": 92,
+   "items": 111,
    "sources": [
     {
      "name": "Reddit r/OMSCS",
-     "ok": false,
-     "count": 0,
-     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+     "ok": true,
+     "count": 25,
+     "note": ""
     },
     {
      "name": "Reddit r/OMSCS 錄取討論",
@@ -29,7 +29,7 @@
     {
      "name": "Google News",
      "ok": true,
-     "count": 11,
+     "count": 13,
      "note": ""
     },
     {
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 133,
+   "items": 136,
    "sources": [
     {
      "name": "104｜自動化測試",
@@ -177,7 +177,7 @@
     {
      "name": "Google News 文章",
      "ok": true,
-     "count": 10,
+     "count": 9,
      "note": ""
     },
     {
@@ -240,9 +240,9 @@
     },
     {
      "name": "決勝領思 5500 單字",
-     "ok": false,
-     "count": 0,
-     "note": "抓不到價格（可能被反爬擋，或網址失效）"
+     "ok": true,
+     "count": 1,
+     "note": ""
     }
    ]
   }
@@ -256,5 +256,27 @@
   "twd": 0.0
  },
  "leetcode_goal": 10,
+ "habits": [
+  {
+   "key": "運動",
+   "emoji": "🏃",
+   "goal_per_week": 4
+  },
+  {
+   "key": "VoiceTube",
+   "emoji": "🎧",
+   "goal_per_week": 7
+  },
+  {
+   "key": "韓文",
+   "emoji": "🇰🇷",
+   "goal_per_week": 7
+  },
+  {
+   "key": "研究所",
+   "emoji": "🎓",
+   "goal_per_week": 5
+  }
+ ],
  "fx_alert_below": 30.5
 }

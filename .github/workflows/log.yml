@@ -1,0 +1,54 @@
+name: 記錄打卡
+
+# 開一張 leetcode 或 habit 標籤的 issue，內容就會被寫進 data/ 然後自動關閉。
+# 這樣手機上不用裝任何 app，開 GitHub 網頁填表單就好。
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: radar-log          # 兩張 issue 同時進來時排隊處理，避免 push 打架
+  cancel-in-progress: false
+
+jobs:
+  record:
+    if: >
+      contains(github.event.issue.labels.*.name, 'leetcode') ||
+      contains(github.event.issue.labels.*.name, 'habit')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install PyYAML
+
+      - name: 解析 issue 並寫入
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUM: ${{ github.event.issue.number }}
+          LABELS: ${{ join(github.event.issue.labels.*.name, ',') }}
+        run: |
+          if [[ "$LABELS" == *leetcode* ]]; then
+            python tools/log_leetcode.py
+          else
+            python tools/log_habit.py
+          fi
+
+      - name: commit
+        run: |
+          git config user.name  "daily-radar bot"
+          git config user.email "action@github.com"
+          git pull --rebase --autostash
+          git add data/leetcode.json data/habits.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "打卡紀錄 #${{ github.event.issue.number }}"
+          git push
+
+      - name: 關閉 issue
+        run: gh issue close "$NUM" --comment "已記錄到網站 ✅"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NUM: ${{ github.event.issue.number }}

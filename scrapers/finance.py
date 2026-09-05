@@ -38,6 +38,9 @@ def scrape(cfg: dict) -> Section:
     sec.extra["quotes"] = quotes
     sec.sources.append(_status("股價報價", bool(quotes), f"{len(quotes)} 檔"))
 
+    # 導航連結原封不動帶到前端；這是設定不是抓來的資料，所以不需要爬
+    sec.extra["links"] = conf.get("links", [])
+
     hm = conf.get("harrymemo", {})
     if hm.get("enabled", True):
         sec.add(_harrymemo(hm), "哈利的投資研究筆記庫")

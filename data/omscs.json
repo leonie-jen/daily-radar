@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-09-05T21:24:44.392890+08:00",
+ "updated_at": "2026-09-05T21:56:41.895092+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+   "ok": true,
+   "count": 25,
+   "note": ""
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
@@ -22,7 +22,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 11,
+   "count": 13,
    "note": ""
   },
   {
@@ -52,18 +52,269 @@
  ],
  "items": [
   {
+   "title": "Don’t Just Use OMSCS to Work for the Man. Build Something.",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w7dq4m/dont_just_use_omscs_to_work_for_the_man_build/",
+   "published": "2026-09-04T19:09:22+00:00",
+   "excerpt": "Companies are already using AI to cut jobs and get more work out of fewer people. I think engineers should flip the table and use AI the same way, except to build our own stuff and compete with them. If you already have engineering experience plus actual domain knowledge, AI gives you a ridiculous amount of leverage to build products with smaller teams and potentially undercut companies that used to need way more people and money to do the same thing. Obviously it’s still an uphill battle because they have funding, customers, connections, and distribution, but the barrier to building something real is getting lower. Georgia Tech gives us a pretty damn good technical foundation. Don’t just go",
+   "author": "/u/SnooConfections1353",
+   "source": "Reddit r/OMSCS",
+   "id": "e77a7261d007",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Are books mandatory to study for OMSCS?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w7t8yb/are_books_mandatory_to_study_for_omscs/",
+   "published": "2026-09-05T06:49:48+00:00",
+   "excerpt": "Hello, I am new to this group and have enrolled for Spring 2027 batch. I wanted to know from the seniors and alumnus here if books are equally mandatory to be bought and studied to cope up with course exams. Don’t GATECH provide study materials for online study? How do you guys prepare for the exams and from where did you get the course materials to prepare for exams and tests? submitted by /u/somik1987 [link] [留言]",
+   "author": "/u/somik1987",
+   "source": "Reddit r/OMSCS",
+   "id": "d16b8451c561",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "You Should Not Do This Program If You're Looking For Work",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w70f68/you_should_not_do_this_program_if_youre_looking/",
+   "published": "2026-09-04T10:21:05+00:00",
+   "excerpt": "If you're doing this program for fun and learn, that's fine. But if you're one of the many students that are simply doing this for employment opportunity, I have a tough message of reality for you. Seeing whole teams get laid off at mag7, and entirely exported to India for the past few years. It ramped up very hard this year. Currently getting 4 month contract offers for $20 to train your AI replacement as the norm now. What the news isn't talking about at all, is that all the layoffs in all the FAANG companies are immediately replaced by India. The demand for labor actually increases when you get more productivity from AI. But, companies realized they can save 4-5x more on labor by exportin",
+   "author": "/u/AspyAsparagus",
+   "source": "Reddit r/OMSCS",
+   "id": "c403db34a41f",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "School bill, Bursar didnt respond",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w65hle/school_bill_bursar_didnt_respond/",
+   "published": "2026-09-03T12:05:37+00:00",
+   "excerpt": "Hi all, i took fin aid loan for my OMSCS but got a bill for $1425 I sent a message weeks ago to Bursar got no response and yesterday got an email that my classes are canceled for non payment!?! submitted by /u/Insomniac24x7 [link] [留言]",
+   "author": "/u/Insomniac24x7",
+   "source": "Reddit r/OMSCS",
+   "id": "d8190df1ea15",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Flywire processed past the deadline and now I have to pay reinstatement fee",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w64tuf/flywire_processed_past_the_deadline_and_now_i/",
+   "published": "2026-09-03T11:34:36+00:00",
+   "excerpt": "Hello everyone, I'm a international student. This is my 4th class. I paid my Fall 26 tuition through Flywire on 1:08pm August 28, eastern time (deadline is 31 August 4PM ET). However, Flywire didn't process my payment until just an hour ago. I believe this is due to my country having a long holiday and the payment happened in the weekend. Now my access to the course on canvas is not available, edstem still works though. I also check on bursar and apparently I have to make another $200 reinstatement fee to continue. Has anybody faced the same issue? I already contacted with the bursar and GT advisor. Is there anyway I can continue my class without paying the reinstatement fee? submitted by /u",
+   "author": "/u/DarkDiablo1601",
+   "source": "Reddit r/OMSCS",
+   "id": "443e15f729f9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Intro to Research Post Grad Curiosity?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w50h4s/intro_to_research_post_grad_curiosity/",
+   "published": "2026-09-02T04:50:13+00:00",
+   "excerpt": "Officially got out this past May! I didn't take the class for Intro to Research, but strong regretting it and curious if it's a worthwhile course? Thinking about possibility of doing the course next semester or is the value not really there and if I'm interested in Research I should just jump onboard for a research project of interest? submitted by /u/Peppington [link] [留言]",
+   "author": "/u/Peppington",
+   "source": "Reddit r/OMSCS",
+   "id": "7089185a6da0",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Will I get refunded for withdrawal before payment deadline?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w4jjla/will_i_get_refunded_for_withdrawal_before_payment/",
+   "published": "2026-09-01T17:55:47+00:00",
+   "excerpt": "Welp, looks like I made a very expensive and very dumb mistake. This is my first year in OMSCS. I was excited to see if I can take a seminar with a course. I registered the seminar when they were added, but it seemed to me that I would not have time to juggle seminar readings with the course I am taking and a full time job. So, I withdrew from the seminar a couple of days ago (before payment deadline) naively thinking that it would be dropping from my payment as well. I already paid for the course before even registering for the seminar, but only had the Seminar payment due. What made up my mind about dropping the seminar was seeing the cost. For a 1 credit seminar, it would cost more than h",
+   "author": "/u/Ok_Land_130",
+   "source": "Reddit r/OMSCS",
+   "id": "0a47203d25bc",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Need advice whether to continue.",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w42r15/need_advice_whether_to_continue/",
+   "published": "2026-09-01T05:33:23+00:00",
+   "excerpt": "Hi All, I've already paid for the fall semester and will continue to work it out. I've been out of school for around ~4 years now and I don't know if I'm ready to stick out another 4 for a masters degree. I originally enrolled because I was stuck in a dead end job outside of tech and since I was literally being paid to do nothing, I could do this while I worked. Well, somehow (a year later), I managed to find work at a large tech company and I'm concerned this might interfere with my performance at my new job. I have the role I wanted and it seems like I'm now in a position to prove my efforts through work rather than additional schooling. On the flip side however I have the opportunity of b",
+   "author": "/u/ratorobato",
+   "source": "Reddit r/OMSCS",
+   "id": "9b3360037fd5",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Third party vouchers showing up differently in the payment portal",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w3xvbo/third_party_vouchers_showing_up_differently_in/",
+   "published": "2026-09-01T01:37:28+00:00",
+   "excerpt": "Do third party vouchers show as estimated financial aid for anyone else on the payment portal? In the past they just showed up as payments for me. submitted by /u/mrbrown4001 [link] [留言]",
+   "author": "/u/mrbrown4001",
+   "source": "Reddit r/OMSCS",
+   "id": "065fe6bbc01f",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Fall 2026: Withdraw a class after registration closed and before a payment deadline",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w32gy1/fall_2026_withdraw_a_class_after_registration/",
+   "published": "2026-08-31T03:48:56+00:00",
+   "excerpt": "I've been digging around to find the answer for my situation but I can't find anything. Something came up, and I was afraid of taking two classes this semester (one is a very hard class) wouldn't work out the best for me. Therefore, I did the option \"Course Drop by Student\" on registration page, which resulted in \"W\" grade for both course for me. By the time I withdrawn, I was eligible for 95% partial refund according to Fall 2026 Refund Calendar . I also haven't paid the tuition fee yet, which still shows the same amount as before when I enrolled two classes. So my questions are: 1/ Do I have to pay first and wait for the refund from the program later? If so, how long should I expect to get",
+   "author": "/u/QuoteNumerous2519",
+   "source": "Reddit r/OMSCS",
+   "id": "81d3989ff631",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Are the registrar phones down?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w3ot7k/are_the_registrar_phones_down/",
+   "published": "2026-08-31T19:50:39+00:00",
+   "excerpt": "I know we're supposed to reach out by email but I've been trying to get ahold of the registrar by phone several times in the last few weeks and it almost always goes to voicemail or just gets ignored. My phone is working fine and I'd be shocked to find out that GT is just not picking up calls. submitted by /u/No-Currency2572 [link] [留言]",
+   "author": "/u/No-Currency2572",
+   "source": "Reddit r/OMSCS",
+   "id": "2570ede472d5",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Anyone or Any community in Tokyo?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w28rty/anyone_or_any_community_in_tokyo/",
+   "published": "2026-08-30T05:31:44+00:00",
+   "excerpt": "I was fortunate enough to be accepted into OMSCS last week, and I'm super excited to start. I'm also looking to connect with other classmates living in Japan to share info and study together. If you know that there are any local student groups or chats (like Line), please let me know. Please feel free to comment or DM me. Looking forward to studying with you all! submitted by /u/Norinori100 [link] [留言]",
+   "author": "/u/Norinori100",
+   "source": "Reddit r/OMSCS",
+   "id": "0f26af3d7fd1",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Is the coursework for ML4T out of date?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w0wtku/is_the_coursework_for_ml4t_out_of_date/",
+   "published": "2026-08-28T17:22:18+00:00",
+   "excerpt": "I just started OMSCS this semester, and the Python Pandas review in week 1 already seems outdated. We are already being told to use deprecated Pandas functions like .ix instead of .iloc. Idk, I am just worried that so much of the information will not be very relevant to the workforce? Many of the Python files are supposed to have quizzes, but they are already filled in. There are also Python 2 files of everything, which haven't been relevant since around 2018. Does anyone have some insight on this? submitted by /u/ServeAggravating4500 [link] [留言]",
+   "author": "/u/ServeAggravating4500",
+   "source": "Reddit r/OMSCS",
+   "id": "b11efd738da9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Cannot make a payment (MFA Issue)",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w0hkj9/cannot_make_a_payment_mfa_issue/",
+   "published": "2026-08-28T05:23:08+00:00",
+   "excerpt": "Has anyone going through the same MFA issue. I have tried everything and I don't even live in US so I don't know how i can call Bursar to get it resolved. https://preview.redd.it/ag57zfvaw1mh1.png?width=1794&format=png&auto=webp&s=d5a524bd40210170320f970a092d779a58fbdba8 Edit: I emailed them and they removed the previous MFA setup. Honestly, this is the first time I got a reply and super fast. submitted by /u/Annual_Throat9612 [link] [留言]",
+   "author": "/u/Annual_Throat9612",
+   "source": "Reddit r/OMSCS",
+   "id": "091926becd2c",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Switch from Mechanical Engineering to SDE I at Amazon (1/2 finished with OMSCS)",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1vzwa69/switch_from_mechanical_engineering_to_sde_i_at/",
+   "published": "2026-08-27T14:55:59+00:00",
+   "excerpt": "Hello all, I am sharing my journey through the OMSCS program and transitioning from a mechanical engineer to SDE I. I started OMSCS in Fall 2024 and I just finished my 5th course (GPU HW and SW). Semester Breakdown * Fall 2024 - Graduate Introduction to Operating Systems * \\----- * Spring 2025 - DB Systems * Summer 2025 - Computer Networks * Fall 2025 - Took the semester off * \\----- * Spring 2026 - System Analysis and Testing * Summer 2026 - GPU HW and SW * Fall 2026 - Taking this semester off I applied to the OMSCS program after being laid off from a biotech company in 2023. I had joined this biotech company only 4 months before being laid off - I was a “support” software engineer hired to",
+   "author": "/u/Spiritual_State5037",
+   "source": "Reddit r/OMSCS",
+   "id": "8a7f979499ab",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Couldn't Enroll in Fall 2025",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w0ftoz/couldnt_enroll_in_fall_2025/",
+   "published": "2026-08-28T03:51:32+00:00",
+   "excerpt": "I enrolled in Fall 2025 but due to life stuff with family passing I wasn't able to take my first course. Life has started to stabilize and want to come back. Will I need to reapply and for Fall 2027? I didn't realize deadline is over for Fall 2026 :( Wondering if anyone else has dealt with a similar situation. submitted by /u/GolangOverC [link] [留言]",
+   "author": "/u/GolangOverC",
+   "source": "Reddit r/OMSCS",
+   "id": "418aedf388fd",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Am I going to be able to balance work with OMSCS based on my past performance?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w06dxi/am_i_going_to_be_able_to_balance_work_with_omscs/",
+   "published": "2026-08-27T21:01:06+00:00",
+   "excerpt": "I am 5 classes into the program. I tried taking 2 classes a semester prior to the summer while I wasn’t working, to finish faster and it hasn’t worked out. I got a C in HPCA due to procrastination and the large amount of material. I took IIS and I’m ngl I didnt do too well and got a C. The other two classes I got Bs in. The class I finished over the summer was ICS and I got an A. Im signed up for relatively lighter class this fall but I’m wondering about my future in the program. I’m really worried about GA because everyone says it sucks. I’m working fulltime now but I want to take GIOS, AOS, CN, and GA (have to), as my last 4 classes. How F’ed do you think I am? I’m opening myself up here s",
+   "author": "/u/Convillious",
+   "source": "Reddit r/OMSCS",
+   "id": "d9815c91b7f6",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Denver OMSCS Meetup — Looking to Find or Start a Local Group!",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w06opv/denver_omscs_meetup_looking_to_find_or_start_a/",
+   "published": "2026-08-27T21:12:28+00:00",
+   "excerpt": "Hi everyone! Are there any OMSCS students in the Denver area interested in meeting up? I’ve been looking for an active local group but haven’t been able to find one. It would be great to connect with other students for coffee, studying, networking, or simply sharing the OMSCS experience. If there isn’t already an active Denver meetup group, I’d be happy to help organize the first meetup. If you’re in the Denver area and interested, please comment below or send me a message. Let’s see if we can find—or get—a local OMSCS group started! Thanks! submitted by /u/Majestic_Heart_6087 [link] [留言]",
+   "author": "/u/Majestic_Heart_6087",
+   "source": "Reddit r/OMSCS",
+   "id": "9601235b5f97",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "Buzzcards for international students... where can I find the interest form?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w04qu9/buzzcards_for_international_students_where_can_i/",
+   "published": "2026-08-27T20:01:14+00:00",
+   "excerpt": "Hi all, OMSCS freshmen here. I saw on the Buzzcards website there was this announcement: International Students: The BuzzCard interest form opens on August 1, 2026. You may submit a request by filling out the form and once approved, cards will be shipped in Mid-October 2026. Any idea where that form is? Basically, what do I need to do so I meet the shipping deadline? submitted by /u/DieLyn [link] [留言]",
+   "author": "/u/DieLyn",
+   "source": "Reddit r/OMSCS",
+   "id": "ffdafe0039b4",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
    "title": "Pivoters into SDE from other fields",
    "url": "https://www.reddit.com/r/OMSCS/comments/1w2h92v/pivoters_into_sde_from_other_fields/",
    "published": "2026-08-30T13:13:44+00:00",
    "excerpt": "Hi All. I’ve got a simple one: How are people intending to make a pivot into SDE making a decision around it? I am a mechanical engineer (early 30s), intending to continue into product management (I have been in product since the last 4.5 years), however, I don’t want to close off technical pathways and wondering what pivoters’ thought process is. Some considerations I’d be thinking of: 1. The overall SDE job market with huge AI impact on entry level roles 2. Tier (junior, mid, senior level) of roles you’re considering 3. Potential industries you’re planning to target 4. Is pivot based purely on interest? Thanks for all your inputs! submitted by /u/SpecialPreference447 [link] [留言]",
    "author": "/u/SpecialPreference447",
-   "source": "Reddit r/OMSCS 錄取討論",
+   "source": "Reddit r/OMSCS",
    "id": "333329220cb7",
    "admission_signal": true,
    "keyword_hits": [
     "decision"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:24:44.392890+08:00"
   },
   {
@@ -79,6 +330,8 @@
     "decision"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:24:44.392890+08:00"
   },
   {
@@ -92,6 +345,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:24:44.392890+08:00"
   },
   {
@@ -105,6 +360,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:24:44.392890+08:00"
   },
   {
@@ -118,6 +375,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:24:44.392890+08:00"
   },
   {
@@ -133,6 +392,8 @@
     "decision"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:24:44.392890+08:00"
   },
   {
@@ -146,6 +407,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:24:44.392890+08:00"
   },
   {
@@ -161,6 +424,8 @@
     "decision"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:24:44.392890+08:00"
   },
   {
@@ -174,6 +439,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:24:44.392890+08:00"
   },
   {
@@ -189,6 +456,8 @@
     "decision"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:24:44.392890+08:00"
   },
   {
@@ -202,7 +471,44 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:24:44.392890+08:00"
+  },
+  {
+   "title": "Admissions Megathread - Results, Chances and Logistics",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5w/admissions_megathread_results_chances_and/",
+   "published": "2026-06-29T05:01:56+00:00",
+   "excerpt": "📌OMSCS Admissions Megathread This is the Admissions Megathread of the GaTech's O nline M asters of S cience in C omputer S cience! We design this as a one-stop page for the following things that you might have in your head. Admissions Overview / Admissions FAQs Preparing Yourself for OMSCS CS 1301: Introduction to Programming (in Python) CS 1331: Object Oriented Programming (in Java) CS 1332: Data Structures & Algorithms CSE 6040: Computing for Data Analysis (if you're transferring from r/OMSA ) Additional Application Guidelines (to strengthen your chances) Applications URL (oh damn finally!) Deadline for Fall is fixed at March 1st. Deadline for Spring is fixed at August 15th. There are no S",
+   "author": "/u/AutoModerator",
+   "source": "Reddit r/OMSCS",
+   "id": "6dad5c6b59c9",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admission",
+    "application"
+   ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:20:16.080232+08:00"
+  },
+  {
+   "title": "Course & Specs Megathread - Selection, Choices & Registration",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5j/course_specs_megathread_selection_choices/",
+   "published": "2026-06-29T05:01:55+00:00",
+   "excerpt": "📌Specializations & Courses Megathread - Selection & Registration Welcome to the Specialization & Course Megathread for OMSCS! Now that you've {just been accepted / been here for a bit / been here for awhile}*, this thread is designed to help you navigate the various specializations offered and assist with selecting the right courses for your academic and career goals. (\\ delete as appropriate)* Please read through the information provided below before posting your questions. 📚 Available Specializations Machine Learning Interactive Intelligence Computing Systems Computer Graphics Computational Perception and Robotics Human-Computer Interaction Courses that are not linked in the official websi",
+   "author": "/u/Detective-Raichu",
+   "source": "Reddit r/OMSCS",
+   "id": "288826cfaae5",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted"
+   ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:20:16.080232+08:00"
   },
   {
    "title": "Very Disappointing Application Process for International Students",
@@ -210,7 +516,7 @@
    "published": "2026-09-01T17:24:02+00:00",
    "excerpt": "Hello, I applied to this program for Fall 2026 and got my letter of acceptance on April 3rd, and then, for more than 10 weeks, my application was under institutional review. In early July, they said I was missing some documents. They asked for documents that I did not even have. I had to call that U.S. number at least 20 times, and often I was not able to get answers about what exactly I should translate from my undergraduate transcript, my degree, etc. I hold a French bachelor's degree (3 years, 180 ECTS). But in the end, they told me by email that I was not eligible since I only have a French bachelor's degree and I need a master's degree to apply for the OMSCS . It does not make any sense",
    "author": "/u/CulturalEngine169",
-   "source": "Reddit r/OMSCS 錄取討論",
+   "source": "Reddit r/OMSCS",
    "id": "d5d24d040886",
    "admission_signal": true,
    "keyword_hits": [
@@ -227,7 +533,7 @@
    "published": "2026-08-30T08:30:10+00:00",
    "excerpt": "Hey guys, I recently got admitted into OMSCS (joining in fall 2027). I want to join a research project and hopefully get some papers published. I was looking through buzzme to get an idea about what kinds of projects people work on, and I am unable to find any research projects to join. It just says no research projects. Any idea what's happening? submitted by /u/Old_Intention7499 [link] [留言]",
    "author": "/u/Old_Intention7499",
-   "source": "Reddit r/OMSCS 錄取討論",
+   "source": "Reddit r/OMSCS",
    "id": "0c3762dd1671",
    "admission_signal": true,
    "keyword_hits": [
@@ -244,7 +550,7 @@
    "published": "2026-08-27T17:43:00+00:00",
    "excerpt": "Does anyone in Atlanta know if we have access to the graduate student lounge in the library? I want to use it to study when I’m there but don’t want to embarrass myself by getting rejected when I try to scan in 💀 submitted by /u/Dolphinpop [link] [留言]",
    "author": "/u/Dolphinpop",
-   "source": "Reddit r/OMSCS 錄取討論",
+   "source": "Reddit r/OMSCS",
    "id": "2144cfb4c8f5",
    "admission_signal": true,
    "keyword_hits": [
@@ -399,41 +705,6 @@
     "admitted",
     "accepted",
     "admission"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:20:16.080232+08:00"
-  },
-  {
-   "title": "Admissions Megathread - Results, Chances and Logistics",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5w/admissions_megathread_results_chances_and/",
-   "published": "2026-06-29T05:01:56+00:00",
-   "excerpt": "📌OMSCS Admissions Megathread This is the Admissions Megathread of the GaTech's O nline M asters of S cience in C omputer S cience! We design this as a one-stop page for the following things that you might have in your head. Admissions Overview / Admissions FAQs Preparing Yourself for OMSCS CS 1301: Introduction to Programming (in Python) CS 1331: Object Oriented Programming (in Java) CS 1332: Data Structures & Algorithms CSE 6040: Computing for Data Analysis (if you're transferring from r/OMSA ) Additional Application Guidelines (to strengthen your chances) Applications URL (oh damn finally!) Deadline for Fall is fixed at March 1st. Deadline for Spring is fixed at August 15th. There are no S",
-   "author": "/u/AutoModerator",
-   "source": "Reddit r/OMSCS 錄取討論",
-   "id": "6dad5c6b59c9",
-   "admission_signal": true,
-   "keyword_hits": [
-    "admission",
-    "application"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:20:16.080232+08:00"
-  },
-  {
-   "title": "Course & Specs Megathread - Selection, Choices & Registration",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5j/course_specs_megathread_selection_choices/",
-   "published": "2026-06-29T05:01:55+00:00",
-   "excerpt": "📌Specializations & Courses Megathread - Selection & Registration Welcome to the Specialization & Course Megathread for OMSCS! Now that you've {just been accepted / been here for a bit / been here for awhile}*, this thread is designed to help you navigate the various specializations offered and assist with selecting the right courses for your academic and career goals. (\\ delete as appropriate)* Please read through the information provided below before posting your questions. 📚 Available Specializations Machine Learning Interactive Intelligence Computing Systems Computer Graphics Computational Perception and Robotics Human-Computer Interaction Courses that are not linked in the official websi",
-   "author": "/u/Detective-Raichu",
-   "source": "Reddit r/OMSCS 錄取討論",
-   "id": "288826cfaae5",
-   "admission_signal": true,
-   "keyword_hits": [
-    "accepted"
    ],
    "relevance": null,
    "summary": null,
@@ -649,13 +920,28 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - medium.datadriveninvestor.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
-   "published": "2024-08-25T07:00:00+00:00",
-   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming medium.datadriveninvestor.com",
+   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - medium.datadriveninvestor.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
+   "published": "2023-05-03T07:00:00+00:00",
+   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal medium.datadriveninvestor.com",
    "author": null,
    "source": "Google News",
-   "id": "0236a502b4bf",
+   "id": "54defa3e479c",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
+   "published": "2022-05-07T07:00:00+00:00",
+   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
+   "author": null,
+   "source": "Google News",
+   "id": "29987ae51976",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -679,13 +965,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - medium.datadriveninvestor.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
-   "published": "2023-05-03T07:00:00+00:00",
-   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal medium.datadriveninvestor.com",
+   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - medium.datadriveninvestor.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
+   "published": "2024-08-25T07:00:00+00:00",
+   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming medium.datadriveninvestor.com",
    "author": null,
    "source": "Google News",
-   "id": "54defa3e479c",
+   "id": "0236a502b4bf",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -709,13 +995,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - news.gatech.edu",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
-   "published": "2025-01-27T08:00:00+00:00",
-   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia news.gatech.edu",
+   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
+   "published": "2025-02-28T08:00:00+00:00",
+   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
    "author": null,
    "source": "Google News",
-   "id": "3fe0c49fd522",
+   "id": "11f8714f6e18",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -731,6 +1017,21 @@
    "author": null,
    "source": "Google News",
    "id": "43f2eafe3c1d",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - news.gatech.edu",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
+   "published": "2025-01-27T08:00:00+00:00",
+   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia news.gatech.edu",
+   "author": null,
+   "source": "Google News",
+   "id": "3fe0c49fd522",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1148,20 +1449,6 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Seeking Third Technical Cofounder",
-   "url": "https://news.ycombinator.com/item?id=48682086",
-   "published": "2026-06-26T03:39:51Z",
-   "excerpt": "We are seeking a third technical cofounder to help us build our company: - https:&#x2F;&#x2F;coffeechats.me&#x2F;<p>Equal equity splits. Prior big tech&#x2F;fast-growing startup experience strongly preferred.<p>The founding team consists of: - An MBA (Dartmouth), MSCS (UT Austin) graduate with prior 0 to 1 successes. - An MSCS (Dartmouth) graduate.",
-   "source": "Hacker News",
-   "id": "5ce7c7618b10",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
    "title": "Multi-omics and palynology of selected Philippine forest honey",
    "url": "https://www.nature.com/articles/s41598-024-71385-4",
    "published": "2026-06-05T13:35:07Z",
@@ -1388,28 +1675,12 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
-   "published": "2022-05-07T07:00:00+00:00",
-   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
-   "author": null,
-   "source": "Google News",
-   "id": "29987ae51976",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
-   "published": "2025-02-28T08:00:00+00:00",
-   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "11f8714f6e18",
+   "title": "Seeking Third Technical Cofounder",
+   "url": "https://news.ycombinator.com/item?id=48682086",
+   "published": "2026-06-26T03:39:51Z",
+   "excerpt": "We are seeking a third technical cofounder to help us build our company: - https:&#x2F;&#x2F;coffeechats.me&#x2F;<p>Equal equity splits. Prior big tech&#x2F;fast-growing startup experience strongly preferred.<p>The founding team consists of: - An MBA (Dartmouth), MSCS (UT Austin) graduate with prior 0 to 1 successes. - An MSCS (Dartmouth) graduate.",
+   "source": "Hacker News",
+   "id": "5ce7c7618b10",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

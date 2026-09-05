@@ -1,0 +1,15 @@
+{
+ "entries": [
+  {
+   "date": "2026-09-05",
+   "problems": [
+    "1. Two Sum (Easy)",
+    "146. LRU Cache (Medium) — 卡在 O(1) 刪除",
+    "42. Trapping Rain Water"
+   ],
+   "note": "two pointer 還是不熟",
+   "issue": 7
+  }
+ ],
+ "updated_at": "2026-09-05T21:17:18.212024+08:00"
+}

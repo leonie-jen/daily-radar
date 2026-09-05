@@ -1,0 +1,139 @@
+/* 手機優先。桌機只是把卡片排成多欄，版面邏輯完全一樣。 */
+:root {
+  --bg: #f6f7f9;
+  --card: #ffffff;
+  --line: #e3e6ea;
+  --text: #1a1d21;
+  --dim: #6b7280;
+  --accent: #2563eb;
+  --up: #d92d20;      /* 台股習慣：紅漲綠跌 */
+  --down: #0f9d58;
+  --warn: #b45309;
+  --new: #7c3aed;
+  --radius: 14px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1115; --card: #171a20; --line: #262b33;
+    --text: #e7e9ee; --dim: #9099a8; --accent: #6ea8fe;
+    --up: #ff6b6b; --down: #35c48c; --warn: #f3b341; --new: #a78bfa;
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--text);
+  font: 15px/1.6 -apple-system, "Noto Sans TC", "PingFang TC", "Segoe UI", system-ui, sans-serif;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+a { color: inherit; text-decoration: none; }
+.wrap { max-width: 900px; margin: 0 auto; padding: 0 14px; }
+
+/* ---------- header ---------- */
+.top { background: var(--card); border-bottom: 1px solid var(--line); padding: 14px 0 10px; }
+.title-row { display: flex; align-items: center; justify-content: space-between; }
+h1 { font-size: 19px; margin: 0; letter-spacing: .3px; }
+.updated { margin: 4px 0 0; font-size: 12px; color: var(--dim); }
+.ghost {
+  background: none; border: 1px solid var(--line); color: var(--dim);
+  border-radius: 8px; width: 34px; height: 34px; font-size: 16px; cursor: pointer;
+}
+.ghost:active { background: var(--bg); }
+
+/* ---------- tabs：手機上橫向捲動 ---------- */
+.tabs {
+  position: sticky; top: 0; z-index: 10;
+  background: var(--card); border-bottom: 1px solid var(--line);
+}
+.tabs-inner {
+  display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+.tabs-inner::-webkit-scrollbar { display: none; }
+.tabs button {
+  flex: 0 0 auto; background: none; border: 0; padding: 12px 12px 10px;
+  color: var(--dim); font-size: 14px; font-weight: 600; cursor: pointer;
+  border-bottom: 2px solid transparent; white-space: nowrap;
+}
+.tabs button.on { color: var(--accent); border-bottom-color: var(--accent); }
+
+/* ---------- 版面 ---------- */
+main { padding-top: 14px; padding-bottom: 40px; }
+.tab { display: none; }
+.tab.on { display: block; }
+.sec-h { font-size: 14px; color: var(--dim); margin: 22px 0 10px; font-weight: 600; }
+
+.grid { display: grid; grid-template-columns: 1fr; gap: 10px; }
+@media (min-width: 620px) { .grid { grid-template-columns: 1fr 1fr; } }
+
+.card {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: var(--radius); padding: 14px;
+}
+.card .k { font-size: 12px; color: var(--dim); margin-bottom: 6px; }
+.card .v { font-size: 26px; font-weight: 700; letter-spacing: -.5px; }
+.card .sub { font-size: 12px; color: var(--dim); margin-top: 4px; }
+
+/* ---------- 條目列表 ---------- */
+.list { display: flex; flex-direction: column; gap: 8px; }
+.item {
+  display: block; background: var(--card); border: 1px solid var(--line);
+  border-radius: var(--radius); padding: 12px 14px;
+}
+.item:active { border-color: var(--accent); }
+.item h3 { margin: 0 0 5px; font-size: 15px; font-weight: 600; line-height: 1.45; }
+.item p { margin: 6px 0 0; font-size: 13.5px; color: var(--dim); line-height: 1.6; }
+.meta { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 11.5px; color: var(--dim); }
+.badge {
+  border: 1px solid var(--line); border-radius: 999px; padding: 1px 7px;
+  font-size: 11px; color: var(--dim); white-space: nowrap;
+}
+.badge.new    { color: var(--new);   border-color: currentColor; font-weight: 700; }
+.badge.hot    { color: var(--warn);  border-color: currentColor; font-weight: 700; }
+.badge.tag    { color: var(--accent); border-color: currentColor; }
+.badge.lock   { color: var(--dim); }
+
+.filters { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 12px; scrollbar-width: none; }
+.filters::-webkit-scrollbar { display: none; }
+.chip {
+  flex: 0 0 auto; background: var(--card); border: 1px solid var(--line);
+  color: var(--dim); border-radius: 999px; padding: 6px 13px; font-size: 13px; cursor: pointer;
+}
+.chip.on { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+/* ---------- 股市 ---------- */
+.quotes { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+@media (min-width: 620px) { .quotes { grid-template-columns: repeat(3, 1fr); } }
+.quote { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px; }
+.quote .n { font-size: 12px; color: var(--dim); }
+.quote .p { font-size: 19px; font-weight: 700; margin-top: 3px; }
+.quote .c { font-size: 12.5px; font-weight: 600; margin-top: 2px; }
+.up { color: var(--up); } .down { color: var(--down); } .flat { color: var(--dim); }
+
+.spark { display: block; width: 100%; height: 42px; margin-top: 10px; }
+
+/* ---------- 商品 ---------- */
+.price-row { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
+.price-now { font-size: 22px; font-weight: 700; }
+.deal { color: var(--down); }
+.stale { opacity: .55; }
+
+/* ---------- 刷題 ---------- */
+.bar { height: 9px; background: var(--line); border-radius: 999px; overflow: hidden; margin: 10px 0 6px; }
+.bar > i { display: block; height: 100%; background: var(--accent); }
+.log-row { display: flex; justify-content: space-between; gap: 10px; padding: 9px 0; border-bottom: 1px solid var(--line); font-size: 14px; }
+.log-row:last-child { border-bottom: 0; }
+.btn {
+  display: inline-block; background: var(--accent); color: #fff; border: 0;
+  border-radius: 10px; padding: 11px 16px; font-size: 14px; font-weight: 600; margin-top: 12px;
+}
+
+/* ---------- 狀態 ---------- */
+.status { margin-top: 28px; font-size: 13px; color: var(--dim); }
+.status summary { cursor: pointer; padding: 10px 0; }
+.status-line { display: flex; justify-content: space-between; gap: 10px; padding: 6px 0; border-bottom: 1px solid var(--line); }
+.dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-left: 4px; }
+.dot.ok { background: var(--down); } .dot.bad { background: var(--up); }
+
+.empty { color: var(--dim); font-size: 14px; padding: 24px 4px; text-align: center; }

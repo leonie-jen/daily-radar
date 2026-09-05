@@ -1,0 +1,155 @@
+{
+ "updated_at": "2026-09-05T21:25:57.897612+08:00",
+ "sources": [
+  {
+   "name": "電子鋼琴 DP200（88 鍵重鎚）",
+   "ok": true,
+   "count": 1,
+   "note": ""
+  },
+  {
+   "name": "Bora BX-20 折疊電鋼琴",
+   "ok": true,
+   "count": 1,
+   "note": ""
+  },
+  {
+   "name": "決勝領思 5500 單字",
+   "ok": false,
+   "count": 0,
+   "note": "抓不到價格（可能被反爬擋，或網址失效）"
+  }
+ ],
+ "items": [
+  {
+   "id": "0cd185412b5c",
+   "title": "電子鋼琴 DP200（88 鍵重鎚）",
+   "detected_title": "冬季新品！88鍵重鎚力道電鋼琴！純白琴蓋設計，非電子琴音色 DP200(不含椅子)",
+   "url": "https://24h.pchome.com.tw/prod/QBAD09-A9009MEOM",
+   "source": "24h.pchome.com.tw",
+   "currency": "TWD",
+   "price": 13800.0,
+   "ok": true,
+   "prev_price": null,
+   "change": null,
+   "lowest": 13800.0,
+   "highest": 13800.0,
+   "is_lowest_ever": true,
+   "target_price": 12000,
+   "hit_target": false,
+   "history": [
+    {
+     "d": "2026-09-05",
+     "v": 13800.0
+    }
+   ],
+   "checked_at": "2026-09-05T21:25:56.876124+08:00",
+   "summary": null,
+   "tags": null,
+   "relevance": null,
+   "first_seen": "2026-09-05T21:19:38.127108+08:00"
+  },
+  {
+   "id": "c67f886722b7",
+   "title": "Bora BX-20 折疊電鋼琴",
+   "detected_title": "【Bora】BX-20無線藍牙法國DREAM音源力度鍵盤88鍵折疊式電鋼琴(數位電鋼 重力 重錘 折疊電鋼 無線藍牙連接) - momo購物網 - 好評推薦 -2026年9月",
+   "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=9442657",
+   "source": "www.momoshop.com.tw",
+   "currency": "TWD",
+   "price": 3336.0,
+   "ok": true,
+   "prev_price": null,
+   "change": null,
+   "lowest": 3336.0,
+   "highest": 3336.0,
+   "is_lowest_ever": true,
+   "target_price": 3000,
+   "hit_target": false,
+   "history": [
+    {
+     "d": "2026-09-05",
+     "v": 3336.0
+    }
+   ],
+   "checked_at": "2026-09-05T21:25:57.836028+08:00",
+   "summary": null,
+   "tags": null,
+   "relevance": null,
+   "first_seen": "2026-09-05T21:19:38.127108+08:00"
+  },
+  {
+   "id": "b061d00be95e",
+   "title": "決勝領思 5500 單字",
+   "detected_title": "",
+   "url": "https://www.books.com.tw/products/0010948943",
+   "source": "www.books.com.tw",
+   "currency": "TWD",
+   "price": null,
+   "ok": false,
+   "prev_price": null,
+   "change": null,
+   "lowest": 629.0,
+   "highest": 629.0,
+   "is_lowest_ever": false,
+   "target_price": 550,
+   "hit_target": false,
+   "history": [
+    {
+     "d": "2026-09-05",
+     "v": 629.0
+    }
+   ],
+   "checked_at": "2026-09-05T21:25:57.894245+08:00",
+   "summary": null,
+   "tags": null,
+   "relevance": null,
+   "first_seen": "2026-09-05T21:19:38.127108+08:00"
+  },
+  {
+   "id": "435629ae65ed",
+   "title": "彩色墊子書（範例，請換成真實網址）",
+   "detected_title": "",
+   "url": "https://www.books.com.tw/products/0010000000",
+   "source": "www.books.com.tw",
+   "currency": "TWD",
+   "price": null,
+   "ok": false,
+   "prev_price": null,
+   "change": null,
+   "lowest": null,
+   "highest": null,
+   "is_lowest_ever": false,
+   "target_price": 500,
+   "hit_target": false,
+   "history": [],
+   "checked_at": "2026-09-05T21:11:16.392115+08:00",
+   "summary": null,
+   "tags": null,
+   "relevance": null,
+   "first_seen": "2026-09-05T21:08:31.533264+08:00"
+  },
+  {
+   "id": "b330ed93a1c5",
+   "title": "電子鋼琴（範例，請換成真實網址）",
+   "detected_title": "",
+   "url": "https://24h.pchome.com.tw/prod/DYAOWJ-A900GB4X6",
+   "source": "24h.pchome.com.tw",
+   "currency": "TWD",
+   "price": null,
+   "ok": false,
+   "prev_price": null,
+   "change": null,
+   "lowest": null,
+   "highest": null,
+   "is_lowest_ever": false,
+   "target_price": 15000,
+   "hit_target": false,
+   "history": [],
+   "checked_at": "2026-09-05T21:11:25.788175+08:00",
+   "summary": null,
+   "tags": null,
+   "relevance": null,
+   "first_seen": "2026-09-05T21:08:31.533264+08:00"
+  }
+ ]
+}

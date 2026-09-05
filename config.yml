@@ -1,0 +1,119 @@
+# ============================================================
+# daily-radar 設定檔 — 你平常只需要改這個檔案
+# 改完 push 上去，隔天早上 GitHub Actions 就會照新設定抓
+# ============================================================
+
+ai:
+  # 有設 ANTHROPIC_API_KEY 才會啟用；沒有的話自動降級成純關鍵字過濾
+  enabled: true
+  model: claude-haiku-4-5      # 便宜的模型，每天約 NT$0.3~1
+  max_items_per_run: 40        # 每次最多送幾篇去摘要（成本上限）
+  language: 繁體中文
+
+# ------------------------------------------------------------
+# 1. GT OMSCS 情報
+# ------------------------------------------------------------
+omscs:
+  enabled: true
+  # 這些字出現在標題/內文時，會被標記為「錄取情報」高優先
+  admission_keywords:
+    - admitted
+    - accepted
+    - rejected
+    - denied
+    - decision
+    - admission
+    - acceptance rate
+    - profile
+    - waitlist
+    - application
+    - 錄取
+    - 被拒
+  extra_feeds: []   # 想加的 RSS 自己貼在這
+
+# ------------------------------------------------------------
+# 2. 美國學校 CPT / OPT / 簽證風向
+# ------------------------------------------------------------
+cpt:
+  enabled: true
+  queries:
+    - '"day 1 CPT"'
+    - '"CPT" SEVP university'
+    - 'F-1 visa CPT crackdown'
+    - 'OPT STEM extension rule'
+    - 'international student work authorization'
+
+# ------------------------------------------------------------
+# 3. 職缺 + 技術文章（自動化測試 / QA）
+# ------------------------------------------------------------
+jobs:
+  enabled: true
+  keywords:                    # 職缺關鍵字
+    - 自動化測試
+    - QA Engineer
+    - SDET
+    - Playwright
+  linkedin_keywords: "Test Automation"
+  linkedin_location: "Taiwan"
+  # 每天追蹤這些部落格的新文章（來自你 learning-cs/定期看/好部落格.md）
+  blog_feeds:
+    - https://www.hwchiu.com/rss.xml
+    - https://columns.chicken-house.net/feed.xml
+    - https://www.cnblogs.com/longronglang/rss
+  article_queries:             # 另外用 Google News 撈文章
+    - Playwright 自動化測試
+    - test automation best practices
+
+# ------------------------------------------------------------
+# 4. 匯率 + 股市
+# ------------------------------------------------------------
+finance:
+  enabled: true
+  # 匯率提醒：USD/TWD 低於這個數字就標紅（換美金的好時機）
+  usd_twd_alert_below: 30.5
+  # 想追蹤的指數 / 股票（Yahoo Finance 代號）
+  tickers:
+    - symbol: "^TWII"   # 台股加權
+      name: 台股加權指數
+    - symbol: "^GSPC"   # S&P 500
+      name: S&P 500
+    - symbol: "^IXIC"   # 那斯達克
+      name: 那斯達克
+    - symbol: "^SOX"    # 費半
+      name: 費城半導體
+    - symbol: "2330.TW"
+      name: 台積電
+    - symbol: "NVDA"
+      name: NVIDIA
+  # 哈利的投資研究筆記庫（每日台股/美股/加密貨幣 dashboard）
+  harrymemo:
+    enabled: true
+    sections: [us, tw, crypto]
+    days_back: 3
+
+# ------------------------------------------------------------
+# 5. 商品降價追蹤
+# ------------------------------------------------------------
+prices:
+  enabled: true
+  # target_price: 低於這個價格就在網站上標「該買了」
+  # 先放兩筆範例，換成你真正要追的網址就好
+  watch:
+    # 下面兩筆是可以跑的範例，換成你真正想追的網址即可
+    - name: 電子鋼琴 DP200（88 鍵重鎚）
+      url: https://24h.pchome.com.tw/prod/QBAD09-A9009MEOM
+      target_price: 12000
+    - name: Bora BX-20 折疊電鋼琴
+      url: https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=9442657
+      target_price: 3000
+    - name: 決勝領思 5500 單字
+      url: https://www.books.com.tw/products/0010948943
+      target_price: 550
+
+# ------------------------------------------------------------
+# 6. 刷題紀錄（手動）
+# ------------------------------------------------------------
+leetcode:
+  enabled: true
+  mode: manual                 # 用 GitHub Issue 表單記錄，手機也能填
+  weekly_goal: 10              # 一週目標題數，網站會顯示進度條

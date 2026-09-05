@@ -1,0 +1,31 @@
+name: 刷題紀錄
+description: 記錄今天刷了哪些題（手機也可以填，送出後會自動存進網站）
+title: "刷題紀錄"
+labels: ["leetcode"]
+body:
+  - type: input
+    id: date
+    attributes:
+      label: 日期
+      description: 留空就用今天（台北時間）
+      placeholder: 2026-09-05
+    validations:
+      required: false
+  - type: textarea
+    id: problems
+    attributes:
+      label: 題目
+      description: 一行一題。可以只寫題號、題名，或貼連結。
+      placeholder: |
+        1. Two Sum (Easy)
+        146. LRU Cache (Medium) — 卡在 O(1) 刪除，複習了 doubly linked list
+        https://leetcode.com/problems/trapping-rain-water/
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: 心得（選填）
+      placeholder: 今天發現自己 two pointer 還是不熟
+    validations:
+      required: false

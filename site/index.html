@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0f1115">
+<title>每日雷達</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <div class="title-row">
+      <h1>📡 每日雷達</h1>
+      <button id="refresh" class="ghost" title="重新載入資料">↻</button>
+    </div>
+    <p class="updated" id="updated">載入中…</p>
+  </div>
+</header>
+
+<nav class="tabs" id="tabs">
+  <div class="wrap tabs-inner">
+    <button data-tab="home" class="on">總覽</button>
+    <button data-tab="omscs">OMSCS</button>
+    <button data-tab="cpt">CPT 簽證</button>
+    <button data-tab="jobs">職缺 · 文章</button>
+    <button data-tab="finance">股市 · 匯率</button>
+    <button data-tab="prices">商品</button>
+    <button data-tab="leetcode">刷題</button>
+  </div>
+</nav>
+
+<main class="wrap">
+
+  <section id="tab-home" class="tab on">
+    <div class="grid" id="home-cards"></div>
+    <h2 class="sec-h">今天的新東西</h2>
+    <div id="home-new" class="list"></div>
+  </section>
+
+  <section id="tab-omscs" class="tab">
+    <div class="filters">
+      <button class="chip on" data-filter="all">全部</button>
+      <button class="chip" data-filter="admission">只看錄取情報</button>
+      <button class="chip" data-filter="new">只看新的</button>
+    </div>
+    <div id="omscs-list" class="list"></div>
+  </section>
+
+  <section id="tab-cpt" class="tab">
+    <div class="filters">
+      <button class="chip on" data-filter="all">全部</button>
+      <button class="chip" data-filter="policy">只看政策異動</button>
+      <button class="chip" data-filter="new">只看新的</button>
+    </div>
+    <div id="cpt-list" class="list"></div>
+  </section>
+
+  <section id="tab-jobs" class="tab">
+    <div class="filters">
+      <button class="chip on" data-filter="all">全部</button>
+      <button class="chip" data-filter="job">只看職缺</button>
+      <button class="chip" data-filter="article">只看文章</button>
+    </div>
+    <div id="jobs-list" class="list"></div>
+  </section>
+
+  <section id="tab-finance" class="tab">
+    <div id="fx-card"></div>
+    <h2 class="sec-h">指數與個股</h2>
+    <div id="quotes" class="quotes"></div>
+    <h2 class="sec-h">哈利的投資研究筆記庫</h2>
+    <div id="finance-list" class="list"></div>
+  </section>
+
+  <section id="tab-prices" class="tab">
+    <div id="prices-list" class="list"></div>
+  </section>
+
+  <section id="tab-leetcode" class="tab">
+    <div id="leetcode-panel"></div>
+  </section>
+
+  <details class="status">
+    <summary>資料來源狀態 <span id="status-dot"></span></summary>
+    <div id="status-body"></div>
+  </details>
+
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

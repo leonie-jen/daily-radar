@@ -1,0 +1,214 @@
+{
+ "updated_at": "2026-09-05T21:25:56.665618+08:00",
+ "sources": [
+  {
+   "name": "匯率 USD/TWD",
+   "ok": true,
+   "count": 1,
+   "note": ""
+  },
+  {
+   "name": "股價報價",
+   "ok": true,
+   "count": 1,
+   "note": "6 檔"
+  },
+  {
+   "name": "哈利的投資研究筆記庫",
+   "ok": true,
+   "count": 8,
+   "note": ""
+  }
+ ],
+ "items": [
+  {
+   "title": "[美股] 2026-09-05 美股盤後報告",
+   "url": "https://harrymemo.com/outputs/us/2026-09-05_US_Market_Dashboard",
+   "published": "2026-09-05",
+   "excerpt": "",
+   "market_section": "us",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "0cb0568006ee",
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:22.080983+08:00"
+  },
+  {
+   "title": "[美股] 2026-09-04 美股盤後報告",
+   "url": "https://harrymemo.com/outputs/us/2026-09-04_US_Market_Dashboard",
+   "published": "2026-09-04",
+   "excerpt": "",
+   "market_section": "us",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "f07f75a6745d",
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:22.080983+08:00"
+  },
+  {
+   "title": "[台股] 2026-09-04 台股盤後報告",
+   "url": "https://harrymemo.com/outputs/tw/2026-09-04_TW_Market_Dashboard",
+   "published": "2026-09-04",
+   "excerpt": "",
+   "market_section": "tw",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "e3295d01a577",
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:22.080983+08:00"
+  },
+  {
+   "title": "[美股] 2026/09/03 美股盤後：9 月開局連三黑後的「債息回落 × AI 基建定價日」——市場在賭 Dell/NVDA 驗證…",
+   "url": "https://harrymemo.com/outputs/us/2026-09-03_US_Market_Dashboard",
+   "published": "2026-09-03",
+   "excerpt": "2026/09/03 美股盤後：9 月開局連三黑後的「債息回落 × AI 基建定價日」——市場在賭 Dell/NVDA 驗證…｜哈利的投資研究筆記庫 ← 返回 報告列表 首頁 目錄 🤖 哈利小助理 📈 美股收盤指數 🏛️ 美股市值前十 🔭 技術雷達快覽 📰 產業敘事 🌡️ 產業熱力圖 📈 日漲幅資金主軸 📉 日跌幅資金主軸 📊 週漲跌幅前十 📊 月漲跌幅前十 🔥 產業熱度評等 🔭 短線關注 🔭 中期關注 🎲 情境與宏觀 📅 未來 2 週重點 🇹🇼 台美對照 📉 超跌雷達 📈 200 週突破 US Dashboard 報告：2026/09/03（台北）｜美股收盤：2026/09/02｜查詢：2026-09-03 06:33 台北 本日市場報告 技術線圖專區 🇺🇸 美股深度分析 Dashboard ⚠️ 本日盤後重點財報：Broadcom（ AVGO ）指引低於預期、Snowflake（ SNOW ）double beat；9/4 非農 NFP 為本週最大總經錨點 🤖 哈利小助理 · 今日精評 不專業分析師視野 · 統整盤勢與展望 中性偏多、控槓桿； 2330 台積電 / NVDA 鏈持有不加碼，ODM 等隔日 gap 定價，SaaS/資安減碼觀察，現金 12–18% 等 NFP 9 月開局連三黑後的「債息回落 × AI 基建定價日」——市場在賭 Dell/ NVDA 驗證 Capex 沒砍，而非 Fed 立刻鴿派轉向 總經背景 紐約 Fed Williams 指長端利率上升反映經濟強度而非通膨再起； 10Y 自前日高點回落至約 4.80%（^TNX）， VIX 15.20（ -7% ）代表避險降溫。 ADP 8 月私部僅增 3.8 萬，勞動降溫敘事與強經濟解讀並存——9/4 NFP 為下一錨。 WTI 約 $90.7 仍黏高位，再通膨尾部未除。 資金輪動 資金從 PANW / DDOG / SNOW / NOW 等高 Beta SaaS（週強後獲利了結）流出，湧入 DELL / NVDA / DE 的 AI 基建與 XLF / XLB 的週期/金融 beta。 XLK 持平但 NVDA +3.21% vs MSFT -0.84% ＝算力/平台分化，非全面科技 Risk-on。 DELL +15.81% 是前夜財報隔日定價，非新催化。 台美連動 DELL +15.81% + AI backlog $950 億 → 美股驗證 ODM/電源 Capex 沒砍 → 2382 廣達 、 6669 緯穎 、 2308 台達電 隔日情緒正面但勿追第三根。 NVDA +3.21% + Jensen G20 基建承諾 → 2330 台積電 算力代工敘事支撐。 AVGO 盤後 Q4 指引 miss（$34.8B vs 估 $35B）→ 3661 世芯-KY / 2330 台積電 ASIC 情緒映射承壓。SaaS 集群弱（ PANW / DDOG ）→ 台股 2454 聯發科 / 3443 創意 ，硬體鏈優於軟體。 今日統整 劇本是「Williams 話術 + Dell 隔日 gap 定價」——指數仍低 MA20 但廣度改善（ Russell +1.13% ）。 APH +102% 為 2:1 拆股調整勿當 organic； PANW -9.28% 是資安週強尾段出貨。 SNOW 日內 -4.37% 財報前避險、盤後 double beat 反轉，隔日定價另當劇本。 今日財報亮點 AVGO AVGO 今日盤後 · 財報範圍 2026 Q3 EPS 3.32（估 3.16",
+   "market_section": "us",
+   "paywalled": false,
+   "source": "哈利的投資研究筆記庫",
+   "id": "ca46bc88d858",
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:22.080983+08:00"
+  },
+  {
+   "title": "[台股] 2026-09-03 台股盤後報告",
+   "url": "https://harrymemo.com/outputs/tw/2026-09-03_TW_Market_Dashboard",
+   "published": "2026-09-03",
+   "excerpt": "",
+   "market_section": "tw",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "6430c9bfa4fe",
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:22.080983+08:00"
+  },
+  {
+   "title": "[加密貨幣] 2026-09-03 加密貨幣盤後報告",
+   "url": "https://harrymemo.com/outputs/crypto/2026-09-03_CRYPTO_Weekly_Dashboard",
+   "published": "2026-09-03",
+   "excerpt": "",
+   "market_section": "crypto",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "8ac0fd6a6606",
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:22.080983+08:00"
+  },
+  {
+   "title": "[美股] 2026/09/02 美股盤後：9 月第二個交易日的「油價再通膨第二根 × 成長股獲利了結 × AAPL 逆勢撐 Mag7」日…",
+   "url": "https://harrymemo.com/outputs/us/2026-09-02_US_Market_Dashboard",
+   "published": "2026-09-02",
+   "excerpt": "2026/09/02 美股盤後：9 月第二個交易日的「油價再通膨第二根 × 成長股獲利了結 × AAPL 逆勢撐 Mag7」日…｜哈利的投資研究筆記庫 ← 返回 報告列表 首頁 目錄 🤖 哈利小助理 📈 美股收盤指數 🏛️ 美股市值前十 🔭 技術雷達快覽 📰 產業敘事 🌡️ 產業熱力圖 📈 日漲幅資金主軸 📉 日跌幅資金主軸 📊 週漲跌幅前十 📊 月漲跌幅前十 🔥 產業熱度評等 🔭 短線關注 🔭 中期關注 🎲 情境與宏觀 📅 未來 2 週重點 🇹🇼 台美對照 📉 超跌雷達 📈 200 週突破 US Dashboard 報告：2026/09/02（台北）｜美股收盤：2026/09/01｜查詢：2026-09-02 06:33 台北 本日市場報告 技術線圖專區 🇺🇸 美股深度分析 Dashboard ⚠️ 地緣升溫延續：美伊霍爾木茲交火推 WTI 收上 90 美元、 Brent 約 94.65 美元； 10Y 公債收益率黏 4.75%， VIX 升至 16.34。9/1 盤後 Dell 財報大 beat 但日內 AI 伺服器/資安 SaaS 獲利了結主導跌幅榜。 🤖 哈利小助理 · 今日精評 不專業分析師視野 · 統整盤勢與展望 中性偏防禦、控槓桿； 2330 台積電 / NVDA 鏈持有不加碼， DELL /ODM 等財報驗證後再評估，能源/ XLE 僅避險參考，現金 15–20% 等 9 月數據 9 月第二個交易日的「油價再通膨第二根 × 成長股獲利了結 × AAPL 逆勢撐 Mag7」日——指數連三黑但能源/防禦仍強，市場在賭 9/4 NFP 與升息尾部，而非 AI Capex 敘事反轉 總經背景 美伊軍事行動推 WTI 首度收上 90 美元（ Brent 約 94.65），再通膨疑慮與 10Y 4.75%（ FRED 8/31）同步壓估值； VIX 16.34（ +9.5% ）代表避險升溫但仍非全面 panic。Jackson Hole 後 9 月 Fed 升息機率市場仍定價約 60%，債券賣壓延續。 資金輪動 資金從 XLK （ -1.53% ）/ XLY （ -1.72% ）與高 Beta SaaS（ CRWD / ZS / PANW 週強後回吐）流出，湧入 XLE （ +1.27% ）買油價 beta、 XLU / XLV 防禦； AAPL +2.61% 與 XOM / CVX 強屬個股/能源催化， MSFT / NVDA 仍弱＝「硬體分化、平台/算力同步修正」。 DELL 日內 -6.8% 是財報前避險，盤後 beat 另當劇本。 台美連動 WTI >90 + 10Y 4.75% → 再通膨壓外資風險偏好， 2330 台積電 估值與台股金融映射承壓； DELL 盤後 AI 伺服器 backlog $95B、FY 指引上修 → 2382 廣達 / 6669 緯穎 / 2308 台達電 ODM 與電源鏈情緒正面，但 AMZN -1.87% 平台弱映射有限。 CRWD / PANW 日弱 → 台股 2454 聯發科 / 3443 創意 。 XLE 強 → 台塑/台化塑化相對、半導體仍看 NVDA / AAPL 個股。 今日統整 劇本是「8 月創佳績後 9 月連三付帳」—— S&P 落 MA20 下方、 Russell -1.23% 代表廣度轉弱，但能源/醫療/必需消費相對強顯示避險輪動而非全面崩。 CRWD -6.9% 、 ZS -5.3% 是週 +16% ～ +27% re-rating 尾段獲利了結； DELL 日弱、盤後 +8% 驗證",
+   "market_section": "us",
+   "paywalled": false,
+   "source": "哈利的投資研究筆記庫",
+   "id": "808dc0d74e74",
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:22.080983+08:00"
+  },
+  {
+   "title": "[台股] 2026/09/02 台股盤後：強彈次日抽血 -1.67%",
+   "url": "https://harrymemo.com/outputs/tw/2026-09-02_TW_Market_Dashboard",
+   "published": "2026-09-02",
+   "excerpt": "2026/09/02 台股盤後：強彈次日抽血 -1.67%｜10Y 觸 4.79%｜2308 台達電 -7.24%｜三大法人賣…｜哈利的投資研究筆記庫 ← 返回 報告列表 首頁 目錄 🤖 哈利小助理 🏛️ 台股市值前十 📈 大盤與重點指標 🏦 三大法人 📈 日漲幅資金主軸 📉 日跌幅資金主軸 🌡️ 產業熱力圖 📰 產業敘事 🔮 未來展望 💡 未來關注重點 📊 0050 估值雷達 🎯 0050 目標價 📋 0050 估值排行 TW Dashboard 報告：2026-09-02（台北）｜查詢：2026-09-02 22:52 台北 本日市場報告 估值雷達 Beta 🇹🇼 台股深度分析 Dashboard 強彈次日抽血 -1.67% ｜10Y 觸 4.79% ｜2308 台達電 -7.24% ｜三大法人賣超 1150 億 🤖 哈利小助理 · 今日精評 不專業分析師視野 · 統整盤勢與展望 中性偏空／不追月漲高標、等法人籌碼與利率方向 昨日 NVDA ×聯發科強彈後的獲利了結日——油價＋ 10Y 再評估升息，電子權值回吐、金融與塑化相對抗跌 總經背景 美伊衝突推升布蘭特至約 92 美元、 10Y 公債盤中觸及 4.79%， Fed 9 月升息預期升溫壓抑成長股估值；台股前一日大漲 820 點後本益比處歷史高檔，三大法人合計賣超 1152.44 億（外資賣超 913.55 億、投信賣超 35.28 億、自營賣超 203.62 億）。新台幣 31.75 元（日 +0.20% ）。 資金輪動 資金從昨日強勢的 AI 權值（ 2308 台達電 -7.24% 、 2368 金像電 -4.08% 、 2345 智邦 -2.95% ）與 PCB（ 4958 臻鼎-KY -5.23% ）流出；相對強勢在 2301 光寶科 +4.83% 、 3008 +3.03% 、金融（ 5880 +2.73% 、 2880 華南金 +2.50% ）及 6505 台塑化 +2.61% 等防禦／傳產輪動；記憶體（ 2344 華邦電 +1.70% ）逆勢小漲但月漲高標勿追。 台美連動 隔夜 S&P -0.71% 、 Nasdaq -1.03% 、 費半 -2.14% → 10Y 升破 4.75% 再通膨定價 → 台股開低後一度挫逾 700 點， 2330 台積電 -2.25% 跟跌 ADR 但幅度可控； 2454 聯發科 早盤仍受 NVDA 題材支撐、終場 -0.93% 吐回漲停； DELL 盤後 AI 伺服器指引上修至 740 億美元，但 2382 廣達 -1.46% 、 6669 緯穎 -0.19% 當日仍獲利了結，短線看利率而非單一財報。 今日統整 劇本是「強彈次日抽血」——加權收 46,164.72 點（ -1.67% ），前日 +820 點漲幅大半回吐。 2454 聯發科 開高後翻黑， 2330 台積電 -2.25% 拖累指數； 2308 台達電 -7.24% 為市值前十最大跌幅，散熱電源族群均跌 -3.53% 。相對亮點在 2301 光寶科 、 3008 ；PCB 三雄普遍走弱。 今日財報亮點 DELL Dell Technologies 今日盤後 · 財報範圍 2027 Q2 EPS 7.04 元 ｜ 營收 470 億美元、年增 +58% ；AI 伺服器營收 164 億、全年指引上修至 740 億（ +200% YoY）；backlog 950 億 ｜ 股價 +8.00% AI 伺服器訂單/backlog 創高、全年營收指引上修 250 億至 1,920 億；但台股 ODM",
+   "market_section": "tw",
+   "paywalled": false,
+   "source": "哈利的投資研究筆記庫",
+   "id": "d2035e95ac09",
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:22.080983+08:00"
+  }
+ ],
+ "fx": {
+  "usd_twd": 31.62,
+  "source": "rter.info",
+  "history": [
+   {
+    "d": "2026-09-05",
+    "v": 31.62
+   }
+  ],
+  "change_7d": null,
+  "change_30d": null,
+  "alert_below": 30.5,
+  "good_time_to_buy": false,
+  "note": "中間價，實際銀行買賣會有價差"
+ },
+ "quotes": [
+  {
+   "symbol": "^TWII",
+   "name": "台股加權指數",
+   "price": 46551.13,
+   "change": 693.47,
+   "change_pct": 1.51,
+   "currency": "TWD",
+   "as_of": "2026-09-04",
+   "market": "TW"
+  },
+  {
+   "symbol": "^GSPC",
+   "name": "S&P 500",
+   "price": 7718.6,
+   "change": -29.11,
+   "change_pct": -0.38,
+   "currency": "USD",
+   "as_of": "2026-09-04",
+   "market": "US"
+  },
+  {
+   "symbol": "^IXIC",
+   "name": "那斯達克",
+   "price": 26506.99,
+   "change": -77.07,
+   "change_pct": -0.29,
+   "currency": "USD",
+   "as_of": "2026-09-04",
+   "market": "US"
+  },
+  {
+   "symbol": "^SOX",
+   "name": "費城半導體",
+   "price": 11735.262,
+   "change": 383.134,
+   "change_pct": 3.38,
+   "currency": "USD",
+   "as_of": "2026-09-04",
+   "market": "US"
+  },
+  {
+   "symbol": "2330.TW",
+   "name": "台積電",
+   "price": 2410.0,
+   "change": 20.0,
+   "change_pct": 0.84,
+   "currency": "TWD",
+   "as_of": "2026-09-04",
+   "market": "TW"
+  },
+  {
+   "symbol": "NVDA",
+   "name": "NVIDIA",
+   "price": 230.36,
+   "change": 1.91,
+   "change_pct": 0.84,
+   "currency": "USD",
+   "as_of": "2026-09-04",
+   "market": "US"
+  }
+ ]
+}

@@ -1,0 +1,260 @@
+{
+ "updated_at": "2026-09-05T21:25:57.898297+08:00",
+ "duration_sec": 147.9,
+ "sections": [
+  {
+   "key": "omscs",
+   "label": "OMSCS 情報",
+   "ok": true,
+   "items": 92,
+   "sources": [
+    {
+     "name": "Reddit r/OMSCS",
+     "ok": false,
+     "count": 0,
+     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+    },
+    {
+     "name": "Reddit r/OMSCS 錄取討論",
+     "ok": true,
+     "count": 25,
+     "note": ""
+    },
+    {
+     "name": "Reddit r/gradadmissions",
+     "ok": false,
+     "count": 0,
+     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+    },
+    {
+     "name": "Google News",
+     "ok": true,
+     "count": 11,
+     "note": ""
+    },
+    {
+     "name": "Google News",
+     "ok": true,
+     "count": 3,
+     "note": ""
+    },
+    {
+     "name": "OMSCS 官方公告",
+     "ok": true,
+     "count": 10,
+     "note": ""
+    },
+    {
+     "name": "Medium #omscs",
+     "ok": true,
+     "count": 10,
+     "note": ""
+    },
+    {
+     "name": "Hacker News",
+     "ok": true,
+     "count": 20,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "key": "cpt",
+   "label": "CPT / 簽證",
+   "ok": true,
+   "items": 125,
+   "sources": [
+    {
+     "name": "Google News",
+     "ok": true,
+     "count": 12,
+     "note": ""
+    },
+    {
+     "name": "Google News",
+     "ok": true,
+     "count": 12,
+     "note": ""
+    },
+    {
+     "name": "Google News",
+     "ok": true,
+     "count": 12,
+     "note": ""
+    },
+    {
+     "name": "Google News",
+     "ok": true,
+     "count": 12,
+     "note": ""
+    },
+    {
+     "name": "Google News",
+     "ok": true,
+     "count": 12,
+     "note": ""
+    },
+    {
+     "name": "Reddit r/f1visa",
+     "ok": true,
+     "count": 25,
+     "note": ""
+    },
+    {
+     "name": "Reddit r/immigration CPT",
+     "ok": false,
+     "count": 0,
+     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+    },
+    {
+     "name": "ICE 新聞稿",
+     "ok": true,
+     "count": 10,
+     "note": ""
+    },
+    {
+     "name": "Study in the States",
+     "ok": true,
+     "count": 10,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "key": "jobs",
+   "label": "職缺與文章",
+   "ok": true,
+   "items": 133,
+   "sources": [
+    {
+     "name": "104｜自動化測試",
+     "ok": true,
+     "count": 15,
+     "note": ""
+    },
+    {
+     "name": "104｜QA Engineer",
+     "ok": true,
+     "count": 15,
+     "note": ""
+    },
+    {
+     "name": "104｜SDET",
+     "ok": true,
+     "count": 15,
+     "note": ""
+    },
+    {
+     "name": "104｜Playwright",
+     "ok": true,
+     "count": 15,
+     "note": ""
+    },
+    {
+     "name": "LinkedIn 職缺",
+     "ok": true,
+     "count": 10,
+     "note": "LinkedIn 常擋機器人，抓不到屬正常"
+    },
+    {
+     "name": "hwchiu.com",
+     "ok": true,
+     "count": 10,
+     "note": ""
+    },
+    {
+     "name": "columns.chicken-house.net",
+     "ok": true,
+     "count": 10,
+     "note": ""
+    },
+    {
+     "name": "cnblogs.com",
+     "ok": true,
+     "count": 10,
+     "note": ""
+    },
+    {
+     "name": "Google News 文章",
+     "ok": true,
+     "count": 10,
+     "note": ""
+    },
+    {
+     "name": "Google News 文章",
+     "ok": true,
+     "count": 10,
+     "note": ""
+    },
+    {
+     "name": "dev.to #testing",
+     "ok": true,
+     "count": 12,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "key": "finance",
+   "label": "匯率與股市",
+   "ok": true,
+   "items": 8,
+   "sources": [
+    {
+     "name": "匯率 USD/TWD",
+     "ok": true,
+     "count": 1,
+     "note": ""
+    },
+    {
+     "name": "股價報價",
+     "ok": true,
+     "count": 1,
+     "note": "6 檔"
+    },
+    {
+     "name": "哈利的投資研究筆記庫",
+     "ok": true,
+     "count": 8,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "key": "prices",
+   "label": "商品降價",
+   "ok": true,
+   "items": 5,
+   "sources": [
+    {
+     "name": "電子鋼琴 DP200（88 鍵重鎚）",
+     "ok": true,
+     "count": 1,
+     "note": ""
+    },
+    {
+     "name": "Bora BX-20 折疊電鋼琴",
+     "ok": true,
+     "count": 1,
+     "note": ""
+    },
+    {
+     "name": "決勝領思 5500 單字",
+     "ok": false,
+     "count": 0,
+     "note": "抓不到價格（可能被反爬擋，或網址失效）"
+    }
+   ]
+  }
+ ],
+ "ai": {
+  "enabled": false,
+  "model": null,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "usd": 0.0,
+  "twd": 0.0
+ },
+ "leetcode_goal": 10,
+ "fx_alert_below": 30.5
+}

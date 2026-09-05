@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T21:56:41.895092+08:00",
+ "updated_at": "2026-09-05T23:30:36.494334+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -22,7 +22,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 13,
+   "count": 10,
    "note": ""
   },
   {
@@ -52,6 +52,47 @@
  ],
  "items": [
   {
+   "title": "Curious to get Dr. Joyner’s take on astra",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w75dax/curious_to_get_dr_joyners_take_on_astra/",
+   "published": "2026-09-04T14:05:18+00:00",
+   "excerpt": "Especially ARC AGI-3 since he had us write programs for ARC AGI-1 when I took KBAI. submitted by /u/mrbrown4001 [link] [留言]",
+   "author": "/u/mrbrown4001",
+   "source": "Reddit r/OMSCS",
+   "id": "af36e88ffe10",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T23:30:36.494334+08:00"
+  },
+  {
+   "title": "Are 2 different duo profiles needed?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w6saoj/are_2_different_duo_profiles_needed/",
+   "published": "2026-09-04T02:56:49+00:00",
+   "excerpt": "Hi - From my understanding after Sep 1, 2026 we need: - 1 Duo profile to login to OSCAR for registering for classes and to Canvas to work on courses and - 1 different Duo profile to log in to GaTech Pay Portal / TouchNet - PayPath and pay tuition. Is my understanding and set up correct? Can we use a single Duo profile for both? submitted by /u/DearAd3247 [link] [留言]",
+   "author": "/u/DearAd3247",
+   "source": "Reddit r/OMSCS",
+   "id": "80d9dca86da1",
+   "admission_signal": true,
+   "keyword_hits": [
+    "profile"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-05T23:30:36.494334+08:00"
+  },
+  {
+   "title": "Anyone successfully reinstated after a Flywire payment processing delay?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w6buy5/anyone_successfully_reinstated_after_a_flywire/",
+   "published": "2026-09-03T16:12:46+00:00",
+   "excerpt": "Hi everyone, I'm an OMSCS student and I'm wondering if anyone has been in a similar situation. Here's my timeline: Aug 28: I initiated my tuition payment through Flywire and completed the bank transfer. My bank receipt shows the funds were transferred to Flywire on that day. Aug 28: Flywire also shows the payment date as Aug 28. Sep 3: Flywire updated the payment status to Guaranteed . Unfortunately, before the payment was marked as Guaranteed, my Fall 2026 registration was canceled for non-payment. I have already: Submitted the Bursar Appeal Form. Emailed the Bursar's Office with both my bank transfer receipt and Flywire payment confirmation. My questions are: Has anyone experienced somethi",
+   "author": "/u/Novice_react_dev",
+   "source": "Reddit r/OMSCS",
+   "id": "5daf78afc36e",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-05T23:30:36.494334+08:00"
+  },
+  {
    "title": "Don’t Just Use OMSCS to Work for the Man. Build Something.",
    "url": "https://www.reddit.com/r/OMSCS/comments/1w7dq4m/dont_just_use_omscs_to_work_for_the_man_build/",
    "published": "2026-09-04T19:09:22+00:00",
@@ -62,6 +103,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -75,6 +118,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -88,6 +133,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -101,6 +148,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -114,6 +163,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -127,6 +178,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -140,6 +193,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -153,6 +208,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -166,6 +223,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -179,6 +238,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -192,6 +253,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -207,6 +270,8 @@
     "accepted"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -220,6 +285,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -233,6 +300,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -246,6 +315,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -259,6 +330,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -272,6 +345,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
@@ -550,7 +625,7 @@
    "published": "2026-08-27T17:43:00+00:00",
    "excerpt": "Does anyone in Atlanta know if we have access to the graduate student lounge in the library? I want to use it to study when I’m there but don’t want to embarrass myself by getting rejected when I try to scan in 💀 submitted by /u/Dolphinpop [link] [留言]",
    "author": "/u/Dolphinpop",
-   "source": "Reddit r/OMSCS",
+   "source": "Reddit r/OMSCS 錄取討論",
    "id": "2144cfb4c8f5",
    "admission_signal": true,
    "keyword_hits": [
@@ -875,10 +950,10 @@
    "first_seen": "2026-09-05T21:20:16.080232+08:00"
   },
   {
-   "title": "Watch This Video Before Applying To Georgia Tech OMSCS Tobias Harris (Y54PSb8oiU) - Mshale",
+   "title": "Watch This Video Before Applying To Georgia Tech OMSCS Tobias Harris (Y54PSb8oiU) - mshale.com",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KN2ZKNGRmOWFwdE5uS3Q5dy1JRkZXNWRmOFl6MjZjU1VyZzQzWURYR00wLWJvUTcxUmxYZ0dLRDlxTVJ6RjZkRG02cktZOVU5Y1p4Qi1uNnNTeHM?oc=5",
    "published": "2026-08-30T16:51:35+00:00",
-   "excerpt": "Watch This Video Before Applying To Georgia Tech OMSCS Tobias Harris (Y54PSb8oiU) Mshale",
+   "excerpt": "Watch This Video Before Applying To Georgia Tech OMSCS Tobias Harris (Y54PSb8oiU) mshale.com",
    "author": null,
    "source": "Google News",
    "id": "2155bbaded74",
@@ -890,10 +965,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Joyner Appointed Interim Vice Provost for AI in Education - news.gatech.edu",
+   "title": "Joyner Appointed Interim Vice Provost for AI in Education - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2lfb2syRWY4RzZNMUxyNUdHTUstX2dZX21NQ0JiX1ZZeE5aVVlwNDQtbkdXcldTdVc0V2tNdEgwa01HSFIzN3ZJZjJKeEdITXlrNVJMX2hMSk92QnRvYkJycHQ0Qy02cDNZdV9iYWVIdG1oOFpzOEtXRi0tREtnLTZvcVBaYTNvLVNZUTEteUFURHRO?oc=5",
    "published": "2026-07-01T07:00:00+00:00",
-   "excerpt": "Joyner Appointed Interim Vice Provost for AI in Education news.gatech.edu",
+   "excerpt": "Joyner Appointed Interim Vice Provost for AI in Education Georgia Tech News Center",
    "author": null,
    "source": "Google News",
    "id": "c1e905d9279f",
@@ -905,43 +980,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Ga Tech Omscs - erto.fi",
+   "title": "Ga Tech Omscs - Oma Erto",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQeTh3OWhRVDR5RndkVU1zVjhfXzdVUThaQ0lGUWNBOHRmRWJzMmRWTnFaTHc2T2dKXzNVWUx0cFdPSU1qalFfNnBGUjVsZzZWc19j?oc=5",
    "published": "2026-08-11T02:11:23+00:00",
-   "excerpt": "Ga Tech Omscs erto.fi",
+   "excerpt": "Ga Tech Omscs Oma Erto",
    "author": null,
    "source": "Google News",
    "id": "c1abc46043de",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - medium.datadriveninvestor.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
-   "published": "2023-05-03T07:00:00+00:00",
-   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal medium.datadriveninvestor.com",
-   "author": null,
-   "source": "Google News",
-   "id": "54defa3e479c",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
-   "published": "2022-05-07T07:00:00+00:00",
-   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
-   "author": null,
-   "source": "Google News",
-   "id": "29987ae51976",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -965,36 +1010,6 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - medium.datadriveninvestor.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
-   "published": "2024-08-25T07:00:00+00:00",
-   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming medium.datadriveninvestor.com",
-   "author": null,
-   "source": "Google News",
-   "id": "0236a502b4bf",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Georgia Tech launches second low-cost online master's degree program - Inside Higher Ed",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmg5WE0weGxEN2doN1o5SEhkeENTSzVzVDVhNlVKRmZVbktBWTZXd2hXaUFUeGhhSTdpQmJYMzlHXzFzMWROVHVJOGh4OEdDY3hwNWFTYVpvZHllbmlmWmJFck1lMGE3VVdaQlFnZnNEQjdZdHYyR0xGTEdxUVZFbGtOTkl6dm5nQ0dDLUN0UnJ1LUNJcWZSLS00c1M4cXJCNFRUaGphaU13Wmd4VnI1bWl2aHg?oc=5",
-   "published": "2017-01-11T08:00:00+00:00",
-   "excerpt": "Georgia Tech launches second low-cost online master's degree program Inside Higher Ed",
-   "author": null,
-   "source": "Google News",
-   "id": "6cccadeeb3ff",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
    "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
    "published": "2025-02-28T08:00:00+00:00",
@@ -1010,25 +1025,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - medium.datadriveninvestor.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
-   "published": "2023-04-21T07:00:00+00:00",
-   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews medium.datadriveninvestor.com",
-   "author": null,
-   "source": "Google News",
-   "id": "43f2eafe3c1d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - news.gatech.edu",
+   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
    "published": "2025-01-27T08:00:00+00:00",
-   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia news.gatech.edu",
+   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia Georgia Tech News Center",
    "author": null,
    "source": "Google News",
    "id": "3fe0c49fd522",
@@ -1040,13 +1040,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science - medium.datadriveninvestor.com",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1phSncwdjQxY0QzRWQzbWVnZEpfdlI2RnlKSi1fUmJHQWU5YXVSMTRjbTRoTUNmM2paOTA1clhJWUg3X0d1TWlaUVRFMThkYXRJdGwtWWI0WmtMOEpxTmdoYWN4NWQxblVqb2VuUVNoLWdTVm9KY0lQUVVfUnhrNnY3T2NCMXA4MFVWclljZTN5QzNSRHhXUHZ1Ui1NdTVQY21oeGF5THNYdEdGUlJJN0t0aE8weEU?oc=5",
-   "published": "2020-12-26T08:00:00+00:00",
-   "excerpt": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science medium.datadriveninvestor.com",
+   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
+   "published": "2024-08-25T07:00:00+00:00",
+   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
    "author": null,
    "source": "Google News",
-   "id": "3e299541f687",
+   "id": "0236a502b4bf",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1055,13 +1055,43 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Unique Program Offers Campus Research Opportunities for Online Students - news.gatech.edu",
+   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
+   "published": "2023-05-03T07:00:00+00:00",
+   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "54defa3e479c",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Unique Program Offers Campus Research Opportunities for Online Students - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0ZlSlQ5T2JrVjEtYmpGUGtzb1F1SlBIT0trOENndE9PeG9pN2pQNllxLUc5bk1vTzNmSW1GVWFsNl9ZQl92NnEwbGJjNGYyLTJkNjE0NDFnMEE5UlBybTJraXU1cDVlT1VJUEtFaU9WczBXRHZMTWpsRWxHYTlmQmtXNkJrS3NJMy1KUDBZQ0w0aWc5b25LOExxaVZiZEQ5SmFEaXF4N2RyRTQ?oc=5",
    "published": "2024-04-29T07:00:00+00:00",
-   "excerpt": "Unique Program Offers Campus Research Opportunities for Online Students news.gatech.edu",
+   "excerpt": "Unique Program Offers Campus Research Opportunities for Online Students Georgia Tech News Center",
    "author": null,
    "source": "Google News",
    "id": "2ffcf459be25",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Georgia Tech launches second low-cost online master's degree program - Inside Higher Ed",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmg5WE0weGxEN2doN1o5SEhkeENTSzVzVDVhNlVKRmZVbktBWTZXd2hXaUFUeGhhSTdpQmJYMzlHXzFzMWROVHVJOGh4OEdDY3hwNWFTYVpvZHllbmlmWmJFck1lMGE3VVdaQlFnZnNEQjdZdHYyR0xGTEdxUVZFbGtOTkl6dm5nQ0dDLUN0UnJ1LUNJcWZSLS00c1M4cXJCNFRUaGphaU13Wmd4VnI1bWl2aHg?oc=5",
+   "published": "2017-01-11T08:00:00+00:00",
+   "excerpt": "Georgia Tech launches second low-cost online master's degree program Inside Higher Ed",
+   "author": null,
+   "source": "Google News",
+   "id": "6cccadeeb3ff",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1449,6 +1479,20 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
+   "title": "Seeking Third Technical Cofounder",
+   "url": "https://news.ycombinator.com/item?id=48682086",
+   "published": "2026-06-26T03:39:51Z",
+   "excerpt": "We are seeking a third technical cofounder to help us build our company: - https:&#x2F;&#x2F;coffeechats.me&#x2F;<p>Equal equity splits. Prior big tech&#x2F;fast-growing startup experience strongly preferred.<p>The founding team consists of: - An MBA (Dartmouth), MSCS (UT Austin) graduate with prior 0 to 1 successes. - An MSCS (Dartmouth) graduate.",
+   "source": "Hacker News",
+   "id": "5ce7c7618b10",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
    "title": "Multi-omics and palynology of selected Philippine forest honey",
    "url": "https://www.nature.com/articles/s41598-024-71385-4",
    "published": "2026-06-05T13:35:07Z",
@@ -1675,12 +1719,43 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Seeking Third Technical Cofounder",
-   "url": "https://news.ycombinator.com/item?id=48682086",
-   "published": "2026-06-26T03:39:51Z",
-   "excerpt": "We are seeking a third technical cofounder to help us build our company: - https:&#x2F;&#x2F;coffeechats.me&#x2F;<p>Equal equity splits. Prior big tech&#x2F;fast-growing startup experience strongly preferred.<p>The founding team consists of: - An MBA (Dartmouth), MSCS (UT Austin) graduate with prior 0 to 1 successes. - An MSCS (Dartmouth) graduate.",
-   "source": "Hacker News",
-   "id": "5ce7c7618b10",
+   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
+   "published": "2022-05-07T07:00:00+00:00",
+   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
+   "author": null,
+   "source": "Google News",
+   "id": "29987ae51976",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - medium.datadriveninvestor.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
+   "published": "2023-04-21T07:00:00+00:00",
+   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews medium.datadriveninvestor.com",
+   "author": null,
+   "source": "Google News",
+   "id": "43f2eafe3c1d",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science - medium.datadriveninvestor.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1phSncwdjQxY0QzRWQzbWVnZEpfdlI2RnlKSi1fUmJHQWU5YXVSMTRjbTRoTUNmM2paOTA1clhJWUg3X0d1TWlaUVRFMThkYXRJdGwtWWI0WmtMOEpxTmdoYWN4NWQxblVqb2VuUVNoLWdTVm9KY0lQUVVfUnhrNnY3T2NCMXA4MFVWclljZTN5QzNSRHhXUHZ1Ui1NdTVQY21oeGF5THNYdEdGUlJJN0t0aE8weEU?oc=5",
+   "published": "2020-12-26T08:00:00+00:00",
+   "excerpt": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science medium.datadriveninvestor.com",
+   "author": null,
+   "source": "Google News",
+   "id": "3e299541f687",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

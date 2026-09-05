@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T21:57:56.147673+08:00",
+ "updated_at": "2026-09-05T23:31:48.949290+08:00",
  "sources": [
   {
    "name": "電子鋼琴 DP200（88 鍵重鎚）",
@@ -15,9 +15,9 @@
   },
   {
    "name": "決勝領思 5500 單字",
-   "ok": true,
-   "count": 1,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "抓不到價格（可能被反爬擋，或網址失效）"
   }
  ],
  "items": [
@@ -43,7 +43,7 @@
      "v": 13800.0
     }
    ],
-   "checked_at": "2026-09-05T21:57:55.097913+08:00",
+   "checked_at": "2026-09-05T23:31:47.444778+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,
@@ -71,7 +71,7 @@
      "v": 3336.0
     }
    ],
-   "checked_at": "2026-09-05T21:57:56.016750+08:00",
+   "checked_at": "2026-09-05T23:31:48.799515+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,
@@ -80,17 +80,17 @@
   {
    "id": "b061d00be95e",
    "title": "決勝領思 5500 單字",
-   "detected_title": "決勝領思Linguaskill 5,500單字【實用英語General】(附「Youtor App」內含VRP虛擬點讀筆)",
+   "detected_title": "",
    "url": "https://www.books.com.tw/products/0010948943",
    "source": "www.books.com.tw",
    "currency": "TWD",
-   "price": 629.0,
-   "ok": true,
+   "price": null,
+   "ok": false,
    "prev_price": null,
    "change": null,
    "lowest": 629.0,
    "highest": 629.0,
-   "is_lowest_ever": true,
+   "is_lowest_ever": false,
    "target_price": 550,
    "hit_target": false,
    "history": [
@@ -99,7 +99,7 @@
      "v": 629.0
     }
    ],
-   "checked_at": "2026-09-05T21:57:56.147188+08:00",
+   "checked_at": "2026-09-05T23:31:48.948756+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,

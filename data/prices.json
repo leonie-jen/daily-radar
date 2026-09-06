@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T23:31:48.949290+08:00",
+ "updated_at": "2026-09-06T11:22:25.765275+08:00",
  "sources": [
   {
    "name": "電子鋼琴 DP200（88 鍵重鎚）",
@@ -30,8 +30,8 @@
    "currency": "TWD",
    "price": 13800.0,
    "ok": true,
-   "prev_price": null,
-   "change": null,
+   "prev_price": 13800.0,
+   "change": 0.0,
    "lowest": 13800.0,
    "highest": 13800.0,
    "is_lowest_ever": true,
@@ -41,9 +41,13 @@
     {
      "d": "2026-09-05",
      "v": 13800.0
+    },
+    {
+     "d": "2026-09-06",
+     "v": 13800.0
     }
    ],
-   "checked_at": "2026-09-05T23:31:47.444778+08:00",
+   "checked_at": "2026-09-06T11:22:24.159496+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,
@@ -58,8 +62,8 @@
    "currency": "TWD",
    "price": 3336.0,
    "ok": true,
-   "prev_price": null,
-   "change": null,
+   "prev_price": 3336.0,
+   "change": 0.0,
    "lowest": 3336.0,
    "highest": 3336.0,
    "is_lowest_ever": true,
@@ -69,9 +73,13 @@
     {
      "d": "2026-09-05",
      "v": 3336.0
+    },
+    {
+     "d": "2026-09-06",
+     "v": 3336.0
     }
    ],
-   "checked_at": "2026-09-05T23:31:48.799515+08:00",
+   "checked_at": "2026-09-06T11:22:25.581559+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,
@@ -99,7 +107,7 @@
      "v": 629.0
     }
    ],
-   "checked_at": "2026-09-05T23:31:48.948756+08:00",
+   "checked_at": "2026-09-06T11:22:25.764703+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,

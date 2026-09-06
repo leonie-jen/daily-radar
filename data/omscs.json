@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T23:30:36.494334+08:00",
+ "updated_at": "2026-09-06T11:21:33.066441+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -52,6 +52,19 @@
  ],
  "items": [
   {
+   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdm9VVy1lakFRR05vcjc0UG1LUHdGSGpTeHQ2NFYyZXhWekh6dzRXY2UycjE5cHVKY2lpOFFUVmE4b254NE4zYkhNdGtZMGFCR3NKWUdFTXVXUmVmYVpWdmk4dE1KcWxIOFZnaG4xSWNCMnhEUGhTQVo5R21zMUdNbE1sMkNncnZsSjBubzFKMGR5V0phSzBVWDF1TjFBaE53eEdUTmZ3?oc=5",
+   "published": "2025-01-27T08:00:00+00:00",
+   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "81e953ca3ad5",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-06T11:21:33.066441+08:00"
+  },
+  {
    "title": "Curious to get Dr. Joyner’s take on astra",
    "url": "https://www.reddit.com/r/OMSCS/comments/1w75dax/curious_to_get_dr_joyners_take_on_astra/",
    "published": "2026-09-04T14:05:18+00:00",
@@ -62,6 +75,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T23:30:36.494334+08:00"
   },
   {
@@ -77,6 +92,8 @@
     "profile"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T23:30:36.494334+08:00"
   },
   {
@@ -90,6 +107,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-05T23:30:36.494334+08:00"
   },
   {
@@ -123,13 +142,13 @@
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
-   "title": "You Should Not Do This Program If You're Looking For Work",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1w70f68/you_should_not_do_this_program_if_youre_looking/",
-   "published": "2026-09-04T10:21:05+00:00",
-   "excerpt": "If you're doing this program for fun and learn, that's fine. But if you're one of the many students that are simply doing this for employment opportunity, I have a tough message of reality for you. Seeing whole teams get laid off at mag7, and entirely exported to India for the past few years. It ramped up very hard this year. Currently getting 4 month contract offers for $20 to train your AI replacement as the norm now. What the news isn't talking about at all, is that all the layoffs in all the FAANG companies are immediately replaced by India. The demand for labor actually increases when you get more productivity from AI. But, companies realized they can save 4-5x more on labor by exportin",
-   "author": "/u/AspyAsparagus",
+   "title": "School bill, Bursar didnt respond",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w65hle/school_bill_bursar_didnt_respond/",
+   "published": "2026-09-03T12:05:37+00:00",
+   "excerpt": "Hi all, i took fin aid loan for my OMSCS but got a bill for $1425 I sent a message weeks ago to Bursar got no response and yesterday got an email that my classes are canceled for non payment!?! submitted by /u/Insomniac24x7 [link] [留言]",
+   "author": "/u/Insomniac24x7",
    "source": "Reddit r/OMSCS",
-   "id": "c403db34a41f",
+   "id": "d8190df1ea15",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -138,13 +157,13 @@
    "first_seen": "2026-09-05T21:56:41.895092+08:00"
   },
   {
-   "title": "School bill, Bursar didnt respond",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1w65hle/school_bill_bursar_didnt_respond/",
-   "published": "2026-09-03T12:05:37+00:00",
-   "excerpt": "Hi all, i took fin aid loan for my OMSCS but got a bill for $1425 I sent a message weeks ago to Bursar got no response and yesterday got an email that my classes are canceled for non payment!?! submitted by /u/Insomniac24x7 [link] [留言]",
-   "author": "/u/Insomniac24x7",
+   "title": "You Should Not Do This Program If You're Looking For Work",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w70f68/you_should_not_do_this_program_if_youre_looking/",
+   "published": "2026-09-04T10:21:05+00:00",
+   "excerpt": "If you're doing this program for fun and learn, that's fine. But if you're one of the many students that are simply doing this for employment opportunity, I have a tough message of reality for you. Seeing whole teams get laid off at mag7, and entirely exported to India for the past few years. It ramped up very hard this year. Currently getting 4 month contract offers for $20 to train your AI replacement as the norm now. What the news isn't talking about at all, is that all the layoffs in all the FAANG companies are immediately replaced by India. The demand for labor actually increases when you get more productivity from AI. But, companies realized they can save 4-5x more on labor by exportin",
+   "author": "/u/AspyAsparagus",
    "source": "Reddit r/OMSCS",
-   "id": "d8190df1ea15",
+   "id": "c403db34a41f",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -950,10 +969,10 @@
    "first_seen": "2026-09-05T21:20:16.080232+08:00"
   },
   {
-   "title": "Watch This Video Before Applying To Georgia Tech OMSCS Tobias Harris (Y54PSb8oiU) - mshale.com",
+   "title": "Watch This Video Before Applying To Georgia Tech OMSCS Tobias Harris (Y54PSb8oiU) - Mshale",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KN2ZKNGRmOWFwdE5uS3Q5dy1JRkZXNWRmOFl6MjZjU1VyZzQzWURYR00wLWJvUTcxUmxYZ0dLRDlxTVJ6RjZkRG02cktZOVU5Y1p4Qi1uNnNTeHM?oc=5",
    "published": "2026-08-30T16:51:35+00:00",
-   "excerpt": "Watch This Video Before Applying To Georgia Tech OMSCS Tobias Harris (Y54PSb8oiU) mshale.com",
+   "excerpt": "Watch This Video Before Applying To Georgia Tech OMSCS Tobias Harris (Y54PSb8oiU) Mshale",
    "author": null,
    "source": "Google News",
    "id": "2155bbaded74",
@@ -972,21 +991,6 @@
    "author": null,
    "source": "Google News",
    "id": "c1e905d9279f",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Ga Tech Omscs - Oma Erto",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQeTh3OWhRVDR5RndkVU1zVjhfXzdVUThaQ0lGUWNBOHRmRWJzMmRWTnFaTHc2T2dKXzNVWUx0cFdPSU1qalFfNnBGUjVsZzZWc19j?oc=5",
-   "published": "2026-08-11T02:11:23+00:00",
-   "excerpt": "Ga Tech Omscs Oma Erto",
-   "author": null,
-   "source": "Google News",
-   "id": "c1abc46043de",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1025,13 +1029,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
-   "published": "2025-01-27T08:00:00+00:00",
-   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia Georgia Tech News Center",
+   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
+   "published": "2023-05-03T07:00:00+00:00",
+   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
    "author": null,
    "source": "Google News",
-   "id": "3fe0c49fd522",
+   "id": "54defa3e479c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1055,13 +1059,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
-   "published": "2023-05-03T07:00:00+00:00",
-   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
+   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
+   "published": "2022-05-07T07:00:00+00:00",
+   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
    "author": null,
    "source": "Google News",
-   "id": "54defa3e479c",
+   "id": "29987ae51976",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1115,10 +1119,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs - Forbes",
+   "title": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs - forbes.com",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUjk1TXI4MW1UUnZXd3RMOG5VQlFIVkNmVWN4UFZCcVN6U3ItUjhmM3BNdGswOUZEMUk0cW5KYU1abm54RkowRTI4blN1OFFhY3I3MGtUTDE3SzFjdTFDNG5TTmZiaEdxclR0d3QwM0FZQWFmZkV4c21yMTFGc3p2TFZRcFFGMHlKOFJHSXd4NGNudnB6ZmZ2MGRGSWU3RjNZWWsyZVVlaTdabFhCLXp0LXYtdFlQeU00REgzYm4zVFQ3ZlphUjBwQTVpemhIX0ROMlBUSWh1Wkc4OWQ0S1J3bU1uTmRBTjlNeGh2QnphX2JmYW45VTZOTQ?oc=5",
    "published": "2021-07-01T07:00:00+00:00",
-   "excerpt": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs Forbes",
+   "excerpt": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs forbes.com",
    "author": null,
    "source": "Google News",
    "id": "563c0ba265f3",
@@ -1719,13 +1723,28 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
-   "published": "2022-05-07T07:00:00+00:00",
-   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
+   "title": "Ga Tech Omscs - Oma Erto",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQeTh3OWhRVDR5RndkVU1zVjhfXzdVUThaQ0lGUWNBOHRmRWJzMmRWTnFaTHc2T2dKXzNVWUx0cFdPSU1qalFfNnBGUjVsZzZWc19j?oc=5",
+   "published": "2026-08-11T02:11:23+00:00",
+   "excerpt": "Ga Tech Omscs Oma Erto",
    "author": null,
    "source": "Google News",
-   "id": "29987ae51976",
+   "id": "c1abc46043de",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
+   "published": "2025-01-27T08:00:00+00:00",
+   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "3fe0c49fd522",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

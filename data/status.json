@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-09-05T23:31:48.949808+08:00",
- "duration_sec": 121.2,
+ "updated_at": "2026-09-06T11:22:25.765824+08:00",
+ "duration_sec": 101.4,
  "sections": [
   {
    "key": "omscs",
    "label": "OMSCS 情報",
    "ok": true,
-   "items": 114,
+   "items": 115,
    "sources": [
     {
      "name": "Reddit r/OMSCS",
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 132,
+   "items": 137,
    "sources": [
     {
      "name": "Google News",
@@ -96,15 +96,15 @@
     },
     {
      "name": "Reddit r/f1visa",
-     "ok": true,
-     "count": 25,
-     "note": ""
-    },
-    {
-     "name": "Reddit r/immigration CPT",
      "ok": false,
      "count": 0,
      "note": "沒抓到資料（可能被擋或今天沒新內容）"
+    },
+    {
+     "name": "Reddit r/immigration CPT",
+     "ok": true,
+     "count": 25,
+     "note": ""
     },
     {
      "name": "ICE 新聞稿",
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 146,
+   "items": 168,
    "sources": [
     {
      "name": "104｜自動化測試",
@@ -215,7 +215,7 @@
     {
      "name": "哈利的投資研究筆記庫",
      "ok": true,
-     "count": 8,
+     "count": 6,
      "note": ""
     }
    ]

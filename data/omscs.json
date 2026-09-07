@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-06T11:21:33.066441+08:00",
+ "updated_at": "2026-09-07T11:20:07.298976+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,26 +9,26 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": true,
-   "count": 25,
-   "note": ""
-  },
-  {
-   "name": "Reddit r/gradadmissions",
    "ok": false,
    "count": 0,
    "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
-   "name": "Google News",
+   "name": "Reddit r/gradadmissions",
    "ok": true,
-   "count": 10,
+   "count": 25,
    "note": ""
   },
   {
    "name": "Google News",
    "ok": true,
-   "count": 3,
+   "count": 11,
+   "note": ""
+  },
+  {
+   "name": "Google News",
+   "ok": true,
+   "count": 4,
    "note": ""
   },
   {
@@ -51,6 +51,420 @@
   }
  ],
  "items": [
+  {
+   "title": "How’s everybody’s week 2 going? I thought my RL project deadline was 2 weeks earlier than it was",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w8s5fb/hows_everybodys_week_2_going_i_thought_my_rl/",
+   "published": "2026-09-06T10:06:00+00:00",
+   "excerpt": "I’m taking RL this semester and our first project of the semester opened up on Monday. Despite doing my due diligence to update my calendar with deadlines for all assignments and readings etc. I still managed to completely confuse myself. I have spent this week SLAMMING through this project because I was under the impression it was due Monday 8 am. Despite working 5 hours a day on implementation ALONE, not to mention doing my readings and re-readings of the course material I was still so behind. I was feeling somewhat discouraged tbh. I was a Bachelors of Arts undergrad prior to OMSCS and was chalking the delay up to my lack of experience or something idek. Up until one hour ago, I believed ",
+   "author": "/u/Flashy_Camel5143",
+   "source": "Reddit r/OMSCS",
+   "id": "641aa9a76826",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Georgia Tech OMSCS Resume Format",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1vmfudq/georgia_tech_omscs_resume_format/",
+   "published": "2026-08-12T14:33:25+00:00",
+   "excerpt": "I am applying to the Georgia Tech OMSCS program and had a question about resume formatting. My current resume, which I used for on-campus program last year (Didn't get in), is 2 pages long and includes the following sections: Objective Education Academic Projects Work Experience Internships Technical Skills Certifications Leadership Roles Community Involvement For an OMSCS application, are the Leadership Roles and Community Involvement sections relevant, or would it be better to remove them? Alternatively, should I keep them but shorten them to save space? I'm trying to understand what admissions reviewers value most in an OMSCS resume and whether it's worth condensing everything into a more",
+   "author": "/u/ouchpart2",
+   "source": "Reddit r/gradadmissions",
+   "id": "237ed69857de",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admission",
+    "application"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Should I use the same account/email after being rejected from Georgia Tech MSCS?",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1vg27n6/should_i_use_the_same_accountemail_after_being/",
+   "published": "2026-08-05T09:15:38+00:00",
+   "excerpt": "I applied to Georgia Tech’s on-campus MSCS program last year and unfortunately got rejected. This year, I’m planning to apply to OMSCS, and my company will be sponsoring the degree. Would you recommend using the same email/account that I used for my previous Georgia Tech application, or should I create a new account with a different email? My main concern is whether my previous MSCS rejection will be visible to the OMSCS admissions committee and whether it could negatively affect my OMSCS application. Has anyone here applied to OMSCS after previously being rejected from Georgia Tech’s on-campus MSCS program? Would appreciate hearing about your experience. submitted by /u/ouchpart2 [link] [留言",
+   "author": "/u/ouchpart2",
+   "source": "Reddit r/gradadmissions",
+   "id": "35a5d3aa183f",
+   "admission_signal": true,
+   "keyword_hits": [
+    "rejected",
+    "admission",
+    "application"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Is the ‘network’ argument for an expensive MS actually real, or am I rationalizing?",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1v4nb65/is_the_network_argument_for_an_expensive_ms/",
+   "published": "2026-07-23T19:03:27+00:00",
+   "excerpt": "I’m 22, graduated this spring (Information Science, high gpa, t20 undergrad), two weeks into my first job as an analyst. Employer gives $3,500/term tuition reimbursement and has offices in most major cities. My work is functionally remote — my whole team is in other states — so I could plausibly relocate after a year. I want an AI/ML master’s. Options I’ve narrowed to: **• GT OMSCS** — \\~$8K, async online **• Penn MSE-AI Online** — \\~$36.5K, async online, Ivy name **• UChicago MPCS** — \\~$67K (9-course), evening classes in person, once a week **• JHU EP** — \\~$55K, evening classes in person around DC/Baltimore **• Columbia MSAI Online** — \\~$86K, brand new, live cohort Here’s my actual thesi",
+   "author": "/u/Mediocre_Soup_989",
+   "source": "Reddit r/gradadmissions",
+   "id": "0d1b2fc26c24",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "MS for computer vision + robotics?",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1v0uhmk/ms_for_computer_vision_robotics/",
+   "published": "2026-07-19T16:06:35+00:00",
+   "excerpt": "I'm looking for recommended MS programs for computer vision. I have a software background and want to branch into software for robotics with some interaction with the hardware. Looking for a terminal masters program, not intending to do a PhD. I'd want to get involved in hand-on learning through research labs or campus groups. I originally started looking for MS Computer science programs but found not all offer this type of interdisciplinary study, so I'm considering MS Robotics now too. Cost is not really a factor for me. I'm interested in learning: Computer vision (traditional, AI/ML, and robotics applications) Overview of robotics and hands-on experience with computer vision / perception ",
+   "author": "/u/lizardbite3",
+   "source": "Reddit r/gradadmissions",
+   "id": "81ce8669e4ba",
+   "admission_signal": true,
+   "keyword_hits": [
+    "application"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Does a 2-year Canadian college diploma meet the OMSCS English proficiency waiver requirement?",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1uln2g2/does_a_2year_canadian_college_diploma_meet_the/",
+   "published": "2026-07-02T16:28:43+00:00",
+   "excerpt": "Hi everyone, I'm applying to OMSCS and have a question about the English proficiency requirement. I'm a Canadian PR and completed a 2-year diploma program at a public Canadian college (outside Quebec), where English was the sole language of instruction. However, I spoke with Graduate Admissions today, and they told me that my diploma is not considered a degree for the English proficiency waiver, so it does not satisfy the requirement. I'm a bit confused b/c I've seen references suggesting that a 2-year Canadian college diploma is comparable to a 2-year associate degree in the US. Should my background qualify for the English proficiency waiver? Has anyone with a similar background been grante",
+   "author": "/u/Pristine-Trade-9748",
+   "source": "Reddit r/gradadmissions",
+   "id": "14fad747919f",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admission"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Can Georgia Tech OMSCS reject me if I rely on English-medium degree proof instead of TOEFL/IELTS?",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1txqyet/can_georgia_tech_omscs_reject_me_if_i_rely_on/",
+   "published": "2026-06-05T17:06:40+00:00",
+   "excerpt": "Hi everyone, I'm preparing for my Georgia Tech OMSCS application for Spring 2027 and I have a question about the English proficiency requirement. I have a bachelor in Computer Engineering. My university’s official graduation certificate clearly states that the Language of Instruction was English. I am from Europe.. Can Georgia Tech reject or mark my application incomplete if I submit only the official graduation certificate showing “Language of Instruction: English” and do not take TOEFL/IELTS? I'm asking because the application deadline is August 15, and the application portal will also have downtime in July. I am trying to decide whether I should take IELTS as a backup or whether the offic",
+   "author": "/u/Otherwise_Drop_736",
+   "source": "Reddit r/gradadmissions",
+   "id": "f79725dffcbe",
+   "admission_signal": true,
+   "keyword_hits": [
+    "application"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Profile Review",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1t5mv9r/profile_review/",
+   "published": "2026-05-06T19:18:04+00:00",
+   "excerpt": "Hi, I am finishing up my junior year of college and am interested in applying for masters programs in computer science and just wanted to ask for a profile review and my chances at getting into the below schools. I would appreciate any advice or feedback. Thanks! Schools I would like to apply to: CMU, UPenn, Princeton, UIUC, Stanford, UC Berkeley, Georgia Tech (OMSCS). These are the main ones I would like to get into, but will also apply to less competitive ones like Purdue and UMD. My Profile: University: Big state school ranked mid 60s Demographic: Asian Male GPA: 3.9/4.0 Work experience: 3 F10 internships (same company) and 1 at a defense company Letters of rec - i think this might be my ",
+   "author": "/u/TheoryOk5304",
+   "source": "Reddit r/gradadmissions",
+   "id": "3e4586f8f6e0",
+   "admission_signal": true,
+   "keyword_hits": [
+    "profile"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Grad School Choice, 3.5 GPA, Network+, Security+, Online, B.S. Cybersecurity Grad, Seeking M.S. Cyberscurity",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1swknzj/grad_school_choice_35_gpa_network_security_online/",
+   "published": "2026-04-26T21:48:38+00:00",
+   "excerpt": "Hi, I was looking for any input and feedback into my top 5/6 for my grad school search as I try to find a good online program to continue my education as I also work. My end goals are GovTech, DOD, Red Team etc down the line. And am just finishing my bachelors in cyber this week. Looking at grad school options for Fall 26 for all of these except GT which id have to wait till Spring 2027. School Name Program Application Fee In Person / Online NSA Designation Total Cost of Entire Degree University of Maryland M.Eng Cybersecurity Engineering $75 Online CAE-CD $45,000.00 Mississippi State University M.S. Cybersecurity & Cyber Operations $60 Online CAE-CD, CAE-R, CAE-CO, SFS, Cyber Service Academ",
+   "author": "/u/ZiaevoPlays",
+   "source": "Reddit r/gradadmissions",
+   "id": "820eb144a3d0",
+   "admission_signal": true,
+   "keyword_hits": [
+    "application"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Advice Requested - OMSCS vs in-person MSCS at TAMU",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1slf36m/advice_requested_omscs_vs_inperson_mscs_at_tamu/",
+   "published": "2026-04-14T17:16:57+00:00",
+   "excerpt": "submitted by /u/Downtown_Flamingo_49 [link] [留言]",
+   "author": "/u/Downtown_Flamingo_49",
+   "source": "Reddit r/gradadmissions",
+   "id": "464b44bb6e0a",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "What is to be done: NUS, Bristol or GATech OMSCS?",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1sktsym/what_is_to_be_done_nus_bristol_or_gatech_omscs/",
+   "published": "2026-04-14T00:59:46+00:00",
+   "excerpt": "Offers received (so far): - Georgia Tech Online Master of Science in Computer Science - University of Bristol MSc in Robotics - National University of Singapore MSc in Computer Engineering Background: - Mechanical Engineering from National Institute of Technology Durgapur, India - Senior Application Developer at Oracle India (experience: 3y 9m) I want to do a master's degree, was angling for robotics, but would stick to a top notch CS program if I get in. GATech OMSCS would allow me to keep my job while studying. What should I do? I would appreciate thoughtful responses. submitted by /u/CutePuppy2000 [link] [留言]",
+   "author": "/u/CutePuppy2000",
+   "source": "Reddit r/gradadmissions",
+   "id": "c8d9e207f911",
+   "admission_signal": true,
+   "keyword_hits": [
+    "application"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "MSE-DS Online vs GTech OMSCS",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1sj3jbf/mseds_online_vs_gtech_omscs/",
+   "published": "2026-04-12T03:36:44+00:00",
+   "excerpt": "submitted by /u/Glad-Needleworker691 [link] [留言]",
+   "author": "/u/Glad-Needleworker691",
+   "source": "Reddit r/gradadmissions",
+   "id": "8b9330ac742c",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Georgia Tech OMSCS vs UT Austin MSAI — which should I choose?",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1sda8i3/georgia_tech_omscs_vs_ut_austin_msai_which_should/",
+   "published": "2026-04-05T17:54:43+00:00",
+   "excerpt": "I got accepted into both Georgia Tech OMSCS and UT Austin MSAI. I’ll be doing the program online while working full-time as a software engineer. I’m interested in AI but my long term goal is to grow in the industry not necessarily get a PHD, i also care about reputation, workload, flexibility, and career impact in industry. Which one would you pick and why?😭 submitted by /u/citruscandle1022 [link] [留言]",
+   "author": "/u/citruscandle1022",
+   "source": "Reddit r/gradadmissions",
+   "id": "4553d59a5c9c",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Torn about which program I should choose",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1sagl20/torn_about_which_program_i_should_choose/",
+   "published": "2026-04-02T12:54:04+00:00",
+   "excerpt": "Hello! I was fortunate enough to be accepted into the following programs after a long and stressful application cycle: Cornell MPS Information Science (MPS IS) Carnegie Mellon MS Information Networking (MSIN @ INI) w/ scholarship UT Austin MS Information Technology and Management (MSITM) Georgia Tech Online MS Computer Science (OMSCS) UMich MS Data Science (MSDS) UPenn MSE Data Science (MSE DS) Rice Master of Computer Science (MCS) w/ scholarship I'm a computer science graduate from ASU, and I would like to eventually work in software engineering, cloud engineering, or data analytics, but I wouldn't mind a pivot to a more business-oriented role. I want to go to the program that gives me the ",
+   "author": "/u/a-lil-burner-account",
+   "source": "Reddit r/gradadmissions",
+   "id": "cc0b9d27236e",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted",
+    "application"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Should I continue job+OMSCS or leave for MSc in Robotics",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1s8ht5t/should_i_continue_jobomscs_or_leave_for_msc_in/",
+   "published": "2026-03-31T08:40:55+00:00",
+   "excerpt": "Hey everyone. I am a senior software engineer with 4 years of experience at an enterprise giant and I recently got accepted into GATech OMSCS. But I have a bachelors in mechanical engineering and was hoping to make a pivot into Robotics, so I've been applying to lots of universities for this year's Fall semester. Should I get an offer, considering the job market, would it be wise to leave my current job and pursue a Robotics masters full time? Or should I stick to my job and do OMSCS alongside? Would appreciate some advice! submitted by /u/CutePuppy2000 [link] [留言]",
+   "author": "/u/CutePuppy2000",
+   "source": "Reddit r/gradadmissions",
+   "id": "9942e299c167",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Trying to decide on a program",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1s5dro1/trying_to_decide_on_a_program/",
+   "published": "2026-03-27T19:17:48+00:00",
+   "excerpt": "I got 2 acceptances already, still waiting on 2 others. Just wondering if it's worth waiting or I should just accept one of the offers I got already. SJSU Special Session in Software Engineering (accepted) Pro: hybrid (networking opportunities?), close to home so no rent Con: kinda expensive (~$29k) UIUC MCS Online (accepted) Pro: school brand, fully online (convenience) Con: kinda expensive (~$25k) Georgia Tech OMSCS (still waiting) Pro: fully online (convenience), cheapest (~$7-8k) Con: less reputable name than UIUC? UT Austin Online MCS (still waiting) Pro: fully online (convenience), cheaper than first 2 options (~$10k) Con: less reputable name than UIUC? submitted by /u/ITotallyDoNotWha",
+   "author": "/u/ITotallyDoNotWhale",
+   "source": "Reddit r/gradadmissions",
+   "id": "20aa2a8a0571",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Purdue and Northeastern",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1s59q93/purdue_and_northeastern/",
+   "published": "2026-03-27T16:52:43+00:00",
+   "excerpt": "applying to both but the northeastern program is with CPS so not sure if it's worth it. do employers know or care if it's CPS? not going for omscs on purpose. don't want to do unnecessary busy work. submitted by /u/automation495 [link] [留言]",
+   "author": "/u/automation495",
+   "source": "Reddit r/gradadmissions",
+   "id": "ae8788530096",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Advice Needed: Georgia Tech OMSCS vs. BITS WILP for ML Research?",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1s0ka6u/advice_needed_georgia_tech_omscs_vs_bits_wilp_for/",
+   "published": "2026-03-22T12:24:38+00:00",
+   "excerpt": "Hi everyone, I am currently an sde in banglore deciding on my Master's path. my intreset is in ai/ml reserch and robotics I am trying to decide between Georgia Tech OMSCS and BITS Pilani WILP and other online mtech for iise/iit. I am not quitting my job, so a full-time M.Tech is out of the question. My Profile: Experience: ~2 years as an SDE (working heavily on Vision-Language Models, LangGraph multi-agent systems, and C++ radar pipeline optimization). Undergrad: B.Tech in Electronics & Communication (CGPA: 8.2) Research Output: 1 IEEE Publication (Deep Learning for EEG signals) and 1 issued Patent (Bioinformatics RNA2DNA algorithm). I also wrote GATE DA this year and got a rank of 4000 (tho",
+   "author": "/u/Capital_Initiative55",
+   "source": "Reddit r/gradadmissions",
+   "id": "0e4d38ef294e",
+   "admission_signal": true,
+   "keyword_hits": [
+    "profile"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Engineer's Profile Strength for Phd/MS CS Programs? (Late-cycle Fall 2026 applications to Dphil CS Oxford, MS CS at Northwestern, Virginia Tech?)",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1r5rqxi/engineers_profile_strength_for_phdms_cs_programs/",
+   "published": "2026-02-15T22:13:59+00:00",
+   "excerpt": "I am a current engineer pursuing a career transition to AI/ML and aiming to get a PhD CS or MS CS with thesis. I am interested in the non-LLM side of AI/ML - forecasting, RL, DL, etc. I was hoping to get some feedback about my profile for school applications. I am still applying in this fall 2026 cycle but I've only been admitted to UIC's MS CS so far. My profile is: 3.72 GPA in BS AE from University AL - Huntsville 3.66 GPA in 3 classes in GT's OMSCS program. But I put this on hold when I realized I wanted a research oriented graduate degree. 2 years research experience related to Micro Air Vehicles but no CS research. ( 3rd place solo undergraduate at 2021 AIAA SE Conference. Co-author on ",
+   "author": "/u/firmtofu69",
+   "source": "Reddit r/gradadmissions",
+   "id": "0711136ebc05",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admitted",
+    "profile",
+    "application"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Second-guessing OMSCS (rant)",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1r30r9b/secondguessing_omscs_rant/",
+   "published": "2026-02-12T18:10:23+00:00",
+   "excerpt": "Hi, I have been accepted to OMSCS, however, after I found out that the acceptance rate id about 90% I started to calm down. I am wondering if this is a good choice if many people get in and still your network capability is practically zero. I have also applied to other schools Columbia, ETH, Cornell Tech, CMU. So far I have been waitlisted at Cornell Tech. Most importantly, I am finishing a masters in a well known school in this European country, however, I would appreciate a bit of recognizability among US recruiters because I plan to work in the US. Is OMSCS overrated to have on CV if it is just online? Thank you for any comments. submitted by /u/QuinqueIs-GIyph-I728 [link] [留言]",
+   "author": "/u/QuinqueIs-GIyph-I728",
+   "source": "Reddit r/gradadmissions",
+   "id": "60da62b351f7",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted",
+    "acceptance rate",
+    "waitlist"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Wait time for GaTech OMSCS",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1r2c9vo/wait_time_for_gatech_omscs/",
+   "published": "2026-02-11T22:47:11+00:00",
+   "excerpt": "Hello everyone, I have a quick question about the wait time for the Decision for the OMSCS in Georgia Tech Application. I graduated with my undergrad in Data Science from a University in New Zealand with a 6.25/9 GPA (I think it’s equivalent to around 3.40/4). I applied around mid December last year for the fall 2026. I wanted to know when do we expect a decision back from GaTech. Thx in Advance submitted by /u/OkSilver2487 [link] [留言]",
+   "author": "/u/OkSilver2487",
+   "source": "Reddit r/gradadmissions",
+   "id": "d008a3cc18bb",
+   "admission_signal": true,
+   "keyword_hits": [
+    "decision",
+    "application"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Georgia Tech OMSCS Application",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1qbdgzi/georgia_tech_omscs_application/",
+   "published": "2026-01-13T01:12:13+00:00",
+   "excerpt": "I’m applying to this program and have listed only professors as my references even though I have been working as a data analyst for 1.5 years. Would this potentially negatively affect my application? submitted by /u/amrin123 [link] [留言]",
+   "author": "/u/amrin123",
+   "source": "Reddit r/gradadmissions",
+   "id": "e0700355a9bd",
+   "admission_signal": true,
+   "keyword_hits": [
+    "application"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Masters programs recommendations for a mediocre statistics students",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1q4y2co/masters_programs_recommendations_for_a_mediocre/",
+   "published": "2026-01-05T21:05:26+00:00",
+   "excerpt": "Hello everybody. I will matriculate in 2027 with about a 3.0 GPA, an internship, and a BA in statistics and data science. I am very interested in statistics and both for passion and professional reasons I would like to get a MS in statistics or data science. What programs are less competitive? I am looking at Georgia Tech OMSA or OMSCS, NYIT Data Science, CUNY Professional Studies Data Science. I am looking to stay local in NYC or LI or do an online program. I am probably a lot better an applicant than my resume makes me seem because I spend a lot of time doing projects in R because I love statistics and did the pure math major at my school until this year so I did real analysis, abstract al",
+   "author": "/u/kissingmyself",
+   "source": "Reddit r/gradadmissions",
+   "id": "c6354852a8a4",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Georgia Tech OMSCS or Virginia Tech MSCS?",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1p4rt22/georgia_tech_omscs_or_virginia_tech_mscs/",
+   "published": "2025-11-23T17:01:23+00:00",
+   "excerpt": "I'm a GMU IT grad considering where to go for grad school. Georgia Tech OMSCS was my first choice since it is substantially cheaper, high acceptance rate, and the name recognition might help. However, since many people are going into it I'm wondering if VT's program might be a better choice since I might be able to access more opportunities and connections in-person. I really don't know. If I could get any advice on this I'd really appreciate it! Another alternative option I'm considering is going to UVA and pivoting to a consulting role since big firms often recruit from there. submitted by /u/heaartdagger [link] [留言]",
+   "author": "/u/heaartdagger",
+   "source": "Reddit r/gradadmissions",
+   "id": "00b9866d6c43",
+   "admission_signal": true,
+   "keyword_hits": [
+    "acceptance rate"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "[Advice] MLE at F50 (168Q) – What's a realistic path to Quant/AI Research?",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1ojpyfv/advice_mle_at_f50_168q_whats_a_realistic_path_to/",
+   "published": "2025-10-30T04:02:24+00:00",
+   "excerpt": "Hey everyone, I'm looking for a reality check and some program recommendations. I have a return offer for an ML Engineer role, but my long-term passion is to pivot into either Quant Research or AI Research . I know AI Research is a long shot without a PhD/publications, but I want to take my best possible shot. I'm trying to figure out what type of Master's (or PhD) is the most strategic move. My Profile: Job: Machine Learning Engineer return offer at a Fortune 50 non-tech company . GRE: 168Q / 156V / 3.5 AWA Undergrad: 3.7 GPA in a STEM major (e.g., Data/Stats/Math) from a T15 public university. Other Ed: 4.0 GPA from community college (transferred). Weaknesses: I have no publications. I'm n",
+   "author": "/u/Ok-Opposite-9745",
+   "source": "Reddit r/gradadmissions",
+   "id": "be935c6cf39d",
+   "admission_signal": true,
+   "keyword_hits": [
+    "profile"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Help choosing a program online",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1molozp/help_choosing_a_program_online/",
+   "published": "2025-08-12T21:32:20+00:00",
+   "excerpt": "Hey wondering if anyone has personal experience or opinions on these programs, any of them not just cash grabs? Ga tech omscs Johns Hopkins EP masters AI Johns Hopkins EP masters applied math University of Penn MSE-AI UC Berkeley Master in data science Got accepted to these and trying to make a decision, appreciate any insight or other considerations. Thanks! I do have funding for work so most of these would be covered outside of MIDS submitted by /u/QuasiCellist [link] [留言]",
+   "author": "/u/QuasiCellist",
+   "source": "Reddit r/gradadmissions",
+   "id": "45c8fcf5370a",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted",
+    "decision"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
+   "published": "2024-04-04T07:00:00+00:00",
+   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "607e30a6c950",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "What's behind the success of post-grad computer science programs? - ZDNET",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzEwSnJpY0tfeUNybDlHSzE1S1k3bmQ0Wnp5Z3M3TC0yRTV0UmkwbXBRWm1TMWZEX3NoQ1RxX2prUFU0Y1ZwcUoxVHZEaFdIZGlVRk5wTmpnYTJoanJuX2JVWUx5dFJoVGNNNWxZOXAxX2JBR1NWOG1iUFZqLXJUZlZObWtFYmF2UkJfQ3phNlp2eHNpaUY2clNn?oc=5",
+   "published": "2022-04-01T07:00:00+00:00",
+   "excerpt": "What's behind the success of post-grad computer science programs? ZDNET",
+   "author": null,
+   "source": "Google News",
+   "id": "5eb0f74f31f9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
   {
    "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Institute of Technology",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdm9VVy1lakFRR05vcjc0UG1LUHdGSGpTeHQ2NFYyZXhWekh6dzRXY2UycjE5cHVKY2lpOFFUVmE4b254NE4zYkhNdGtZMGFCR3NKWUdFTXVXUmVmYVpWdmk4dE1KcWxIOFZnaG4xSWNCMnhEUGhTQVo5R21zMUdNbE1sMkNncnZsSjBubzFKMGR5V0phSzBVWDF1TjFBaE53eEdUTmZ3?oc=5",
@@ -130,25 +544,10 @@
    "title": "Are books mandatory to study for OMSCS?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1w7t8yb/are_books_mandatory_to_study_for_omscs/",
    "published": "2026-09-05T06:49:48+00:00",
-   "excerpt": "Hello, I am new to this group and have enrolled for Spring 2027 batch. I wanted to know from the seniors and alumnus here if books are equally mandatory to be bought and studied to cope up with course exams. Don’t GATECH provide study materials for online study? How do you guys prepare for the exams and from where did you get the course materials to prepare for exams and tests? submitted by /u/somik1987 [link] [留言]",
+   "excerpt": "Hello, I am new to this group and have enrolled for Spring 2027 batch. I wanted to know from the seniors and alumnus here if books are equally mandatory to be bought and studied to cope up with course exams. Don’t GATECH provide study materials for online study? How do you guys prepare for the exams and from where did you get the course materials to prepare for exams and tests? Edit: I am an online student within US. Do GA tech library send books via mail? Not that I hate books, I am not in favor of buying books as that would only eat up spaces in my room. submitted by /u/somik1987 [link] [留言]",
    "author": "/u/somik1987",
    "source": "Reddit r/OMSCS",
    "id": "d16b8451c561",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:56:41.895092+08:00"
-  },
-  {
-   "title": "School bill, Bursar didnt respond",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1w65hle/school_bill_bursar_didnt_respond/",
-   "published": "2026-09-03T12:05:37+00:00",
-   "excerpt": "Hi all, i took fin aid loan for my OMSCS but got a bill for $1425 I sent a message weeks ago to Bursar got no response and yesterday got an email that my classes are canceled for non payment!?! submitted by /u/Insomniac24x7 [link] [留言]",
-   "author": "/u/Insomniac24x7",
-   "source": "Reddit r/OMSCS",
-   "id": "d8190df1ea15",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -164,6 +563,21 @@
    "author": "/u/AspyAsparagus",
    "source": "Reddit r/OMSCS",
    "id": "c403db34a41f",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:56:41.895092+08:00"
+  },
+  {
+   "title": "School bill, Bursar didnt respond",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w65hle/school_bill_bursar_didnt_respond/",
+   "published": "2026-09-03T12:05:37+00:00",
+   "excerpt": "Hi all, i took fin aid loan for my OMSCS but got a bill for $1425 I sent a message weeks ago to Bursar got no response and yesterday got an email that my classes are canceled for non payment!?! submitted by /u/Insomniac24x7 [link] [留言]",
+   "author": "/u/Insomniac24x7",
+   "source": "Reddit r/OMSCS",
+   "id": "d8190df1ea15",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -971,7 +1385,7 @@
   {
    "title": "Watch This Video Before Applying To Georgia Tech OMSCS Tobias Harris (Y54PSb8oiU) - Mshale",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KN2ZKNGRmOWFwdE5uS3Q5dy1JRkZXNWRmOFl6MjZjU1VyZzQzWURYR00wLWJvUTcxUmxYZ0dLRDlxTVJ6RjZkRG02cktZOVU5Y1p4Qi1uNnNTeHM?oc=5",
-   "published": "2026-08-30T16:51:35+00:00",
+   "published": "2026-09-06T04:41:43+00:00",
    "excerpt": "Watch This Video Before Applying To Georgia Tech OMSCS Tobias Harris (Y54PSb8oiU) Mshale",
    "author": null,
    "source": "Google News",
@@ -1029,13 +1443,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
-   "published": "2023-05-03T07:00:00+00:00",
-   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
+   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
+   "published": "2025-01-27T08:00:00+00:00",
+   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia Georgia Tech News Center",
    "author": null,
    "source": "Google News",
-   "id": "54defa3e479c",
+   "id": "3fe0c49fd522",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1051,6 +1465,21 @@
    "author": null,
    "source": "Google News",
    "id": "0236a502b4bf",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
+   "published": "2023-05-03T07:00:00+00:00",
+   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "54defa3e479c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1119,10 +1548,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs - forbes.com",
+   "title": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs - Forbes",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUjk1TXI4MW1UUnZXd3RMOG5VQlFIVkNmVWN4UFZCcVN6U3ItUjhmM3BNdGswOUZEMUk0cW5KYU1abm54RkowRTI4blN1OFFhY3I3MGtUTDE3SzFjdTFDNG5TTmZiaEdxclR0d3QwM0FZQWFmZkV4c21yMTFGc3p2TFZRcFFGMHlKOFJHSXd4NGNudnB6ZmZ2MGRGSWU3RjNZWWsyZVVlaTdabFhCLXp0LXYtdFlQeU00REgzYm4zVFQ3ZlphUjBwQTVpemhIX0ROMlBUSWh1Wkc4OWQ0S1J3bU1uTmRBTjlNeGh2QnphX2JmYW45VTZOTQ?oc=5",
    "published": "2021-07-01T07:00:00+00:00",
-   "excerpt": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs forbes.com",
+   "excerpt": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs Forbes",
    "author": null,
    "source": "Google News",
    "id": "563c0ba265f3",
@@ -1730,21 +2159,6 @@
    "author": null,
    "source": "Google News",
    "id": "c1abc46043de",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
-   "published": "2025-01-27T08:00:00+00:00",
-   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "3fe0c49fd522",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

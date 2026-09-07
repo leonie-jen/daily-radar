@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-06T11:22:23.488798+08:00",
+ "updated_at": "2026-09-07T11:21:16.145117+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -16,11 +16,23 @@
   {
    "name": "哈利的投資研究筆記庫",
    "ok": true,
-   "count": 6,
+   "count": 4,
    "note": ""
   }
  ],
  "items": [
+  {
+   "title": "[加密貨幣] 2026-09-07 加密貨幣盤後報告",
+   "url": "https://harrymemo.com/outputs/crypto/2026-09-07_CRYPTO_Weekly_Dashboard",
+   "published": "2026-09-07",
+   "excerpt": "",
+   "market_section": "crypto",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "fe1d98edac8c",
+   "relevance": null,
+   "first_seen": "2026-09-07T11:21:16.145117+08:00"
+  },
   {
    "title": "[美股] 2026-09-05 美股盤後報告",
    "url": "https://harrymemo.com/outputs/us/2026-09-05_US_Market_Dashboard",
@@ -135,7 +147,7 @@
   }
  ],
  "fx": {
-  "usd_twd": 31.62,
+  "usd_twd": 31.627,
   "source": "rter.info",
   "history": [
    {
@@ -145,6 +157,10 @@
    {
     "d": "2026-09-06",
     "v": 31.62
+   },
+   {
+    "d": "2026-09-07",
+    "v": 31.627
    }
   ],
   "change_7d": null,
@@ -197,11 +213,11 @@
   {
    "symbol": "2330.TW",
    "name": "台積電",
-   "price": 2410.0,
-   "change": 20.0,
-   "change_pct": 0.84,
+   "price": null,
+   "change": null,
+   "change_pct": null,
    "currency": "TWD",
-   "as_of": "2026-09-04",
+   "as_of": "2026-09-07",
    "market": "TW"
   },
   {

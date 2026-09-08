@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-07T11:21:16.145117+08:00",
+ "updated_at": "2026-09-08T11:28:50.213446+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -16,11 +16,23 @@
   {
    "name": "哈利的投資研究筆記庫",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "note": ""
   }
  ],
  "items": [
+  {
+   "title": "[台股] 2026-09-07 台股盤後報告",
+   "url": "https://harrymemo.com/outputs/tw/2026-09-07_TW_Market_Dashboard",
+   "published": "2026-09-07",
+   "excerpt": "",
+   "market_section": "tw",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "2ef02aa259fa",
+   "relevance": null,
+   "first_seen": "2026-09-08T11:28:50.213446+08:00"
+  },
   {
    "title": "[加密貨幣] 2026-09-07 加密貨幣盤後報告",
    "url": "https://harrymemo.com/outputs/crypto/2026-09-07_CRYPTO_Weekly_Dashboard",
@@ -31,6 +43,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "fe1d98edac8c",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-07T11:21:16.145117+08:00"
   },
   {
@@ -147,7 +161,7 @@
   }
  ],
  "fx": {
-  "usd_twd": 31.627,
+  "usd_twd": 31.48,
   "source": "rter.info",
   "history": [
    {
@@ -161,6 +175,10 @@
    {
     "d": "2026-09-07",
     "v": 31.627
+   },
+   {
+    "d": "2026-09-08",
+    "v": 31.48
    }
   ],
   "change_7d": null,
@@ -173,11 +191,11 @@
   {
    "symbol": "^TWII",
    "name": "台股加權",
-   "price": 46551.13,
-   "change": 693.47,
-   "change_pct": 1.51,
+   "price": 47326.27,
+   "change": 775.14,
+   "change_pct": 1.67,
    "currency": "TWD",
-   "as_of": "2026-09-04",
+   "as_of": "2026-09-07",
    "market": "TW"
   },
   {
@@ -204,8 +222,8 @@
    "symbol": "^SOX",
    "name": "費半",
    "price": 11735.262,
-   "change": 383.134,
-   "change_pct": 3.38,
+   "change": null,
+   "change_pct": null,
    "currency": "USD",
    "as_of": "2026-09-04",
    "market": "US"
@@ -217,7 +235,7 @@
    "change": null,
    "change_pct": null,
    "currency": "TWD",
-   "as_of": "2026-09-07",
+   "as_of": "2026-09-08",
    "market": "TW"
   },
   {

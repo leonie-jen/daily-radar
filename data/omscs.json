@@ -1,34 +1,34 @@
 {
- "updated_at": "2026-09-07T11:20:07.298976+08:00",
+ "updated_at": "2026-09-08T11:27:40.081789+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
-   "ok": true,
-   "count": 25,
-   "note": ""
-  },
-  {
-   "name": "Reddit r/OMSCS 錄取討論",
    "ok": false,
    "count": 0,
    "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
-   "name": "Reddit r/gradadmissions",
+   "name": "Reddit r/OMSCS 錄取討論",
    "ok": true,
    "count": 25,
    "note": ""
   },
   {
+   "name": "Reddit r/gradadmissions",
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+  },
+  {
    "name": "Google News",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "note": ""
   },
   {
    "name": "Google News",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "note": ""
   },
   {
@@ -51,6 +51,49 @@
   }
  ],
  "items": [
+  {
+   "title": "Georgia Tech to Offer Massive Online Master's Degree in Computer Science - Patch",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1U4aVpxV3I3MlItdmtlZ2M2NWNiLVRaRF9vQjM2MnotS1ZWakJ1VDlqT0p4MDhvU0t4SGFIQU42N055S2ZfWmtTdmFfd1F6VU9XOE0xREdrSGpsaC1tMXRSY3VSUk54Nk8tZGhEN29EMjJmRUxlMGVfckIta0JCZ1JtcF9MdDU4NF9NTkNqUlV5aUdYbloyeTRjQk5QUQ?oc=5",
+   "published": "2013-05-20T07:00:00+00:00",
+   "excerpt": "Georgia Tech to Offer Massive Online Master's Degree in Computer Science Patch",
+   "author": null,
+   "source": "Google News",
+   "id": "6639e48dc8b6",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-08T11:27:40.081789+08:00"
+  },
+  {
+   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
+   "published": "2024-04-04T07:00:00+00:00",
+   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "607e30a6c950",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "What's behind the success of post-grad computer science programs? - ZDNET",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzEwSnJpY0tfeUNybDlHSzE1S1k3bmQ0Wnp5Z3M3TC0yRTV0UmkwbXBRWm1TMWZEX3NoQ1RxX2prUFU0Y1ZwcUoxVHZEaFdIZGlVRk5wTmpnYTJoanJuX2JVWUx5dFJoVGNNNWxZOXAxX2JBR1NWOG1iUFZqLXJUZlZObWtFYmF2UkJfQ3phNlp2eHNpaUY2clNn?oc=5",
+   "published": "2022-04-01T07:00:00+00:00",
+   "excerpt": "What's behind the success of post-grad computer science programs? ZDNET",
+   "author": null,
+   "source": "Google News",
+   "id": "5eb0f74f31f9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
   {
    "title": "How’s everybody’s week 2 going? I thought my RL project deadline was 2 weeks earlier than it was",
    "url": "https://www.reddit.com/r/OMSCS/comments/1w8s5fb/hows_everybodys_week_2_going_i_thought_my_rl/",
@@ -440,32 +483,6 @@
    "first_seen": "2026-09-07T11:20:07.298976+08:00"
   },
   {
-   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
-   "published": "2024-04-04T07:00:00+00:00",
-   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "607e30a6c950",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "first_seen": "2026-09-07T11:20:07.298976+08:00"
-  },
-  {
-   "title": "What's behind the success of post-grad computer science programs? - ZDNET",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzEwSnJpY0tfeUNybDlHSzE1S1k3bmQ0Wnp5Z3M3TC0yRTV0UmkwbXBRWm1TMWZEX3NoQ1RxX2prUFU0Y1ZwcUoxVHZEaFdIZGlVRk5wTmpnYTJoanJuX2JVWUx5dFJoVGNNNWxZOXAxX2JBR1NWOG1iUFZqLXJUZlZObWtFYmF2UkJfQ3phNlp2eHNpaUY2clNn?oc=5",
-   "published": "2022-04-01T07:00:00+00:00",
-   "excerpt": "What's behind the success of post-grad computer science programs? ZDNET",
-   "author": null,
-   "source": "Google News",
-   "id": "5eb0f74f31f9",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "first_seen": "2026-09-07T11:20:07.298976+08:00"
-  },
-  {
    "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Institute of Technology",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdm9VVy1lakFRR05vcjc0UG1LUHdGSGpTeHQ2NFYyZXhWekh6dzRXY2UycjE5cHVKY2lpOFFUVmE4b254NE4zYkhNdGtZMGFCR3NKWUdFTXVXUmVmYVpWdmk4dE1KcWxIOFZnaG4xSWNCMnhEUGhTQVo5R21zMUdNbE1sMkNncnZsSjBubzFKMGR5V0phSzBVWDF1TjFBaE53eEdUTmZ3?oc=5",
    "published": "2025-01-27T08:00:00+00:00",
@@ -814,7 +831,7 @@
    "published": "2026-08-30T13:13:44+00:00",
    "excerpt": "Hi All. I’ve got a simple one: How are people intending to make a pivot into SDE making a decision around it? I am a mechanical engineer (early 30s), intending to continue into product management (I have been in product since the last 4.5 years), however, I don’t want to close off technical pathways and wondering what pivoters’ thought process is. Some considerations I’d be thinking of: 1. The overall SDE job market with huge AI impact on entry level roles 2. Tier (junior, mid, senior level) of roles you’re considering 3. Potential industries you’re planning to target 4. Is pivot based purely on interest? Thanks for all your inputs! submitted by /u/SpecialPreference447 [link] [留言]",
    "author": "/u/SpecialPreference447",
-   "source": "Reddit r/OMSCS",
+   "source": "Reddit r/OMSCS 錄取討論",
    "id": "333329220cb7",
    "admission_signal": true,
    "keyword_hits": [
@@ -984,47 +1001,12 @@
    "first_seen": "2026-09-05T21:24:44.392890+08:00"
   },
   {
-   "title": "Admissions Megathread - Results, Chances and Logistics",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5w/admissions_megathread_results_chances_and/",
-   "published": "2026-06-29T05:01:56+00:00",
-   "excerpt": "📌OMSCS Admissions Megathread This is the Admissions Megathread of the GaTech's O nline M asters of S cience in C omputer S cience! We design this as a one-stop page for the following things that you might have in your head. Admissions Overview / Admissions FAQs Preparing Yourself for OMSCS CS 1301: Introduction to Programming (in Python) CS 1331: Object Oriented Programming (in Java) CS 1332: Data Structures & Algorithms CSE 6040: Computing for Data Analysis (if you're transferring from r/OMSA ) Additional Application Guidelines (to strengthen your chances) Applications URL (oh damn finally!) Deadline for Fall is fixed at March 1st. Deadline for Spring is fixed at August 15th. There are no S",
-   "author": "/u/AutoModerator",
-   "source": "Reddit r/OMSCS",
-   "id": "6dad5c6b59c9",
-   "admission_signal": true,
-   "keyword_hits": [
-    "admission",
-    "application"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:20:16.080232+08:00"
-  },
-  {
-   "title": "Course & Specs Megathread - Selection, Choices & Registration",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5j/course_specs_megathread_selection_choices/",
-   "published": "2026-06-29T05:01:55+00:00",
-   "excerpt": "📌Specializations & Courses Megathread - Selection & Registration Welcome to the Specialization & Course Megathread for OMSCS! Now that you've {just been accepted / been here for a bit / been here for awhile}*, this thread is designed to help you navigate the various specializations offered and assist with selecting the right courses for your academic and career goals. (\\ delete as appropriate)* Please read through the information provided below before posting your questions. 📚 Available Specializations Machine Learning Interactive Intelligence Computing Systems Computer Graphics Computational Perception and Robotics Human-Computer Interaction Courses that are not linked in the official websi",
-   "author": "/u/Detective-Raichu",
-   "source": "Reddit r/OMSCS",
-   "id": "288826cfaae5",
-   "admission_signal": true,
-   "keyword_hits": [
-    "accepted"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:20:16.080232+08:00"
-  },
-  {
    "title": "Very Disappointing Application Process for International Students",
    "url": "https://www.reddit.com/r/OMSCS/comments/1w4im2t/very_disappointing_application_process_for/",
    "published": "2026-09-01T17:24:02+00:00",
    "excerpt": "Hello, I applied to this program for Fall 2026 and got my letter of acceptance on April 3rd, and then, for more than 10 weeks, my application was under institutional review. In early July, they said I was missing some documents. They asked for documents that I did not even have. I had to call that U.S. number at least 20 times, and often I was not able to get answers about what exactly I should translate from my undergraduate transcript, my degree, etc. I hold a French bachelor's degree (3 years, 180 ECTS). But in the end, they told me by email that I was not eligible since I only have a French bachelor's degree and I need a master's degree to apply for the OMSCS . It does not make any sense",
    "author": "/u/CulturalEngine169",
-   "source": "Reddit r/OMSCS",
+   "source": "Reddit r/OMSCS 錄取討論",
    "id": "d5d24d040886",
    "admission_signal": true,
    "keyword_hits": [
@@ -1041,7 +1023,7 @@
    "published": "2026-08-30T08:30:10+00:00",
    "excerpt": "Hey guys, I recently got admitted into OMSCS (joining in fall 2027). I want to join a research project and hopefully get some papers published. I was looking through buzzme to get an idea about what kinds of projects people work on, and I am unable to find any research projects to join. It just says no research projects. Any idea what's happening? submitted by /u/Old_Intention7499 [link] [留言]",
    "author": "/u/Old_Intention7499",
-   "source": "Reddit r/OMSCS",
+   "source": "Reddit r/OMSCS 錄取討論",
    "id": "0c3762dd1671",
    "admission_signal": true,
    "keyword_hits": [
@@ -1213,6 +1195,41 @@
     "admitted",
     "accepted",
     "admission"
+   ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:20:16.080232+08:00"
+  },
+  {
+   "title": "Admissions Megathread - Results, Chances and Logistics",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5w/admissions_megathread_results_chances_and/",
+   "published": "2026-06-29T05:01:56+00:00",
+   "excerpt": "📌OMSCS Admissions Megathread This is the Admissions Megathread of the GaTech's O nline M asters of S cience in C omputer S cience! We design this as a one-stop page for the following things that you might have in your head. Admissions Overview / Admissions FAQs Preparing Yourself for OMSCS CS 1301: Introduction to Programming (in Python) CS 1331: Object Oriented Programming (in Java) CS 1332: Data Structures & Algorithms CSE 6040: Computing for Data Analysis (if you're transferring from r/OMSA ) Additional Application Guidelines (to strengthen your chances) Applications URL (oh damn finally!) Deadline for Fall is fixed at March 1st. Deadline for Spring is fixed at August 15th. There are no S",
+   "author": "/u/AutoModerator",
+   "source": "Reddit r/OMSCS 錄取討論",
+   "id": "6dad5c6b59c9",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admission",
+    "application"
+   ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:20:16.080232+08:00"
+  },
+  {
+   "title": "Course & Specs Megathread - Selection, Choices & Registration",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5j/course_specs_megathread_selection_choices/",
+   "published": "2026-06-29T05:01:55+00:00",
+   "excerpt": "📌Specializations & Courses Megathread - Selection & Registration Welcome to the Specialization & Course Megathread for OMSCS! Now that you've {just been accepted / been here for a bit / been here for awhile}*, this thread is designed to help you navigate the various specializations offered and assist with selecting the right courses for your academic and career goals. (\\ delete as appropriate)* Please read through the information provided below before posting your questions. 📚 Available Specializations Machine Learning Interactive Intelligence Computing Systems Computer Graphics Computational Perception and Robotics Human-Computer Interaction Courses that are not linked in the official websi",
+   "author": "/u/Detective-Raichu",
+   "source": "Reddit r/OMSCS 錄取討論",
+   "id": "288826cfaae5",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted"
    ],
    "relevance": null,
    "summary": null,
@@ -1458,13 +1475,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
-   "published": "2024-08-25T07:00:00+00:00",
-   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
+   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - medium.datadriveninvestor.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
+   "published": "2023-05-03T07:00:00+00:00",
+   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal medium.datadriveninvestor.com",
    "author": null,
    "source": "Google News",
-   "id": "0236a502b4bf",
+   "id": "54defa3e479c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1473,13 +1490,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
-   "published": "2023-05-03T07:00:00+00:00",
-   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
+   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - medium.datadriveninvestor.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
+   "published": "2024-08-25T07:00:00+00:00",
+   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming medium.datadriveninvestor.com",
    "author": null,
    "source": "Google News",
-   "id": "54defa3e479c",
+   "id": "0236a502b4bf",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1518,6 +1535,21 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
+   "title": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science - medium.datadriveninvestor.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1phSncwdjQxY0QzRWQzbWVnZEpfdlI2RnlKSi1fUmJHQWU5YXVSMTRjbTRoTUNmM2paOTA1clhJWUg3X0d1TWlaUVRFMThkYXRJdGwtWWI0WmtMOEpxTmdoYWN4NWQxblVqb2VuUVNoLWdTVm9KY0lQUVVfUnhrNnY3T2NCMXA4MFVWclljZTN5QzNSRHhXUHZ1Ui1NdTVQY21oeGF5THNYdEdGUlJJN0t0aE8weEU?oc=5",
+   "published": "2020-12-26T08:00:00+00:00",
+   "excerpt": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science medium.datadriveninvestor.com",
+   "author": null,
+   "source": "Google News",
+   "id": "3e299541f687",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
    "title": "Georgia Tech launches second low-cost online master's degree program - Inside Higher Ed",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmg5WE0weGxEN2doN1o5SEhkeENTSzVzVDVhNlVKRmZVbktBWTZXd2hXaUFUeGhhSTdpQmJYMzlHXzFzMWROVHVJOGh4OEdDY3hwNWFTYVpvZHllbmlmWmJFck1lMGE3VVdaQlFnZnNEQjdZdHYyR0xGTEdxUVZFbGtOTkl6dm5nQ0dDLUN0UnJ1LUNJcWZSLS00c1M4cXJCNFRUaGphaU13Wmd4VnI1bWl2aHg?oc=5",
    "published": "2017-01-11T08:00:00+00:00",
@@ -1533,13 +1565,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Research challenges assumptions about online education success - Phys.org",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
-   "published": "2026-08-03T07:00:00+00:00",
-   "excerpt": "Research challenges assumptions about online education success Phys.org",
+   "title": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs - Forbes",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUjk1TXI4MW1UUnZXd3RMOG5VQlFIVkNmVWN4UFZCcVN6U3ItUjhmM3BNdGswOUZEMUk0cW5KYU1abm54RkowRTI4blN1OFFhY3I3MGtUTDE3SzFjdTFDNG5TTmZiaEdxclR0d3QwM0FZQWFmZkV4c21yMTFGc3p2TFZRcFFGMHlKOFJHSXd4NGNudnB6ZmZ2MGRGSWU3RjNZWWsyZVVlaTdabFhCLXp0LXYtdFlQeU00REgzYm4zVFQ3ZlphUjBwQTVpemhIX0ROMlBUSWh1Wkc4OWQ0S1J3bU1uTmRBTjlNeGh2QnphX2JmYW45VTZOTQ?oc=5",
+   "published": "2021-07-01T07:00:00+00:00",
+   "excerpt": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs Forbes",
    "author": null,
    "source": "Google News",
-   "id": "3fd446b8a3e2",
+   "id": "563c0ba265f3",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1548,13 +1580,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs - Forbes",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUjk1TXI4MW1UUnZXd3RMOG5VQlFIVkNmVWN4UFZCcVN6U3ItUjhmM3BNdGswOUZEMUk0cW5KYU1abm54RkowRTI4blN1OFFhY3I3MGtUTDE3SzFjdTFDNG5TTmZiaEdxclR0d3QwM0FZQWFmZkV4c21yMTFGc3p2TFZRcFFGMHlKOFJHSXd4NGNudnB6ZmZ2MGRGSWU3RjNZWWsyZVVlaTdabFhCLXp0LXYtdFlQeU00REgzYm4zVFQ3ZlphUjBwQTVpemhIX0ROMlBUSWh1Wkc4OWQ0S1J3bU1uTmRBTjlNeGh2QnphX2JmYW45VTZOTQ?oc=5",
-   "published": "2021-07-01T07:00:00+00:00",
-   "excerpt": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs Forbes",
+   "title": "Research challenges assumptions about online education success - Phys.org",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
+   "published": "2026-08-03T07:00:00+00:00",
+   "excerpt": "Research challenges assumptions about online education success Phys.org",
    "author": null,
    "source": "Google News",
-   "id": "563c0ba265f3",
+   "id": "3fd446b8a3e2",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2174,21 +2206,6 @@
    "author": null,
    "source": "Google News",
    "id": "43f2eafe3c1d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science - medium.datadriveninvestor.com",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1phSncwdjQxY0QzRWQzbWVnZEpfdlI2RnlKSi1fUmJHQWU5YXVSMTRjbTRoTUNmM2paOTA1clhJWUg3X0d1TWlaUVRFMThkYXRJdGwtWWI0WmtMOEpxTmdoYWN4NWQxblVqb2VuUVNoLWdTVm9KY0lQUVVfUnhrNnY3T2NCMXA4MFVWclljZTN5QzNSRHhXUHZ1Ui1NdTVQY21oeGF5THNYdEdGUlJJN0t0aE8weEU?oc=5",
-   "published": "2020-12-26T08:00:00+00:00",
-   "excerpt": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science medium.datadriveninvestor.com",
-   "author": null,
-   "source": "Google News",
-   "id": "3e299541f687",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

@@ -1,41 +1,41 @@
 {
- "updated_at": "2026-09-07T11:21:18.703195+08:00",
- "duration_sec": 111.6,
+ "updated_at": "2026-09-08T11:28:52.532084+08:00",
+ "duration_sec": 143.3,
  "sections": [
   {
    "key": "omscs",
    "label": "OMSCS 情報",
    "ok": true,
-   "items": 143,
+   "items": 144,
    "sources": [
     {
      "name": "Reddit r/OMSCS",
-     "ok": true,
-     "count": 25,
-     "note": ""
-    },
-    {
-     "name": "Reddit r/OMSCS 錄取討論",
      "ok": false,
      "count": 0,
      "note": "沒抓到資料（可能被擋或今天沒新內容）"
     },
     {
-     "name": "Reddit r/gradadmissions",
+     "name": "Reddit r/OMSCS 錄取討論",
      "ok": true,
      "count": 25,
      "note": ""
     },
     {
+     "name": "Reddit r/gradadmissions",
+     "ok": false,
+     "count": 0,
+     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+    },
+    {
      "name": "Google News",
      "ok": true,
-     "count": 11,
+     "count": 12,
      "note": ""
     },
     {
      "name": "Google News",
      "ok": true,
-     "count": 4,
+     "count": 5,
      "note": ""
     },
     {
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 142,
+   "items": 164,
    "sources": [
     {
      "name": "Google News",
@@ -96,15 +96,15 @@
     },
     {
      "name": "Reddit r/f1visa",
-     "ok": false,
-     "count": 0,
-     "note": "沒抓到資料（可能被擋或今天沒新內容）"
-    },
-    {
-     "name": "Reddit r/immigration CPT",
      "ok": true,
      "count": 25,
      "note": ""
+    },
+    {
+     "name": "Reddit r/immigration CPT",
+     "ok": false,
+     "count": 0,
+     "note": "沒抓到資料（可能被擋或今天沒新內容）"
     },
     {
      "name": "ICE 新聞稿",
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 193,
+   "items": 223,
    "sources": [
     {
      "name": "104｜自動化測試",
@@ -198,7 +198,7 @@
    "key": "finance",
    "label": "匯率與股市",
    "ok": true,
-   "items": 9,
+   "items": 10,
    "sources": [
     {
      "name": "匯率 USD/TWD",
@@ -215,7 +215,7 @@
     {
      "name": "哈利的投資研究筆記庫",
      "ok": true,
-     "count": 4,
+     "count": 3,
      "note": ""
     }
    ]

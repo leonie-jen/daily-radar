@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-09T11:31:05.420826+08:00",
+ "updated_at": "2026-09-10T11:29:06.422193+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -28,7 +28,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "note": ""
   },
   {
@@ -52,6 +52,84 @@
  ],
  "items": [
   {
+   "title": "How has SDCC helped you in your work?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wbog1r/how_has_sdcc_helped_you_in_your_work/",
+   "published": "2026-09-09T15:15:56+00:00",
+   "excerpt": "I am currently pursuing the computing systems track (GIOS,HPCA,AOS,SAT,CN) and I am considering the benefits of taking up SDCC in a future semester. From the syllabus, it seems like it is a very networking heavy class (SDN, NFV projects etc.) with trace elements of distributed computing. Because of that it seemed like it is/was very relevant to the industry, especially in the infra/devops/cloud engineer roles. I am curious as to how it has been helpful to your career since it is very niche, and whether the AI era has decreased its value proposition (or not?).My other considerations are whether to spend more time in AI related modules instead first so as to stay more relevant in the AI era. I",
+   "author": "/u/SafeIllustrious8425",
+   "source": "Reddit r/OMSCS",
+   "id": "f9c70d866ba5",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-10T11:29:06.422193+08:00"
+  },
+  {
+   "title": "Contact for Canvas Course Publication",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wc17p0/contact_for_canvas_course_publication/",
+   "published": "2026-09-09T22:55:24+00:00",
+   "excerpt": "For whatever reason, one of my courses is unpublished in Canvas. I graduated fairly recently, but all the others are still available for review. Who should I contact to request this course being published? I enjoyed the content and would like a chance to look over the materials, etc. Apologies if this is obvious -- I just don't want to bug anyone needlessly during the start of the semester. submitted by /u/RoutineJob6 [link] [留言]",
+   "author": "/u/RoutineJob6",
+   "source": "Reddit r/OMSCS",
+   "id": "0f10758855ac",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-10T11:29:06.422193+08:00"
+  },
+  {
+   "title": "CS 8001 OFL: Federated Learning and Machine Learning Operations",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wbuknc/cs_8001_ofl_federated_learning_and_machine/",
+   "published": "2026-09-09T18:52:59+00:00",
+   "excerpt": "This seminar was last offered Spring 2025. Does anyone know what semester it will be offered next? submitted by /u/SomberDreamer [link] [留言]",
+   "author": "/u/SomberDreamer",
+   "source": "Reddit r/OMSCS",
+   "id": "e3cf3b8e13e5",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-10T11:29:06.422193+08:00"
+  },
+  {
+   "title": "How do you pronounce GIOS in your head",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wbcy08/how_do_you_pronounce_gios_in_your_head/",
+   "published": "2026-09-09T05:51:18+00:00",
+   "excerpt": "Do you say the acronym out “Gee-Eye-Oh-Ess” or say it as a word like “Geos”. I do the latter and always have and it just dawned upon me that I might be the only one and now I’m curious submitted by /u/Indiansizzler [link] [留言]",
+   "author": "/u/Indiansizzler",
+   "source": "Reddit r/OMSCS",
+   "id": "882e8466bbe0",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-10T11:29:06.422193+08:00"
+  },
+  {
+   "title": "Looking to buy a used graduation cap and gown",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wbk6n2/looking_to_buy_a_used_graduation_cap_and_gown/",
+   "published": "2026-09-09T12:27:54+00:00",
+   "excerpt": "Hey everyone! I'm graduating soon and wanted to see if anyone has a graduation cap and gown from Georgia Tech that they no longer need and would be willing to sell. I'm 5'10\" and about 235 lbs, so I'm looking for something that would fit around that size. Happy to pay a fair price. Thanks! submitted by /u/BearFanEngineer [link] [留言]",
+   "author": "/u/BearFanEngineer",
+   "source": "Reddit r/OMSCS",
+   "id": "74209dc8351a",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-10T11:29:06.422193+08:00"
+  },
+  {
+   "title": "The Digital Bridge - Harvard Graduate School of Education",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4WElYZVptUTFza2dhNV9TSWlNUnVyVFBXQTZhZXE5SmxBemZ1cV82RnAwbDhsOG1mZzZRX0pQWkxienVzV0VOTkc3ZHhwWlBWYV9lb0RNUDRtcFdnVV9DZTUtWGtRdXFmNHYybnlFUE5ETFh4VjYzSmoyWQ?oc=5",
+   "published": "2016-10-17T07:00:00+00:00",
+   "excerpt": "The Digital Bridge Harvard Graduate School of Education",
+   "author": null,
+   "source": "Google News",
+   "id": "879e1d986e19",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-10T11:29:06.422193+08:00"
+  },
+  {
    "title": "Can research at another university count toward OMSCS research/project credits?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1waem82/can_research_at_another_university_count_toward/",
    "published": "2026-09-08T04:46:08+00:00",
@@ -62,6 +140,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-09T11:31:05.420826+08:00"
   },
   {
@@ -75,6 +155,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-09T11:31:05.420826+08:00"
   },
   {
@@ -88,6 +170,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-09T11:31:05.420826+08:00"
   },
   {
@@ -101,6 +185,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-09T11:31:05.420826+08:00"
   },
   {
@@ -114,19 +200,23 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-09T11:31:05.420826+08:00"
   },
   {
-   "title": "Aos Omscs - erto.fi",
+   "title": "Aos Omscs - Oma Erto",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mcVZnWmZzWU1NRDNZZ3FGSEx4THVhY3o1S3hPUGFSQms5clBPelY1cDYxZUVKWGpPbFRZQ1JzazB5cmtCeDk3SDNERTZRdw?oc=5",
    "published": "2026-08-11T04:09:45+00:00",
-   "excerpt": "Aos Omscs erto.fi",
+   "excerpt": "Aos Omscs Oma Erto",
    "author": null,
    "source": "Google News",
    "id": "8af33b154542",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-09T11:31:05.420826+08:00"
   },
   {
@@ -551,10 +641,10 @@
    "first_seen": "2026-09-07T11:20:07.298976+08:00"
   },
   {
-   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
+   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - news.gatech.edu",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
    "published": "2024-04-04T07:00:00+00:00",
-   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
+   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI news.gatech.edu",
    "author": null,
    "source": "Google News",
    "id": "607e30a6c950",
@@ -1543,10 +1633,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Joyner Appointed Interim Vice Provost for AI in Education - Georgia Tech News Center",
+   "title": "Joyner Appointed Interim Vice Provost for AI in Education - news.gatech.edu",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2lfb2syRWY4RzZNMUxyNUdHTUstX2dZX21NQ0JiX1ZZeE5aVVlwNDQtbkdXcldTdVc0V2tNdEgwa01HSFIzN3ZJZjJKeEdITXlrNVJMX2hMSk92QnRvYkJycHQ0Qy02cDNZdV9iYWVIdG1oOFpzOEtXRi0tREtnLTZvcVBaYTNvLVNZUTEteUFURHRO?oc=5",
    "published": "2026-07-01T07:00:00+00:00",
-   "excerpt": "Joyner Appointed Interim Vice Provost for AI in Education Georgia Tech News Center",
+   "excerpt": "Joyner Appointed Interim Vice Provost for AI in Education news.gatech.edu",
    "author": null,
    "source": "Google News",
    "id": "c1e905d9279f",
@@ -1558,10 +1648,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge - gatech.edu",
+   "title": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge - Georgia Institute of Technology",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmFJRDVrdTBzUVREbkJiMHJEOFdsVUd5dl84S3ZTbEd5RjBFeXgxakpKVEdRc2o5Z2tsdS0zQVA2WktkX0wyLW81T2txdFB1bmxoeVV0dWR0SHI4bloxenJrOHFjUnh2RE1GaHRid2NiUXd2aEdfYldxZm5MVHBuVkQxcURLTVpjNzFWdVR2bGhoc0Y1VVRZckZYN1dlRGdtWUc1TTk0aElqbkQ5WkZmdWZR?oc=5",
    "published": "2025-06-27T07:00:00+00:00",
-   "excerpt": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge gatech.edu",
+   "excerpt": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge Georgia Institute of Technology",
    "author": null,
    "source": "Google News",
    "id": "3b5108aa7f06",
@@ -1588,10 +1678,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
+   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - news.gatech.edu",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
    "published": "2025-01-27T08:00:00+00:00",
-   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia Georgia Tech News Center",
+   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia news.gatech.edu",
    "author": null,
    "source": "Google News",
    "id": "3fe0c49fd522",
@@ -1618,21 +1708,6 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
-   "published": "2024-08-25T07:00:00+00:00",
-   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
-   "author": null,
-   "source": "Google News",
-   "id": "0236a502b4bf",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
    "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
    "published": "2022-05-07T07:00:00+00:00",
@@ -1648,10 +1723,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Unique Program Offers Campus Research Opportunities for Online Students - Georgia Tech News Center",
+   "title": "Unique Program Offers Campus Research Opportunities for Online Students - news.gatech.edu",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0ZlSlQ5T2JrVjEtYmpGUGtzb1F1SlBIT0trOENndE9PeG9pN2pQNllxLUc5bk1vTzNmSW1GVWFsNl9ZQl92NnEwbGJjNGYyLTJkNjE0NDFnMEE5UlBybTJraXU1cDVlT1VJUEtFaU9WczBXRHZMTWpsRWxHYTlmQmtXNkJrS3NJMy1KUDBZQ0w0aWc5b25LOExxaVZiZEQ5SmFEaXF4N2RyRTQ?oc=5",
    "published": "2024-04-29T07:00:00+00:00",
-   "excerpt": "Unique Program Offers Campus Research Opportunities for Online Students Georgia Tech News Center",
+   "excerpt": "Unique Program Offers Campus Research Opportunities for Online Students news.gatech.edu",
    "author": null,
    "source": "Google News",
    "id": "2ffcf459be25",
@@ -1693,10 +1768,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs - forbes.com",
+   "title": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs - Forbes",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUjk1TXI4MW1UUnZXd3RMOG5VQlFIVkNmVWN4UFZCcVN6U3ItUjhmM3BNdGswOUZEMUk0cW5KYU1abm54RkowRTI4blN1OFFhY3I3MGtUTDE3SzFjdTFDNG5TTmZiaEdxclR0d3QwM0FZQWFmZkV4c21yMTFGc3p2TFZRcFFGMHlKOFJHSXd4NGNudnB6ZmZ2MGRGSWU3RjNZWWsyZVVlaTdabFhCLXp0LXYtdFlQeU00REgzYm4zVFQ3ZlphUjBwQTVpemhIX0ROMlBUSWh1Wkc4OWQ0S1J3bU1uTmRBTjlNeGh2QnphX2JmYW45VTZOTQ?oc=5",
    "published": "2021-07-01T07:00:00+00:00",
-   "excerpt": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs forbes.com",
+   "excerpt": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs Forbes",
    "author": null,
    "source": "Google News",
    "id": "563c0ba265f3",
@@ -1723,10 +1798,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Top Online Master's in Computer Science Without CS Undergrad - BestColleges",
+   "title": "Top Online Master's in Computer Science Without CS Undergrad - bestcolleges.com",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaEJ4V3V3YmdiYWkwVjJjUTZTb3BJUEFGQmk2bWF3MjlKU00zQUpMOHktdDBZZUdRLUMtZEFSN29GLUhyZlU1QVhEdDZNSnVrMlhvcHFxN3BTTUlMalZlRGNQQTREWTF6eFBxOHJvWUg5UVVPa1ow?oc=5",
    "published": "2024-10-08T07:00:00+00:00",
-   "excerpt": "Top Online Master's in Computer Science Without CS Undergrad BestColleges",
+   "excerpt": "Top Online Master's in Computer Science Without CS Undergrad bestcolleges.com",
    "author": null,
    "source": "Google News",
    "id": "5100fe8e67f9",
@@ -1794,7 +1869,7 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Georgia water systems were hacked. Were minicomputers the way in",
+   "title": "Georgia Water Systems Were Hacked. Were Minicomputers the Way In?",
    "url": "https://omscs.gatech.edu/external-news/georgia-water-systems-were-hacked-were-minicomputers-way",
    "published": null,
    "excerpt": "",
@@ -2304,6 +2379,21 @@
    "excerpt": "",
    "source": "Hacker News",
    "id": "c0852f643372",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
+   "published": "2024-08-25T07:00:00+00:00",
+   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "0236a502b4bf",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

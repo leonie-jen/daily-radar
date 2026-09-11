@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-10T11:30:20.360744+08:00",
+ "updated_at": "2026-09-11T11:27:51.226119+08:00",
  "sources": [
   {
    "name": "電子鋼琴 DP200（88 鍵重鎚）",
@@ -61,9 +61,13 @@
     {
      "d": "2026-09-10",
      "v": 13800.0
+    },
+    {
+     "d": "2026-09-11",
+     "v": 13800.0
     }
    ],
-   "checked_at": "2026-09-10T11:30:18.793988+08:00",
+   "checked_at": "2026-09-11T11:27:49.626522+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,
@@ -76,13 +80,13 @@
    "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=9442657",
    "source": "www.momoshop.com.tw",
    "currency": "TWD",
-   "price": 3588.0,
+   "price": 3336.0,
    "ok": true,
    "prev_price": 3588.0,
-   "change": 0.0,
+   "change": -252.0,
    "lowest": 3336.0,
    "highest": 3588.0,
-   "is_lowest_ever": false,
+   "is_lowest_ever": true,
    "target_price": 3000,
    "hit_target": false,
    "history": [
@@ -109,9 +113,13 @@
     {
      "d": "2026-09-10",
      "v": 3588.0
+    },
+    {
+     "d": "2026-09-11",
+     "v": 3336.0
     }
    ],
-   "checked_at": "2026-09-10T11:30:20.146510+08:00",
+   "checked_at": "2026-09-11T11:27:50.995909+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,
@@ -139,7 +147,7 @@
      "v": 629.0
     }
    ],
-   "checked_at": "2026-09-10T11:30:20.360093+08:00",
+   "checked_at": "2026-09-11T11:27:51.225482+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,

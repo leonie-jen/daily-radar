@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-12T11:33:12.897891+08:00",
+ "updated_at": "2026-09-13T11:39:23.790519+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -16,7 +16,7 @@
   {
    "name": "哈利的投資研究筆記庫",
    "ok": true,
-   "count": 8,
+   "count": 6,
    "note": ""
   }
  ],
@@ -31,6 +31,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "465fee67b471",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-12T11:33:12.897891+08:00"
   },
   {
@@ -43,6 +45,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "0b3e61b7fec9",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-12T11:33:12.897891+08:00"
   },
   {
@@ -285,7 +289,7 @@
   }
  ],
  "fx": {
-  "usd_twd": 31.607,
+  "usd_twd": 31.627,
   "source": "rter.info",
   "history": [
    {
@@ -319,9 +323,13 @@
    {
     "d": "2026-09-12",
     "v": 31.607
+   },
+   {
+    "d": "2026-09-13",
+    "v": 31.627
    }
   ],
-  "change_7d": -0.013,
+  "change_7d": 0.007,
   "change_30d": null,
   "alert_below": 30.5,
   "good_time_to_buy": false,
@@ -345,7 +353,7 @@
    "change": 65.28,
    "change_pct": 0.86,
    "currency": "USD",
-   "as_of": "2026-09-11T16:46:20.000-0400",
+   "as_of": "2026-09-11",
    "market": "US"
   },
   {
@@ -355,7 +363,7 @@
    "change": 251.311,
    "change_pct": 0.96,
    "currency": "USD",
-   "as_of": "2026-09-11T17:15:59.000-0400",
+   "as_of": "2026-09-11",
    "market": "US"
   },
   {
@@ -365,7 +373,7 @@
    "change": 209.831,
    "change_pct": 1.81,
    "currency": "USD",
-   "as_of": "2026-09-11T17:15:59.000-0400",
+   "as_of": "2026-09-11",
    "market": "US"
   },
   {
@@ -385,7 +393,7 @@
    "change": -0.07,
    "change_pct": -0.03,
    "currency": "USD",
-   "as_of": "2026-09-11T16:00:00.000-0400",
+   "as_of": "2026-09-11",
    "market": "US"
   }
  ],

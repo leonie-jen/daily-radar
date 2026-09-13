@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-12T11:32:14.763996+08:00",
+ "updated_at": "2026-09-13T11:38:04.747429+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -15,14 +15,14 @@
   },
   {
    "name": "Reddit r/gradadmissions",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+   "ok": true,
+   "count": 25,
+   "note": ""
   },
   {
    "name": "Google News",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "note": ""
   },
   {
@@ -52,6 +52,19 @@
  ],
  "items": [
   {
+   "title": "Philly Local Meetup Group - looking to find or start one",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wet5ul/philly_local_meetup_group_looking_to_find_or/",
+   "published": "2026-09-13T00:40:41+00:00",
+   "excerpt": "Hi everyone! Are there any OMSCS students in the Philly area interested in meeting up? I've been looking for an active local group but haven't been able to find one. It would be great to connect with other students for coffee, studying, networking, or simply sharing the OMSCS experience. If there isn't already an active Philly meetup group, I'd be happy to help organize the first meetup. If you're in the Philly area and interested, please comment below or send me a message. Let's see if we can find—or get—a local OMSCS group started! Thanks! submitted by /u/Alive-Edge-2718 [link] [留言]",
+   "author": "/u/Alive-Edge-2718",
+   "source": "Reddit r/OMSCS",
+   "id": "fe505971b6eb",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-13T11:38:04.747429+08:00"
+  },
+  {
    "title": "Seniors and Alums, have a doubt on market readiness, please do help.",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wdjj49/seniors_and_alums_have_a_doubt_on_market/",
    "published": "2026-09-11T15:30:59+00:00",
@@ -62,6 +75,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-12T11:32:14.763996+08:00"
   },
   {
@@ -77,6 +92,8 @@
     "application"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-12T11:32:14.763996+08:00"
   },
   {
@@ -215,21 +232,6 @@
    "first_seen": "2026-09-09T11:31:05.420826+08:00"
   },
   {
-   "title": "Aos Omscs - Oma Erto",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mcVZnWmZzWU1NRDNZZ3FGSEx4THVhY3o1S3hPUGFSQms5clBPelY1cDYxZUVKWGpPbFRZQ1JzazB5cmtCeDk3SDNERTZRdw?oc=5",
-   "published": "2026-08-11T04:09:45+00:00",
-   "excerpt": "Aos Omscs Oma Erto",
-   "author": null,
-   "source": "Google News",
-   "id": "8af33b154542",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-09T11:31:05.420826+08:00"
-  },
-  {
    "title": "GaTech MSCS vs UIUC MCS",
    "url": "https://www.reddit.com/r/gradadmissions/comments/1liooah/gatech_mscs_vs_uiuc_mcs/",
    "published": "2025-06-23T18:40:32+00:00",
@@ -260,6 +262,21 @@
    "first_seen": "2026-09-09T11:31:05.420826+08:00"
   },
   {
+   "title": "Aos Omscs - Oma Erto",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mcVZnWmZzWU1NRDNZZ3FGSEx4THVhY3o1S3hPUGFSQms5clBPelY1cDYxZUVKWGpPbFRZQ1JzazB5cmtCeDk3SDNERTZRdw?oc=5",
+   "published": "2026-08-11T04:09:45+00:00",
+   "excerpt": "Aos Omscs Oma Erto",
+   "author": null,
+   "source": "Google News",
+   "id": "8af33b154542",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-09T11:31:05.420826+08:00"
+  },
+  {
    "title": "Georgia Tech to Offer Massive Online Master's Degree in Computer Science - Patch",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1U4aVpxV3I3MlItdmtlZ2M2NWNiLVRaRF9vQjM2MnotS1ZWakJ1VDlqT0p4MDhvU0t4SGFIQU42N055S2ZfWmtTdmFfd1F6VU9XOE0xREdrSGpsaC1tMXRSY3VSUk54Nk8tZGhEN29EMjJmRUxlMGVfckIta0JCZ1JtcF9MdDU4NF9NTkNqUlV5aUdYbloyeTRjQk5QUQ?oc=5",
    "published": "2013-05-20T07:00:00+00:00",
@@ -282,36 +299,6 @@
    "author": "/u/Flashy_Camel5143",
    "source": "Reddit r/OMSCS",
    "id": "641aa9a76826",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-07T11:20:07.298976+08:00"
-  },
-  {
-   "title": "What's behind the success of post-grad computer science programs? - ZDNET",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzEwSnJpY0tfeUNybDlHSzE1S1k3bmQ0Wnp5Z3M3TC0yRTV0UmkwbXBRWm1TMWZEX3NoQ1RxX2prUFU0Y1ZwcUoxVHZEaFdIZGlVRk5wTmpnYTJoanJuX2JVWUx5dFJoVGNNNWxZOXAxX2JBR1NWOG1iUFZqLXJUZlZObWtFYmF2UkJfQ3phNlp2eHNpaUY2clNn?oc=5",
-   "published": "2022-04-01T07:00:00+00:00",
-   "excerpt": "What's behind the success of post-grad computer science programs? ZDNET",
-   "author": null,
-   "source": "Google News",
-   "id": "5eb0f74f31f9",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-07T11:20:07.298976+08:00"
-  },
-  {
-   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
-   "published": "2024-04-04T07:00:00+00:00",
-   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "607e30a6c950",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -705,6 +692,36 @@
     "accepted",
     "decision"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "What's behind the success of post-grad computer science programs? - ZDNET",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzEwSnJpY0tfeUNybDlHSzE1S1k3bmQ0Wnp5Z3M3TC0yRTV0UmkwbXBRWm1TMWZEX3NoQ1RxX2prUFU0Y1ZwcUoxVHZEaFdIZGlVRk5wTmpnYTJoanJuX2JVWUx5dFJoVGNNNWxZOXAxX2JBR1NWOG1iUFZqLXJUZlZObWtFYmF2UkJfQ3phNlp2eHNpaUY2clNn?oc=5",
+   "published": "2022-04-01T07:00:00+00:00",
+   "excerpt": "What's behind the success of post-grad computer science programs? ZDNET",
+   "author": null,
+   "source": "Google News",
+   "id": "5eb0f74f31f9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
+   "published": "2024-04-04T07:00:00+00:00",
+   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "607e30a6c950",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -1673,10 +1690,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - medium.datadriveninvestor.com",
+   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
    "published": "2023-05-03T07:00:00+00:00",
-   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal medium.datadriveninvestor.com",
+   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
    "author": null,
    "source": "Google News",
    "id": "54defa3e479c",
@@ -1703,10 +1720,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - medium.datadriveninvestor.com",
+   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
    "published": "2024-08-25T07:00:00+00:00",
-   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming medium.datadriveninvestor.com",
+   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
    "author": null,
    "source": "Google News",
    "id": "0236a502b4bf",
@@ -1748,10 +1765,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - medium.datadriveninvestor.com",
+   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
    "published": "2023-04-21T07:00:00+00:00",
-   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews medium.datadriveninvestor.com",
+   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
    "author": null,
    "source": "Google News",
    "id": "43f2eafe3c1d",
@@ -1778,10 +1795,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science - medium.datadriveninvestor.com",
+   "title": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science - DataDrivenInvestor",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1phSncwdjQxY0QzRWQzbWVnZEpfdlI2RnlKSi1fUmJHQWU5YXVSMTRjbTRoTUNmM2paOTA1clhJWUg3X0d1TWlaUVRFMThkYXRJdGwtWWI0WmtMOEpxTmdoYWN4NWQxblVqb2VuUVNoLWdTVm9KY0lQUVVfUnhrNnY3T2NCMXA4MFVWclljZTN5QzNSRHhXUHZ1Ui1NdTVQY21oeGF5THNYdEdGUlJJN0t0aE8weEU?oc=5",
    "published": "2020-12-26T08:00:00+00:00",
-   "excerpt": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science medium.datadriveninvestor.com",
+   "excerpt": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science DataDrivenInvestor",
    "author": null,
    "source": "Google News",
    "id": "3e299541f687",
@@ -2187,6 +2204,20 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
+   "title": "Seeking Third Technical Cofounder",
+   "url": "https://news.ycombinator.com/item?id=48682086",
+   "published": "2026-06-26T03:39:51Z",
+   "excerpt": "We are seeking a third technical cofounder to help us build our company: - https:&#x2F;&#x2F;coffeechats.me&#x2F;<p>Equal equity splits. Prior big tech&#x2F;fast-growing startup experience strongly preferred.<p>The founding team consists of: - An MBA (Dartmouth), MSCS (UT Austin) graduate with prior 0 to 1 successes. - An MSCS (Dartmouth) graduate.",
+   "source": "Hacker News",
+   "id": "5ce7c7618b10",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
    "title": "Multi-omics and palynology of selected Philippine forest honey",
    "url": "https://www.nature.com/articles/s41598-024-71385-4",
    "published": "2026-06-05T13:35:07Z",
@@ -2420,20 +2451,6 @@
    "author": null,
    "source": "Google News",
    "id": "2ffcf459be25",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Seeking Third Technical Cofounder",
-   "url": "https://news.ycombinator.com/item?id=48682086",
-   "published": "2026-06-26T03:39:51Z",
-   "excerpt": "We are seeking a third technical cofounder to help us build our company: - https:&#x2F;&#x2F;coffeechats.me&#x2F;<p>Equal equity splits. Prior big tech&#x2F;fast-growing startup experience strongly preferred.<p>The founding team consists of: - An MBA (Dartmouth), MSCS (UT Austin) graduate with prior 0 to 1 successes. - An MSCS (Dartmouth) graduate.",
-   "source": "Hacker News",
-   "id": "5ce7c7618b10",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

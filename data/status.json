@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-09-13T11:39:26.396750+08:00",
- "duration_sec": 131.4,
+ "updated_at": "2026-09-14T11:48:28.392386+08:00",
+ "duration_sec": 133.5,
  "sections": [
   {
    "key": "omscs",
    "label": "OMSCS 情報",
    "ok": true,
-   "items": 159,
+   "items": 162,
    "sources": [
     {
      "name": "Reddit r/OMSCS",
@@ -35,7 +35,7 @@
     {
      "name": "Google News",
      "ok": true,
-     "count": 6,
+     "count": 5,
      "note": ""
     },
     {
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 232,
+   "items": 235,
    "sources": [
     {
      "name": "Google News",
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 356,
+   "items": 379,
    "sources": [
     {
      "name": "104｜自動化測試",
@@ -198,7 +198,7 @@
    "key": "finance",
    "label": "匯率與股市",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "sources": [
     {
      "name": "匯率 USD/TWD",
@@ -215,7 +215,7 @@
     {
      "name": "哈利的投資研究筆記庫",
      "ok": true,
-     "count": 6,
+     "count": 4,
      "note": ""
     }
    ]

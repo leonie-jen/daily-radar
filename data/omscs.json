@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-13T11:38:04.747429+08:00",
+ "updated_at": "2026-09-14T11:47:04.737919+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -28,7 +28,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "note": ""
   },
   {
@@ -52,6 +52,45 @@
  ],
  "items": [
   {
+   "title": "Prepping in advance for CS 7641 Machine Learning?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wfnzmn/prepping_in_advance_for_cs_7641_machine_learning/",
+   "published": "2026-09-14T00:08:18+00:00",
+   "excerpt": "I am currently taking a semester off OMSCS to focus on other commitments. However I plan to take CS 7641 Machine Learning either next semester or sometime down the line, especially after hearing about recent improvements. That being said I understand that it is a very time consuming and difficult course, and I'd like to have the opportunity to explore the material in depth rather than just trying to catch up with coursework. In light of this, would it be possible to prep ahead for CS 7641, and if so what are the best ways to do so? submitted by /u/MahjongCelts [link] [留言]",
+   "author": "/u/MahjongCelts",
+   "source": "Reddit r/OMSCS",
+   "id": "ae7f7b6a3bb9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-14T11:47:04.737919+08:00"
+  },
+  {
+   "title": "Please stop answering every question in every thread on ed if you're not a TA",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wfhutc/please_stop_answering_every_question_in_every/",
+   "published": "2026-09-13T19:54:11+00:00",
+   "excerpt": "This goes out to the dude in ML/CS7641 spamming every thread. You're not a TA, please chill and let other students have the opportunity to discuss and answer questions. Because you're not part of the teaching staff, we don't know if your answers are correct or not, even if they are and you're actually Isbell's smurf, see 1., it's extremely annoying. The participation bonus is like 1% and the class is heavily curved, chill the f out. I can't block other students on edstem so I'm forced to see your posts every time I browse the forums. Please be considerate and chill. Thanks submitted by /u/Loquats08 [link] [留言]",
+   "author": "/u/Loquats08",
+   "source": "Reddit r/OMSCS",
+   "id": "87eb232069f9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-14T11:47:04.737919+08:00"
+  },
+  {
+   "title": "Is OMSCS Worth Doing Alongside a PhD in Statistics/Applied Mathematics?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wey8rd/is_omscs_worth_doing_alongside_a_phd_in/",
+   "published": "2026-09-13T04:53:25+00:00",
+   "excerpt": "Hello everyone! I’m currently a PhD student with a background mainly in Statistics and Applied Mathematics. Most of my current work is related to data science/ML, I would like to build a much stronger and more structured foundation in Computer Science. I’ve been looking into OMSCS, particularly the Machine Learning specialization, and it seems like a really good fit for what I’m looking for. My main motivation isn’t necessarily to change fields, but to complement my PhD training with stronger foundations in areas such as algorithms, AI, machine learning, deep learning, and other core CS topics. I already have decent experience with programming and have self-studied quite a lot of ML/AI mater",
+   "author": "/u/Character-Welcome152",
+   "source": "Reddit r/OMSCS",
+   "id": "802f91c41a16",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-14T11:47:04.737919+08:00"
+  },
+  {
    "title": "Philly Local Meetup Group - looking to find or start one",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wet5ul/philly_local_meetup_group_looking_to_find_or/",
    "published": "2026-09-13T00:40:41+00:00",
@@ -62,6 +101,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-13T11:38:04.747429+08:00"
   },
   {

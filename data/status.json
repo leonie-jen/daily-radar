@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-09-14T11:48:28.392386+08:00",
- "duration_sec": 133.5,
+ "updated_at": "2026-09-15T11:48:50.512080+08:00",
+ "duration_sec": 121.1,
  "sections": [
   {
    "key": "omscs",
    "label": "OMSCS 情報",
    "ok": true,
-   "items": 162,
+   "items": 167,
    "sources": [
     {
      "name": "Reddit r/OMSCS",
@@ -22,14 +22,14 @@
     },
     {
      "name": "Reddit r/gradadmissions",
-     "ok": true,
-     "count": 25,
-     "note": ""
+     "ok": false,
+     "count": 0,
+     "note": "沒抓到資料（可能被擋或今天沒新內容）"
     },
     {
      "name": "Google News",
      "ok": true,
-     "count": 11,
+     "count": 10,
      "note": ""
     },
     {
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 235,
+   "items": 264,
    "sources": [
     {
      "name": "Google News",
@@ -96,9 +96,9 @@
     },
     {
      "name": "Reddit r/f1visa",
-     "ok": false,
-     "count": 0,
-     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+     "ok": true,
+     "count": 25,
+     "note": ""
     },
     {
      "name": "Reddit r/immigration CPT",
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 379,
+   "items": 407,
    "sources": [
     {
      "name": "104｜自動化測試",
@@ -198,7 +198,7 @@
    "key": "finance",
    "label": "匯率與股市",
    "ok": true,
-   "items": 20,
+   "items": 22,
    "sources": [
     {
      "name": "匯率 USD/TWD",

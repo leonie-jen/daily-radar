@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-16T11:44:33.653307+08:00",
+ "updated_at": "2026-09-17T11:49:40.293098+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -22,7 +22,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 10,
+   "count": 9,
    "note": ""
   },
   {
@@ -52,6 +52,58 @@
  ],
  "items": [
   {
+   "title": "Blind developer thinking of using OMSCS to upskill",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1whzipt/blind_developer_thinking_of_using_omscs_to_upskill/",
+   "published": "2026-09-16T14:54:43+00:00",
+   "excerpt": "I'm a blind software engineer at an insurance firm in NYC who has worked mostly on the mainframe for the last 17 years. I got my undergrad degree in CS in 2009 and an AWS Solutions Architect cert in '23. My dream is to work at a place like Waymo or on an app like the Seeing AI app at Microsoft. I've talked to several blind developers who have done very well from OMSCS and my employer will pay for it, so it seems like a worthwhile investment, even with all the AI changes that are happening. I applied for the spring semester and am fairly confident that I will get in. One of the blind developers suggested I start with Software Development Process. I'm thinking of starting with that or Operatin",
+   "author": "/u/geekgarious",
+   "source": "Reddit r/OMSCS",
+   "id": "678ebb5ffaca",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-17T11:49:40.293098+08:00"
+  },
+  {
+   "title": "How should I present OMSCS on my resume?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wih9k7/how_should_i_present_omscs_on_my_resume/",
+   "published": "2026-09-17T02:21:34+00:00",
+   "excerpt": "Do I put “online” next to Georgia Institute of Technology? Do I even mention I’m taking the online route on my resume? I fear it might seem off to hiring managers or whatever advanced scanners companies have these days considering I live and work outside of Georgia. submitted by /u/Thy-Lich [link] [留言]",
+   "author": "/u/Thy-Lich",
+   "source": "Reddit r/OMSCS",
+   "id": "4dfd77304d30",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-17T11:49:40.293098+08:00"
+  },
+  {
+   "title": "Does it get better in graduate algorithms?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1whlwm8/does_it_get_better_in_graduate_algorithms/",
+   "published": "2026-09-16T03:33:47+00:00",
+   "excerpt": "I’m currently taking graduate algorithms. We just finished our DP exam. I don’t think it was too bad (knock on wood). I’ve seen some posts where students say DP is the hardest and then it gets better. Is this true? I’ve gone over the divide and conquer material (the next topic) and I’m having a harder time to grasp the solid template of step by step approach as I did with dynamic programming. We have five exams (four topic exams and then a final exam). What has everyone found the order of difficulty to be for the exams? Is DP truly the hardest (aka the worst is over)? submitted by /u/Fluid-Pipe-2831 [link] [留言]",
+   "author": "/u/Fluid-Pipe-2831",
+   "source": "Reddit r/OMSCS",
+   "id": "22fa896073ba",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-17T11:49:40.293098+08:00"
+  },
+  {
+   "title": "Bringing up your HCI specialization in interviews after graduation",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wi3ba7/bringing_up_your_hci_specialization_in_interviews/",
+   "published": "2026-09-16T17:10:50+00:00",
+   "excerpt": "If you are interviewing for a Software Engineer role would you mention that you specialized in HCI for your masters and how would you navigate it if they asked? I worry taking the HCI specialization looks like the easy way out of the program and might look bad to your future employer. submitted by /u/Typical_Childhood674 [link] [留言]",
+   "author": "/u/Typical_Childhood674",
+   "source": "Reddit r/OMSCS",
+   "id": "7ccdd4dc833a",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-17T11:49:40.293098+08:00"
+  },
+  {
    "title": "Serious question: Bears @ Falcons or OMSCS graduation?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wgrcrz/serious_question_bears_falcons_or_omscs_graduation/",
    "published": "2026-09-15T05:27:25+00:00",
@@ -62,6 +114,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
@@ -74,6 +128,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
@@ -86,6 +142,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
@@ -98,6 +156,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
@@ -110,6 +170,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
@@ -122,6 +184,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
@@ -322,13 +386,13 @@
    "first_seen": "2026-09-10T11:29:06.422193+08:00"
   },
   {
-   "title": "CS 8001 OFL: Federated Learning and Machine Learning Operations",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wbuknc/cs_8001_ofl_federated_learning_and_machine/",
-   "published": "2026-09-09T18:52:59+00:00",
-   "excerpt": "This seminar was last offered Spring 2025. Does anyone know what semester it will be offered next? submitted by /u/SomberDreamer [link] [留言]",
-   "author": "/u/SomberDreamer",
+   "title": "How do you pronounce GIOS in your head",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wbcy08/how_do_you_pronounce_gios_in_your_head/",
+   "published": "2026-09-09T05:51:18+00:00",
+   "excerpt": "Do you say the acronym out “Gee-Eye-Oh-Ess” or say it as a word like “Geos”. I do the latter and always have and it just dawned upon me that I might be the only one and now I’m curious submitted by /u/Indiansizzler [link] [留言]",
+   "author": "/u/Indiansizzler",
    "source": "Reddit r/OMSCS",
-   "id": "e3cf3b8e13e5",
+   "id": "882e8466bbe0",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -337,13 +401,13 @@
    "first_seen": "2026-09-10T11:29:06.422193+08:00"
   },
   {
-   "title": "How do you pronounce GIOS in your head",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wbcy08/how_do_you_pronounce_gios_in_your_head/",
-   "published": "2026-09-09T05:51:18+00:00",
-   "excerpt": "Do you say the acronym out “Gee-Eye-Oh-Ess” or say it as a word like “Geos”. I do the latter and always have and it just dawned upon me that I might be the only one and now I’m curious submitted by /u/Indiansizzler [link] [留言]",
-   "author": "/u/Indiansizzler",
+   "title": "CS 8001 OFL: Federated Learning and Machine Learning Operations",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wbuknc/cs_8001_ofl_federated_learning_and_machine/",
+   "published": "2026-09-09T18:52:59+00:00",
+   "excerpt": "This seminar was last offered Spring 2025. Does anyone know what semester it will be offered next? submitted by /u/SomberDreamer [link] [留言]",
+   "author": "/u/SomberDreamer",
    "source": "Reddit r/OMSCS",
-   "id": "882e8466bbe0",
+   "id": "e3cf3b8e13e5",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1870,10 +1934,10 @@
    "first_seen": "2026-09-05T21:20:16.080232+08:00"
   },
   {
-   "title": "Joyner Appointed Interim Vice Provost for AI in Education - news.gatech.edu",
+   "title": "Joyner Appointed Interim Vice Provost for AI in Education - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2lfb2syRWY4RzZNMUxyNUdHTUstX2dZX21NQ0JiX1ZZeE5aVVlwNDQtbkdXcldTdVc0V2tNdEgwa01HSFIzN3ZJZjJKeEdITXlrNVJMX2hMSk92QnRvYkJycHQ0Qy02cDNZdV9iYWVIdG1oOFpzOEtXRi0tREtnLTZvcVBaYTNvLVNZUTEteUFURHRO?oc=5",
    "published": "2026-07-01T07:00:00+00:00",
-   "excerpt": "Joyner Appointed Interim Vice Provost for AI in Education news.gatech.edu",
+   "excerpt": "Joyner Appointed Interim Vice Provost for AI in Education Georgia Tech News Center",
    "author": null,
    "source": "Google News",
    "id": "c1e905d9279f",
@@ -1885,10 +1949,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge - gatech.edu",
+   "title": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge - Georgia Institute of Technology",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmFJRDVrdTBzUVREbkJiMHJEOFdsVUd5dl84S3ZTbEd5RjBFeXgxakpKVEdRc2o5Z2tsdS0zQVA2WktkX0wyLW81T2txdFB1bmxoeVV0dWR0SHI4bloxenJrOHFjUnh2RE1GaHRid2NiUXd2aEdfYldxZm5MVHBuVkQxcURLTVpjNzFWdVR2bGhoc0Y1VVRZckZYN1dlRGdtWUc1TTk0aElqbkQ5WkZmdWZR?oc=5",
    "published": "2025-06-27T07:00:00+00:00",
-   "excerpt": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge gatech.edu",
+   "excerpt": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge Georgia Institute of Technology",
    "author": null,
    "source": "Google News",
    "id": "3b5108aa7f06",
@@ -1900,25 +1964,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
-   "published": "2025-02-28T08:00:00+00:00",
-   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "11f8714f6e18",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - news.gatech.edu",
+   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
    "published": "2025-01-27T08:00:00+00:00",
-   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia news.gatech.edu",
+   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia Georgia Tech News Center",
    "author": null,
    "source": "Google News",
    "id": "3fe0c49fd522",
@@ -1930,10 +1979,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
+   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - medium.datadriveninvestor.com",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
    "published": "2024-08-25T07:00:00+00:00",
-   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
+   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming medium.datadriveninvestor.com",
    "author": null,
    "source": "Google News",
    "id": "0236a502b4bf",
@@ -1945,10 +1994,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
+   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - nature.com",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
    "published": "2022-05-07T07:00:00+00:00",
-   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
+   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging nature.com",
    "author": null,
    "source": "Google News",
    "id": "29987ae51976",
@@ -1960,10 +2009,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
+   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - medium.datadriveninvestor.com",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
    "published": "2023-04-21T07:00:00+00:00",
-   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
+   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews medium.datadriveninvestor.com",
    "author": null,
    "source": "Google News",
    "id": "43f2eafe3c1d",
@@ -1975,10 +2024,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Unique Program Offers Campus Research Opportunities for Online Students - news.gatech.edu",
+   "title": "Unique Program Offers Campus Research Opportunities for Online Students - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0ZlSlQ5T2JrVjEtYmpGUGtzb1F1SlBIT0trOENndE9PeG9pN2pQNllxLUc5bk1vTzNmSW1GVWFsNl9ZQl92NnEwbGJjNGYyLTJkNjE0NDFnMEE5UlBybTJraXU1cDVlT1VJUEtFaU9WczBXRHZMTWpsRWxHYTlmQmtXNkJrS3NJMy1KUDBZQ0w0aWc5b25LOExxaVZiZEQ5SmFEaXF4N2RyRTQ?oc=5",
    "published": "2024-04-29T07:00:00+00:00",
-   "excerpt": "Unique Program Offers Campus Research Opportunities for Online Students news.gatech.edu",
+   "excerpt": "Unique Program Offers Campus Research Opportunities for Online Students Georgia Tech News Center",
    "author": null,
    "source": "Google News",
    "id": "2ffcf459be25",
@@ -2531,6 +2580,21 @@
    "excerpt": "",
    "source": "Hacker News",
    "id": "c0852f643372",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
+   "published": "2025-02-28T08:00:00+00:00",
+   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "11f8714f6e18",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

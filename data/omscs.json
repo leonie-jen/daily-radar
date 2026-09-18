@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-17T11:49:40.293098+08:00",
+ "updated_at": "2026-09-18T11:36:06.070068+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,15 +9,15 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": true,
-   "count": 25,
-   "note": ""
-  },
-  {
-   "name": "Reddit r/gradadmissions",
    "ok": false,
    "count": 0,
    "note": "沒抓到資料（可能被擋或今天沒新內容）"
+  },
+  {
+   "name": "Reddit r/gradadmissions",
+   "ok": true,
+   "count": 25,
+   "note": ""
   },
   {
    "name": "Google News",
@@ -34,7 +34,7 @@
   {
    "name": "OMSCS 官方公告",
    "ok": true,
-   "count": 10,
+   "count": 3,
    "note": ""
   },
   {
@@ -52,17 +52,33 @@
  ],
  "items": [
   {
-   "title": "Blind developer thinking of using OMSCS to upskill",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1whzipt/blind_developer_thinking_of_using_omscs_to_upskill/",
-   "published": "2026-09-16T14:54:43+00:00",
-   "excerpt": "I'm a blind software engineer at an insurance firm in NYC who has worked mostly on the mainframe for the last 17 years. I got my undergrad degree in CS in 2009 and an AWS Solutions Architect cert in '23. My dream is to work at a place like Waymo or on an app like the Seeing AI app at Microsoft. I've talked to several blind developers who have done very well from OMSCS and my employer will pay for it, so it seems like a worthwhile investment, even with all the AI changes that are happening. I applied for the spring semester and am fairly confident that I will get in. One of the blind developers suggested I start with Software Development Process. I'm thinking of starting with that or Operatin",
-   "author": "/u/geekgarious",
+   "title": "Dealing with work related burnout while taking my last OMSCS class (HCI)",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wj8sic/dealing_with_work_related_burnout_while_taking_my/",
+   "published": "2026-09-17T22:44:39+00:00",
+   "excerpt": "Hey guys, looking for advice. I am taking my last class right now (HCI). This class should not be that crazy. But I started a new job 3 months ago, and I am now in charge of the biggest project at the company. I am working 50-60 hour weeks every week (7am-7pm today for example), often get messages in the evening (like being sent 7am meetings at 9pm the night before). I also occasionally need to work some weekends and holidays coming up. I am traveling about 60% of the time. I really want to just finish the program and the HCI workload is not crazy. Time wise I could fit it in. However, the burnout is real. The problem is I am supposed to be going at this pace into February so if I withdraw i",
+   "author": "/u/GreenSpaceDorito2",
    "source": "Reddit r/OMSCS",
-   "id": "678ebb5ffaca",
+   "id": "ad467fa7f5ab",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
-   "first_seen": "2026-09-17T11:49:40.293098+08:00"
+   "first_seen": "2026-09-18T11:36:06.070068+08:00"
+  },
+  {
+   "title": "Readmission After Unfortunate Circumstances",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1winzsi/readmission_after_unfortunate_circumstances/",
+   "published": "2026-09-17T08:19:12+00:00",
+   "excerpt": "I’m curious if anyone has insight into whether readmission is any more or less possible given the following circumstances. I want to say 3-4 years ago I applied out of WGU, accepted, planned but never enrolled. Financially, we had to support my s/o to work towards a two income household with the way we saw the economy going. We are still a one income household, although my s/o is approaching the end of her masters in elementary education, and doing student teaching in a month or two. I’m a father of 3 children as well, 4-8, and my eldest is in therapy and has been for 1.5 years as he is potentially autistic (high functioning - apologize if I don’t use PC language it’s not intended), and conf",
+   "author": "/u/OkStick6410",
+   "source": "Reddit r/OMSCS",
+   "id": "fc06a4fb3925",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted",
+    "admission"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-18T11:36:06.070068+08:00"
   },
   {
    "title": "How should I present OMSCS on my resume?",
@@ -75,6 +91,23 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-17T11:49:40.293098+08:00"
+  },
+  {
+   "title": "Blind developer thinking of using OMSCS to upskill",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1whzipt/blind_developer_thinking_of_using_omscs_to_upskill/",
+   "published": "2026-09-16T14:54:43+00:00",
+   "excerpt": "I'm a blind software engineer at an insurance firm in NYC who has worked mostly on the mainframe for the last 17 years. I got my undergrad degree in CS in 2009 and an AWS Solutions Architect cert in '23. My dream is to work at a place like Waymo or on an app like the Seeing AI app at Microsoft. I've talked to several blind developers who have done very well from OMSCS and my employer will pay for it, so it seems like a worthwhile investment, even with all the AI changes that are happening. I applied for the spring semester and am fairly confident that I will get in. One of the blind developers suggested I start with Software Development Process. I'm thinking of starting with that or Operatin",
+   "author": "/u/geekgarious",
+   "source": "Reddit r/OMSCS",
+   "id": "678ebb5ffaca",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-17T11:49:40.293098+08:00"
   },
   {
@@ -88,6 +121,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-17T11:49:40.293098+08:00"
   },
   {
@@ -119,12 +154,12 @@
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
-   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
-   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
+   "title": "Professor, Alumni Receive Award for Edge Computing Research",
+   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "f422b53b6e0b",
+   "id": "194c0d5c9996",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -133,12 +168,12 @@
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
-   "title": "Professor, Alumni Receive Award for Edge Computing Research",
-   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
+   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
+   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "194c0d5c9996",
+   "id": "f422b53b6e0b",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -461,36 +496,6 @@
    "first_seen": "2026-09-09T11:31:05.420826+08:00"
   },
   {
-   "title": "Any OMSCS NFL tipping groups?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wa9j6p/any_omscs_nfl_tipping_groups/",
-   "published": "2026-09-08T00:39:53+00:00",
-   "excerpt": "Is anyone running an NFL tipping or pick’em group for OMSCS students and alumni this season? Looking for something casual, mostly for bragging rights and a distraction from debugging at work past 2 am in the morning. submitted by /u/GeorgePBurdell1927 [link] [留言]",
-   "author": "/u/GeorgePBurdell1927",
-   "source": "Reddit r/OMSCS",
-   "id": "3babf7510f3e",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-09T11:31:05.420826+08:00"
-  },
-  {
-   "title": "Are you okay? r/OMSCS Mental Health Check-in.",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1w9rjiv/are_you_okay_romscs_mental_health_checkin/",
-   "published": "2026-09-07T13:01:07+00:00",
-   "excerpt": "You're doing great! Don't sweat the most recent or upcoming project, test, grade, etc. Make sure you give your best shot, and never, ever succumb to cheating. The OSI Police are in full force during this critical period, and you know it, through the Reddit threads that you would occasionally find how onerous these threats could be. You Are Not Alone & You'll Get Through This. Know that you are not alone. We all go through ups and downs and have tests or projects that don't go as planned. Never fear as bright days are ahead of you. Utilize this thread if you're feeling down and or want someone to talk to. We are all in this together and we're here for you and one another. There is a lot more ",
-   "author": "/u/AutoModerator",
-   "source": "Reddit r/OMSCS",
-   "id": "ce8bb9996a55",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-09T11:31:05.420826+08:00"
-  },
-  {
    "title": "GaTech MSCS vs UIUC MCS",
    "url": "https://www.reddit.com/r/gradadmissions/comments/1liooah/gatech_mscs_vs_uiuc_mcs/",
    "published": "2025-06-23T18:40:32+00:00",
@@ -513,6 +518,36 @@
    "author": "/u/TheSid12",
    "source": "Reddit r/gradadmissions",
    "id": "0730751e61f7",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-09T11:31:05.420826+08:00"
+  },
+  {
+   "title": "Any OMSCS NFL tipping groups?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wa9j6p/any_omscs_nfl_tipping_groups/",
+   "published": "2026-09-08T00:39:53+00:00",
+   "excerpt": "Is anyone running an NFL tipping or pick’em group for OMSCS students and alumni this season? Looking for something casual, mostly for bragging rights and a distraction from debugging at work past 2 am in the morning. submitted by /u/GeorgePBurdell1927 [link] [留言]",
+   "author": "/u/GeorgePBurdell1927",
+   "source": "Reddit r/OMSCS",
+   "id": "3babf7510f3e",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-09T11:31:05.420826+08:00"
+  },
+  {
+   "title": "Are you okay? r/OMSCS Mental Health Check-in.",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w9rjiv/are_you_okay_romscs_mental_health_checkin/",
+   "published": "2026-09-07T13:01:07+00:00",
+   "excerpt": "You're doing great! Don't sweat the most recent or upcoming project, test, grade, etc. Make sure you give your best shot, and never, ever succumb to cheating. The OSI Police are in full force during this critical period, and you know it, through the Reddit threads that you would occasionally find how onerous these threats could be. You Are Not Alone & You'll Get Through This. Know that you are not alone. We all go through ups and downs and have tests or projects that don't go as planned. Never fear as bright days are ahead of you. Utilize this thread if you're feeling down and or want someone to talk to. We are all in this together and we're here for you and one another. There is a lot more ",
+   "author": "/u/AutoModerator",
+   "source": "Reddit r/OMSCS",
+   "id": "ce8bb9996a55",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -549,21 +584,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-08T11:27:40.081789+08:00"
-  },
-  {
-   "title": "How’s everybody’s week 2 going? I thought my RL project deadline was 2 weeks earlier than it was",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1w8s5fb/hows_everybodys_week_2_going_i_thought_my_rl/",
-   "published": "2026-09-06T10:06:00+00:00",
-   "excerpt": "I’m taking RL this semester and our first project of the semester opened up on Monday. Despite doing my due diligence to update my calendar with deadlines for all assignments and readings etc. I still managed to completely confuse myself. I have spent this week SLAMMING through this project because I was under the impression it was due Monday 8 am. Despite working 5 hours a day on implementation ALONE, not to mention doing my readings and re-readings of the course material I was still so behind. I was feeling somewhat discouraged tbh. I was a Bachelors of Arts undergrad prior to OMSCS and was chalking the delay up to my lack of experience or something idek. Up until one hour ago, I believed ",
-   "author": "/u/Flashy_Camel5143",
-   "source": "Reddit r/OMSCS",
-   "id": "641aa9a76826",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-07T11:20:07.298976+08:00"
   },
   {
    "title": "Georgia Tech OMSCS Resume Format",
@@ -951,6 +971,21 @@
     "accepted",
     "decision"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "How’s everybody’s week 2 going? I thought my RL project deadline was 2 weeks earlier than it was",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1w8s5fb/hows_everybodys_week_2_going_i_thought_my_rl/",
+   "published": "2026-09-06T10:06:00+00:00",
+   "excerpt": "I’m taking RL this semester and our first project of the semester opened up on Monday. Despite doing my due diligence to update my calendar with deadlines for all assignments and readings etc. I still managed to completely confuse myself. I have spent this week SLAMMING through this project because I was under the impression it was due Monday 8 am. Despite working 5 hours a day on implementation ALONE, not to mention doing my readings and re-readings of the course material I was still so behind. I was feeling somewhat discouraged tbh. I was a Bachelors of Arts undergrad prior to OMSCS and was chalking the delay up to my lack of experience or something idek. Up until one hour ago, I believed ",
+   "author": "/u/Flashy_Camel5143",
+   "source": "Reddit r/OMSCS",
+   "id": "641aa9a76826",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -1949,10 +1984,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge - Georgia Institute of Technology",
+   "title": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge - gatech.edu",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmFJRDVrdTBzUVREbkJiMHJEOFdsVUd5dl84S3ZTbEd5RjBFeXgxakpKVEdRc2o5Z2tsdS0zQVA2WktkX0wyLW81T2txdFB1bmxoeVV0dWR0SHI4bloxenJrOHFjUnh2RE1GaHRid2NiUXd2aEdfYldxZm5MVHBuVkQxcURLTVpjNzFWdVR2bGhoc0Y1VVRZckZYN1dlRGdtWUc1TTk0aElqbkQ5WkZmdWZR?oc=5",
    "published": "2025-06-27T07:00:00+00:00",
-   "excerpt": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge Georgia Institute of Technology",
+   "excerpt": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge gatech.edu",
    "author": null,
    "source": "Google News",
    "id": "3b5108aa7f06",
@@ -1979,10 +2014,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - medium.datadriveninvestor.com",
+   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
    "published": "2024-08-25T07:00:00+00:00",
-   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming medium.datadriveninvestor.com",
+   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
    "author": null,
    "source": "Google News",
    "id": "0236a502b4bf",
@@ -1994,10 +2029,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - nature.com",
+   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
    "published": "2022-05-07T07:00:00+00:00",
-   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging nature.com",
+   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
    "author": null,
    "source": "Google News",
    "id": "29987ae51976",
@@ -2009,10 +2044,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - medium.datadriveninvestor.com",
+   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
    "published": "2023-04-21T07:00:00+00:00",
-   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews medium.datadriveninvestor.com",
+   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
    "author": null,
    "source": "Google News",
    "id": "43f2eafe3c1d",
@@ -2076,76 +2111,6 @@
    "author": null,
    "source": "Google News",
    "id": "5100fe8e67f9",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "CSE Leadership Transition Comes as School Continues Rapid Growth",
-   "url": "https://omscs.gatech.edu/external-news/cse-leadership-transition-comes-school-continues-rapid-growth",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "a17b0c73d22c",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Harvard’s $699 Startup Bootcamp Has Professors Who Never Sleep–But That’s Because They’re AI Clones",
-   "url": "https://omscs.gatech.edu/external-news/harvards-699-startup-bootcamp-has-professors-who-never-sleep-thats-because-theyre-ai",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "b13a02cb659d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Georgia Tech Professors Turn to AI Tutors and Rethink Traditional Assignments",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-professors-turn-ai-tutors-and-rethink-traditional-assignments",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "1aaba2db9e59",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Expanding Access: New Director Role Advances Online Undergraduate Computing Education",
-   "url": "https://omscs.gatech.edu/external-news/expanding-access-new-director-role-advances-online-undergraduate-computing-education",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "79807bcb6ae4",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Georgia Water Systems Were Hacked. Were Minicomputers the Way In?",
-   "url": "https://omscs.gatech.edu/external-news/georgia-water-systems-were-hacked-were-minicomputers-way",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "df5b619713a4",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2580,6 +2545,76 @@
    "excerpt": "",
    "source": "Hacker News",
    "id": "c0852f643372",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "CSE Leadership Transition Comes as School Continues Rapid Growth",
+   "url": "https://omscs.gatech.edu/external-news/cse-leadership-transition-comes-school-continues-rapid-growth",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "a17b0c73d22c",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Harvard’s $699 Startup Bootcamp Has Professors Who Never Sleep–But That’s Because They’re AI Clones",
+   "url": "https://omscs.gatech.edu/external-news/harvards-699-startup-bootcamp-has-professors-who-never-sleep-thats-because-theyre-ai",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "b13a02cb659d",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Georgia Tech Professors Turn to AI Tutors and Rethink Traditional Assignments",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-professors-turn-ai-tutors-and-rethink-traditional-assignments",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "1aaba2db9e59",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Expanding Access: New Director Role Advances Online Undergraduate Computing Education",
+   "url": "https://omscs.gatech.edu/external-news/expanding-access-new-director-role-advances-online-undergraduate-computing-education",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "79807bcb6ae4",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Georgia Water Systems Were Hacked. Were Minicomputers the Way In?",
+   "url": "https://omscs.gatech.edu/external-news/georgia-water-systems-were-hacked-were-minicomputers-way",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "df5b619713a4",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

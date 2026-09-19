@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-09-18T11:37:32.543106+08:00",
- "duration_sec": 135.7,
+ "updated_at": "2026-09-19T11:34:55.807924+08:00",
+ "duration_sec": 132.9,
  "sections": [
   {
    "key": "omscs",
    "label": "OMSCS 情報",
    "ok": true,
-   "items": 179,
+   "items": 180,
    "sources": [
     {
      "name": "Reddit r/OMSCS",
@@ -16,26 +16,26 @@
     },
     {
      "name": "Reddit r/OMSCS 錄取討論",
-     "ok": false,
-     "count": 0,
-     "note": "沒抓到資料（可能被擋或今天沒新內容）"
-    },
-    {
-     "name": "Reddit r/gradadmissions",
      "ok": true,
      "count": 25,
      "note": ""
     },
     {
+     "name": "Reddit r/gradadmissions",
+     "ok": false,
+     "count": 0,
+     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+    },
+    {
      "name": "Google News",
      "ok": true,
-     "count": 9,
+     "count": 11,
      "note": ""
     },
     {
      "name": "Google News",
      "ok": true,
-     "count": 3,
+     "count": 5,
      "note": ""
     },
     {
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 314,
+   "items": 339,
    "sources": [
     {
      "name": "Google News",
@@ -96,9 +96,9 @@
     },
     {
      "name": "Reddit r/f1visa",
-     "ok": false,
-     "count": 0,
-     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+     "ok": true,
+     "count": 25,
+     "note": ""
     },
     {
      "name": "Reddit r/immigration CPT",
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 489,
+   "items": 513,
    "sources": [
     {
      "name": "104｜自動化測試",
@@ -198,7 +198,7 @@
    "key": "finance",
    "label": "匯率與股市",
    "ok": true,
-   "items": 29,
+   "items": 31,
    "sources": [
     {
      "name": "匯率 USD/TWD",

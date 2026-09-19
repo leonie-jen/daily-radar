@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-18T11:36:06.070068+08:00",
+ "updated_at": "2026-09-19T11:33:41.303126+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,26 +9,26 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
-  },
-  {
-   "name": "Reddit r/gradadmissions",
    "ok": true,
    "count": 25,
    "note": ""
   },
   {
+   "name": "Reddit r/gradadmissions",
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+  },
+  {
    "name": "Google News",
    "ok": true,
-   "count": 9,
+   "count": 11,
    "note": ""
   },
   {
    "name": "Google News",
    "ok": true,
-   "count": 3,
+   "count": 5,
    "note": ""
   },
   {
@@ -52,6 +52,22 @@
  ],
  "items": [
   {
+   "title": "Georgia Tech or UT Austin for Online MSCS",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wjoedo/georgia_tech_or_ut_austin_for_online_mscs/",
+   "published": "2026-09-18T12:07:13+00:00",
+   "excerpt": "I recently got accepted to both Georgia Tech’s OMSCS as well as UT Austin’s online CS program. I’m most interested in AI / machine learning but am struggling with a decision as these seem to be the two best programs within this very affordable “class”. Obviously this is the GT sub but any input is greatly appreciated. submitted by /u/RichPresentation8314 [link] [留言]",
+   "author": "/u/RichPresentation8314",
+   "source": "Reddit r/OMSCS",
+   "id": "42e6b87489a8",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted",
+    "decision"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-19T11:33:41.303126+08:00"
+  },
+  {
    "title": "Dealing with work related burnout while taking my last OMSCS class (HCI)",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wj8sic/dealing_with_work_related_burnout_while_taking_my/",
    "published": "2026-09-17T22:44:39+00:00",
@@ -62,6 +78,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-18T11:36:06.070068+08:00"
   },
   {
@@ -78,6 +96,8 @@
     "admission"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-18T11:36:06.070068+08:00"
   },
   {
@@ -1984,13 +2004,28 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge - gatech.edu",
+   "title": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge - Georgia Institute of Technology",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmFJRDVrdTBzUVREbkJiMHJEOFdsVUd5dl84S3ZTbEd5RjBFeXgxakpKVEdRc2o5Z2tsdS0zQVA2WktkX0wyLW81T2txdFB1bmxoeVV0dWR0SHI4bloxenJrOHFjUnh2RE1GaHRid2NiUXd2aEdfYldxZm5MVHBuVkQxcURLTVpjNzFWdVR2bGhoc0Y1VVRZckZYN1dlRGdtWUc1TTk0aElqbkQ5WkZmdWZR?oc=5",
    "published": "2025-06-27T07:00:00+00:00",
-   "excerpt": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge gatech.edu",
+   "excerpt": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge Georgia Institute of Technology",
    "author": null,
    "source": "Google News",
    "id": "3b5108aa7f06",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
+   "published": "2025-02-28T08:00:00+00:00",
+   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "11f8714f6e18",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2021,6 +2056,21 @@
    "author": null,
    "source": "Google News",
    "id": "0236a502b4bf",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
+   "published": "2023-05-03T07:00:00+00:00",
+   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "54defa3e479c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2081,6 +2131,21 @@
    "author": null,
    "source": "Google News",
    "id": "6cccadeeb3ff",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs - forbes.com",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUjk1TXI4MW1UUnZXd3RMOG5VQlFIVkNmVWN4UFZCcVN6U3ItUjhmM3BNdGswOUZEMUk0cW5KYU1abm54RkowRTI4blN1OFFhY3I3MGtUTDE3SzFjdTFDNG5TTmZiaEdxclR0d3QwM0FZQWFmZkV4c21yMTFGc3p2TFZRcFFGMHlKOFJHSXd4NGNudnB6ZmZ2MGRGSWU3RjNZWWsyZVVlaTdabFhCLXp0LXYtdFlQeU00REgzYm4zVFQ3ZlphUjBwQTVpemhIX0ROMlBUSWh1Wkc4OWQ0S1J3bU1uTmRBTjlNeGh2QnphX2JmYW45VTZOTQ?oc=5",
+   "published": "2021-07-01T07:00:00+00:00",
+   "excerpt": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs forbes.com",
+   "author": null,
+   "source": "Google News",
+   "id": "563c0ba265f3",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2615,51 +2680,6 @@
    "excerpt": "",
    "source": "OMSCS 官方公告",
    "id": "df5b619713a4",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
-   "published": "2025-02-28T08:00:00+00:00",
-   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "11f8714f6e18",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
-   "published": "2023-05-03T07:00:00+00:00",
-   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
-   "author": null,
-   "source": "Google News",
-   "id": "54defa3e479c",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs - Forbes",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUjk1TXI4MW1UUnZXd3RMOG5VQlFIVkNmVWN4UFZCcVN6U3ItUjhmM3BNdGswOUZEMUk0cW5KYU1abm54RkowRTI4blN1OFFhY3I3MGtUTDE3SzFjdTFDNG5TTmZiaEdxclR0d3QwM0FZQWFmZkV4c21yMTFGc3p2TFZRcFFGMHlKOFJHSXd4NGNudnB6ZmZ2MGRGSWU3RjNZWWsyZVVlaTdabFhCLXp0LXYtdFlQeU00REgzYm4zVFQ3ZlphUjBwQTVpemhIX0ROMlBUSWh1Wkc4OWQ0S1J3bU1uTmRBTjlNeGh2QnphX2JmYW45VTZOTQ?oc=5",
-   "published": "2021-07-01T07:00:00+00:00",
-   "excerpt": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs Forbes",
-   "author": null,
-   "source": "Google News",
-   "id": "563c0ba265f3",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T11:33:41.303126+08:00",
+ "updated_at": "2026-09-20T11:49:06.010303+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,15 +9,15 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": true,
-   "count": 25,
-   "note": ""
-  },
-  {
-   "name": "Reddit r/gradadmissions",
    "ok": false,
    "count": 0,
    "note": "沒抓到資料（可能被擋或今天沒新內容）"
+  },
+  {
+   "name": "Reddit r/gradadmissions",
+   "ok": true,
+   "count": 25,
+   "note": ""
   },
   {
    "name": "Google News",
@@ -28,7 +28,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "note": ""
   },
   {
@@ -52,6 +52,73 @@
  ],
  "items": [
   {
+   "title": "Do you get to be part of research projects?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wkzphf/do_you_get_to_be_part_of_research_projects/",
+   "published": "2026-09-19T22:34:20+00:00",
+   "excerpt": "I already have a MSCS. My company will pay for OMSCS if I decide to join. My main motivation to join is if there is an option/opportunity to be part of research projects of any of the professors. The track I am considering is AI since I want to break into AI job market. I am currently SDE2. Any help is appreciated. submitted by /u/hashashin_2601 [link] [留言]",
+   "author": "/u/hashashin_2601",
+   "source": "Reddit r/OMSCS",
+   "id": "2f751f467972",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-20T11:49:06.010303+08:00"
+  },
+  {
+   "title": "I went to an in-person Georgia Tech career fair in Atlanta",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wk4knu/i_went_to_an_inperson_georgia_tech_career_fair_in/",
+   "published": "2026-09-18T22:31:32+00:00",
+   "excerpt": "I had the opportunity to attend the all majors career fair this week. Before I went, I read some posts with mixed reviews about attending as an OMSCS student. I was skeptical about whether or not it'd be worth the trip. I live out of state and I already have a job, but I wanted to go to one while I'm in the program. I'm getting close to graduation. Overall I would say I'm glad I went. I made some promising connections and exploring campus made me feel excited to be a part of the Georgia Tech community overall. Personally, I am very extroverted and have an easy time talking to people. I feel like a career fair gives me an edge over simply sending my resume out to traditional applications. It'",
+   "author": "/u/throwawaycape",
+   "source": "Reddit r/OMSCS",
+   "id": "1ab6105e5aaa",
+   "admission_signal": true,
+   "keyword_hits": [
+    "application"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-20T11:49:06.010303+08:00"
+  },
+  {
+   "title": "For Sale: Georgia Tech Master's Regalia - Bright Gold (Sciences/Math) Hood",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wjync0/for_sale_georgia_tech_masters_regalia_bright_gold/",
+   "published": "2026-09-18T18:43:07+00:00",
+   "excerpt": "SOLD submitted by /u/kobebrian23 [link] [留言]",
+   "author": "/u/kobebrian23",
+   "source": "Reddit r/OMSCS",
+   "id": "2f67d089bb12",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-20T11:49:06.010303+08:00"
+  },
+  {
+   "title": "Is anyone having an issue accessing canvas and other gatech subdomains on chromium based browser",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wk3s29/is_anyone_having_an_issue_accessing_canvas_and/",
+   "published": "2026-09-18T21:59:20+00:00",
+   "excerpt": "I'm struggling to access subdomains of gatech. First it was vip.gatech.edu, now it's canvas.gatech.edu. I keep getting the following error: This site can’t be reached The webpage at https://vip.gatech.edu/ might be temporarily down or it may have moved permanently to a new web address. ERR_HTTP2_PROTOCOL_ERROR It started happening this week. I can't access canvas.gatech.edu on brave or google chrome, but I can access it on firefox. I've cleared my browsing data from the last 4 weeks (all options were selected), turned off all my extensions, and tried an incognito window to no avail. canvas.gatech.edu works perfectly fine on my mobile browser. Is anyone else running into this issue? For refer",
+   "author": "/u/Duum",
+   "source": "Reddit r/OMSCS",
+   "id": "a9c603933ec7",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-20T11:49:06.010303+08:00"
+  },
+  {
+   "title": "ML4T Project 1 Grades are out got a bad grade",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wk3yq4/ml4t_project_1_grades_are_out_got_a_bad_grade/",
+   "published": "2026-09-18T22:06:44+00:00",
+   "excerpt": "I got a really bad score on my first project due to bug in my code. I was not sure if it's possible to verify the correctness code. Is this still recoverable or should I reconsider taking this course? This is my 3rd course in the program submitted by /u/-_Champion_- [link] [留言]",
+   "author": "/u/-_Champion_-",
+   "source": "Reddit r/OMSCS",
+   "id": "3c12f5a4034e",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-20T11:49:06.010303+08:00"
+  },
+  {
    "title": "Georgia Tech or UT Austin for Online MSCS",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wjoedo/georgia_tech_or_ut_austin_for_online_mscs/",
    "published": "2026-09-18T12:07:13+00:00",
@@ -65,6 +132,8 @@
     "decision"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-19T11:33:41.303126+08:00"
   },
   {
@@ -411,6 +480,21 @@
    "first_seen": "2026-09-12T11:32:14.763996+08:00"
   },
   {
+   "title": "The Digital Bridge - Harvard Graduate School of Education",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4WElYZVptUTFza2dhNV9TSWlNUnVyVFBXQTZhZXE5SmxBemZ1cV82RnAwbDhsOG1mZzZRX0pQWkxienVzV0VOTkc3ZHhwWlBWYV9lb0RNUDRtcFdnVV9DZTUtWGtRdXFmNHYybnlFUE5ETFh4VjYzSmoyWQ?oc=5",
+   "published": "2016-10-17T07:00:00+00:00",
+   "excerpt": "The Digital Bridge Harvard Graduate School of Education",
+   "author": null,
+   "source": "Google News",
+   "id": "879e1d986e19",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-10T11:29:06.422193+08:00"
+  },
+  {
    "title": "Contact for Canvas Course Publication",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wc17p0/contact_for_canvas_course_publication/",
    "published": "2026-09-09T22:55:24+00:00",
@@ -486,36 +570,6 @@
    "first_seen": "2026-09-10T11:29:06.422193+08:00"
   },
   {
-   "title": "The Digital Bridge - Harvard Graduate School of Education",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4WElYZVptUTFza2dhNV9TSWlNUnVyVFBXQTZhZXE5SmxBemZ1cV82RnAwbDhsOG1mZzZRX0pQWkxienVzV0VOTkc3ZHhwWlBWYV9lb0RNUDRtcFdnVV9DZTUtWGtRdXFmNHYybnlFUE5ETFh4VjYzSmoyWQ?oc=5",
-   "published": "2016-10-17T07:00:00+00:00",
-   "excerpt": "The Digital Bridge Harvard Graduate School of Education",
-   "author": null,
-   "source": "Google News",
-   "id": "879e1d986e19",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-10T11:29:06.422193+08:00"
-  },
-  {
-   "title": "Can research at another university count toward OMSCS research/project credits?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1waem82/can_research_at_another_university_count_toward/",
-   "published": "2026-09-08T04:46:08+00:00",
-   "excerpt": "I had some questions regarding pursuing research outside of Georgia Tech. I'm very interested in being a visiting scholar at another university that is more local to me (I'm currently working in the Bay Area). I've seen that there are some Georgia Tech PhD students who are visiting scholars involved with research labs in Stanford / UC Berkeley. I was looking into spending roughly 1 year at a research lab here and wanted to see whether I could count this toward research credits. (e.g. CS 8903/6999) Ideally for 9 credits to fulfill the \"Project Track\" of OMSCS. This question is for both faculty or other students that have pursued this previously. If this is a possibility, what does the process",
-   "author": "/u/MediumGuidance934",
-   "source": "Reddit r/OMSCS",
-   "id": "3d2bc1ec8c7a",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-09T11:31:05.420826+08:00"
-  },
-  {
    "title": "GaTech MSCS vs UIUC MCS",
    "url": "https://www.reddit.com/r/gradadmissions/comments/1liooah/gatech_mscs_vs_uiuc_mcs/",
    "published": "2025-06-23T18:40:32+00:00",
@@ -538,6 +592,21 @@
    "author": "/u/TheSid12",
    "source": "Reddit r/gradadmissions",
    "id": "0730751e61f7",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-09T11:31:05.420826+08:00"
+  },
+  {
+   "title": "Can research at another university count toward OMSCS research/project credits?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1waem82/can_research_at_another_university_count_toward/",
+   "published": "2026-09-08T04:46:08+00:00",
+   "excerpt": "I had some questions regarding pursuing research outside of Georgia Tech. I'm very interested in being a visiting scholar at another university that is more local to me (I'm currently working in the Bay Area). I've seen that there are some Georgia Tech PhD students who are visiting scholars involved with research labs in Stanford / UC Berkeley. I was looking into spending roughly 1 year at a research lab here and wanted to see whether I could count this toward research credits. (e.g. CS 8903/6999) Ideally for 9 credits to fulfill the \"Project Track\" of OMSCS. This question is for both faculty or other students that have pursued this previously. If this is a possibility, what does the process",
+   "author": "/u/MediumGuidance934",
+   "source": "Reddit r/OMSCS",
+   "id": "3d2bc1ec8c7a",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -997,6 +1066,21 @@
    "first_seen": "2026-09-07T11:20:07.298976+08:00"
   },
   {
+   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
+   "published": "2024-04-04T07:00:00+00:00",
+   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "607e30a6c950",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
    "title": "How’s everybody’s week 2 going? I thought my RL project deadline was 2 weeks earlier than it was",
    "url": "https://www.reddit.com/r/OMSCS/comments/1w8s5fb/hows_everybodys_week_2_going_i_thought_my_rl/",
    "published": "2026-09-06T10:06:00+00:00",
@@ -1019,21 +1103,6 @@
    "author": null,
    "source": "Google News",
    "id": "5eb0f74f31f9",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-07T11:20:07.298976+08:00"
-  },
-  {
-   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
-   "published": "2024-04-04T07:00:00+00:00",
-   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "607e30a6c950",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2019,21 +2088,6 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
-   "published": "2025-02-28T08:00:00+00:00",
-   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "11f8714f6e18",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
    "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
    "published": "2025-01-27T08:00:00+00:00",
@@ -2049,13 +2103,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
-   "published": "2024-08-25T07:00:00+00:00",
-   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
+   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
+   "published": "2023-05-03T07:00:00+00:00",
+   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
    "author": null,
    "source": "Google News",
-   "id": "0236a502b4bf",
+   "id": "54defa3e479c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2064,13 +2118,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
-   "published": "2023-05-03T07:00:00+00:00",
-   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
+   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
+   "published": "2024-08-25T07:00:00+00:00",
+   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
    "author": null,
    "source": "Google News",
-   "id": "54defa3e479c",
+   "id": "0236a502b4bf",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2124,10 +2178,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Georgia Tech launches second low-cost online master's degree program - Inside Higher Ed",
+   "title": "Georgia Tech launches second low-cost online master's degree program - insidehighered.com",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmg5WE0weGxEN2doN1o5SEhkeENTSzVzVDVhNlVKRmZVbktBWTZXd2hXaUFUeGhhSTdpQmJYMzlHXzFzMWROVHVJOGh4OEdDY3hwNWFTYVpvZHllbmlmWmJFck1lMGE3VVdaQlFnZnNEQjdZdHYyR0xGTEdxUVZFbGtOTkl6dm5nQ0dDLUN0UnJ1LUNJcWZSLS00c1M4cXJCNFRUaGphaU13Wmd4VnI1bWl2aHg?oc=5",
    "published": "2017-01-11T08:00:00+00:00",
-   "excerpt": "Georgia Tech launches second low-cost online master's degree program Inside Higher Ed",
+   "excerpt": "Georgia Tech launches second low-cost online master's degree program insidehighered.com",
    "author": null,
    "source": "Google News",
    "id": "6cccadeeb3ff",
@@ -2139,10 +2193,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs - forbes.com",
+   "title": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs - Forbes",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUjk1TXI4MW1UUnZXd3RMOG5VQlFIVkNmVWN4UFZCcVN6U3ItUjhmM3BNdGswOUZEMUk0cW5KYU1abm54RkowRTI4blN1OFFhY3I3MGtUTDE3SzFjdTFDNG5TTmZiaEdxclR0d3QwM0FZQWFmZkV4c21yMTFGc3p2TFZRcFFGMHlKOFJHSXd4NGNudnB6ZmZ2MGRGSWU3RjNZWWsyZVVlaTdabFhCLXp0LXYtdFlQeU00REgzYm4zVFQ3ZlphUjBwQTVpemhIX0ROMlBUSWh1Wkc4OWQ0S1J3bU1uTmRBTjlNeGh2QnphX2JmYW45VTZOTQ?oc=5",
    "published": "2021-07-01T07:00:00+00:00",
-   "excerpt": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs forbes.com",
+   "excerpt": "Georgia Tech’s Online MS In Computer Science Continues To Thrive. Why That’s Important For The Future of MOOCs Forbes",
    "author": null,
    "source": "Google News",
    "id": "563c0ba265f3",
@@ -2610,6 +2664,21 @@
    "excerpt": "",
    "source": "Hacker News",
    "id": "c0852f643372",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
+   "published": "2025-02-28T08:00:00+00:00",
+   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "11f8714f6e18",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

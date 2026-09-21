@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T11:49:06.010303+08:00",
+ "updated_at": "2026-09-21T11:45:40.624371+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,20 +9,20 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
-  },
-  {
-   "name": "Reddit r/gradadmissions",
    "ok": true,
    "count": 25,
    "note": ""
   },
   {
+   "name": "Reddit r/gradadmissions",
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+  },
+  {
    "name": "Google News",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "note": ""
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "OMSCS 官方公告",
    "ok": true,
-   "count": 3,
+   "count": 10,
    "note": ""
   },
   {
@@ -52,6 +52,32 @@
  ],
  "items": [
   {
+   "title": "Who do you use as a trusted person if you don’t know anyone in OMSCS?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wlah1p/who_do_you_use_as_a_trusted_person_if_you_dont/",
+   "published": "2026-09-20T07:32:03+00:00",
+   "excerpt": "I'm an OMSCS student and I signed up for the program completely on my own. Since it's fully online, I don't really know anyone else in the program personally, and I don't have classmates or friends from Georgia Tech that I could easily ask for help. I'm trying to figure out the account/password recovery setup, and it seems like I'm expected to designate a trusted person who could help me if I ever lose access to my account. But who are you supposed to put there if you literally don't know anyone else in the program? Has anyone else been in this situation? Who did you use as your trusted person, or is there some alternative for students who don't have anyone they know personally at Georgia Te",
+   "author": "/u/Hour_Challenge_7714",
+   "source": "Reddit r/OMSCS",
+   "id": "324392c00e33",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-21T11:45:40.624371+08:00"
+  },
+  {
+   "title": "Former Teaching Assistant and Student Embark on OMSCS Journey Together - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2VDUmNlTndDQmoweGltZGF2MGpWTTdYZmNjUHZtQlBrYUN0dUVkYjVrV2poNER1SnJ4czhMUmRhVHVydEdONmExc3VYSUJyZGJYdk54OWlRTFZYTUxGXzZlQUFlVGx3eG85eXpJZmpnbXk4S2ZseTJSMjZfRGVLaTI5aEJlclZTVjN6QV81VnpDazBvd25lamJoenlTcDVBV0kxUnJnWGpJbk0?oc=5",
+   "published": "2024-05-07T07:00:00+00:00",
+   "excerpt": "Former Teaching Assistant and Student Embark on OMSCS Journey Together Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "d4e768abfb19",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-21T11:45:40.624371+08:00"
+  },
+  {
    "title": "Do you get to be part of research projects?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wkzphf/do_you_get_to_be_part_of_research_projects/",
    "published": "2026-09-19T22:34:20+00:00",
@@ -62,6 +88,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-20T11:49:06.010303+08:00"
   },
   {
@@ -77,6 +105,8 @@
     "application"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-20T11:49:06.010303+08:00"
   },
   {
@@ -90,19 +120,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
-   "first_seen": "2026-09-20T11:49:06.010303+08:00"
-  },
-  {
-   "title": "Is anyone having an issue accessing canvas and other gatech subdomains on chromium based browser",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wk3s29/is_anyone_having_an_issue_accessing_canvas_and/",
-   "published": "2026-09-18T21:59:20+00:00",
-   "excerpt": "I'm struggling to access subdomains of gatech. First it was vip.gatech.edu, now it's canvas.gatech.edu. I keep getting the following error: This site can’t be reached The webpage at https://vip.gatech.edu/ might be temporarily down or it may have moved permanently to a new web address. ERR_HTTP2_PROTOCOL_ERROR It started happening this week. I can't access canvas.gatech.edu on brave or google chrome, but I can access it on firefox. I've cleared my browsing data from the last 4 weeks (all options were selected), turned off all my extensions, and tried an incognito window to no avail. canvas.gatech.edu works perfectly fine on my mobile browser. Is anyone else running into this issue? For refer",
-   "author": "/u/Duum",
-   "source": "Reddit r/OMSCS",
-   "id": "a9c603933ec7",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-20T11:49:06.010303+08:00"
   },
   {
@@ -116,6 +135,23 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-20T11:49:06.010303+08:00"
+  },
+  {
+   "title": "Is anyone having an issue accessing canvas and other gatech subdomains on chromium based browser",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wk3s29/is_anyone_having_an_issue_accessing_canvas_and/",
+   "published": "2026-09-18T21:59:20+00:00",
+   "excerpt": "I'm struggling to access subdomains of gatech. First it was vip.gatech.edu, now it's canvas.gatech.edu. I keep getting the following error: This site can’t be reached The webpage at https://vip.gatech.edu/ might be temporarily down or it may have moved permanently to a new web address. ERR_HTTP2_PROTOCOL_ERROR It started happening this week. I can't access canvas.gatech.edu on brave or google chrome, but I can access it on firefox. I've cleared my browsing data from the last 4 weeks (all options were selected), turned off all my extensions, and tried an incognito window to no avail. canvas.gatech.edu works perfectly fine on my mobile browser. Is anyone else running into this issue? For refer",
+   "author": "/u/Duum",
+   "source": "Reddit r/OMSCS",
+   "id": "a9c603933ec7",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-20T11:49:06.010303+08:00"
   },
   {
@@ -243,12 +279,12 @@
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
-   "title": "Professor, Alumni Receive Award for Edge Computing Research",
-   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
+   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
+   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "194c0d5c9996",
+   "id": "f422b53b6e0b",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -257,12 +293,12 @@
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
-   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
-   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
+   "title": "Professor, Alumni Receive Award for Edge Computing Research",
+   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "f422b53b6e0b",
+   "id": "194c0d5c9996",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -675,6 +711,21 @@
    "first_seen": "2026-09-08T11:27:40.081789+08:00"
   },
   {
+   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
+   "published": "2024-04-04T07:00:00+00:00",
+   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "607e30a6c950",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
    "title": "Georgia Tech OMSCS Resume Format",
    "url": "https://www.reddit.com/r/gradadmissions/comments/1vmfudq/georgia_tech_omscs_resume_format/",
    "published": "2026-08-12T14:33:25+00:00",
@@ -1060,21 +1111,6 @@
     "accepted",
     "decision"
    ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-07T11:20:07.298976+08:00"
-  },
-  {
-   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
-   "published": "2024-04-04T07:00:00+00:00",
-   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "607e30a6c950",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2088,6 +2124,21 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
+   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
+   "published": "2025-02-28T08:00:00+00:00",
+   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "11f8714f6e18",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
    "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
    "published": "2025-01-27T08:00:00+00:00",
@@ -2148,21 +2199,6 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
-   "published": "2023-04-21T07:00:00+00:00",
-   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
-   "author": null,
-   "source": "Google News",
-   "id": "43f2eafe3c1d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
    "title": "Unique Program Offers Campus Research Opportunities for Online Students - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0ZlSlQ5T2JrVjEtYmpGUGtzb1F1SlBIT0trOENndE9PeG9pN2pQNllxLUc5bk1vTzNmSW1GVWFsNl9ZQl92NnEwbGJjNGYyLTJkNjE0NDFnMEE5UlBybTJraXU1cDVlT1VJUEtFaU9WczBXRHZMTWpsRWxHYTlmQmtXNkJrS3NJMy1KUDBZQ0w0aWc5b25LOExxaVZiZEQ5SmFEaXF4N2RyRTQ?oc=5",
    "published": "2024-04-29T07:00:00+00:00",
@@ -2178,10 +2214,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Georgia Tech launches second low-cost online master's degree program - insidehighered.com",
+   "title": "Georgia Tech launches second low-cost online master's degree program - Inside Higher Ed",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmg5WE0weGxEN2doN1o5SEhkeENTSzVzVDVhNlVKRmZVbktBWTZXd2hXaUFUeGhhSTdpQmJYMzlHXzFzMWROVHVJOGh4OEdDY3hwNWFTYVpvZHllbmlmWmJFck1lMGE3VVdaQlFnZnNEQjdZdHYyR0xGTEdxUVZFbGtOTkl6dm5nQ0dDLUN0UnJ1LUNJcWZSLS00c1M4cXJCNFRUaGphaU13Wmd4VnI1bWl2aHg?oc=5",
    "published": "2017-01-11T08:00:00+00:00",
-   "excerpt": "Georgia Tech launches second low-cost online master's degree program insidehighered.com",
+   "excerpt": "Georgia Tech launches second low-cost online master's degree program Inside Higher Ed",
    "author": null,
    "source": "Google News",
    "id": "6cccadeeb3ff",
@@ -2230,6 +2266,76 @@
    "author": null,
    "source": "Google News",
    "id": "5100fe8e67f9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "CSE Leadership Transition Comes as School Continues Rapid Growth",
+   "url": "https://omscs.gatech.edu/external-news/cse-leadership-transition-comes-school-continues-rapid-growth",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "a17b0c73d22c",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Harvard’s $699 Startup Bootcamp Has Professors Who Never Sleep–But That’s Because They’re AI Clones",
+   "url": "https://omscs.gatech.edu/external-news/harvards-699-startup-bootcamp-has-professors-who-never-sleep-thats-because-theyre-ai",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "b13a02cb659d",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Georgia Tech Professors Turn to AI Tutors and Rethink Traditional Assignments",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-professors-turn-ai-tutors-and-rethink-traditional-assignments",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "1aaba2db9e59",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Expanding Access: New Director Role Advances Online Undergraduate Computing Education",
+   "url": "https://omscs.gatech.edu/external-news/expanding-access-new-director-role-advances-online-undergraduate-computing-education",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "79807bcb6ae4",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Georgia Water Systems Were Hacked. Were Minicomputers the Way In?",
+   "url": "https://omscs.gatech.edu/external-news/georgia-water-systems-were-hacked-were-minicomputers-way",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "df5b619713a4",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2390,9 +2496,9 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Why we're building omics in Rust at St. Jude research hospital",
+   "title": "Building a genomic primitives library in Rust: the why and how",
    "url": "https://claymcleod.dev/blog/2026-07-26-why-were-building-omics",
-   "published": "2026-07-26T21:26:34Z",
+   "published": "2026-09-20T21:11:24Z",
    "excerpt": "",
    "source": "Hacker News",
    "id": "a0f9ad5e5783",
@@ -2658,97 +2764,27 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
+   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
+   "published": "2023-04-21T07:00:00+00:00",
+   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "43f2eafe3c1d",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
    "title": "Multi-omics landscape and molecular basis of radiation tolerance in a tardigrade",
    "url": "https://www.science.org/doi/10.1126/science.adl0799",
    "published": "2024-10-25T11:08:58Z",
    "excerpt": "",
    "source": "Hacker News",
    "id": "c0852f643372",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
-   "published": "2025-02-28T08:00:00+00:00",
-   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "11f8714f6e18",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "CSE Leadership Transition Comes as School Continues Rapid Growth",
-   "url": "https://omscs.gatech.edu/external-news/cse-leadership-transition-comes-school-continues-rapid-growth",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "a17b0c73d22c",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Harvard’s $699 Startup Bootcamp Has Professors Who Never Sleep–But That’s Because They’re AI Clones",
-   "url": "https://omscs.gatech.edu/external-news/harvards-699-startup-bootcamp-has-professors-who-never-sleep-thats-because-theyre-ai",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "b13a02cb659d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Georgia Tech Professors Turn to AI Tutors and Rethink Traditional Assignments",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-professors-turn-ai-tutors-and-rethink-traditional-assignments",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "1aaba2db9e59",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Expanding Access: New Director Role Advances Online Undergraduate Computing Education",
-   "url": "https://omscs.gatech.edu/external-news/expanding-access-new-director-role-advances-online-undergraduate-computing-education",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "79807bcb6ae4",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Georgia Water Systems Were Hacked. Were Minicomputers the Way In?",
-   "url": "https://omscs.gatech.edu/external-news/georgia-water-systems-were-hacked-were-minicomputers-way",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "df5b619713a4",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T11:42:11.383407+08:00",
+ "updated_at": "2026-09-24T11:33:44.612900+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,15 +9,15 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
-  },
-  {
-   "name": "Reddit r/gradadmissions",
    "ok": true,
    "count": 25,
    "note": ""
+  },
+  {
+   "name": "Reddit r/gradadmissions",
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
    "name": "Google News",
@@ -28,13 +28,13 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "note": ""
   },
   {
    "name": "OMSCS 官方公告",
    "ok": true,
-   "count": 3,
+   "count": 10,
    "note": ""
   },
   {
@@ -52,6 +52,45 @@
  ],
  "items": [
   {
+   "title": "On the Verge of Dropping Out",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wnz508/on_the_verge_of_dropping_out/",
+   "published": "2026-09-23T07:26:17+00:00",
+   "excerpt": "Hey all, OMSCS student here with an ML specialization, 3 classes in. Honestly, I'm split between dropping out of the program or just roughing it out for one more semester (the split is probably ~70% leaning towards just dropping out). For context I've been working a 9-5 at a big tech company for the last 3 years, this program was originally meant be a part time thing I would do to boost my resume. Honestly, its becoming much more than that, I feel like its been eating up so much time in my life I'm not sure what to do. To give quick points for why I want to end my involvement with this program: The course work is soul-draining. Everything is fully automated. I talk to no one in the program o",
+   "author": "/u/secondandmany",
+   "source": "Reddit r/OMSCS",
+   "id": "92ecd571ec89",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-24T11:33:44.612900+08:00"
+  },
+  {
+   "title": "Quantum Computing additions?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wns1ip/quantum_computing_additions/",
+   "published": "2026-09-23T01:20:19+00:00",
+   "excerpt": "Hi all, Third semester student here. I took network science, quantum hardware and now taking quantum computation. Just wondering if there has been any communication in the past about intentions to add any more classes/a degree related to Quantum Computation. I have been loving this quantum sequence and could definitely see myself working in the field. Additionally, I believe there's a quantum CS cluster at Georgia Tech. Does anyone know where/who to contact for potentially joining/contributing to the work there? Apologies if this is well-known information but I haven't seen anything about it since I've been in the program. Thanks! submitted by /u/Indolomnir_ [link] [留言]",
+   "author": "/u/Indolomnir_",
+   "source": "Reddit r/OMSCS",
+   "id": "4092fdf5cb13",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-24T11:33:44.612900+08:00"
+  },
+  {
+   "title": "INTA 6450 Project: Enron vs. NowSecure?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wn9sle/inta_6450_project_enron_vs_nowsecure/",
+   "published": "2026-09-22T13:39:13+00:00",
+   "excerpt": "Hey everyone, I'm taking INTA 6450 (Data Analytics and Security) and trying to decide between the two project tracks. I have a strong programming/Python background, so the technical implementation side isn't a major blocker for me. My goal is to minimize weekly time commitment . I have a full-time job and a very busy schedule outside of class. I have a solid Python/programming background, so the coding itself isn’t an issue. I just want to avoid unexpected scope creep, vague rubrics, or messy troubleshooting through the sem. submitted by /u/PassageAmbitious [link] [留言]",
+   "author": "/u/PassageAmbitious",
+   "source": "Reddit r/OMSCS",
+   "id": "69c0c6d31406",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-24T11:33:44.612900+08:00"
+  },
+  {
    "title": "Are you okay? r/OMSCS Mental Health Check-in.",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wn8vd6/are_you_okay_romscs_mental_health_checkin/",
    "published": "2026-09-22T13:01:06+00:00",
@@ -62,6 +101,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-23T11:42:11.383407+08:00"
   },
   {
@@ -75,6 +116,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-23T11:42:11.383407+08:00"
   },
   {
@@ -88,6 +131,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-23T11:42:11.383407+08:00"
   },
   {
@@ -322,13 +367,12 @@
    "first_seen": "2026-09-17T11:49:40.293098+08:00"
   },
   {
-   "title": "Serious question: Bears @ Falcons or OMSCS graduation?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wgrcrz/serious_question_bears_falcons_or_omscs_graduation/",
-   "published": "2026-09-15T05:27:25+00:00",
-   "excerpt": "Assuming I survive CS 6515 this semester, I'll finally be graduating from OMSCS after a pretty long road to get here. Here's my very important dilemma. I'm from the Chicago area and a huge Bears fan. The Bears play the Falcons in Atlanta in October, so part of me wants to make that my Georgia Tech trip - fly down for the game, finally walk around campus, take some pictures at Tech Tower, buy some GT stuff, and celebrate being basically done. The other option is to wait and come down for the actual graduation ceremony later in the year. For people who graduated from OMSCS: is commencement worth making the trip for, or would you take the excuse to do a Bears/Falcons weekend and visit campus th",
-   "author": "/u/BearFanEngineer",
-   "source": "Reddit r/OMSCS",
-   "id": "382dce7cf85f",
+   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
+   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "f422b53b6e0b",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -343,20 +387,6 @@
    "excerpt": "",
    "source": "OMSCS 官方公告",
    "id": "194c0d5c9996",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-16T11:44:33.653307+08:00"
-  },
-  {
-   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
-   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "f422b53b6e0b",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -399,6 +429,21 @@
    "excerpt": "",
    "source": "OMSCS 官方公告",
    "id": "d2f9dc22a630",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-16T11:44:33.653307+08:00"
+  },
+  {
+   "title": "Serious question: Bears @ Falcons or OMSCS graduation?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wgrcrz/serious_question_bears_falcons_or_omscs_graduation/",
+   "published": "2026-09-15T05:27:25+00:00",
+   "excerpt": "Assuming I survive CS 6515 this semester, I'll finally be graduating from OMSCS after a pretty long road to get here. Here's my very important dilemma. I'm from the Chicago area and a huge Bears fan. The Bears play the Falcons in Atlanta in October, so part of me wants to make that my Georgia Tech trip - fly down for the game, finally walk around campus, take some pictures at Tech Tower, buy some GT stuff, and celebrate being basically done. The other option is to wait and come down for the actual graduation ceremony later in the year. For people who graduated from OMSCS: is commencement worth making the trip for, or would you take the excuse to do a Bears/Falcons weekend and visit campus th",
+   "author": "/u/BearFanEngineer",
+   "source": "Reddit r/OMSCS",
+   "id": "382dce7cf85f",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -767,6 +812,21 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-08T11:27:40.081789+08:00"
+  },
+  {
+   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
+   "published": "2024-04-04T07:00:00+00:00",
+   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "607e30a6c950",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
   },
   {
    "title": "Georgia Tech OMSCS Resume Format",
@@ -1154,21 +1214,6 @@
     "accepted",
     "decision"
    ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-07T11:20:07.298976+08:00"
-  },
-  {
-   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
-   "published": "2024-04-04T07:00:00+00:00",
-   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "607e30a6c950",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2317,10 +2362,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Research challenges assumptions about online education success - Phys.org",
+   "title": "Research challenges assumptions about online education success - phys.org",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
    "published": "2026-08-03T07:00:00+00:00",
-   "excerpt": "Research challenges assumptions about online education success Phys.org",
+   "excerpt": "Research challenges assumptions about online education success phys.org",
    "author": null,
    "source": "Google News",
    "id": "3fd446b8a3e2",
@@ -2332,13 +2377,68 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Top Online Master's in Computer Science Without CS Undergrad - bestcolleges.com",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaEJ4V3V3YmdiYWkwVjJjUTZTb3BJUEFGQmk2bWF3MjlKU00zQUpMOHktdDBZZUdRLUMtZEFSN29GLUhyZlU1QVhEdDZNSnVrMlhvcHFxN3BTTUlMalZlRGNQQTREWTF6eFBxOHJvWUg5UVVPa1ow?oc=5",
-   "published": "2024-10-08T07:00:00+00:00",
-   "excerpt": "Top Online Master's in Computer Science Without CS Undergrad bestcolleges.com",
-   "author": null,
-   "source": "Google News",
-   "id": "5100fe8e67f9",
+   "title": "CSE Leadership Transition Comes as School Continues Rapid Growth",
+   "url": "https://omscs.gatech.edu/external-news/cse-leadership-transition-comes-school-continues-rapid-growth",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "a17b0c73d22c",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Harvard’s $699 Startup Bootcamp Has Professors Who Never Sleep–But That’s Because They’re AI Clones",
+   "url": "https://omscs.gatech.edu/external-news/harvards-699-startup-bootcamp-has-professors-who-never-sleep-thats-because-theyre-ai",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "b13a02cb659d",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Georgia Tech Professors Turn to AI Tutors and Rethink Traditional Assignments",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-professors-turn-ai-tutors-and-rethink-traditional-assignments",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "1aaba2db9e59",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Expanding Access: New Director Role Advances Online Undergraduate Computing Education",
+   "url": "https://omscs.gatech.edu/external-news/expanding-access-new-director-role-advances-online-undergraduate-computing-education",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "79807bcb6ae4",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Georgia Water Systems Were Hacked. Were Minicomputers the Way In?",
+   "url": "https://omscs.gatech.edu/external-news/georgia-water-systems-were-hacked-were-minicomputers-way",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "df5b619713a4",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2767,68 +2867,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "CSE Leadership Transition Comes as School Continues Rapid Growth",
-   "url": "https://omscs.gatech.edu/external-news/cse-leadership-transition-comes-school-continues-rapid-growth",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "a17b0c73d22c",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Harvard’s $699 Startup Bootcamp Has Professors Who Never Sleep–But That’s Because They’re AI Clones",
-   "url": "https://omscs.gatech.edu/external-news/harvards-699-startup-bootcamp-has-professors-who-never-sleep-thats-because-theyre-ai",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "b13a02cb659d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Georgia Tech Professors Turn to AI Tutors and Rethink Traditional Assignments",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-professors-turn-ai-tutors-and-rethink-traditional-assignments",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "1aaba2db9e59",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Expanding Access: New Director Role Advances Online Undergraduate Computing Education",
-   "url": "https://omscs.gatech.edu/external-news/expanding-access-new-director-role-advances-online-undergraduate-computing-education",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "79807bcb6ae4",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Georgia Water Systems Were Hacked. Were Minicomputers the Way In?",
-   "url": "https://omscs.gatech.edu/external-news/georgia-water-systems-were-hacked-were-minicomputers-way",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "df5b619713a4",
+   "title": "Top Online Master's in Computer Science Without CS Undergrad - bestcolleges.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaEJ4V3V3YmdiYWkwVjJjUTZTb3BJUEFGQmk2bWF3MjlKU00zQUpMOHktdDBZZUdRLUMtZEFSN29GLUhyZlU1QVhEdDZNSnVrMlhvcHFxN3BTTUlMalZlRGNQQTREWTF6eFBxOHJvWUg5UVVPa1ow?oc=5",
+   "published": "2024-10-08T07:00:00+00:00",
+   "excerpt": "Top Online Master's in Computer Science Without CS Undergrad bestcolleges.com",
+   "author": null,
+   "source": "Google News",
+   "id": "5100fe8e67f9",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

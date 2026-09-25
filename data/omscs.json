@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24T11:33:44.612900+08:00",
+ "updated_at": "2026-09-25T11:50:36.805435+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -52,6 +52,86 @@
  ],
  "items": [
   {
+   "title": "I'm a terrible SWE and I drown in coursework, how can I get better in this degree?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wpb8v2/im_a_terrible_swe_and_i_drown_in_coursework_how/",
+   "published": "2026-09-24T19:32:35+00:00",
+   "excerpt": "EDIT: It's a bit long, please don't downvote unless it super upsets you I hid nothing and was honest, as I got stuck and I really need help. I'm wondering if I'm cut out for this. So far throwing additional work hours isn't helping. Thank you :) Context & Current Role Basically the title. I get commended at work frequently, but I know the truth. We are although a known company, still a consultancy, and engineering from first principles is not really our forte, something that this degree asks for in spades. And something I want to master. I've dabbled in Data Analysis, Data Engineering, Machine Learning, Backend, Cloud and DevOps stuff. Learning Journey & Current difficulties For my first yea",
+   "author": "/u/SemperPistos",
+   "source": "Reddit r/OMSCS",
+   "id": "227dfdbb8b85",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
+   "title": "is CS6795 \"100 hour\" term project requirement \"easy\" to reach?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wpgq3j/is_cs6795_100_hour_term_project_requirement_easy/",
+   "published": "2026-09-24T23:18:09+00:00",
+   "excerpt": "Not asking to be lazy, but a genuine question. For some classes it's easy to rack up hours getting lost in solving a problem. The open-ended nature of Intro to Cog. Sci.'s research project makes the 100 hour requirement seem daunting as someone who generally operates well within structure. If anyone else has taken the class, how \"easy\" did you find it to reach the 100 hours? If I'm doing the literature review I could see myself taking several hours to get through each research paper...but seeing the final submission examples only being 5-6 pages makes it seem like I'd theoretically finish well under 100 hours. Are people padding their hours or am I just underestimating how much time this cou",
+   "author": "/u/american_hybrid",
+   "source": "Reddit r/OMSCS",
+   "id": "354f4d4623c2",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
+   "title": "OMSCS vs in-person masters Similarity",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
+   "published": "2026-09-24T15:35:17+00:00",
+   "excerpt": "Hi!! I wanted to ask whether the course content and academic rigor of Georgia Tech’s OMSCS are generally the same as the in-person MSCS, or whether the online courses are more condensed. Also, how is the OMSCS viewed when applying to PhD programs? Does it carry similar academic weight to the in-person MSCS, particularly for PhD admissions in Computer Science? submitted by /u/dothisnightwing [link] [留言]",
+   "author": "/u/dothisnightwing",
+   "source": "Reddit r/OMSCS",
+   "id": "31f67e101c48",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admission"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
+   "title": "Is using AI really that frowned upon?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wp8pld/is_using_ai_really_that_frowned_upon/",
+   "published": "2026-09-24T17:57:11+00:00",
+   "excerpt": "I’ll be honest, I’m not the smartest student out there, but I’m genuinely curious and I know how to put in the work. I also have work and personal commitments, so I use AI a lot to summarize readings, explain concepts, help me study, and make my workflow more efficient. I would never have AI do an assignment or project for me and pass it off as my own work. To me, AI should add to your learning, not replace it. Would I probably learn more if I struggled through every reading, quiz, problem set, and project completely on my own until I had that eureka moment? Probably. But realistically, I don’t always have the bandwidth for that. I’d rather understand 60–70% of the material with some help fr",
+   "author": "/u/SnooConfections1353",
+   "source": "Reddit r/OMSCS",
+   "id": "35fee1326b54",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
+   "title": "CS 6601: Need advice after academic integrity warning on an intro assignment",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1worfl0/cs_6601_need_advice_after_academic_integrity/",
+   "published": "2026-09-24T03:58:50+00:00",
+   "excerpt": "Hi everyone, I’m looking for some advice about an academic integrity situation. For Assignment 0, which was mainly an introductory assignment to familiarize us with the IDE, I received a warning because I had pasted some external code into the assignment environment. The teaching staff said they would not pursue the case because A0 was only an introduction assignment. The problem is that I had already submitted Assignment 1 before receiving this warning. In A1, I had some similar behavior as well, and now I’m very worried that it could lead to a more serious academic integrity case. Has anyone been in a similar situation, and what would typically be the worst-case consequence for this? I’m m",
+   "author": "/u/Dependent_Injury2608",
+   "source": "Reddit r/OMSCS",
+   "id": "0af02cedc149",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
+   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
+   "published": "2025-04-24T07:00:00+00:00",
+   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "b46a54226e93",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
    "title": "On the Verge of Dropping Out",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wnz508/on_the_verge_of_dropping_out/",
    "published": "2026-09-23T07:26:17+00:00",
@@ -62,6 +142,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-24T11:33:44.612900+08:00"
   },
   {
@@ -75,6 +157,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-24T11:33:44.612900+08:00"
   },
   {
@@ -88,6 +172,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-24T11:33:44.612900+08:00"
   },
   {
@@ -2287,10 +2373,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
+   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - nature.com",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
    "published": "2022-05-07T07:00:00+00:00",
-   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
+   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging nature.com",
    "author": null,
    "source": "Google News",
    "id": "29987ae51976",
@@ -2317,13 +2403,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Unique Program Offers Campus Research Opportunities for Online Students - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0ZlSlQ5T2JrVjEtYmpGUGtzb1F1SlBIT0trOENndE9PeG9pN2pQNllxLUc5bk1vTzNmSW1GVWFsNl9ZQl92NnEwbGJjNGYyLTJkNjE0NDFnMEE5UlBybTJraXU1cDVlT1VJUEtFaU9WczBXRHZMTWpsRWxHYTlmQmtXNkJrS3NJMy1KUDBZQ0w0aWc5b25LOExxaVZiZEQ5SmFEaXF4N2RyRTQ?oc=5",
-   "published": "2024-04-29T07:00:00+00:00",
-   "excerpt": "Unique Program Offers Campus Research Opportunities for Online Students Georgia Tech News Center",
+   "title": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1phSncwdjQxY0QzRWQzbWVnZEpfdlI2RnlKSi1fUmJHQWU5YXVSMTRjbTRoTUNmM2paOTA1clhJWUg3X0d1TWlaUVRFMThkYXRJdGwtWWI0WmtMOEpxTmdoYWN4NWQxblVqb2VuUVNoLWdTVm9KY0lQUVVfUnhrNnY3T2NCMXA4MFVWclljZTN5QzNSRHhXUHZ1Ui1NdTVQY21oeGF5THNYdEdGUlJJN0t0aE8weEU?oc=5",
+   "published": "2020-12-26T08:00:00+00:00",
+   "excerpt": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science DataDrivenInvestor",
    "author": null,
    "source": "Google News",
-   "id": "2ffcf459be25",
+   "id": "3e299541f687",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2362,10 +2448,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Research challenges assumptions about online education success - phys.org",
+   "title": "Research challenges assumptions about online education success - Phys.org",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
    "published": "2026-08-03T07:00:00+00:00",
-   "excerpt": "Research challenges assumptions about online education success phys.org",
+   "excerpt": "Research challenges assumptions about online education success Phys.org",
    "author": null,
    "source": "Google News",
    "id": "3fd446b8a3e2",
@@ -2867,6 +2953,21 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
+   "title": "Unique Program Offers Campus Research Opportunities for Online Students - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0ZlSlQ5T2JrVjEtYmpGUGtzb1F1SlBIT0trOENndE9PeG9pN2pQNllxLUc5bk1vTzNmSW1GVWFsNl9ZQl92NnEwbGJjNGYyLTJkNjE0NDFnMEE5UlBybTJraXU1cDVlT1VJUEtFaU9WczBXRHZMTWpsRWxHYTlmQmtXNkJrS3NJMy1KUDBZQ0w0aWc5b25LOExxaVZiZEQ5SmFEaXF4N2RyRTQ?oc=5",
+   "published": "2024-04-29T07:00:00+00:00",
+   "excerpt": "Unique Program Offers Campus Research Opportunities for Online Students Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "2ffcf459be25",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
    "title": "Top Online Master's in Computer Science Without CS Undergrad - bestcolleges.com",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaEJ4V3V3YmdiYWkwVjJjUTZTb3BJUEFGQmk2bWF3MjlKU00zQUpMOHktdDBZZUdRLUMtZEFSN29GLUhyZlU1QVhEdDZNSnVrMlhvcHFxN3BTTUlMalZlRGNQQTREWTF6eFBxOHJvWUg5UVVPa1ow?oc=5",
    "published": "2024-10-08T07:00:00+00:00",
@@ -2958,21 +3059,6 @@
    "excerpt": "",
    "source": "OMSCS 官方公告",
    "id": "2e8bdc724611",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1phSncwdjQxY0QzRWQzbWVnZEpfdlI2RnlKSi1fUmJHQWU5YXVSMTRjbTRoTUNmM2paOTA1clhJWUg3X0d1TWlaUVRFMThkYXRJdGwtWWI0WmtMOEpxTmdoYWN4NWQxblVqb2VuUVNoLWdTVm9KY0lQUVVfUnhrNnY3T2NCMXA4MFVWclljZTN5QzNSRHhXUHZ1Ui1NdTVQY21oeGF5THNYdEdGUlJJN0t0aE8weEU?oc=5",
-   "published": "2020-12-26T08:00:00+00:00",
-   "excerpt": "5 Reasons Why I Enjoy Taking Online Masters to learn Data Science DataDrivenInvestor",
-   "author": null,
-   "source": "Google News",
-   "id": "3e299541f687",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

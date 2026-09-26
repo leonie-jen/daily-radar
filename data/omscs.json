@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T11:50:36.805435+08:00",
+ "updated_at": "2026-09-26T11:56:08.785653+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,15 +9,15 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": true,
-   "count": 25,
-   "note": ""
-  },
-  {
-   "name": "Reddit r/gradadmissions",
    "ok": false,
    "count": 0,
    "note": "沒抓到資料（可能被擋或今天沒新內容）"
+  },
+  {
+   "name": "Reddit r/gradadmissions",
+   "ok": true,
+   "count": 25,
+   "note": ""
   },
   {
    "name": "Google News",
@@ -28,7 +28,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "note": ""
   },
   {
@@ -52,6 +52,58 @@
  ],
  "items": [
   {
+   "title": "Computer Networks : CS6250 : Distance vector routing",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wq3xbc/computer_networks_cs6250_distance_vector_routing/",
+   "published": "2026-09-25T18:27:10+00:00",
+   "excerpt": "Hi, this is my first sem and I have taken CN and KBAI. In the first project of CN, Spanning tree protocol, I scored 100/100. But in the second one, I could score 85/100 in the gradescope since my code is failing 1 test case. How are the other subsequent projects for scoring? I consistently score 17-19/20 in the chapter quizzes. Should I move ahead with 85? Would it hamper my chances of getting A? I am not a really great exam taker hence I am a bit nervous about exams too. I found the content of CN a bit dry as well. It is neat but at times too many jargons. I see largely everyone gets A in CN but the second project kind of made me a bit nervous. TIA! submitted by /u/BulkyAd9029 [link] [留言]",
+   "author": "/u/BulkyAd9029",
+   "source": "Reddit r/OMSCS",
+   "id": "0630075cc87f",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-26T11:56:08.785653+08:00"
+  },
+  {
+   "title": "HackGT 13 - First Timer Attending in Person",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wq5q99/hackgt_13_first_timer_attending_in_person/",
+   "published": "2026-09-25T19:38:03+00:00",
+   "excerpt": "Hi guys, I'm on campus this weekend for HackGT and was wondering if anyone else is here from the OMSCS program. This is my first ever hackathon so I'm hoping to learn a lot and have a lot of fun. Let me know if you're also here and if you have any tips for a first timer! submitted by /u/doublecupnav [link] [留言]",
+   "author": "/u/doublecupnav",
+   "source": "Reddit r/OMSCS",
+   "id": "b101841bb0f9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-26T11:56:08.785653+08:00"
+  },
+  {
+   "title": "GIOS - failing project 1, drop?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wq0411/gios_failing_project_1_drop/",
+   "published": "2026-09-25T15:59:01+00:00",
+   "excerpt": "Im taking GIOS and the first project is due this weekend but i've only gotten the warmups done, should I drop or try to stick through? edit: thanks for the motivation/advice everyone! I think i will try to stick it through to the drop date. Seems like there's a decent curve and i don't necessarilyy need a B, a C would be okay in the grand scheme of things. submitted by /u/icybreath11 [link] [留言]",
+   "author": "/u/icybreath11",
+   "source": "Reddit r/OMSCS",
+   "id": "69980bcee7aa",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-26T11:56:08.785653+08:00"
+  },
+  {
+   "title": "Getting bummed out that I can’t remember a lot of the stuff I’ve learned",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wouj1p/getting_bummed_out_that_i_cant_remember_a_lot_of/",
+   "published": "2026-09-24T06:52:03+00:00",
+   "excerpt": "For context, I’m not a tech worker at all. I’m a high school physics teacher in my mid 30s. I learned how to code during Covid and loved it so much I decided I wanted to formally learn stuff I’ve always been curious about. So far it’s great, and I’m on my 5th class taking one per semester. Loved all the classes so far, found all the topics really engaging, and have finished each class with a very high grade. But every now and then, I sit and think about all the stuff I’ve learned and all the projects I’ve coded and… I get bummed out when I realize how much of it I forgot. I vaguely remember concepts from past classes (KBAI, AI, ML4T, and RAIT) but I can’t recall the details well enough to ta",
+   "author": "/u/vwin90",
+   "source": "Reddit r/OMSCS",
+   "id": "aec5ce8f24a7",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-26T11:56:08.785653+08:00"
+  },
+  {
    "title": "I'm a terrible SWE and I drown in coursework, how can I get better in this degree?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wpb8v2/im_a_terrible_swe_and_i_drown_in_coursework_how/",
    "published": "2026-09-24T19:32:35+00:00",
@@ -62,6 +114,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-25T11:50:36.805435+08:00"
   },
   {
@@ -75,6 +129,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-25T11:50:36.805435+08:00"
   },
   {
@@ -90,6 +146,8 @@
     "admission"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-25T11:50:36.805435+08:00"
   },
   {
@@ -103,6 +161,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-25T11:50:36.805435+08:00"
   },
   {
@@ -116,6 +176,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-25T11:50:36.805435+08:00"
   },
   {
@@ -129,6 +191,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-25T11:50:36.805435+08:00"
   },
   {
@@ -453,12 +517,12 @@
    "first_seen": "2026-09-17T11:49:40.293098+08:00"
   },
   {
-   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
-   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
+   "title": "Professor, Alumni Receive Award for Edge Computing Research",
+   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "f422b53b6e0b",
+   "id": "194c0d5c9996",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -467,12 +531,12 @@
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
-   "title": "Professor, Alumni Receive Award for Edge Computing Research",
-   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
+   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
+   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "194c0d5c9996",
+   "id": "f422b53b6e0b",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -900,21 +964,6 @@
    "first_seen": "2026-09-08T11:27:40.081789+08:00"
   },
   {
-   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
-   "published": "2024-04-04T07:00:00+00:00",
-   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "607e30a6c950",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-07T11:20:07.298976+08:00"
-  },
-  {
    "title": "Georgia Tech OMSCS Resume Format",
    "url": "https://www.reddit.com/r/gradadmissions/comments/1vmfudq/georgia_tech_omscs_resume_format/",
    "published": "2026-08-12T14:33:25+00:00",
@@ -1300,6 +1349,21 @@
     "accepted",
     "decision"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
+   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
+   "published": "2024-04-04T07:00:00+00:00",
+   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "607e30a6c950",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2313,10 +2377,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
+   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - news.research.gatech.edu",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
    "published": "2025-02-28T08:00:00+00:00",
-   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
+   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology news.research.gatech.edu",
    "author": null,
    "source": "Google News",
    "id": "11f8714f6e18",
@@ -2373,10 +2437,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - nature.com",
+   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
    "published": "2022-05-07T07:00:00+00:00",
-   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging nature.com",
+   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
    "author": null,
    "source": "Google News",
    "id": "29987ae51976",
@@ -2455,6 +2519,21 @@
    "author": null,
    "source": "Google News",
    "id": "3fd446b8a3e2",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Top Online Master's in Computer Science Without CS Undergrad - BestColleges",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaEJ4V3V3YmdiYWkwVjJjUTZTb3BJUEFGQmk2bWF3MjlKU00zQUpMOHktdDBZZUdRLUMtZEFSN29GLUhyZlU1QVhEdDZNSnVrMlhvcHFxN3BTTUlMalZlRGNQQTREWTF6eFBxOHJvWUg5UVVPa1ow?oc=5",
+   "published": "2024-10-08T07:00:00+00:00",
+   "excerpt": "Top Online Master's in Computer Science Without CS Undergrad BestColleges",
+   "author": null,
+   "source": "Google News",
+   "id": "5100fe8e67f9",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2960,21 +3039,6 @@
    "author": null,
    "source": "Google News",
    "id": "2ffcf459be25",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Top Online Master's in Computer Science Without CS Undergrad - bestcolleges.com",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaEJ4V3V3YmdiYWkwVjJjUTZTb3BJUEFGQmk2bWF3MjlKU00zQUpMOHktdDBZZUdRLUMtZEFSN29GLUhyZlU1QVhEdDZNSnVrMlhvcHFxN3BTTUlMalZlRGNQQTREWTF6eFBxOHJvWUg5UVVPa1ow?oc=5",
-   "published": "2024-10-08T07:00:00+00:00",
-   "excerpt": "Top Online Master's in Computer Science Without CS Undergrad bestcolleges.com",
-   "author": null,
-   "source": "Google News",
-   "id": "5100fe8e67f9",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

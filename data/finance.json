@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T11:51:46.919655+08:00",
+ "updated_at": "2026-09-26T11:57:17.298790+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -16,11 +16,23 @@
   {
    "name": "哈利的投資研究筆記庫",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "note": ""
   }
  ],
  "items": [
+  {
+   "title": "[美股] 2026-09-26 美股盤後報告",
+   "url": "https://harrymemo.com/outputs/us/2026-09-26_US_Market_Dashboard",
+   "published": "2026-09-26",
+   "excerpt": "",
+   "market_section": "us",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "dbc07d1bf901",
+   "relevance": null,
+   "first_seen": "2026-09-26T11:57:17.298790+08:00"
+  },
   {
    "title": "[美股] 2026-09-25 美股盤後報告",
    "url": "https://harrymemo.com/outputs/us/2026-09-25_US_Market_Dashboard",
@@ -31,6 +43,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "684f7f114c88",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-25T11:51:46.919655+08:00"
   },
   {
@@ -43,15 +57,17 @@
    "source": "哈利的投資研究筆記庫",
    "id": "a72e3b6a8f6d",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-25T11:51:46.919655+08:00"
   },
   {
-   "title": "[美股] 2026-09-24 美股盤後報告",
+   "title": "[美股] 2026/09/24 美股盤後：週三「PMI 再通膨驚嚇 × 10Y 回到 2007 水準 × 創高後首根修正」— 市場在賭…",
    "url": "https://harrymemo.com/outputs/us/2026-09-24_US_Market_Dashboard",
    "published": "2026-09-24",
-   "excerpt": "",
+   "excerpt": "2026/09/24 美股盤後：週三「PMI 再通膨驚嚇 × 10Y 回到 2007 水準 × 創高後首根修正」— 市場在賭…｜哈利的投資研究筆記庫 ← 返回 報告列表 首頁 目錄 🤖 哈利小助理 📈 美股收盤指數 🏛️ 美股市值前十 🔭 技術雷達快覽 📰 產業敘事 🌡️ 產業熱力圖 📈 日漲幅資金主軸 📉 日跌幅資金主軸 📊 週漲跌幅前十 📊 月漲跌幅前十 🔥 產業熱度評等 🔭 短線關注 🔭 中期關注 🎲 情境與宏觀 📅 未來 2 週重點 🇹🇼 台美對照 📉 超跌雷達 📈 200 週突破 US Dashboard 報告：2026/09/24（台北）｜美股收盤：2026/09/23｜查詢：2026-09-24 06:33 台北 本日市場報告 技術線圖專區 🇺🇸 美股深度分析 Dashboard ⚠️ 今日重大事件：美國 9 月 S&P Global Flash PMI 顯示景氣與成本同步偏熱， 10Y 公債收益率升破 5.1%；Micron（ MU ）於美東時間 9/23 盤後公布 FY26 Q4 財報（本報告撰寫時以盤前收盤價為主，盤後數字請以公司新聞稿為準）。 🤖 哈利小助理 · 今日精評 不專業分析師視野 · 統整盤勢與展望 中性 偏防禦、結構選股；資安/存儲持有參考，金融/高 Beta 平台減碼； 2330 台積電 ， 2344 華邦電 STX 略正面 週三「 PMI 再通膨驚嚇 × 10Y 回到 2007 × 創高後首根修正」— 市場在賭 Fed 是否被迫再緊，同時用原物料/必需消費與資安 SaaS 對沖成長股估值殺 總經背景 S&P Global 9 月 Flash PMI 指商業活動創五年最快擴張，但供應鏈壅塞推升售價與能源成本（媒體引述 Chris Williamson 談話）。 10Y ^TNX 約 5.11% 為 2007 ，期貨市場對年底升息路徑再評估。 VIX 15.18 仍低於恐慌區，屬「利率重定價」而非全面 Risk-off，但 Nasdaq 自前日收盤新高回落顯示追價意願降溫。 資金輪動 資金從 XLU （ NEE -3.28% 級）、 XLC （ GOOGL -3.80% 拖累）與利率敏感 XLRE 流出；湧入 XLB / XLE / XLP 的「再通膨/防禦」組合，以及 XLK 內部 **資安/企業軟體**（ OKTA / PANW / CRWD / ZS ）而非整體 Mag7— NVDA -1.47% 、 GOOGL 弱、 MSFT +0.52% 抗跌，屬 **選股式科技** 而非全面多頭。金融 BX / WFC / MS 齊弱，延續殖利率曲線重估下的抽血。 台美連動 10Y 升破 5.1% + PMI 偏熱 → 成長股估值壓力 → NVDA / GOOGL 日弱 → 2330 台積電 、 2454 聯發科 開盤情緒略降溫（非基本面轉空）。 OKTA / PANW / CRWD 資安鏈強 → 企業 IT Capex/資安預算敘事 → 台股純軟體映射有限，** 2330 台積電 / 3661 世芯-KY NVDA Capex 主線**。 STX +5.30% 續強 → 存儲合約價/AI 容量 → 2344 華邦電 、 2408 南亞科 情緒偏暖。 WFC / MS 弱 → 台股金融映射弱，勿 over-read 道瓊 跌幅。 今日統整 劇本是「總經勝過財報」— 前一日 Nasdaq 創高後， PMI 把債市賣壓重新擺到台面上，指數普跌但板塊撕裂：資安與存儲仍在吸金，廣告/平台（ GOOGL ）與 PE（ BX ）",
    "market_section": "us",
-   "paywalled": true,
+   "paywalled": false,
    "source": "哈利的投資研究筆記庫",
    "id": "0eee11b979fa",
    "relevance": null,
@@ -593,7 +609,7 @@
   }
  ],
  "fx": {
-  "usd_twd": 31.733,
+  "usd_twd": 31.695,
   "source": "rter.info",
   "history": [
    {
@@ -679,9 +695,13 @@
    {
     "d": "2026-09-25",
     "v": 31.733
+   },
+   {
+    "d": "2026-09-26",
+    "v": 31.695
    }
   ],
-  "change_7d": -0.067,
+  "change_7d": -0.068,
   "change_30d": null,
   "alert_below": 30.5,
   "good_time_to_buy": false,
@@ -701,31 +721,31 @@
   {
    "symbol": "^GSPC",
    "name": "S&P 500",
-   "price": 7704.13,
-   "change": -1.9,
-   "change_pct": -0.02,
+   "price": 7743.41,
+   "change": 39.28,
+   "change_pct": 0.51,
    "currency": "USD",
-   "as_of": "2026-09-24T16:36:52.000-0400",
+   "as_of": "2026-09-25T16:39:57.000-0400",
    "market": "US"
   },
   {
    "symbol": "^IXIC",
    "name": "那斯達克",
-   "price": 26939.373,
-   "change": 3.336,
-   "change_pct": 0.01,
+   "price": 27068.716,
+   "change": 129.343,
+   "change_pct": 0.48,
    "currency": "USD",
-   "as_of": "2026-09-24T17:15:59.000-0400",
+   "as_of": "2026-09-25T17:15:59.000-0400",
    "market": "US"
   },
   {
    "symbol": "^SOX",
    "name": "費半",
-   "price": 12492.537,
-   "change": -41.738,
-   "change_pct": -0.33,
+   "price": 12668.929,
+   "change": 176.392,
+   "change_pct": 1.41,
    "currency": "USD",
-   "as_of": "2026-09-24T17:15:59.000-0400",
+   "as_of": "2026-09-25T17:15:59.000-0400",
    "market": "US"
   },
   {
@@ -741,11 +761,11 @@
   {
    "symbol": "NVDA",
    "name": "NVIDIA",
-   "price": 224.58,
-   "change": -0.93,
-   "change_pct": -0.41,
+   "price": 225.07,
+   "change": 0.49,
+   "change_pct": 0.22,
    "currency": "USD",
-   "as_of": "2026-09-24T16:00:00.000-0400",
+   "as_of": "2026-09-25T16:00:00.000-0400",
    "market": "US"
   }
  ],

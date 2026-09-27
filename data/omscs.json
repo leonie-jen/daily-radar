@@ -1,28 +1,28 @@
 {
- "updated_at": "2026-09-26T11:56:08.785653+08:00",
+ "updated_at": "2026-09-27T12:06:46.620903+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
-   "ok": true,
-   "count": 25,
-   "note": ""
-  },
-  {
-   "name": "Reddit r/OMSCS 錄取討論",
    "ok": false,
    "count": 0,
    "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
-   "name": "Reddit r/gradadmissions",
+   "name": "Reddit r/OMSCS 錄取討論",
    "ok": true,
    "count": 25,
    "note": ""
   },
   {
+   "name": "Reddit r/gradadmissions",
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+  },
+  {
    "name": "Google News",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "note": ""
   },
   {
@@ -51,6 +51,21 @@
   }
  ],
  "items": [
+  {
+   "title": "How to Present Education Background to Job Apps",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wqoo3g/how_to_present_education_background_to_job_apps/",
+   "published": "2026-09-26T11:56:10+00:00",
+   "excerpt": "I'm at a slight loss for what to do about my GT situation on my resume and it seems no matter what I do, it throws a wrench into someone's ATS. I'm considering taking GT off of my resume entirely at this point (as I suspect I'm getting flagged as a full time student even though I am not) but it really does alter my resume for the better. Pros of including GT: I have a humanities background (minored in CS) and even though I practically got the major in undergrad, it doesn't show as such on paper. My work at GT comes with some really valuable (published) research in my area (systems) that I think really transforms my application and shows I'm serious about CS fundamentals, especially my partic",
+   "author": "/u/HemiDemi593462",
+   "source": "Reddit r/OMSCS 錄取討論",
+   "id": "f9fc6a37e668",
+   "admission_signal": true,
+   "keyword_hits": [
+    "application"
+   ],
+   "relevance": null,
+   "first_seen": "2026-09-27T12:06:46.620903+08:00"
+  },
   {
    "title": "Computer Networks : CS6250 : Distance vector routing",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wq3xbc/computer_networks_cs6250_distance_vector_routing/",
@@ -104,6 +119,38 @@
    "first_seen": "2026-09-26T11:56:08.785653+08:00"
   },
   {
+   "title": "OMSCS vs in-person masters Similarity",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
+   "published": "2026-09-24T15:35:17+00:00",
+   "excerpt": "Hi!! I wanted to ask whether the course content and academic rigor of Georgia Tech’s OMSCS are generally the same as the in-person MSCS, or whether the online courses are more condensed. Also, how is the OMSCS viewed when applying to PhD programs? Does it carry similar academic weight to the in-person MSCS, particularly for PhD admissions in Computer Science? submitted by /u/dothisnightwing [link] [留言]",
+   "author": "/u/dothisnightwing",
+   "source": "Reddit r/OMSCS 錄取討論",
+   "id": "31f67e101c48",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admission"
+   ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
+   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
+   "published": "2025-04-24T07:00:00+00:00",
+   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "b46a54226e93",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
    "title": "I'm a terrible SWE and I drown in coursework, how can I get better in this degree?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wpb8v2/im_a_terrible_swe_and_i_drown_in_coursework_how/",
    "published": "2026-09-24T19:32:35+00:00",
@@ -134,23 +181,6 @@
    "first_seen": "2026-09-25T11:50:36.805435+08:00"
   },
   {
-   "title": "OMSCS vs in-person masters Similarity",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
-   "published": "2026-09-24T15:35:17+00:00",
-   "excerpt": "Hi!! I wanted to ask whether the course content and academic rigor of Georgia Tech’s OMSCS are generally the same as the in-person MSCS, or whether the online courses are more condensed. Also, how is the OMSCS viewed when applying to PhD programs? Does it carry similar academic weight to the in-person MSCS, particularly for PhD admissions in Computer Science? submitted by /u/dothisnightwing [link] [留言]",
-   "author": "/u/dothisnightwing",
-   "source": "Reddit r/OMSCS",
-   "id": "31f67e101c48",
-   "admission_signal": true,
-   "keyword_hits": [
-    "admission"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
    "title": "Is using AI really that frowned upon?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wp8pld/is_using_ai_really_that_frowned_upon/",
    "published": "2026-09-24T17:57:11+00:00",
@@ -173,21 +203,6 @@
    "author": "/u/Dependent_Injury2608",
    "source": "Reddit r/OMSCS",
    "id": "0af02cedc149",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
-   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
-   "published": "2025-04-24T07:00:00+00:00",
-   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "b46a54226e93",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -301,13 +316,13 @@
    "first_seen": "2026-09-22T11:45:32.090596+08:00"
   },
   {
-   "title": "Who do you use as a trusted person if you don’t know anyone in OMSCS?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wlah1p/who_do_you_use_as_a_trusted_person_if_you_dont/",
-   "published": "2026-09-20T07:32:03+00:00",
-   "excerpt": "I'm an OMSCS student and I signed up for the program completely on my own. Since it's fully online, I don't really know anyone else in the program personally, and I don't have classmates or friends from Georgia Tech that I could easily ask for help. I'm trying to figure out the account/password recovery setup, and it seems like I'm expected to designate a trusted person who could help me if I ever lose access to my account. But who are you supposed to put there if you literally don't know anyone else in the program? Has anyone else been in this situation? Who did you use as your trusted person, or is there some alternative for students who don't have anyone they know personally at Georgia Te",
-   "author": "/u/Hour_Challenge_7714",
-   "source": "Reddit r/OMSCS",
-   "id": "324392c00e33",
+   "title": "Former Teaching Assistant and Student Embark on OMSCS Journey Together - news.gatech.edu",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2VDUmNlTndDQmoweGltZGF2MGpWTTdYZmNjUHZtQlBrYUN0dUVkYjVrV2poNER1SnJ4czhMUmRhVHVydEdONmExc3VYSUJyZGJYdk54OWlRTFZYTUxGXzZlQUFlVGx3eG85eXpJZmpnbXk4S2ZseTJSMjZfRGVLaTI5aEJlclZTVjN6QV81VnpDazBvd25lamJoenlTcDVBV0kxUnJnWGpJbk0?oc=5",
+   "published": "2024-05-07T07:00:00+00:00",
+   "excerpt": "Former Teaching Assistant and Student Embark on OMSCS Journey Together news.gatech.edu",
+   "author": null,
+   "source": "Google News",
+   "id": "d4e768abfb19",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -316,13 +331,13 @@
    "first_seen": "2026-09-21T11:45:40.624371+08:00"
   },
   {
-   "title": "Former Teaching Assistant and Student Embark on OMSCS Journey Together - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2VDUmNlTndDQmoweGltZGF2MGpWTTdYZmNjUHZtQlBrYUN0dUVkYjVrV2poNER1SnJ4czhMUmRhVHVydEdONmExc3VYSUJyZGJYdk54OWlRTFZYTUxGXzZlQUFlVGx3eG85eXpJZmpnbXk4S2ZseTJSMjZfRGVLaTI5aEJlclZTVjN6QV81VnpDazBvd25lamJoenlTcDVBV0kxUnJnWGpJbk0?oc=5",
-   "published": "2024-05-07T07:00:00+00:00",
-   "excerpt": "Former Teaching Assistant and Student Embark on OMSCS Journey Together Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "d4e768abfb19",
+   "title": "Who do you use as a trusted person if you don’t know anyone in OMSCS?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wlah1p/who_do_you_use_as_a_trusted_person_if_you_dont/",
+   "published": "2026-09-20T07:32:03+00:00",
+   "excerpt": "I'm an OMSCS student and I signed up for the program completely on my own. Since it's fully online, I don't really know anyone else in the program personally, and I don't have classmates or friends from Georgia Tech that I could easily ask for help. I'm trying to figure out the account/password recovery setup, and it seems like I'm expected to designate a trusted person who could help me if I ever lose access to my account. But who are you supposed to put there if you literally don't know anyone else in the program? Has anyone else been in this situation? Who did you use as your trusted person, or is there some alternative for students who don't have anyone they know personally at Georgia Te",
+   "author": "/u/Hour_Challenge_7714",
+   "source": "Reddit r/OMSCS",
+   "id": "324392c00e33",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -413,7 +428,7 @@
    "published": "2026-09-18T12:07:13+00:00",
    "excerpt": "I recently got accepted to both Georgia Tech’s OMSCS as well as UT Austin’s online CS program. I’m most interested in AI / machine learning but am struggling with a decision as these seem to be the two best programs within this very affordable “class”. Obviously this is the GT sub but any input is greatly appreciated. submitted by /u/RichPresentation8314 [link] [留言]",
    "author": "/u/RichPresentation8314",
-   "source": "Reddit r/OMSCS",
+   "source": "Reddit r/OMSCS 錄取討論",
    "id": "42e6b87489a8",
    "admission_signal": true,
    "keyword_hits": [
@@ -1948,41 +1963,6 @@
    "first_seen": "2026-09-05T21:24:44.392890+08:00"
   },
   {
-   "title": "Admissions Megathread - Results, Chances and Logistics",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5w/admissions_megathread_results_chances_and/",
-   "published": "2026-06-29T05:01:56+00:00",
-   "excerpt": "📌OMSCS Admissions Megathread This is the Admissions Megathread of the GaTech's O nline M asters of S cience in C omputer S cience! We design this as a one-stop page for the following things that you might have in your head. Admissions Overview / Admissions FAQs Preparing Yourself for OMSCS CS 1301: Introduction to Programming (in Python) CS 1331: Object Oriented Programming (in Java) CS 1332: Data Structures & Algorithms CSE 6040: Computing for Data Analysis (if you're transferring from r/OMSA ) Additional Application Guidelines (to strengthen your chances) Applications URL (oh damn finally!) Deadline for Fall is fixed at March 1st. Deadline for Spring is fixed at August 15th. There are no S",
-   "author": "/u/AutoModerator",
-   "source": "Reddit r/OMSCS",
-   "id": "6dad5c6b59c9",
-   "admission_signal": true,
-   "keyword_hits": [
-    "admission",
-    "application"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:20:16.080232+08:00"
-  },
-  {
-   "title": "Course & Specs Megathread - Selection, Choices & Registration",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5j/course_specs_megathread_selection_choices/",
-   "published": "2026-06-29T05:01:55+00:00",
-   "excerpt": "📌Specializations & Courses Megathread - Selection & Registration Welcome to the Specialization & Course Megathread for OMSCS! Now that you've {just been accepted / been here for a bit / been here for awhile}*, this thread is designed to help you navigate the various specializations offered and assist with selecting the right courses for your academic and career goals. (\\ delete as appropriate)* Please read through the information provided below before posting your questions. 📚 Available Specializations Machine Learning Interactive Intelligence Computing Systems Computer Graphics Computational Perception and Robotics Human-Computer Interaction Courses that are not linked in the official websi",
-   "author": "/u/Detective-Raichu",
-   "source": "Reddit r/OMSCS",
-   "id": "288826cfaae5",
-   "admission_signal": true,
-   "keyword_hits": [
-    "accepted"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:20:16.080232+08:00"
-  },
-  {
    "title": "Very Disappointing Application Process for International Students",
    "url": "https://www.reddit.com/r/OMSCS/comments/1w4im2t/very_disappointing_application_process_for/",
    "published": "2026-09-01T17:24:02+00:00",
@@ -2184,6 +2164,41 @@
    "first_seen": "2026-09-05T21:20:16.080232+08:00"
   },
   {
+   "title": "Admissions Megathread - Results, Chances and Logistics",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5w/admissions_megathread_results_chances_and/",
+   "published": "2026-06-29T05:01:56+00:00",
+   "excerpt": "📌OMSCS Admissions Megathread This is the Admissions Megathread of the GaTech's O nline M asters of S cience in C omputer S cience! We design this as a one-stop page for the following things that you might have in your head. Admissions Overview / Admissions FAQs Preparing Yourself for OMSCS CS 1301: Introduction to Programming (in Python) CS 1331: Object Oriented Programming (in Java) CS 1332: Data Structures & Algorithms CSE 6040: Computing for Data Analysis (if you're transferring from r/OMSA ) Additional Application Guidelines (to strengthen your chances) Applications URL (oh damn finally!) Deadline for Fall is fixed at March 1st. Deadline for Spring is fixed at August 15th. There are no S",
+   "author": "/u/AutoModerator",
+   "source": "Reddit r/OMSCS 錄取討論",
+   "id": "6dad5c6b59c9",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admission",
+    "application"
+   ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:20:16.080232+08:00"
+  },
+  {
+   "title": "Course & Specs Megathread - Selection, Choices & Registration",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5j/course_specs_megathread_selection_choices/",
+   "published": "2026-06-29T05:01:55+00:00",
+   "excerpt": "📌Specializations & Courses Megathread - Selection & Registration Welcome to the Specialization & Course Megathread for OMSCS! Now that you've {just been accepted / been here for a bit / been here for awhile}*, this thread is designed to help you navigate the various specializations offered and assist with selecting the right courses for your academic and career goals. (\\ delete as appropriate)* Please read through the information provided below before posting your questions. 📚 Available Specializations Machine Learning Interactive Intelligence Computing Systems Computer Graphics Computational Perception and Robotics Human-Computer Interaction Courses that are not linked in the official websi",
+   "author": "/u/Detective-Raichu",
+   "source": "Reddit r/OMSCS",
+   "id": "288826cfaae5",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted"
+   ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:20:16.080232+08:00"
+  },
+  {
    "title": "Scholarships for International Students in OMSCS",
    "url": "https://www.reddit.com/r/OMSCS/comments/1u5a3zx/scholarships_for_international_students_in_omscs/",
    "published": "2026-06-14T03:24:46+00:00",
@@ -2347,10 +2362,10 @@
    "first_seen": "2026-09-05T21:20:16.080232+08:00"
   },
   {
-   "title": "Joyner Appointed Interim Vice Provost for AI in Education - Georgia Tech News Center",
+   "title": "Joyner Appointed Interim Vice Provost for AI in Education - news.gatech.edu",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2lfb2syRWY4RzZNMUxyNUdHTUstX2dZX21NQ0JiX1ZZeE5aVVlwNDQtbkdXcldTdVc0V2tNdEgwa01HSFIzN3ZJZjJKeEdITXlrNVJMX2hMSk92QnRvYkJycHQ0Qy02cDNZdV9iYWVIdG1oOFpzOEtXRi0tREtnLTZvcVBaYTNvLVNZUTEteUFURHRO?oc=5",
    "published": "2026-07-01T07:00:00+00:00",
-   "excerpt": "Joyner Appointed Interim Vice Provost for AI in Education Georgia Tech News Center",
+   "excerpt": "Joyner Appointed Interim Vice Provost for AI in Education news.gatech.edu",
    "author": null,
    "source": "Google News",
    "id": "c1e905d9279f",
@@ -2377,10 +2392,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - news.research.gatech.edu",
+   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
    "published": "2025-02-28T08:00:00+00:00",
-   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology news.research.gatech.edu",
+   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
    "author": null,
    "source": "Google News",
    "id": "11f8714f6e18",
@@ -2392,10 +2407,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
+   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - news.gatech.edu",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
    "published": "2025-01-27T08:00:00+00:00",
-   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia Georgia Tech News Center",
+   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia news.gatech.edu",
    "author": null,
    "source": "Google News",
    "id": "3fe0c49fd522",
@@ -2474,6 +2489,21 @@
    "author": null,
    "source": "Google News",
    "id": "3e299541f687",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Unique Program Offers Campus Research Opportunities for Online Students - news.gatech.edu",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0ZlSlQ5T2JrVjEtYmpGUGtzb1F1SlBIT0trOENndE9PeG9pN2pQNllxLUc5bk1vTzNmSW1GVWFsNl9ZQl92NnEwbGJjNGYyLTJkNjE0NDFnMEE5UlBybTJraXU1cDVlT1VJUEtFaU9WczBXRHZMTWpsRWxHYTlmQmtXNkJrS3NJMy1KUDBZQ0w0aWc5b25LOExxaVZiZEQ5SmFEaXF4N2RyRTQ?oc=5",
+   "published": "2024-04-29T07:00:00+00:00",
+   "excerpt": "Unique Program Offers Campus Research Opportunities for Online Students news.gatech.edu",
+   "author": null,
+   "source": "Google News",
+   "id": "2ffcf459be25",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -3024,21 +3054,6 @@
    "excerpt": "",
    "source": "Hacker News",
    "id": "6f6341c8a2eb",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Unique Program Offers Campus Research Opportunities for Online Students - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0ZlSlQ5T2JrVjEtYmpGUGtzb1F1SlBIT0trOENndE9PeG9pN2pQNllxLUc5bk1vTzNmSW1GVWFsNl9ZQl92NnEwbGJjNGYyLTJkNjE0NDFnMEE5UlBybTJraXU1cDVlT1VJUEtFaU9WczBXRHZMTWpsRWxHYTlmQmtXNkJrS3NJMy1KUDBZQ0w0aWc5b25LOExxaVZiZEQ5SmFEaXF4N2RyRTQ?oc=5",
-   "published": "2024-04-29T07:00:00+00:00",
-   "excerpt": "Unique Program Offers Campus Research Opportunities for Online Students Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "2ffcf459be25",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

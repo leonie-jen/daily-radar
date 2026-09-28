@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-27T12:08:16.972276+08:00",
+ "updated_at": "2026-09-28T12:09:25.214399+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -11,16 +11,28 @@
    "name": "股價報價",
    "ok": true,
    "count": 1,
-   "note": "4 檔"
+   "note": "6 檔"
   },
   {
    "name": "哈利的投資研究筆記庫",
    "ok": true,
-   "count": 5,
+   "count": 3,
    "note": ""
   }
  ],
  "items": [
+  {
+   "title": "[加密貨幣] 2026-09-28 加密貨幣盤後報告",
+   "url": "https://harrymemo.com/outputs/crypto/2026-09-28_CRYPTO_Weekly_Dashboard",
+   "published": "2026-09-28",
+   "excerpt": "",
+   "market_section": "crypto",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "e46d5f0a7dd5",
+   "relevance": null,
+   "first_seen": "2026-09-28T12:09:25.214399+08:00"
+  },
   {
    "title": "[美股] 2026-09-26 美股盤後報告",
    "url": "https://harrymemo.com/outputs/us/2026-09-26_US_Market_Dashboard",
@@ -611,7 +623,7 @@
   }
  ],
  "fx": {
-  "usd_twd": 31.695,
+  "usd_twd": 31.763,
   "source": "rter.info",
   "history": [
    {
@@ -705,15 +717,29 @@
    {
     "d": "2026-09-27",
     "v": 31.695
+   },
+   {
+    "d": "2026-09-28",
+    "v": 31.763
    }
   ],
-  "change_7d": -0.068,
+  "change_7d": 0.005,
   "change_30d": null,
   "alert_below": 30.5,
   "good_time_to_buy": false,
   "note": "中間價，實際銀行買賣會有價差"
  },
  "quotes": [
+  {
+   "symbol": "^TWII",
+   "name": "台股加權",
+   "price": 48024.6,
+   "change": -132.69,
+   "change_pct": 0.28,
+   "currency": "TWD",
+   "as_of": "2026-09-24",
+   "market": "TW"
+  },
   {
    "symbol": "^GSPC",
    "name": "S&P 500",
@@ -743,6 +769,16 @@
    "currency": "USD",
    "as_of": "2026-09-25",
    "market": "US"
+  },
+  {
+   "symbol": "2330.TW",
+   "name": "台積電",
+   "price": 2475.0,
+   "change": -25.0,
+   "change_pct": -1.0,
+   "currency": "TWD",
+   "as_of": "2026-09-24",
+   "market": "TW"
   },
   {
    "symbol": "NVDA",

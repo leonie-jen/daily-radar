@@ -1,23 +1,23 @@
 {
- "updated_at": "2026-09-27T12:06:46.620903+08:00",
+ "updated_at": "2026-09-28T12:08:08.693892+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
-  },
-  {
-   "name": "Reddit r/OMSCS 錄取討論",
    "ok": true,
    "count": 25,
    "note": ""
   },
   {
-   "name": "Reddit r/gradadmissions",
+   "name": "Reddit r/OMSCS 錄取討論",
    "ok": false,
    "count": 0,
    "note": "沒抓到資料（可能被擋或今天沒新內容）"
+  },
+  {
+   "name": "Reddit r/gradadmissions",
+   "ok": true,
+   "count": 25,
+   "note": ""
   },
   {
    "name": "Google News",
@@ -52,31 +52,87 @@
  ],
  "items": [
   {
+   "title": "Buzzcard on campus not working",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wr7ctb/buzzcard_on_campus_not_working/",
+   "published": "2026-09-27T01:33:00+00:00",
+   "excerpt": "I paid $30 for a buzzcard on campus but it doesn’t let me scan into libraries. Did I need to specify that I wanted it chipped or is the $30 supposed to come with the chip? submitted by /u/misulsoo [link] [留言]",
+   "author": "/u/misulsoo",
+   "source": "Reddit r/OMSCS",
+   "id": "528281ef63da",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-28T12:08:08.693892+08:00"
+  },
+  {
+   "title": "Summer 2026 Graduates - Diploma?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wqrt8d/summer_2026_graduates_diploma/",
+   "published": "2026-09-26T14:23:29+00:00",
+   "excerpt": "Has anyone that graduated Summer 2026 receive their physical diploma yet? I created my Parchment account a month or so ago, shortly after the Summer term ended. I don't see any active 'Order's in the Parchment account indicating the OMSCS degree is on the way. Would it show here anyway? I can't remember exactly what happened but when setting up the Parchment account, I remember something funky going on, so I hope it registered correctly to kick-off the original diploma shipping. submitted by /u/felmalorne [link] [留言]",
+   "author": "/u/felmalorne",
+   "source": "Reddit r/OMSCS",
+   "id": "5eeaa986746c",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-28T12:08:08.693892+08:00"
+  },
+  {
+   "title": "Used some AI to test out some code. Scared of getting flagged, should I drop?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wqhoa6/used_some_ai_to_test_out_some_code_scared_of/",
+   "published": "2026-09-26T04:55:47+00:00",
+   "excerpt": "I'm taking 6200 and this is my first course. We're working on Project 1. I didn't use any AI to code out the solution but I did use some AI to understand some concepts n test out my mini implementations on a little scratchpad repo since my C was a little rusty. The submissions passed alright but I did test the whole thing quite rigorously with valgrind and helgrind n ASAN n what not. I'm scared if I'll get flagged somehow. I started pretty early n spent almost 2-3 weeks to finish the whole thing. I'm not sure if I should drop. I asked the TAs and they always say \"AI should never see your code\". Not sure what I can do now. submitted by /u/BBQSauce95 [link] [留言]",
+   "author": "/u/BBQSauce95",
+   "source": "Reddit r/OMSCS",
+   "id": "67d8106cc14a",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-28T12:08:08.693892+08:00"
+  },
+  {
+   "title": "The OMSCS Resources I Wish I Knew About Before Starting Georgia Tech’s Online MSCS",
+   "url": "https://medium.com/@shubhamraj97/the-omscs-resources-i-wish-i-knew-about-before-starting-georgia-techs-online-mscs-396c9366d002?source=rss------omscs-5",
+   "published": "2026-09-27T09:24:43+00:00",
+   "excerpt": "When I first started looking into Georgia Tech’s Online Master of Science in Computer Science (OMSCS), I thought the program was mostly… Continue reading on Medium »",
+   "author": "Shubham Raj",
+   "source": "Medium #omscs",
+   "id": "770d8b17bf67",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-28T12:08:08.693892+08:00"
+  },
+  {
    "title": "How to Present Education Background to Job Apps",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wqoo3g/how_to_present_education_background_to_job_apps/",
    "published": "2026-09-26T11:56:10+00:00",
    "excerpt": "I'm at a slight loss for what to do about my GT situation on my resume and it seems no matter what I do, it throws a wrench into someone's ATS. I'm considering taking GT off of my resume entirely at this point (as I suspect I'm getting flagged as a full time student even though I am not) but it really does alter my resume for the better. Pros of including GT: I have a humanities background (minored in CS) and even though I practically got the major in undergrad, it doesn't show as such on paper. My work at GT comes with some really valuable (published) research in my area (systems) that I think really transforms my application and shows I'm serious about CS fundamentals, especially my partic",
    "author": "/u/HemiDemi593462",
-   "source": "Reddit r/OMSCS 錄取討論",
+   "source": "Reddit r/OMSCS",
    "id": "f9fc6a37e668",
    "admission_signal": true,
    "keyword_hits": [
     "application"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-27T12:06:46.620903+08:00"
   },
   {
    "title": "Computer Networks : CS6250 : Distance vector routing",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wq3xbc/computer_networks_cs6250_distance_vector_routing/",
    "published": "2026-09-25T18:27:10+00:00",
-   "excerpt": "Hi, this is my first sem and I have taken CN and KBAI. In the first project of CN, Spanning tree protocol, I scored 100/100. But in the second one, I could score 85/100 in the gradescope since my code is failing 1 test case. How are the other subsequent projects for scoring? I consistently score 17-19/20 in the chapter quizzes. Should I move ahead with 85? Would it hamper my chances of getting A? I am not a really great exam taker hence I am a bit nervous about exams too. I found the content of CN a bit dry as well. It is neat but at times too many jargons. I see largely everyone gets A in CN but the second project kind of made me a bit nervous. TIA! submitted by /u/BulkyAd9029 [link] [留言]",
+   "excerpt": "Hi, this is my first sem and I have taken CN and KBAI. In the first project of CN, Spanning tree protocol, I scored 100/100. But in the second one, I could score 85/100 in the gradescope since my code is failing 1 test case. How are the other subsequent projects for scoring? I consistently score 17-19/20 in the chapter quizzes. Should I move ahead with 85? Would it hamper my chances of getting A? I am not a really great exam taker hence I am a bit nervous about exams too. I found the content of CN a bit dry as well. It is neat but at times too many jargons. I see largely everyone gets A in CN but the second project kind of made me a bit nervous. TIA! P.S. I managed 100 :) more than a logic, ",
    "author": "/u/BulkyAd9029",
    "source": "Reddit r/OMSCS",
    "id": "0630075cc87f",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-26T11:56:08.785653+08:00"
   },
   {
@@ -90,6 +146,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-26T11:56:08.785653+08:00"
   },
   {
@@ -103,6 +161,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-26T11:56:08.785653+08:00"
   },
   {
@@ -116,39 +176,9 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-26T11:56:08.785653+08:00"
-  },
-  {
-   "title": "OMSCS vs in-person masters Similarity",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
-   "published": "2026-09-24T15:35:17+00:00",
-   "excerpt": "Hi!! I wanted to ask whether the course content and academic rigor of Georgia Tech’s OMSCS are generally the same as the in-person MSCS, or whether the online courses are more condensed. Also, how is the OMSCS viewed when applying to PhD programs? Does it carry similar academic weight to the in-person MSCS, particularly for PhD admissions in Computer Science? submitted by /u/dothisnightwing [link] [留言]",
-   "author": "/u/dothisnightwing",
-   "source": "Reddit r/OMSCS 錄取討論",
-   "id": "31f67e101c48",
-   "admission_signal": true,
-   "keyword_hits": [
-    "admission"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
-   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
-   "published": "2025-04-24T07:00:00+00:00",
-   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "b46a54226e93",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
   },
   {
    "title": "I'm a terrible SWE and I drown in coursework, how can I get better in this degree?",
@@ -181,6 +211,23 @@
    "first_seen": "2026-09-25T11:50:36.805435+08:00"
   },
   {
+   "title": "OMSCS vs in-person masters Similarity",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
+   "published": "2026-09-24T15:35:17+00:00",
+   "excerpt": "Hi!! I wanted to ask whether the course content and academic rigor of Georgia Tech’s OMSCS are generally the same as the in-person MSCS, or whether the online courses are more condensed. Also, how is the OMSCS viewed when applying to PhD programs? Does it carry similar academic weight to the in-person MSCS, particularly for PhD admissions in Computer Science? submitted by /u/dothisnightwing [link] [留言]",
+   "author": "/u/dothisnightwing",
+   "source": "Reddit r/OMSCS",
+   "id": "31f67e101c48",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admission"
+   ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
    "title": "Is using AI really that frowned upon?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wp8pld/is_using_ai_really_that_frowned_upon/",
    "published": "2026-09-24T17:57:11+00:00",
@@ -203,6 +250,21 @@
    "author": "/u/Dependent_Injury2608",
    "source": "Reddit r/OMSCS",
    "id": "0af02cedc149",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
+   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
+   "published": "2025-04-24T07:00:00+00:00",
+   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "b46a54226e93",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -316,21 +378,6 @@
    "first_seen": "2026-09-22T11:45:32.090596+08:00"
   },
   {
-   "title": "Former Teaching Assistant and Student Embark on OMSCS Journey Together - news.gatech.edu",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2VDUmNlTndDQmoweGltZGF2MGpWTTdYZmNjUHZtQlBrYUN0dUVkYjVrV2poNER1SnJ4czhMUmRhVHVydEdONmExc3VYSUJyZGJYdk54OWlRTFZYTUxGXzZlQUFlVGx3eG85eXpJZmpnbXk4S2ZseTJSMjZfRGVLaTI5aEJlclZTVjN6QV81VnpDazBvd25lamJoenlTcDVBV0kxUnJnWGpJbk0?oc=5",
-   "published": "2024-05-07T07:00:00+00:00",
-   "excerpt": "Former Teaching Assistant and Student Embark on OMSCS Journey Together news.gatech.edu",
-   "author": null,
-   "source": "Google News",
-   "id": "d4e768abfb19",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-21T11:45:40.624371+08:00"
-  },
-  {
    "title": "Who do you use as a trusted person if you don’t know anyone in OMSCS?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wlah1p/who_do_you_use_as_a_trusted_person_if_you_dont/",
    "published": "2026-09-20T07:32:03+00:00",
@@ -346,19 +393,19 @@
    "first_seen": "2026-09-21T11:45:40.624371+08:00"
   },
   {
-   "title": "Do you get to be part of research projects?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wkzphf/do_you_get_to_be_part_of_research_projects/",
-   "published": "2026-09-19T22:34:20+00:00",
-   "excerpt": "I already have a MSCS. My company will pay for OMSCS if I decide to join. My main motivation to join is if there is an option/opportunity to be part of research projects of any of the professors. The track I am considering is AI since I want to break into AI job market. I am currently SDE2. Any help is appreciated. submitted by /u/hashashin_2601 [link] [留言]",
-   "author": "/u/hashashin_2601",
-   "source": "Reddit r/OMSCS",
-   "id": "2f751f467972",
+   "title": "Former Teaching Assistant and Student Embark on OMSCS Journey Together - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2VDUmNlTndDQmoweGltZGF2MGpWTTdYZmNjUHZtQlBrYUN0dUVkYjVrV2poNER1SnJ4czhMUmRhVHVydEdONmExc3VYSUJyZGJYdk54OWlRTFZYTUxGXzZlQUFlVGx3eG85eXpJZmpnbXk4S2ZseTJSMjZfRGVLaTI5aEJlclZTVjN6QV81VnpDazBvd25lamJoenlTcDVBV0kxUnJnWGpJbk0?oc=5",
+   "published": "2024-05-07T07:00:00+00:00",
+   "excerpt": "Former Teaching Assistant and Student Embark on OMSCS Journey Together Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "d4e768abfb19",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
-   "first_seen": "2026-09-20T11:49:06.010303+08:00"
+   "first_seen": "2026-09-21T11:45:40.624371+08:00"
   },
   {
    "title": "I went to an in-person Georgia Tech career fair in Atlanta",
@@ -385,6 +432,21 @@
    "author": "/u/kobebrian23",
    "source": "Reddit r/OMSCS",
    "id": "2f67d089bb12",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-20T11:49:06.010303+08:00"
+  },
+  {
+   "title": "Do you get to be part of research projects?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wkzphf/do_you_get_to_be_part_of_research_projects/",
+   "published": "2026-09-19T22:34:20+00:00",
+   "excerpt": "I already have a MSCS. My company will pay for OMSCS if I decide to join. My main motivation to join is if there is an option/opportunity to be part of research projects of any of the professors. The track I am considering is AI since I want to break into AI job market. I am currently SDE2. Any help is appreciated. submitted by /u/hashashin_2601 [link] [留言]",
+   "author": "/u/hashashin_2601",
+   "source": "Reddit r/OMSCS",
+   "id": "2f751f467972",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -532,12 +594,12 @@
    "first_seen": "2026-09-17T11:49:40.293098+08:00"
   },
   {
-   "title": "Professor, Alumni Receive Award for Edge Computing Research",
-   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
+   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
+   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "194c0d5c9996",
+   "id": "f422b53b6e0b",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -546,12 +608,12 @@
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
-   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
-   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
+   "title": "Professor, Alumni Receive Award for Edge Computing Research",
+   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "f422b53b6e0b",
+   "id": "194c0d5c9996",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1963,6 +2025,41 @@
    "first_seen": "2026-09-05T21:24:44.392890+08:00"
   },
   {
+   "title": "Admissions Megathread - Results, Chances and Logistics",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5w/admissions_megathread_results_chances_and/",
+   "published": "2026-06-29T05:01:56+00:00",
+   "excerpt": "📌OMSCS Admissions Megathread This is the Admissions Megathread of the GaTech's O nline M asters of S cience in C omputer S cience! We design this as a one-stop page for the following things that you might have in your head. Admissions Overview / Admissions FAQs Preparing Yourself for OMSCS CS 1301: Introduction to Programming (in Python) CS 1331: Object Oriented Programming (in Java) CS 1332: Data Structures & Algorithms CSE 6040: Computing for Data Analysis (if you're transferring from r/OMSA ) Additional Application Guidelines (to strengthen your chances) Applications URL (oh damn finally!) Deadline for Fall is fixed at March 1st. Deadline for Spring is fixed at August 15th. There are no S",
+   "author": "/u/AutoModerator",
+   "source": "Reddit r/OMSCS",
+   "id": "6dad5c6b59c9",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admission",
+    "application"
+   ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:20:16.080232+08:00"
+  },
+  {
+   "title": "Course & Specs Megathread - Selection, Choices & Registration",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5j/course_specs_megathread_selection_choices/",
+   "published": "2026-06-29T05:01:55+00:00",
+   "excerpt": "📌Specializations & Courses Megathread - Selection & Registration Welcome to the Specialization & Course Megathread for OMSCS! Now that you've {just been accepted / been here for a bit / been here for awhile}*, this thread is designed to help you navigate the various specializations offered and assist with selecting the right courses for your academic and career goals. (\\ delete as appropriate)* Please read through the information provided below before posting your questions. 📚 Available Specializations Machine Learning Interactive Intelligence Computing Systems Computer Graphics Computational Perception and Robotics Human-Computer Interaction Courses that are not linked in the official websi",
+   "author": "/u/Detective-Raichu",
+   "source": "Reddit r/OMSCS",
+   "id": "288826cfaae5",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted"
+   ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:20:16.080232+08:00"
+  },
+  {
    "title": "Very Disappointing Application Process for International Students",
    "url": "https://www.reddit.com/r/OMSCS/comments/1w4im2t/very_disappointing_application_process_for/",
    "published": "2026-09-01T17:24:02+00:00",
@@ -2164,41 +2261,6 @@
    "first_seen": "2026-09-05T21:20:16.080232+08:00"
   },
   {
-   "title": "Admissions Megathread - Results, Chances and Logistics",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5w/admissions_megathread_results_chances_and/",
-   "published": "2026-06-29T05:01:56+00:00",
-   "excerpt": "📌OMSCS Admissions Megathread This is the Admissions Megathread of the GaTech's O nline M asters of S cience in C omputer S cience! We design this as a one-stop page for the following things that you might have in your head. Admissions Overview / Admissions FAQs Preparing Yourself for OMSCS CS 1301: Introduction to Programming (in Python) CS 1331: Object Oriented Programming (in Java) CS 1332: Data Structures & Algorithms CSE 6040: Computing for Data Analysis (if you're transferring from r/OMSA ) Additional Application Guidelines (to strengthen your chances) Applications URL (oh damn finally!) Deadline for Fall is fixed at March 1st. Deadline for Spring is fixed at August 15th. There are no S",
-   "author": "/u/AutoModerator",
-   "source": "Reddit r/OMSCS 錄取討論",
-   "id": "6dad5c6b59c9",
-   "admission_signal": true,
-   "keyword_hits": [
-    "admission",
-    "application"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:20:16.080232+08:00"
-  },
-  {
-   "title": "Course & Specs Megathread - Selection, Choices & Registration",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5j/course_specs_megathread_selection_choices/",
-   "published": "2026-06-29T05:01:55+00:00",
-   "excerpt": "📌Specializations & Courses Megathread - Selection & Registration Welcome to the Specialization & Course Megathread for OMSCS! Now that you've {just been accepted / been here for a bit / been here for awhile}*, this thread is designed to help you navigate the various specializations offered and assist with selecting the right courses for your academic and career goals. (\\ delete as appropriate)* Please read through the information provided below before posting your questions. 📚 Available Specializations Machine Learning Interactive Intelligence Computing Systems Computer Graphics Computational Perception and Robotics Human-Computer Interaction Courses that are not linked in the official websi",
-   "author": "/u/Detective-Raichu",
-   "source": "Reddit r/OMSCS",
-   "id": "288826cfaae5",
-   "admission_signal": true,
-   "keyword_hits": [
-    "accepted"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:20:16.080232+08:00"
-  },
-  {
    "title": "Scholarships for International Students in OMSCS",
    "url": "https://www.reddit.com/r/OMSCS/comments/1u5a3zx/scholarships_for_international_students_in_omscs/",
    "published": "2026-06-14T03:24:46+00:00",
@@ -2362,10 +2424,10 @@
    "first_seen": "2026-09-05T21:20:16.080232+08:00"
   },
   {
-   "title": "Joyner Appointed Interim Vice Provost for AI in Education - news.gatech.edu",
+   "title": "Joyner Appointed Interim Vice Provost for AI in Education - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2lfb2syRWY4RzZNMUxyNUdHTUstX2dZX21NQ0JiX1ZZeE5aVVlwNDQtbkdXcldTdVc0V2tNdEgwa01HSFIzN3ZJZjJKeEdITXlrNVJMX2hMSk92QnRvYkJycHQ0Qy02cDNZdV9iYWVIdG1oOFpzOEtXRi0tREtnLTZvcVBaYTNvLVNZUTEteUFURHRO?oc=5",
    "published": "2026-07-01T07:00:00+00:00",
-   "excerpt": "Joyner Appointed Interim Vice Provost for AI in Education news.gatech.edu",
+   "excerpt": "Joyner Appointed Interim Vice Provost for AI in Education Georgia Tech News Center",
    "author": null,
    "source": "Google News",
    "id": "c1e905d9279f",
@@ -2407,10 +2469,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - news.gatech.edu",
+   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
    "published": "2025-01-27T08:00:00+00:00",
-   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia news.gatech.edu",
+   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia Georgia Tech News Center",
    "author": null,
    "source": "Google News",
    "id": "3fe0c49fd522",
@@ -2497,10 +2559,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Unique Program Offers Campus Research Opportunities for Online Students - news.gatech.edu",
+   "title": "Unique Program Offers Campus Research Opportunities for Online Students - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0ZlSlQ5T2JrVjEtYmpGUGtzb1F1SlBIT0trOENndE9PeG9pN2pQNllxLUc5bk1vTzNmSW1GVWFsNl9ZQl92NnEwbGJjNGYyLTJkNjE0NDFnMEE5UlBybTJraXU1cDVlT1VJUEtFaU9WczBXRHZMTWpsRWxHYTlmQmtXNkJrS3NJMy1KUDBZQ0w0aWc5b25LOExxaVZiZEQ5SmFEaXF4N2RyRTQ?oc=5",
    "published": "2024-04-29T07:00:00+00:00",
-   "excerpt": "Unique Program Offers Campus Research Opportunities for Online Students news.gatech.edu",
+   "excerpt": "Unique Program Offers Campus Research Opportunities for Online Students Georgia Tech News Center",
    "author": null,
    "source": "Google News",
    "id": "2ffcf459be25",
@@ -2779,21 +2841,6 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "How I prepared for OMSCS as a Non-Computer Science Student",
-   "url": "https://medium.com/@rohansosa/how-i-prepared-for-omscs-as-a-non-computer-science-student-cebf544e2a0c?source=rss------omscs-5",
-   "published": "2026-01-30T07:02:26+00:00",
-   "excerpt": "On 27th August 2025 I got my acceptance letter for the prestigious Masters program in Computer Science at Georgia Institute of Technology… Continue reading on Medium »",
-   "author": "Rohan sosa",
-   "source": "Medium #omscs",
-   "id": "67b60a987981",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
    "title": "Building a genomic primitives library in Rust: the why and how",
    "url": "https://claymcleod.dev/blog/2026-07-26-why-were-building-omics",
    "published": "2026-09-20T21:11:24Z",
@@ -3054,6 +3101,21 @@
    "excerpt": "",
    "source": "Hacker News",
    "id": "6f6341c8a2eb",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "How I prepared for OMSCS as a Non-Computer Science Student",
+   "url": "https://medium.com/@rohansosa/how-i-prepared-for-omscs-as-a-non-computer-science-student-cebf544e2a0c?source=rss------omscs-5",
+   "published": "2026-01-30T07:02:26+00:00",
+   "excerpt": "On 27th August 2025 I got my acceptance letter for the prestigious Masters program in Computer Science at Georgia Institute of Technology… Continue reading on Medium »",
+   "author": "Rohan sosa",
+   "source": "Medium #omscs",
+   "id": "67b60a987981",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

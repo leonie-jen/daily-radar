@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T12:08:08.693892+08:00",
+ "updated_at": "2026-09-29T12:40:38.530061+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,26 +9,26 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
-  },
-  {
-   "name": "Reddit r/gradadmissions",
    "ok": true,
    "count": 25,
    "note": ""
   },
   {
+   "name": "Reddit r/gradadmissions",
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+  },
+  {
    "name": "Google News",
    "ok": true,
-   "count": 13,
+   "count": 12,
    "note": ""
   },
   {
    "name": "Google News",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "note": ""
   },
   {
@@ -52,6 +52,93 @@
  ],
  "items": [
   {
+   "title": "CS 6515: 3rd time taking this course, running on fumes, and seriously considering dropping",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wsejm5/cs_6515_3rd_time_taking_this_course_running_on/",
+   "published": "2026-09-28T13:24:16+00:00",
+   "excerpt": "I’m at my absolute breaking point with this course and genuinely don’t know what to do anymore. For context, I've started OMSCS in Spring 2022 on the Computing Systems track, this is my 3rd attempt for CS 6515, and this is my last course in the OMSCS program: Attempt 1: Got a C Attempt 2: Withdrew after Exam 1 Attempt 3 (Now): Just took Exams 1 and 2, and I feel hopeless. To give some background: I have an undergraduate degree in math and about 8 years of industry experience as a software developer. Just to be clear: I don’t consider myself a super smart student who breezes through difficult material. Everything I’ve accomplished has come down to putting my head down and working exceptionall",
+   "author": "/u/AdSilent2916",
+   "source": "Reddit r/OMSCS",
+   "id": "9cff38c5c6bd",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-29T12:40:38.530061+08:00"
+  },
+  {
+   "title": "Please tell me that Machine Learning gets easier after SL report 1",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wsecdd/please_tell_me_that_machine_learning_gets_easier/",
+   "published": "2026-09-28T13:15:45+00:00",
+   "excerpt": "I haven't slept in a week submitted by /u/abrbbb [link] [留言]",
+   "author": "/u/abrbbb",
+   "source": "Reddit r/OMSCS",
+   "id": "cdc76305eb89",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-29T12:40:38.530061+08:00"
+  },
+  {
+   "title": "Github Login Not working after Password Change",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wr5ab6/github_login_not_working_after_password_change/",
+   "published": "2026-09-26T23:52:07+00:00",
+   "excerpt": "So I changed my github password and it doesn't work now. I'm typing in the exact password that was saved and it doesn't allow me to login. Is it because its weekend and I need to wait a day or so? submitted by /u/Professional_Ball_58 [link] [留言]",
+   "author": "/u/Professional_Ball_58",
+   "source": "Reddit r/OMSCS",
+   "id": "a179e69652ee",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-29T12:40:38.530061+08:00"
+  },
+  {
+   "title": "GT Cybersecurity Expert Helping to Chart the Future of AI on the Energy Grid",
+   "url": "https://omscs.gatech.edu/external-news/gt-cybersecurity-expert-helping-chart-future-ai-energy-grid",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "4342be1d46a3",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-29T12:40:38.530061+08:00"
+  },
+  {
+   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
+   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "0484e7b5e74c",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-29T12:40:38.530061+08:00"
+  },
+  {
+   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
+   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "c9fdb1306c54",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-29T12:40:38.530061+08:00"
+  },
+  {
+   "title": "A New Kind of AI Model from a ChatGPT Inventor is Thrilling Developers",
+   "url": "https://omscs.gatech.edu/external-news/new-kind-ai-model-chatgpt-inventor-thrilling-developers",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "843b43f0f056",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-09-29T12:40:38.530061+08:00"
+  },
+  {
    "title": "Buzzcard on campus not working",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wr7ctb/buzzcard_on_campus_not_working/",
    "published": "2026-09-27T01:33:00+00:00",
@@ -62,6 +149,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-28T12:08:08.693892+08:00"
   },
   {
@@ -75,6 +164,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-28T12:08:08.693892+08:00"
   },
   {
@@ -88,6 +179,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-28T12:08:08.693892+08:00"
   },
   {
@@ -101,6 +194,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-28T12:08:08.693892+08:00"
   },
   {
@@ -594,12 +689,12 @@
    "first_seen": "2026-09-17T11:49:40.293098+08:00"
   },
   {
-   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
-   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
+   "title": "Professor, Alumni Receive Award for Edge Computing Research",
+   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "f422b53b6e0b",
+   "id": "194c0d5c9996",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -608,12 +703,12 @@
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
-   "title": "Professor, Alumni Receive Award for Edge Computing Research",
-   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
+   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
+   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "194c0d5c9996",
+   "id": "f422b53b6e0b",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2648,62 +2743,6 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Harvard’s $699 Startup Bootcamp Has Professors Who Never Sleep–But That’s Because They’re AI Clones",
-   "url": "https://omscs.gatech.edu/external-news/harvards-699-startup-bootcamp-has-professors-who-never-sleep-thats-because-theyre-ai",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "b13a02cb659d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Georgia Tech Professors Turn to AI Tutors and Rethink Traditional Assignments",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-professors-turn-ai-tutors-and-rethink-traditional-assignments",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "1aaba2db9e59",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Expanding Access: New Director Role Advances Online Undergraduate Computing Education",
-   "url": "https://omscs.gatech.edu/external-news/expanding-access-new-director-role-advances-online-undergraduate-computing-education",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "79807bcb6ae4",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Georgia Water Systems Were Hacked. Were Minicomputers the Way In?",
-   "url": "https://omscs.gatech.edu/external-news/georgia-water-systems-were-hacked-were-minicomputers-way",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "df5b619713a4",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
    "title": "What I Changed the Second Time I Took CS6515",
    "url": "https://medium.com/@b92614060/what-i-changed-the-second-time-i-took-cs6515-b0eb83a6a596?source=rss------omscs-5",
    "published": "2026-08-22T00:00:04+00:00",
@@ -3101,6 +3140,62 @@
    "excerpt": "",
    "source": "Hacker News",
    "id": "6f6341c8a2eb",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Harvard’s $699 Startup Bootcamp Has Professors Who Never Sleep–But That’s Because They’re AI Clones",
+   "url": "https://omscs.gatech.edu/external-news/harvards-699-startup-bootcamp-has-professors-who-never-sleep-thats-because-theyre-ai",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "b13a02cb659d",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Georgia Tech Professors Turn to AI Tutors and Rethink Traditional Assignments",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-professors-turn-ai-tutors-and-rethink-traditional-assignments",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "1aaba2db9e59",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Expanding Access: New Director Role Advances Online Undergraduate Computing Education",
+   "url": "https://omscs.gatech.edu/external-news/expanding-access-new-director-role-advances-online-undergraduate-computing-education",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "79807bcb6ae4",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Georgia Water Systems Were Hacked. Were Minicomputers the Way In?",
+   "url": "https://omscs.gatech.edu/external-news/georgia-water-systems-were-hacked-were-minicomputers-way",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "df5b619713a4",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

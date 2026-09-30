@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-09-29T12:41:49.736039+08:00",
- "duration_sec": 120.9,
+ "updated_at": "2026-09-30T12:26:11.170123+08:00",
+ "duration_sec": 128.4,
  "sections": [
   {
    "key": "omscs",
    "label": "OMSCS 情報",
    "ok": true,
-   "items": 216,
+   "items": 220,
    "sources": [
     {
      "name": "Reddit r/OMSCS",
@@ -16,9 +16,9 @@
     },
     {
      "name": "Reddit r/OMSCS 錄取討論",
-     "ok": true,
-     "count": 25,
-     "note": ""
+     "ok": false,
+     "count": 0,
+     "note": "沒抓到資料（可能被擋或今天沒新內容）"
     },
     {
      "name": "Reddit r/gradadmissions",
@@ -29,13 +29,13 @@
     {
      "name": "Google News",
      "ok": true,
-     "count": 12,
+     "count": 10,
      "note": ""
     },
     {
      "name": "Google News",
      "ok": true,
-     "count": 3,
+     "count": 2,
      "note": ""
     },
     {
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 525,
+   "items": 554,
    "sources": [
     {
      "name": "Google News",
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 720,
+   "items": 741,
    "sources": [
     {
      "name": "104｜自動化測試",
@@ -198,7 +198,7 @@
    "key": "finance",
    "label": "匯率與股市",
    "ok": true,
-   "items": 44,
+   "items": 46,
    "sources": [
     {
      "name": "匯率 USD/TWD",
@@ -215,7 +215,7 @@
     {
      "name": "哈利的投資研究筆記庫",
      "ok": true,
-     "count": 3,
+     "count": 4,
      "note": ""
     }
    ]

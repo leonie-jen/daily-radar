@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30T12:25:13.601481+08:00",
+ "updated_at": "2026-10-01T12:36:09.562200+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -15,20 +15,20 @@
   },
   {
    "name": "Reddit r/gradadmissions",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
-  },
-  {
-   "name": "Google News",
    "ok": true,
-   "count": 10,
+   "count": 25,
    "note": ""
   },
   {
    "name": "Google News",
    "ok": true,
-   "count": 2,
+   "count": 11,
+   "note": ""
+  },
+  {
+   "name": "Google News",
+   "ok": true,
+   "count": 4,
    "note": ""
   },
   {
@@ -52,6 +52,101 @@
  ],
  "items": [
   {
+   "title": "Calling bullshit on the OMSCS haters",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wucgja/calling_bullshit_on_the_omscs_haters/",
+   "published": "2026-09-30T18:17:53+00:00",
+   "excerpt": "I keep seeing the same \"OMSCS isn't worth it\" posts, so here's my rebuttal. Bias disclosure: I'm justifying my own time and money. I'm five classes in (GIOS, AOS, DC, EdTech, HCI), a PM in legacy enterprise tech, with a civil/aerospace undergrad, so I have a lot to gain here. \"You can learn all of this on your own for free.\" You could. You won't. The materials have been online for years, and ~95% of MOOC students never finish. You're paying for the forcing function: deadlines, autograders, TAs, classmates, and a grade. \"I didn't learn anything; it's busywork.\" Check which courses they took. There's a well-known low-effort path through this program. Show some backbone and take a tough course ",
+   "author": "/u/Sensei_Daniel_San",
+   "source": "Reddit r/OMSCS",
+   "id": "3512205930d5",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-01T12:36:09.562200+08:00"
+  },
+  {
+   "title": "OMSCS best professors you enjoyed learning from?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wu6v5w/omscs_best_professors_you_enjoyed_learning_from/",
+   "published": "2026-09-30T14:46:28+00:00",
+   "excerpt": "Who are the best professors in the OMSCS program you enjoyed learning from? What did you love the most about their teaching? Looking forward to hearing more positive vibes from current and ex students. submitted by /u/Tough-Ice-3353 [link] [留言]",
+   "author": "/u/Tough-Ice-3353",
+   "source": "Reddit r/OMSCS",
+   "id": "8c3553ba65bc",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-01T12:36:09.562200+08:00"
+  },
+  {
+   "title": "Fall 2026 - College of Computing Graduation Celebration Date",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wup110/fall_2026_college_of_computing_graduation/",
+   "published": "2026-10-01T03:30:28+00:00",
+   "excerpt": "Hey Y’all, I’m planning to attend the College of Computing Graduation Ceremony (not the big one for all Masters students). When I check the website, I only see details for this past Spring’s celebration. I’m trying to plan a trip with my family to attend this event. As such, I was wondering if anyone has an updated link (maybe I’m looking at the wrong site) or any information on this. Thanks in advance! submitted by /u/baubble_tea [link] [留言]",
+   "author": "/u/baubble_tea",
+   "source": "Reddit r/OMSCS",
+   "id": "6f5b0e4a02cf",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-01T12:36:09.562200+08:00"
+  },
+  {
+   "title": "Should I continue OMSCS or withdraw",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wug9u5/should_i_continue_omscs_or_withdraw/",
+   "published": "2026-09-30T20:43:44+00:00",
+   "excerpt": "I’ve tried the OMSCS program a couple of times, but I always end up withdrawing because I simply don’t have the time or energy to learn effectively after a full day of work. As a busy tech lead, my days are demanding. Even though my company covers the tuition, I feel the opportunity cost of my time is too high. I already have a master’s in data science, and I don't care about collecting another degree—it won't move the needle for my career. My long-term goal is to transition into a Machine Learning Engineer (MLE) role. I’m questioning whether finishing this degree is actually helpful for that path, or if my time would be far better spent building side projects, taking targeted online courses",
+   "author": "/u/Amcnewbie",
+   "source": "Reddit r/OMSCS",
+   "id": "d8300d8634b9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-01T12:36:09.562200+08:00"
+  },
+  {
+   "title": "Transferring MCIT course credits to OMSCS",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wu59gy/transferring_mcit_course_credits_to_omscs/",
+   "published": "2026-09-30T13:41:24+00:00",
+   "excerpt": "I know this is a weird question. But has anyone started the MCIT program, completed a few core courses, dropped out, and were able to transfer those class credits to the OMSCS program? submitted by /u/errbone [link] [留言]",
+   "author": "/u/errbone",
+   "source": "Reddit r/OMSCS",
+   "id": "01c197220df8",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-01T12:36:09.562200+08:00"
+  },
+  {
+   "title": "Starting OMSCS in Spring 2027, traveling for 2 weeks in mid-January. How manageable is the first",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wu5orc/starting_omscs_in_spring_2027_traveling_for_2/",
+   "published": "2026-09-30T13:59:21+00:00",
+   "excerpt": "Admitted for Spring 2027 and planning the HCI, starting with this course. I'll be traveling for about two weeks in mid-January (different time zone, laptop and internet most days), so I'll likely miss part of weeks 1-2. I've read the syllabus and the reviews for the course I'm considering. For people who took an HCI course in a recent Spring or Fall, did the first two weeks have hard deadlines, or was it flexible enough to get ahead on lectures beforehand? submitted by /u/Prestigious_Gain7804 [link] [留言]",
+   "author": "/u/Prestigious_Gain7804",
+   "source": "Reddit r/OMSCS",
+   "id": "a4ed617daadd",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admitted"
+   ],
+   "relevance": null,
+   "first_seen": "2026-10-01T12:36:09.562200+08:00"
+  },
+  {
+   "title": "How did OMSCS change your career and life?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wtr2s8/how_did_omscs_change_your_career_and_life/",
+   "published": "2026-09-30T00:40:18+00:00",
+   "excerpt": "A lot of people have posted that it takes a lot of effort. If you are a current student, WHY did you choose this program? And HOW did it help your career and life after enrollment or graduation? submitted by /u/Tough-Ice-3353 [link] [留言]",
+   "author": "/u/Tough-Ice-3353",
+   "source": "Reddit r/OMSCS",
+   "id": "55ff03628d17",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-30T12:25:13.601481+08:00"
+  },
+  {
    "title": "Joined in Fall 2026 and thinking of dropping already",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wth83k/joined_in_fall_2026_and_thinking_of_dropping/",
    "published": "2026-09-29T17:59:29+00:00",
@@ -62,6 +157,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-30T12:25:13.601481+08:00"
   },
   {
@@ -75,19 +172,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
-   "first_seen": "2026-09-30T12:25:13.601481+08:00"
-  },
-  {
-   "title": "How did OMSCS change your career and life?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wtr2s8/how_did_omscs_change_your_career_and_life/",
-   "published": "2026-09-30T00:40:18+00:00",
-   "excerpt": "A lot of people have posted that it takes a lot of effort. If you are a current student, WHY did you choose this program? And HOW did it help your career and life after enrollment or graduation? submitted by /u/Tough-Ice-3353 [link] [留言]",
-   "author": "/u/Tough-Ice-3353",
-   "source": "Reddit r/OMSCS",
-   "id": "55ff03628d17",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-30T12:25:13.601481+08:00"
   },
   {
@@ -101,6 +187,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-30T12:25:13.601481+08:00"
   },
   {
@@ -315,7 +403,7 @@
    "title": "GIOS - failing project 1, drop?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wq0411/gios_failing_project_1_drop/",
    "published": "2026-09-25T15:59:01+00:00",
-   "excerpt": "Im taking GIOS and the first project is due this weekend but i've only gotten the warmups done, should I drop or try to stick through? edit: thanks for the motivation/advice everyone! I think i will try to stick it through to the drop date. Seems like there's a decent curve and i don't necessarilyy need a B, a C would be okay in the grand scheme of things. submitted by /u/icybreath11 [link] [留言]",
+   "excerpt": "Im taking GIOS and the first project is due this weekend but i've only gotten the warmups done, should I drop or try to stick through? edit: thanks for the motivation/advice everyone! I think i will try to stick it through to the drop date. Seems like there's a decent curve and i don't necessarilyy need a B, a C would be okay in the grand scheme of things. edit2: ended up getting part 1 server and part 2 server done , didn't touch the client side lol but better than I hoped for initially submitted by /u/icybreath11 [link] [留言]",
    "author": "/u/icybreath11",
    "source": "Reddit r/OMSCS",
    "id": "69980bcee7aa",
@@ -2615,10 +2703,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - nature.com",
+   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
    "published": "2022-05-07T07:00:00+00:00",
-   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging nature.com",
+   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
    "author": null,
    "source": "Google News",
    "id": "29987ae51976",
@@ -2757,6 +2845,21 @@
    "author": null,
    "source": "Google News",
    "id": "3fd446b8a3e2",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Top Online Master's in Computer Science Without CS Undergrad - BestColleges",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaEJ4V3V3YmdiYWkwVjJjUTZTb3BJUEFGQmk2bWF3MjlKU00zQUpMOHktdDBZZUdRLUMtZEFSN29GLUhyZlU1QVhEdDZNSnVrMlhvcHFxN3BTTUlMalZlRGNQQTREWTF6eFBxOHJvWUg5UVVPa1ow?oc=5",
+   "published": "2024-10-08T07:00:00+00:00",
+   "excerpt": "Top Online Master's in Computer Science Without CS Undergrad BestColleges",
+   "author": null,
+   "source": "Google News",
+   "id": "5100fe8e67f9",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2950,6 +3053,20 @@
    "excerpt": "Hey HN!<p>Inflexa is an OSS-first TUI for agentic-AI reproducible biological analysis with provenance tracked on every step. It&#x27;s a better designed Claude Science (bar the GUI for now).<p>Before this, we spent years building a cloud multi-omics analysis platform, working alongside research teams in pharma, biotech, and academia.<p>Our vision is as follows: - OSS first - Data privacy, and security are of utmost importance - Agents are untrusted actors<p>Agentic products do not solve a core a",
    "source": "Hacker News",
    "id": "07c5d75b96f5",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Seeking Third Technical Cofounder",
+   "url": "https://news.ycombinator.com/item?id=48682086",
+   "published": "2026-06-26T03:39:51Z",
+   "excerpt": "We are seeking a third technical cofounder to help us build our company: - https:&#x2F;&#x2F;coffeechats.me&#x2F;<p>Equal equity splits. Prior big tech&#x2F;fast-growing startup experience strongly preferred.<p>The founding team consists of: - An MBA (Dartmouth), MSCS (UT Austin) graduate with prior 0 to 1 successes. - An MSCS (Dartmouth) graduate.",
+   "source": "Hacker News",
+   "id": "5ce7c7618b10",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -3191,35 +3308,6 @@
    "author": null,
    "source": "Google News",
    "id": "3fe0c49fd522",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Top Online Master's in Computer Science Without CS Undergrad - BestColleges",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaEJ4V3V3YmdiYWkwVjJjUTZTb3BJUEFGQmk2bWF3MjlKU00zQUpMOHktdDBZZUdRLUMtZEFSN29GLUhyZlU1QVhEdDZNSnVrMlhvcHFxN3BTTUlMalZlRGNQQTREWTF6eFBxOHJvWUg5UVVPa1ow?oc=5",
-   "published": "2024-10-08T07:00:00+00:00",
-   "excerpt": "Top Online Master's in Computer Science Without CS Undergrad BestColleges",
-   "author": null,
-   "source": "Google News",
-   "id": "5100fe8e67f9",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Seeking Third Technical Cofounder",
-   "url": "https://news.ycombinator.com/item?id=48682086",
-   "published": "2026-06-26T03:39:51Z",
-   "excerpt": "We are seeking a third technical cofounder to help us build our company: - https:&#x2F;&#x2F;coffeechats.me&#x2F;<p>Equal equity splits. Prior big tech&#x2F;fast-growing startup experience strongly preferred.<p>The founding team consists of: - An MBA (Dartmouth), MSCS (UT Austin) graduate with prior 0 to 1 successes. - An MSCS (Dartmouth) graduate.",
-   "source": "Hacker News",
-   "id": "5ce7c7618b10",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

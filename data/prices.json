@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30T12:26:11.169305+08:00",
+ "updated_at": "2026-10-01T12:37:27.470623+08:00",
  "sources": [
   {
    "name": "電子鋼琴 DP200（88 鍵重鎚）",
@@ -141,9 +141,13 @@
     {
      "d": "2026-09-30",
      "v": 13800.0
+    },
+    {
+     "d": "2026-10-01",
+     "v": 13800.0
     }
    ],
-   "checked_at": "2026-09-30T12:26:09.566515+08:00",
+   "checked_at": "2026-10-01T12:37:26.131444+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,
@@ -152,7 +156,7 @@
   {
    "id": "c67f886722b7",
    "title": "Bora BX-20 折疊電鋼琴",
-   "detected_title": "【Bora】BX-20無線藍牙法國DREAM音源力度鍵盤88鍵折疊式電鋼琴(數位電鋼 重力 重錘 折疊電鋼 無線藍牙連接) - momo購物網 - 好評推薦 -2026年9月",
+   "detected_title": "【Bora】BX-20無線藍牙法國DREAM音源力度鍵盤88鍵折疊式電鋼琴(數位電鋼 重力 重錘 折疊電鋼 無線藍牙連接) - momo購物網 - 好評推薦 -2026年10月",
    "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=9442657",
    "source": "www.momoshop.com.tw",
    "currency": "TWD",
@@ -269,9 +273,13 @@
     {
      "d": "2026-09-30",
      "v": 3588.0
+    },
+    {
+     "d": "2026-10-01",
+     "v": 3588.0
     }
    ],
-   "checked_at": "2026-09-30T12:26:10.953599+08:00",
+   "checked_at": "2026-10-01T12:37:27.342472+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,
@@ -299,7 +307,7 @@
      "v": 629.0
     }
    ],
-   "checked_at": "2026-09-30T12:26:11.168538+08:00",
+   "checked_at": "2026-10-01T12:37:27.469842+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,

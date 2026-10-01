@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30T12:26:08.684557+08:00",
+ "updated_at": "2026-10-01T12:37:25.197926+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -16,11 +16,47 @@
   {
    "name": "哈利的投資研究筆記庫",
    "ok": true,
-   "count": 4,
+   "count": 7,
    "note": ""
   }
  ],
  "items": [
+  {
+   "title": "[美股] 2026-10-01 美股盤後報告",
+   "url": "https://harrymemo.com/outputs/us/2026-10-01_US_Market_Dashboard",
+   "published": "2026-10-01",
+   "excerpt": "",
+   "market_section": "us",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "79e0d024c0f1",
+   "relevance": null,
+   "first_seen": "2026-10-01T12:37:25.197926+08:00"
+  },
+  {
+   "title": "[加密貨幣] 2026-10-01 加密貨幣盤後報告",
+   "url": "https://harrymemo.com/outputs/crypto/2026-10-01_CRYPTO_Weekly_Dashboard",
+   "published": "2026-10-01",
+   "excerpt": "",
+   "market_section": "crypto",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "45c4324fceb8",
+   "relevance": null,
+   "first_seen": "2026-10-01T12:37:25.197926+08:00"
+  },
+  {
+   "title": "[台股] 2026-09-30 台股盤後報告",
+   "url": "https://harrymemo.com/outputs/tw/2026-09-30_TW_Market_Dashboard",
+   "published": "2026-09-30",
+   "excerpt": "",
+   "market_section": "tw",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "e4da7b9f6820",
+   "relevance": null,
+   "first_seen": "2026-10-01T12:37:25.197926+08:00"
+  },
   {
    "title": "[美股] 2026-09-30 美股盤後報告",
    "url": "https://harrymemo.com/outputs/us/2026-09-30_US_Market_Dashboard",
@@ -31,6 +67,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "7c24af061a62",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-30T12:26:08.684557+08:00"
   },
   {
@@ -43,15 +81,17 @@
    "source": "哈利的投資研究筆記庫",
    "id": "a980a9479c20",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-09-30T12:26:08.684557+08:00"
   },
   {
-   "title": "[美股] 2026-09-29 美股盤後報告",
+   "title": "[美股] 2026/09/29 美股盤後：週一「長債再定價 × 全面回撤 × NVDA 回購敘事失效」— 市場在賭 10Y 5.2%+…",
    "url": "https://harrymemo.com/outputs/us/2026-09-29_US_Market_Dashboard",
    "published": "2026-09-29",
-   "excerpt": "",
+   "excerpt": "2026/09/29 美股盤後：週一「長債再定價 × 全面回撤 × NVDA 回購敘事失效」— 市場在賭 10Y 5.2%+…｜哈利的投資研究筆記庫 ← 返回 報告列表 首頁 目錄 🤖 哈利小助理 📈 美股收盤指數 🏛️ 美股市值前十 🔭 技術雷達快覽 📰 產業敘事 🌡️ 產業熱力圖 📈 日漲幅資金主軸 📉 日跌幅資金主軸 📊 週漲跌幅前十 📊 月漲跌幅前十 🔥 產業熱度評等 🔭 短線關注 🔭 中期關注 🎲 情境與宏觀 📅 未來 2 週重點 🇹🇼 台美對照 📉 超跌雷達 📈 200 週突破 US Dashboard 報告：2026/09/29（台北）｜美股收盤：2026/09/28｜查詢：2026-09-29 06:32 台北 本日市場報告 技術線圖專區 🇺🇸 美股深度分析 Dashboard ⚠️ 利率警訊： 10Y 公債 ^TNX 收約 5.24%（AP 指 2007 ）， S&P 500 三指數同步收跌； NVDA 宣布增資 1,500 億美元回購授權但僅小漲，無法對沖長端貼現率上升。 🤖 哈利小助理 · 今日精評 不專業分析師視野 · 統整盤勢與展望 防禦觀望 ；減碼高 Beta 光互連／平台獲利了結段； 2330 台積電 、 3661 世芯-KY 、資安美股僅小倉參考 週一「長債再定價 × 全面回撤 × NVDA 回購敘事失效」— 市場在賭 10Y 5.2%+ 是否進入新常態，而非 AI 基本面轉空 總經背景 AP／247WallSt 均指 ** 10Y 觸 5.23–5.24%** 為本 session 主因：貼現率上升同時壓成長與價值，選股難以對沖指數。油價 WTI 約 **$93** 與霍爾木茲海峽不確定性推升通膨預期，部分抵銷能源股日內小漲。 VIX **16.07（ +8% ）** 仍低於恐慌閾值，屬 **溫和 Risk-off**，非疫情式全面清算。 資金輪動 資金從 ** XLC 通訊**（ META -4.79% 、 NFLX -2.7% ）與 **高 Beta 半導體**（ ARM / QCOM / MRVL / COHR 鏈）流出；** XLV / XLP ** 微幅收紅屬典型 **利率驚嚇防禦**。同時 **資安**（ PANW / CRWD / FTNT / ZS / OKTA ）逆勢走強— 板塊內 **從零信任情緒股切換到平台型防火牆**，非全面 Risk-on。 NVDA +1.68% 在 **1,500 億美元回購** 下仍跑輸 PANW ，顯示 **籌碼買的是「能扛利率」的現金流敘事**，不是單純 AI beta。 台美連動 10Y 5.24% 抬升估值分母 → ** 2330 台積電 ／ 2454 聯發科 ** 隔夜情緒偏保守，但 NVDA 回購 + 小漲 → **先進製程／CoWoS 敘事未斷**，台股開盤宜看 **外資期貨與 ADR 背離**。 ARM -8.7% （月漲後獲利了結 + SoftBank 質押貸敏感度）→ ** 3661 世芯-KY ／Arm 生態 IP** 短線壓力大於 2330 台積電 。 PANW / CRWD 強、 TEAM / CRM 弱 → 台股 **純 SaaS 映射少**，但 **伺服器 ODM**（ 2382 廣達 ／ 6669 緯穎 ）仍受 ** DELL / SMCI 日跌** 拖累，勿把 NVDA 回購直接線性外溢成追價信號。 今日統整 劇本是 **「無處可躲」的利率日**：媒體形容 breadth 普跌，連 NVDA 史上最大回購授權也只能換來溫和收紅。半導",
    "market_section": "us",
-   "paywalled": true,
+   "paywalled": false,
    "source": "哈利的投資研究筆記庫",
    "id": "d5db6db6bfac",
    "relevance": null,
@@ -60,12 +100,12 @@
    "first_seen": "2026-09-29T12:41:47.210821+08:00"
   },
   {
-   "title": "[加密貨幣] 2026-09-28 加密貨幣盤後報告",
+   "title": "[加密貨幣] 2026/09/28 加密貨幣週報：代幣化美股進入 DeFi 抵押、CFTC 再鬆綁合規上鏈——本週定調為「RWA 第二階段落地、…",
    "url": "https://harrymemo.com/outputs/crypto/2026-09-28_CRYPTO_Weekly_Dashboard",
    "published": "2026-09-28",
-   "excerpt": "",
+   "excerpt": "2026/09/28 加密貨幣週報：代幣化美股進入 DeFi 抵押、CFTC 再鬆綁合規上鏈——本週定調為「RWA 第二階段落地、…｜哈利的投資研究筆記庫 ← 返回 報告列表 首頁 目錄 🤖 哈利小助理 📰 本週消息精選 📈 技術線圖走勢 📊 市場數據參考 📊 現貨 ETF 週成交額 💵 穩定幣觀測 💳 加密支付卡消費觀測 📈 加密概念股 🔷 愛達幣 Cardano ⚔️ 公鏈 TVL 🔥 DeFi 專區 🔧 技術與協議 ₿ 加密貨幣週報 發布 2026-09-28（台北）｜涵蓋 2026/09/24–2026/09/28（週四～週一）｜查詢 2026-09-28 09:03 台北 產業消息 · 週度整理 本週週報 技術線圖走勢 🤖 哈利小助理 · 本週週報精評 消息驅動週，RWA DeFi 落地觀察為主、不追山寨短線 Beta 代幣化美股進入 DeFi 抵押、CFTC 再鬆綁合規上鏈——本週定調為「 RWA 第二階段落地、 BTC 橫盤而山寨與鏈上敘事輪動」 週內消息 自週四報告以來五線更新：（1）Aave V4 9/25 在 Base 啟用 Equities Hub，Coinbase 代幣化 Apple／Nvidia／Tesla 等七檔美股可作 USDC 借款抵押（首批上限約 2,100 萬美元），代幣化標的從「能交易」跨到「能當 Collateral」；（2）CFTC 9/25 FAQ 更新：期貨商可配置合規資產的 tokenized forms，區塊鏈帳本納入紀錄保存框架，延續 technology-neutral 監管路線；（3）Ethena 9/25 將 Binance bStocks 與股票永續納入 USDe 基差策略，幣安股票永續 OI 敘事升溫，與 USDe 流通 WoW +2.18% 同向；（4）Magic Eden 舊 Limit Break Payment Processor V2 授權漏洞，白帽搶救逾 2.3 萬枚 NFT；Bitget 3.52 億美元被駭與 AI Agent 越權存取澳洲政府資料，安全／合規風險再受關注；（5）Kraken 母公司 Payward 9/26 宣示從交易所擴張為「交易＋支付＋資管」共軌金融基建，與 CFTC 鬆綁、Aave 抵押敘事並陳。 鏈上與機構 BTC 收 $84,155（7d +3.70% ）、 ETH $2,675（ +1.15% ），全球市值約 2.89 兆、 BTC 市占 58.74%。Fear & Greed 本日 74（Greed）、週均 72.7。 穩定幣 總市值 313.19B（WoW +0.51% ）； USDC 75.24B（WoW +1.20% ）、 USDe 4.95B（ +2.18% ）。 BTC ETF 本窗口週成交額約 99.5 億美元（較上週 -75.1 億）、 ETH ETF 約 31.3 億（-29.6 億）；媒體稱現貨 BTC ETF 連七日淨流入近 30 億美元，與 BTC 卡 8.4 萬形成對照。Hyperliquid Perps 7 日量約 598.7 億、占鏈上永續 59.4%。Cardano 鏈 TVL 約 6,823 萬美元（7d +9.50% ）、 DEX 24h 約 264 萬； ADA 7d +12.0% ，LQ +31.1% 。 與美股連動 Nasdaq 週漲 +2.06% 、 VIX 14.87 週漲 +0.41% ，風險資產仍偏強但波動率自週四低位略升。自週四 MSTR 週線 +25.2% 回落至 ** +3.05% *",
    "market_section": "crypto",
-   "paywalled": true,
+   "paywalled": false,
    "source": "哈利的投資研究筆記庫",
    "id": "e46d5f0a7dd5",
    "relevance": null,
@@ -663,7 +703,7 @@
   }
  ],
  "fx": {
-  "usd_twd": 31.879,
+  "usd_twd": 31.925,
   "source": "rter.info",
   "history": [
    {
@@ -769,9 +809,13 @@
    {
     "d": "2026-09-30",
     "v": 31.879
+   },
+   {
+    "d": "2026-10-01",
+    "v": 31.925
    }
   ],
-  "change_7d": 0.199,
+  "change_7d": 0.097,
   "change_30d": null,
   "alert_below": 30.5,
   "good_time_to_buy": false,
@@ -781,41 +825,41 @@
   {
    "symbol": "^TWII",
    "name": "台股加權",
-   "price": 47631.96,
-   "change": -392.64,
-   "change_pct": 0.82,
+   "price": 47940.13,
+   "change": 308.17,
+   "change_pct": 0.65,
    "currency": "TWD",
-   "as_of": "2026-09-29",
+   "as_of": "2026-09-30",
    "market": "TW"
   },
   {
    "symbol": "^GSPC",
    "name": "S&P 500",
-   "price": 7670.84,
-   "change": -12.85,
-   "change_pct": -0.17,
+   "price": 7651.54,
+   "change": -19.3,
+   "change_pct": -0.25,
    "currency": "USD",
-   "as_of": "2026-09-29",
+   "as_of": "2026-09-30",
    "market": "US"
   },
   {
    "symbol": "^IXIC",
    "name": "那斯達克",
-   "price": 26797.541,
-   "change": -22.84,
-   "change_pct": -0.09,
+   "price": 26861.064,
+   "change": 63.523,
+   "change_pct": 0.24,
    "currency": "USD",
-   "as_of": "2026-09-29",
+   "as_of": "2026-09-30",
    "market": "US"
   },
   {
    "symbol": "^SOX",
    "name": "費半",
-   "price": 12629.161,
-   "change": 163.919,
-   "change_pct": 1.32,
+   "price": 12628.624,
+   "change": -0.537,
+   "change_pct": 0.0,
    "currency": "USD",
-   "as_of": "2026-09-29",
+   "as_of": "2026-09-30",
    "market": "US"
   },
   {
@@ -825,17 +869,17 @@
    "change": null,
    "change_pct": null,
    "currency": "TWD",
-   "as_of": "2026-09-30",
+   "as_of": "2026-10-01",
    "market": "TW"
   },
   {
    "symbol": "NVDA",
    "name": "NVIDIA",
-   "price": 227.21,
-   "change": -1.65,
-   "change_pct": -0.72,
+   "price": 228.38,
+   "change": 1.17,
+   "change_pct": 0.51,
    "currency": "USD",
-   "as_of": "2026-09-29",
+   "as_of": "2026-09-30",
    "market": "US"
   }
  ],

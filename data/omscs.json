@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-01T12:36:09.562200+08:00",
+ "updated_at": "2026-10-02T12:28:36.672107+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,20 +9,20 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
-  },
-  {
-   "name": "Reddit r/gradadmissions",
    "ok": true,
    "count": 25,
    "note": ""
   },
   {
+   "name": "Reddit r/gradadmissions",
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+  },
+  {
    "name": "Google News",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "note": ""
   },
   {
@@ -52,6 +52,45 @@
  ],
  "items": [
   {
+   "title": "OMSCS helped me land a ~300k MLE offer with 4 YOE",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wuqajx/omscs_helped_me_land_a_300k_mle_offer_with_4_yoe/",
+   "published": "2026-10-01T04:39:06+00:00",
+   "excerpt": "For all the people asking whether OMSCS is worth it, just wanted to throw my 2 cents in. Yes, it absolutely is worth finishing. GT on your resume is very well regarded. Feel free to ama. submitted by /u/Perfect_Kangaroo6233 [link] [留言]",
+   "author": "/u/Perfect_Kangaroo6233",
+   "source": "Reddit r/OMSCS",
+   "id": "19e9e96e1e7e",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-02T12:28:36.672107+08:00"
+  },
+  {
+   "title": "Fall 2026 commencement anyone know the master's ceremony date/time yet?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wuqwph/fall_2026_commencement_anyone_know_the_masters/",
+   "published": "2026-10-01T05:14:19+00:00",
+   "excerpt": "Hi everyone, finally wrapping up this fall and planning to fly out to Atlanta to walk. I know commencement is Dec 17 to 19 but the official schedule page still has the spring info up. So I haven't seen the actual day for the master's ceremony. Spring had it Saturday morning at so I'm guessing similar on Dec 19? A few questions Has anyone gotten the RSVP email from the school yet? From the website it says opening Oct 5 but not sure if they send something out first. Has anyone seen the official master's ceremony date/time for fall? Any tips for OMSCS folks flying in? Hotels near campus, how early to book, worth staying an extra day? submitted by /u/North_Vegetable_5520 [link] [留言]",
+   "author": "/u/North_Vegetable_5520",
+   "source": "Reddit r/OMSCS",
+   "id": "d95222a2068c",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-02T12:28:36.672107+08:00"
+  },
+  {
+   "title": "For anyone who took MUC during either of the past 2 summers, how was it?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wuop85/for_anyone_who_took_muc_during_either_of_the_past/",
+   "published": "2026-10-01T03:13:00+00:00",
+   "excerpt": "I have 2 classes left to take and one of them is MUC. My first class taken was during Fall 2022, so I think I need to complete everything by end of Summer 2028. MUC overall doesn't have great reviews, but the professor who teaches during Spring seemed to have the best ones. Because of that, I was originally planning to take it during Spring 2027, however I will now be traveling from January 16-Feb 2. I'd prefer not to have to worry about school during this trip, but could do so from January 27 onwards (but not between Jan 16-27). Rather than try to work ahead then play catch-up, I am thinking of just taking MUC in the summer so I'm curious to hear if anyone has had any recent positive experi",
+   "author": "/u/-wimp",
+   "source": "Reddit r/OMSCS",
+   "id": "f54f6a80f970",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-02T12:28:36.672107+08:00"
+  },
+  {
    "title": "Calling bullshit on the OMSCS haters",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wucgja/calling_bullshit_on_the_omscs_haters/",
    "published": "2026-09-30T18:17:53+00:00",
@@ -62,19 +101,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
-   "first_seen": "2026-10-01T12:36:09.562200+08:00"
-  },
-  {
-   "title": "OMSCS best professors you enjoyed learning from?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wu6v5w/omscs_best_professors_you_enjoyed_learning_from/",
-   "published": "2026-09-30T14:46:28+00:00",
-   "excerpt": "Who are the best professors in the OMSCS program you enjoyed learning from? What did you love the most about their teaching? Looking forward to hearing more positive vibes from current and ex students. submitted by /u/Tough-Ice-3353 [link] [留言]",
-   "author": "/u/Tough-Ice-3353",
-   "source": "Reddit r/OMSCS",
-   "id": "8c3553ba65bc",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-01T12:36:09.562200+08:00"
   },
   {
@@ -88,6 +116,23 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-01T12:36:09.562200+08:00"
+  },
+  {
+   "title": "OMSCS best professors you enjoyed learning from?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wu6v5w/omscs_best_professors_you_enjoyed_learning_from/",
+   "published": "2026-09-30T14:46:28+00:00",
+   "excerpt": "Who are the best professors in the OMSCS program you enjoyed learning from? What did you love the most about their teaching? Looking forward to hearing more positive vibes from current and ex students. submitted by /u/Tough-Ice-3353 [link] [留言]",
+   "author": "/u/Tough-Ice-3353",
+   "source": "Reddit r/OMSCS",
+   "id": "8c3553ba65bc",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-01T12:36:09.562200+08:00"
   },
   {
@@ -101,6 +146,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-01T12:36:09.562200+08:00"
   },
   {
@@ -114,6 +161,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-01T12:36:09.562200+08:00"
   },
   {
@@ -129,6 +178,8 @@
     "admitted"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-01T12:36:09.562200+08:00"
   },
   {
@@ -430,6 +481,23 @@
    "first_seen": "2026-09-26T11:56:08.785653+08:00"
   },
   {
+   "title": "OMSCS vs in-person masters Similarity",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
+   "published": "2026-09-24T15:35:17+00:00",
+   "excerpt": "Hi!! I wanted to ask whether the course content and academic rigor of Georgia Tech’s OMSCS are generally the same as the in-person MSCS, or whether the online courses are more condensed. Also, how is the OMSCS viewed when applying to PhD programs? Does it carry similar academic weight to the in-person MSCS, particularly for PhD admissions in Computer Science? submitted by /u/dothisnightwing [link] [留言]",
+   "author": "/u/dothisnightwing",
+   "source": "Reddit r/OMSCS 錄取討論",
+   "id": "31f67e101c48",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admission"
+   ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
    "title": "I'm a terrible SWE and I drown in coursework, how can I get better in this degree?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wpb8v2/im_a_terrible_swe_and_i_drown_in_coursework_how/",
    "published": "2026-09-24T19:32:35+00:00",
@@ -454,23 +522,6 @@
    "id": "354f4d4623c2",
    "admission_signal": false,
    "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
-   "title": "OMSCS vs in-person masters Similarity",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
-   "published": "2026-09-24T15:35:17+00:00",
-   "excerpt": "Hi!! I wanted to ask whether the course content and academic rigor of Georgia Tech’s OMSCS are generally the same as the in-person MSCS, or whether the online courses are more condensed. Also, how is the OMSCS viewed when applying to PhD programs? Does it carry similar academic weight to the in-person MSCS, particularly for PhD admissions in Computer Science? submitted by /u/dothisnightwing [link] [留言]",
-   "author": "/u/dothisnightwing",
-   "source": "Reddit r/OMSCS",
-   "id": "31f67e101c48",
-   "admission_signal": true,
-   "keyword_hits": [
-    "admission"
-   ],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -1290,6 +1341,21 @@
    "first_seen": "2026-09-08T11:27:40.081789+08:00"
   },
   {
+   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
+   "published": "2024-04-04T07:00:00+00:00",
+   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "607e30a6c950",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
    "title": "Georgia Tech OMSCS Resume Format",
    "url": "https://www.reddit.com/r/gradadmissions/comments/1vmfudq/georgia_tech_omscs_resume_format/",
    "published": "2026-08-12T14:33:25+00:00",
@@ -1675,21 +1741,6 @@
     "accepted",
     "decision"
    ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-07T11:20:07.298976+08:00"
-  },
-  {
-   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
-   "published": "2024-04-04T07:00:00+00:00",
-   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "607e30a6c950",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,

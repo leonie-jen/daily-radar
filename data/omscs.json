@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T12:11:09.535187+08:00",
+ "updated_at": "2026-10-04T12:43:05.913202+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -22,7 +22,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "note": ""
   },
   {
@@ -62,6 +62,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-03T12:11:09.535187+08:00"
   },
   {
@@ -77,6 +79,8 @@
     "application"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-03T12:11:09.535187+08:00"
   },
   {
@@ -2818,21 +2822,6 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
-   "published": "2023-05-03T07:00:00+00:00",
-   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
-   "author": null,
-   "source": "Google News",
-   "id": "54defa3e479c",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
    "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
    "published": "2024-08-25T07:00:00+00:00",
@@ -2863,13 +2852,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
-   "published": "2023-04-21T07:00:00+00:00",
-   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
+   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
+   "published": "2023-05-03T07:00:00+00:00",
+   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
    "author": null,
    "source": "Google News",
-   "id": "43f2eafe3c1d",
+   "id": "54defa3e479c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2893,10 +2882,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Georgia Tech launches second low-cost online master's degree program - insidehighered.com",
+   "title": "Georgia Tech launches second low-cost online master's degree program - Inside Higher Ed",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmg5WE0weGxEN2doN1o5SEhkeENTSzVzVDVhNlVKRmZVbktBWTZXd2hXaUFUeGhhSTdpQmJYMzlHXzFzMWROVHVJOGh4OEdDY3hwNWFTYVpvZHllbmlmWmJFck1lMGE3VVdaQlFnZnNEQjdZdHYyR0xGTEdxUVZFbGtOTkl6dm5nQ0dDLUN0UnJ1LUNJcWZSLS00c1M4cXJCNFRUaGphaU13Wmd4VnI1bWl2aHg?oc=5",
    "published": "2017-01-11T08:00:00+00:00",
-   "excerpt": "Georgia Tech launches second low-cost online master's degree program insidehighered.com",
+   "excerpt": "Georgia Tech launches second low-cost online master's degree program Inside Higher Ed",
    "author": null,
    "source": "Google News",
    "id": "6cccadeeb3ff",
@@ -2923,10 +2912,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Research challenges assumptions about online education success - Phys.org",
+   "title": "Research challenges assumptions about online education success - phys.org",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
    "published": "2026-08-03T07:00:00+00:00",
-   "excerpt": "Research challenges assumptions about online education success Phys.org",
+   "excerpt": "Research challenges assumptions about online education success phys.org",
    "author": null,
    "source": "Google News",
    "id": "3fd446b8a3e2",
@@ -3350,6 +3339,21 @@
    "excerpt": "",
    "source": "Hacker News",
    "id": "6f6341c8a2eb",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
+   "published": "2023-04-21T07:00:00+00:00",
+   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "43f2eafe3c1d",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

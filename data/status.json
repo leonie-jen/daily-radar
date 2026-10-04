@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03T12:12:21.246419+08:00",
- "duration_sec": 129.8,
+ "updated_at": "2026-10-04T12:44:29.525521+08:00",
+ "duration_sec": 142.3,
  "sections": [
   {
    "key": "omscs",
@@ -29,7 +29,7 @@
     {
      "name": "Google News",
      "ok": true,
-     "count": 12,
+     "count": 11,
      "note": ""
     },
     {
@@ -102,9 +102,9 @@
     },
     {
      "name": "Reddit r/immigration CPT",
-     "ok": true,
-     "count": 25,
-     "note": ""
+     "ok": false,
+     "count": 0,
+     "note": "沒抓到資料（可能被擋或今天沒新內容）"
     },
     {
      "name": "ICE 新聞稿",
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 805,
+   "items": 819,
    "sources": [
     {
      "name": "104｜自動化測試",
@@ -215,7 +215,7 @@
     {
      "name": "哈利的投資研究筆記庫",
      "ok": true,
-     "count": 8,
+     "count": 6,
      "note": ""
     }
    ]

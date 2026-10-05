@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T12:43:05.913202+08:00",
+ "updated_at": "2026-10-05T12:31:10.964120+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -15,26 +15,26 @@
   },
   {
    "name": "Reddit r/gradadmissions",
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+  },
+  {
+   "name": "Google News",
    "ok": true,
-   "count": 25,
+   "count": 12,
    "note": ""
   },
   {
    "name": "Google News",
    "ok": true,
-   "count": 11,
-   "note": ""
-  },
-  {
-   "name": "Google News",
-   "ok": true,
-   "count": 4,
+   "count": 5,
    "note": ""
   },
   {
    "name": "OMSCS 官方公告",
    "ok": true,
-   "count": 3,
+   "count": 10,
    "note": ""
   },
   {
@@ -51,6 +51,19 @@
   }
  ],
  "items": [
+  {
+   "title": "CS6515 Thinking to withdraw after exam 1 results",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wwxy1z/cs6515_thinking_to_withdraw_after_exam_1_results/",
+   "published": "2026-10-03T21:03:07+00:00",
+   "excerpt": "I am feeling I should drop out after exam 1 results. I got 10/20 which is making me cry. I did solve all the practice problems and still failed. I am feeling I should drop but will it become any better next time I retake don't know. Anyone here who is feeling the same after results for this class or been there? submitted by /u/Regular_Smile4466 [link] [留言]",
+   "author": "/u/Regular_Smile4466",
+   "source": "Reddit r/OMSCS",
+   "id": "493dfb878cef",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-05T12:31:10.964120+08:00"
+  },
   {
    "title": "Fall 2026 Commencement Ceremony",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wvr2i2/fall_2026_commencement_ceremony/",
@@ -159,13 +172,13 @@
    "first_seen": "2026-10-01T12:36:09.562200+08:00"
   },
   {
-   "title": "OMSCS best professors you enjoyed learning from?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wu6v5w/omscs_best_professors_you_enjoyed_learning_from/",
-   "published": "2026-09-30T14:46:28+00:00",
-   "excerpt": "Who are the best professors in the OMSCS program you enjoyed learning from? What did you love the most about their teaching? Looking forward to hearing more positive vibes from current and ex students. submitted by /u/Tough-Ice-3353 [link] [留言]",
-   "author": "/u/Tough-Ice-3353",
+   "title": "Should I continue OMSCS or withdraw",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wug9u5/should_i_continue_omscs_or_withdraw/",
+   "published": "2026-09-30T20:43:44+00:00",
+   "excerpt": "I’ve tried the OMSCS program a couple of times, but I always end up withdrawing because I simply don’t have the time or energy to learn effectively after a full day of work. As a busy tech lead, my days are demanding. Even though my company covers the tuition, I feel the opportunity cost of my time is too high. I already have a master’s in data science, and I don't care about collecting another degree—it won't move the needle for my career. My long-term goal is to transition into a Machine Learning Engineer (MLE) role. I’m questioning whether finishing this degree is actually helpful for that path, or if my time would be far better spent building side projects, taking targeted online courses",
+   "author": "/u/Amcnewbie",
    "source": "Reddit r/OMSCS",
-   "id": "8c3553ba65bc",
+   "id": "d8300d8634b9",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -174,13 +187,13 @@
    "first_seen": "2026-10-01T12:36:09.562200+08:00"
   },
   {
-   "title": "Should I continue OMSCS or withdraw",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wug9u5/should_i_continue_omscs_or_withdraw/",
-   "published": "2026-09-30T20:43:44+00:00",
-   "excerpt": "I’ve tried the OMSCS program a couple of times, but I always end up withdrawing because I simply don’t have the time or energy to learn effectively after a full day of work. As a busy tech lead, my days are demanding. Even though my company covers the tuition, I feel the opportunity cost of my time is too high. I already have a master’s in data science, and I don't care about collecting another degree—it won't move the needle for my career. My long-term goal is to transition into a Machine Learning Engineer (MLE) role. I’m questioning whether finishing this degree is actually helpful for that path, or if my time would be far better spent building side projects, taking targeted online courses",
-   "author": "/u/Amcnewbie",
+   "title": "OMSCS best professors you enjoyed learning from?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wu6v5w/omscs_best_professors_you_enjoyed_learning_from/",
+   "published": "2026-09-30T14:46:28+00:00",
+   "excerpt": "Who are the best professors in the OMSCS program you enjoyed learning from? What did you love the most about their teaching? Looking forward to hearing more positive vibes from current and ex students. submitted by /u/Tough-Ice-3353 [link] [留言]",
+   "author": "/u/Tough-Ice-3353",
    "source": "Reddit r/OMSCS",
-   "id": "d8300d8634b9",
+   "id": "8c3553ba65bc",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -519,6 +532,21 @@
    "first_seen": "2026-09-26T11:56:08.785653+08:00"
   },
   {
+   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
+   "published": "2025-04-24T07:00:00+00:00",
+   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "b46a54226e93",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
    "title": "OMSCS vs in-person masters Similarity",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
    "published": "2026-09-24T15:35:17+00:00",
@@ -588,21 +616,6 @@
    "author": "/u/Dependent_Injury2608",
    "source": "Reddit r/OMSCS",
    "id": "0af02cedc149",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
-   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
-   "published": "2025-04-24T07:00:00+00:00",
-   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "b46a54226e93",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -932,12 +945,12 @@
    "first_seen": "2026-09-17T11:49:40.293098+08:00"
   },
   {
-   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
-   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
+   "title": "Professor, Alumni Receive Award for Edge Computing Research",
+   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "f422b53b6e0b",
+   "id": "194c0d5c9996",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -946,12 +959,12 @@
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
-   "title": "Professor, Alumni Receive Award for Edge Computing Research",
-   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
+   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
+   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "194c0d5c9996",
+   "id": "f422b53b6e0b",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1379,6 +1392,21 @@
    "first_seen": "2026-09-08T11:27:40.081789+08:00"
   },
   {
+   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
+   "published": "2024-04-04T07:00:00+00:00",
+   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "607e30a6c950",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
    "title": "Georgia Tech OMSCS Resume Format",
    "url": "https://www.reddit.com/r/gradadmissions/comments/1vmfudq/georgia_tech_omscs_resume_format/",
    "published": "2026-08-12T14:33:25+00:00",
@@ -1749,21 +1777,6 @@
     "accepted",
     "decision"
    ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-07T11:20:07.298976+08:00"
-  },
-  {
-   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
-   "published": "2024-04-04T07:00:00+00:00",
-   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "607e30a6c950",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2912,10 +2925,10 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Research challenges assumptions about online education success - phys.org",
+   "title": "Research challenges assumptions about online education success - Phys.org",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
    "published": "2026-08-03T07:00:00+00:00",
-   "excerpt": "Research challenges assumptions about online education success phys.org",
+   "excerpt": "Research challenges assumptions about online education success Phys.org",
    "author": null,
    "source": "Google News",
    "id": "3fd446b8a3e2",
@@ -2934,6 +2947,20 @@
    "author": null,
    "source": "Google News",
    "id": "5100fe8e67f9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "CSE Leadership Transition Comes as School Continues Rapid Growth",
+   "url": "https://omscs.gatech.edu/external-news/cse-leadership-transition-comes-school-continues-rapid-growth",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "a17b0c73d22c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -3369,20 +3396,6 @@
    "author": null,
    "source": "Google News",
    "id": "3e299541f687",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "CSE Leadership Transition Comes as School Continues Rapid Growth",
-   "url": "https://omscs.gatech.edu/external-news/cse-leadership-transition-comes-school-continues-rapid-growth",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "a17b0c73d22c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T13:18:09.790340+08:00",
+ "updated_at": "2026-10-07T12:46:05.857773+08:00",
  "sources": [
   {
    "name": "Google News",
@@ -39,9 +39,9 @@
   },
   {
    "name": "Reddit r/immigration CPT",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+   "ok": true,
+   "count": 25,
+   "note": ""
   },
   {
    "name": "ICE 新聞稿",
@@ -58,6 +58,54 @@
  ],
  "items": [
   {
+   "title": "Groups Tied to Harvard Sue DHS Over New Limits on International Student Internships - The Harvard Crimson",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUxZZGFNaWZ0ZXB2c3U2MUhZbWFqOGNtVlZUZnFzX04yZWRyVGZqWmFxWlo2cDRMRUZuUXJtanM5WUQ3bmdDQklRQ3pDZktJek9WdHZuMWFKRF9WcWJadjlRVWhVcmg2WUJENDlMOF83V0k3OVNFM1pDWlhEWVFqQTh0QVJjRnR5ZDg0OENQMTBmQQ?oc=5",
+   "published": "2026-10-06T21:22:20+00:00",
+   "excerpt": "Groups Tied to Harvard Sue DHS Over New Limits on International Student Internships The Harvard Crimson",
+   "author": null,
+   "source": "Google News",
+   "id": "06d2eca9bb2b",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-07T12:46:05.857773+08:00"
+  },
+  {
+   "title": "Higher ed leaders sue Trump administration over limitations on international student internships - The Boston Globe",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQamI3TjVjUzhBVXVBSThJaHo3eGtkYmtoamhRT0JxZllMdEdwQVJ0X2VWNjRaZHVaQzdmYnRiLVlfcDNYUTNtaTNKRXRqSjIxQ01pd08yN3k4WmxyVEhGMWFVeGRTM2ZhTGNVd09oQ21aX015TGhJSHZ5MXdLbXJNdk1fMjR6cE9TVEZIV3dvTQ?oc=5",
+   "published": "2026-10-06T18:01:00+00:00",
+   "excerpt": "Higher ed leaders sue Trump administration over limitations on international student internships The Boston Globe",
+   "author": null,
+   "source": "Google News",
+   "id": "c5741692a439",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-07T12:46:05.857773+08:00"
+  },
+  {
+   "title": "NEW SEVIS",
+   "url": "https://www.reddit.com/r/immigration/comments/1wzfy2n/new_sevis/",
+   "published": "2026-10-06T22:15:12+00:00",
+   "excerpt": "Hello, I was on CPT and it ended on Aug 31 I didn’t realise and worked for 2 days in September and reported this to my school They said it’s a violation and I will have my old sevis terminated and a new sevis will be issued. I’ve to travel out and come back and I can resume whatever I was doing (my school and internship ) Is this the safest option and will this affect my OPT approval next year Someone please help submitted by /u/Organic_Job_7553 [link] [留言]",
+   "author": "/u/Organic_Job_7553",
+   "source": "Reddit r/immigration CPT",
+   "id": "dd17ced69bde",
+   "policy_signal": true,
+   "relevance": null,
+   "first_seen": "2026-10-07T12:46:05.857773+08:00"
+  },
+  {
+   "title": "Help my H1",
+   "url": "https://www.reddit.com/r/immigration/comments/1wwstb8/help_my_h1/",
+   "published": "2026-10-03T17:27:44+00:00",
+   "excerpt": "I have STEM OPT now. My employer applied for an H-1 B this year (regular, not premium) The latest update on my Form I-129 states: \"As of June 23, 2026, USCIS is currently processing your Form I-129, Petition for a Nonimmigrant Worker.\" My immigration attorney team says it might take until March or April to process mine. Is this real? Do you suggest applying for premium processing, spending 3 grand $, out of my pocket? This is what my attorney said, \"Since I have a STEM OPT, I don’t face any problems now. Maybe if it still delays after March, I shall apply for premium processing since my current STEM OPT EAD expires in July 2027.\" No problems as of now. My EAD expires in July 2027. But worst-",
+   "author": "/u/Wise-Depth4146",
+   "source": "Reddit r/immigration CPT",
+   "id": "145e4e3abdc0",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-07T12:46:05.857773+08:00"
+  },
+  {
    "title": "Harvard Law Ends Work Authorization for International Students’ Externships After New Federal Guidance - The Harvard Crimson",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORktTX0FEdmJZdDJ4VDYtMGc1R2h2N3d4NUhKdTB2c1VFbFZCc0VZRmRtRWRCdnlUalVJc01wZ1lpN1F6LUxsSTk1RkdxN2JkOXFXdm5tejdDSFBSSVFGYnFQbHNKb3FBXzJubnF0MzdueVppVHFLUU1YOFRtM1Byd1VvUVlNazBTZDJySUZpblg?oc=5",
    "published": "2026-10-05T12:00:03+00:00",
@@ -67,6 +115,8 @@
    "id": "91d93abd117a",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-06T13:18:09.790340+08:00"
   },
   {
@@ -79,6 +129,8 @@
    "id": "ff185b9248ba",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-06T13:18:09.790340+08:00"
   },
   {
@@ -91,6 +143,8 @@
    "id": "2afd1e31cc26",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-06T13:18:09.790340+08:00"
   },
   {
@@ -298,6 +352,34 @@
    "first_seen": "2026-10-05T12:31:53.699134+08:00"
   },
   {
+   "title": "Visa Paths not including H1B for Masters Graduate",
+   "url": "https://www.reddit.com/r/immigration/comments/1ww5wl7/visa_paths_not_including_h1b_for_masters_graduate/",
+   "published": "2026-10-02T21:34:42+00:00",
+   "excerpt": "I recently graduated from a top U.S. Master’s program and am currently on F-1 OPT with STEM eligibility. I have several years of professional experience in finance/investment management and am currently working part-time with an early-stage AI startup. Given how difficult employer sponsorship has become, I’m trying to understand what realistic options I may have outside of the traditional H-1B route. What are my realistic chances of qualifying for an O-1A or EB-2 NIW? Would graduating from a top program, having several years of professional experience, and working with an AI startup give me a reasonable foundation, or would I need significantly more accomplishments/recognition first? submitt",
+   "author": "/u/random-person-109",
+   "source": "Reddit r/immigration CPT",
+   "id": "8f0c1ef01900",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-03T12:12:03.863039+08:00"
+  },
+  {
+   "title": "USPS Lost/Missing My OPT EAD Card — Approved & Produced, 14+ Unemployment Days Already Lost. What Can I Do?",
+   "url": "https://www.reddit.com/r/immigration/comments/1wv88id/usps_lostmissing_my_opt_ead_card_approved/",
+   "published": "2026-10-01T19:06:10+00:00",
+   "excerpt": "I’m really hoping to get some urgent advice. I had applied for my initial OPT EAD on July 21, 2026 , and after a long wait, my EAD was finally approved and produced last week . The card was expected to arrive on September 26 via u/USPS , but I still have not received it. The USPS tracking information I have only shows that the card was last tracked/scanned about 4 days ago , and there has been no meaningful update since then. Since then, I have been doing everything I can: I have gone to my local USPS office repeatedly to ask them to locate the mail. I have called USPS Customer Care almost every day . Every time, I am basically told that it should arrive “tomorrow.” When I specifically ask w",
+   "author": "/u/RevolutionaryTie1336",
+   "source": "Reddit r/immigration CPT",
+   "id": "51b4b306e7bb",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-03T12:12:03.863039+08:00"
+  },
+  {
    "title": "2026 York County Detention Center, York, SC - Aug. 12-Sep. 10, 2026",
    "url": "https://www.ice.gov/node/70355",
    "published": null,
@@ -396,18 +478,6 @@
    "first_seen": "2026-10-03T12:12:03.863039+08:00"
   },
   {
-   "title": "Visa Paths not including H1B for Masters Graduate",
-   "url": "https://www.reddit.com/r/immigration/comments/1ww5wl7/visa_paths_not_including_h1b_for_masters_graduate/",
-   "published": "2026-10-02T21:34:42+00:00",
-   "excerpt": "I recently graduated from a top U.S. Master’s program and am currently on F-1 OPT with STEM eligibility. I have several years of professional experience in finance/investment management and am currently working part-time with an early-stage AI startup. Given how difficult employer sponsorship has become, I’m trying to understand what realistic options I may have outside of the traditional H-1B route. What are my realistic chances of qualifying for an O-1A or EB-2 NIW? Would graduating from a top program, having several years of professional experience, and working with an AI startup give me a reasonable foundation, or would I need significantly more accomplishments/recognition first? submitt",
-   "author": "/u/random-person-109",
-   "source": "Reddit r/immigration CPT",
-   "id": "8f0c1ef01900",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-10-03T12:12:03.863039+08:00"
-  },
-  {
    "title": "Expedited removal (235(b)(1)) after F-1 STEM OPT, H-1B approved: anyone been through this? Need attorney recs + timeline experiences",
    "url": "https://www.reddit.com/r/immigration/comments/1wvya27/expedited_removal_235b1_after_f1_stem_opt_h1b/",
    "published": "2026-10-02T16:28:10+00:00",
@@ -415,18 +485,6 @@
    "author": "/u/Acceptable_Beat_9013",
    "source": "Reddit r/immigration CPT",
    "id": "b2a97119bbf7",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-10-03T12:12:03.863039+08:00"
-  },
-  {
-   "title": "USPS Lost/Missing My OPT EAD Card — Approved & Produced, 14+ Unemployment Days Already Lost. What Can I Do?",
-   "url": "https://www.reddit.com/r/immigration/comments/1wv88id/usps_lostmissing_my_opt_ead_card_approved/",
-   "published": "2026-10-01T19:06:10+00:00",
-   "excerpt": "I’m really hoping to get some urgent advice. I had applied for my initial OPT EAD on July 21, 2026 , and after a long wait, my EAD was finally approved and produced last week . The card was expected to arrive on September 26 via u/USPS , but I still have not received it. The USPS tracking information I have only shows that the card was last tracked/scanned about 4 days ago , and there has been no meaningful update since then. Since then, I have been doing everything I can: I have gone to my local USPS office repeatedly to ask them to locate the mail. I have called USPS Customer Care almost every day . Every time, I am basically told that it should arrive “tomorrow.” When I specifically ask w",
-   "author": "/u/RevolutionaryTie1336",
-   "source": "Reddit r/immigration CPT",
-   "id": "51b4b306e7bb",
    "policy_signal": false,
    "relevance": null,
    "first_seen": "2026-10-03T12:12:03.863039+08:00"
@@ -760,10 +818,10 @@
    "first_seen": "2026-10-02T12:29:31.555030+08:00"
   },
   {
-   "title": "OPT Delays in 2026: Why the 14-Month Rule Makes a Timely Decision Essential - rnlawgroup.com",
+   "title": "OPT Delays in 2026: Why the 14-Month Rule Makes a Timely Decision Essential - Reddy Neumann Brown PC",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNGlGbmotdDEySHNfbnVQbjBSVk9IQms5Ul9oOFRpWjFWbmE2U3lncHp2dDF2S3JIR19qRTdLWWNnRWU3N3l2Tm1GMDhQZFVNZGVYVWtvX2hZX2RFSkxNdmV3RnNHRnN0SWpQcW91Yi1LeDdTQ09UYy1LZDFBa2hrNnZ5NkRGTnEyN3FfQldvVmVXbDVLRDFyMzRlMFRKR2k4blNkRg?oc=5",
    "published": "2026-09-30T14:47:09+00:00",
-   "excerpt": "OPT Delays in 2026: Why the 14-Month Rule Makes a Timely Decision Essential rnlawgroup.com",
+   "excerpt": "OPT Delays in 2026: Why the 14-Month Rule Makes a Timely Decision Essential Reddy Neumann Brown PC",
    "author": null,
    "source": "Google News",
    "id": "d12279a2e6d8",
@@ -795,20 +853,6 @@
    "author": null,
    "source": "Google News",
    "id": "09692a06b9c1",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-01T12:37:04.478600+08:00"
-  },
-  {
-   "title": "Letter to the Editor: Squeezing foreign talent is bad economics and optics - thepostathens.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdFVXdF83S0hTNGpWd0ExYno2RFNzY2NqcC00NkEyTWhDUWt1Zy1LaF9rcjRkQ05pczJFZHlnNllvRVJXeTJ6QnloLUg1S1hBUE14RUMyRWFFdkhOcWZvakNEcmtvNHd3MHpUQmR1aUY5aXZKYTJMbkxjenJ1d0ZVZjcybFo3RDF2YlFpMm1EODhXcFM1NXlVUmNFMTJSd3JzRVRUM0lvMmZoT29jSmRB?oc=5",
-   "published": "2026-09-30T13:32:00+00:00",
-   "excerpt": "Letter to the Editor: Squeezing foreign talent is bad economics and optics thepostathens.com",
-   "author": null,
-   "source": "Google News",
-   "id": "f04aba30c500",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -851,6 +895,20 @@
    "author": "/u/Fun_Vanilla9478",
    "source": "Reddit r/immigration CPT",
    "id": "00c0340c24a5",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-01T12:37:04.478600+08:00"
+  },
+  {
+   "title": "Letter to the Editor: Squeezing foreign talent is bad economics and optics - thepostathens.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdFVXdF83S0hTNGpWd0ExYno2RFNzY2NqcC00NkEyTWhDUWt1Zy1LaF9rcjRkQ05pczJFZHlnNllvRVJXeTJ6QnloLUg1S1hBUE14RUMyRWFFdkhOcWZvakNEcmtvNHd3MHpUQmR1aUY5aXZKYTJMbkxjenJ1d0ZVZjcybFo3RDF2YlFpMm1EODhXcFM1NXlVUmNFMTJSd3JzRVRUM0lvMmZoT29jSmRB?oc=5",
+   "published": "2026-09-30T13:32:00+00:00",
+   "excerpt": "Letter to the Editor: Squeezing foreign talent is bad economics and optics thepostathens.com",
+   "author": null,
+   "source": "Google News",
+   "id": "f04aba30c500",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -1256,10 +1314,10 @@
    "first_seen": "2026-09-30T12:25:56.507257+08:00"
   },
   {
-   "title": "Green Card Denied Years After Day 1 CPT, H-1B Trouble Over Wrong Location, Instagram Flags Unauthorized Work, - rnlawgroup.com",
+   "title": "Green Card Denied Years After Day 1 CPT, H-1B Trouble Over Wrong Location, Instagram Flags Unauthorized Work, - Reddy Neumann Brown PC",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVWhReXNkMmFBXzk4Q0RTaUpZX1hUSnd2LUt1Yk1TUHZ3Q1RuWUNEc1YteTZkcjd1akFrMlBDamYySWZ1VnBRR1d5TFF2Qk05eVdWcmZGS0duRG82MVpKVmNsOFpKZzAtUjdPSHBpWGtULW90V2hwVXQtOWlhR3cwVGlKUHptS0pBX0ZoWDRVU1pBb19qTW1oMlp1bUV3UV9wRDJLcGRqZFVCZFJsUFVuaHd5LUYxQWhza0RUZXJuMmxpbzlWZXdlVF93Z0ZwSTg?oc=5",
    "published": "2026-04-13T07:00:00+00:00",
-   "excerpt": "Green Card Denied Years After Day 1 CPT, H-1B Trouble Over Wrong Location, Instagram Flags Unauthorized Work, rnlawgroup.com",
+   "excerpt": "Green Card Denied Years After Day 1 CPT, H-1B Trouble Over Wrong Location, Instagram Flags Unauthorized Work, Reddy Neumann Brown PC",
    "author": null,
    "source": "Google News",
    "id": "167f091b8f4c",
@@ -3948,7 +4006,7 @@
   {
    "title": "UNC to review and update CPT processes following memo from ICE - The Daily Tar Heel",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHF0dWppY0VUcFhfU1ZqM3dtaDhVci1oQTRkU213bVE0blppdHNWNklDN3B1aWNnWUQ0cGV4LVpxRnBzYmFUMU16SS1QM3NPZEtOSl91bGUwN3l6NzlpSmFmdWFibEtJUkpGN25yNDRjQV91b1J3MDB6b3JmdUFfczNpejBzS3BDb1lIRnlNZ1RQTWt0RDRHV2Y2UDVKTnlpZ2lmNWdoOUNNTjQ5MXRIMA?oc=5",
-   "published": "2026-08-28T04:18:27+00:00",
+   "published": "2026-08-27T07:00:00+00:00",
    "excerpt": "UNC to review and update CPT processes following memo from ICE The Daily Tar Heel",
    "author": null,
    "source": "Google News",
@@ -5622,20 +5680,6 @@
    "first_seen": "2026-09-10T11:30:01.087971+08:00"
   },
   {
-   "title": "New Fixed Admission Periods for F and J Visa Holders: FAQs and Practical Guidance for Employers - JDSupra",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUFKVTJfZUN2MFNiazlpVlVKM1QxeUNWZ0RueXRsVWRJOUo5SVZQSXZXempISGM5Wnc2RUQ3dVhRM00tRjZ0MklhOVhKbzFxTTRwbG4xVmN3Tm5EVi1lZzZvc1NzLUFqSURLQXJxTGhaUDFaYm9VT2VpNWZ4M0Q4Y3NYdDJqek1mRVE?oc=5",
-   "published": "2026-07-28T07:00:00+00:00",
-   "excerpt": "New Fixed Admission Periods for F and J Visa Holders: FAQs and Practical Guidance for Employers JDSupra",
-   "author": null,
-   "source": "Google News",
-   "id": "69a836944e30",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-10T11:30:01.087971+08:00"
-  },
-  {
    "title": "WR Immigration News Digest - WR Immigration",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xVnpzUTUxbEdPOXREQXE0Vm5jX3pDbVZoZjNKbDBSMEhIdWQxNHF4M3hqZ0YwaF92SGxrRC1BV3pEU0xub3ZCeU5malViNldRZVQteDdfLWJPVVF5bkJfOGtWa3NZeTNPZ0E?oc=5",
    "published": "2026-08-13T07:00:00+00:00",
@@ -5650,14 +5694,14 @@
    "first_seen": "2026-09-10T11:30:01.087971+08:00"
   },
   {
-   "title": "US student visa: Trump administration tightens rules, cracking down on internships for international students - The News International",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmZENzBUUVN3eDAwZzk1NmdIM0hMMWZHNzhxU3hUcTNJaHdTWmtIdjZ4M0FoYmlVbDE5TDVRQUplNkhYRGhMN0ZXSEE3WjE5b2l6UGRpb21HTlMwTHp1WHFEei0xaDlhVnZ5WXNRMm82MFJjTUpOUzN1QnlpeEdQak4yN1Ryd2dkWDlKWlFYZl8tTHpPeGVuLWR5TDBwRXFrNzU4bXNRSlpETU8wTTJpVEZzbTluRlY3M1R2UHUwbFpnTmhUNzM4X2FkSWRCamdQTGpzVUxWaUFUVDhWZXV4MEJPUdIB3wFBVV95cUxQM3g1Zm5sSEUzaG1HeGR3alpXdGlnRUt5Sko3SlVRUWE5Skw1Ym1pWXNDdVlpdHViVDlMbVF6QXJCVHF5enZDb29uNlo4NXlaYUFqTHpTV3piNm1seS1MSURFTDQzbldDMDRKb2tHMTVmQmpjZVp0dS1UQ2NOZHRyZzJvSFNUMUZUdmdhcnN3bUZ6ZWJnMnBja3BJc0NlanFoeE9CWURUVExUUnEzZW42MDJZaHZuOWZGWDB1UGZ0X0dnTHVtTVFiSkZZNW5EeTQ1cE56blAwVFhlcTEzUkFj?oc=5",
-   "published": "2026-08-28T07:00:00+00:00",
-   "excerpt": "US student visa: Trump administration tightens rules, cracking down on internships for international students The News International",
+   "title": "New Fixed Admission Periods for F and J Visa Holders: FAQs and Practical Guidance for Employers - JDSupra",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUFKVTJfZUN2MFNiazlpVlVKM1QxeUNWZ0RueXRsVWRJOUo5SVZQSXZXempISGM5Wnc2RUQ3dVhRM00tRjZ0MklhOVhKbzFxTTRwbG4xVmN3Tm5EVi1lZzZvc1NzLUFqSURLQXJxTGhaUDFaYm9VT2VpNWZ4M0Q4Y3NYdDJqek1mRVE?oc=5",
+   "published": "2026-07-28T07:00:00+00:00",
+   "excerpt": "New Fixed Admission Periods for F and J Visa Holders: FAQs and Practical Guidance for Employers JDSupra",
    "author": null,
    "source": "Google News",
-   "id": "2dfece9be309",
-   "policy_signal": true,
+   "id": "69a836944e30",
+   "policy_signal": false,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -5728,6 +5772,20 @@
    "source": "Reddit r/immigration CPT",
    "id": "4c04f7aad5f1",
    "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-10T11:30:01.087971+08:00"
+  },
+  {
+   "title": "US student visa: Trump administration tightens rules, cracking down on internships for international students - The News International",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmZENzBUUVN3eDAwZzk1NmdIM0hMMWZHNzhxU3hUcTNJaHdTWmtIdjZ4M0FoYmlVbDE5TDVRQUplNkhYRGhMN0ZXSEE3WjE5b2l6UGRpb21HTlMwTHp1WHFEei0xaDlhVnZ5WXNRMm82MFJjTUpOUzN1QnlpeEdQak4yN1Ryd2dkWDlKWlFYZl8tTHpPeGVuLWR5TDBwRXFrNzU4bXNRSlpETU8wTTJpVEZzbTluRlY3M1R2UHUwbFpnTmhUNzM4X2FkSWRCamdQTGpzVUxWaUFUVDhWZXV4MEJPUdIB3wFBVV95cUxQM3g1Zm5sSEUzaG1HeGR3alpXdGlnRUt5Sko3SlVRUWE5Skw1Ym1pWXNDdVlpdHViVDlMbVF6QXJCVHF5enZDb29uNlo4NXlaYUFqTHpTV3piNm1seS1MSURFTDQzbldDMDRKb2tHMTVmQmpjZVp0dS1UQ2NOZHRyZzJvSFNUMUZUdmdhcnN3bUZ6ZWJnMnBja3BJc0NlanFoeE9CWURUVExUUnEzZW42MDJZaHZuOWZGWDB1UGZ0X0dnTHVtTVFiSkZZNW5EeTQ1cE56blAwVFhlcTEzUkFj?oc=5",
+   "published": "2026-08-28T07:00:00+00:00",
+   "excerpt": "US student visa: Trump administration tightens rules, cracking down on internships for international students The News International",
+   "author": null,
+   "source": "Google News",
+   "id": "2dfece9be309",
+   "policy_signal": true,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -6926,10 +6984,10 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
-   "title": "The $100,000 OPT fee is a Trojan Horse for H-1B abuse - eig.org",
+   "title": "The $100,000 OPT fee is a Trojan Horse for H-1B abuse - Economic Innovation Group",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IQzNBV2o1X2pHalFSNm4zSTZybU1kb19odzk5UzN1UE1fTkhpejJTQXpOX1VSTVVhNVFLZnRTNV90QkRDY0xIOElPaDFQazVsS0J4Sw?oc=5",
    "published": "2026-08-14T07:00:00+00:00",
-   "excerpt": "The $100,000 OPT fee is a Trojan Horse for H-1B abuse eig.org",
+   "excerpt": "The $100,000 OPT fee is a Trojan Horse for H-1B abuse Economic Innovation Group",
    "author": null,
    "source": "Google News",
    "id": "c2da4c298dc9",
@@ -6940,10 +6998,10 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
-   "title": "DHS Finalizes Rule Ending “Duration of Status” for F, J, and I Nonimmigrants - JDSupra",
+   "title": "DHS Finalizes Rule Ending “Duration of Status” for F, J, and I Nonimmigrants - JD Supra",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTlJYTYwUzJNNlFJbnNDemM0Rk1HZW1kQ3d1U1ZOenVHaDIxM1YxOFBMbUtaVFlWRFNlYkRFMVJEZ01EdTNGSFRpa1RuRVNzSUNGMkI2eHQwa25GVS1RVjhhUTkzTkhaMUpVb1prYW5NV29KN0poTkwycGI3RE9zeVhhQ1dCbVU?oc=5",
    "published": "2026-07-20T07:00:00+00:00",
-   "excerpt": "DHS Finalizes Rule Ending “Duration of Status” for F, J, and I Nonimmigrants JDSupra",
+   "excerpt": "DHS Finalizes Rule Ending “Duration of Status” for F, J, and I Nonimmigrants JD Supra",
    "author": null,
    "source": "Google News",
    "id": "28c5e0a983de",
@@ -7066,20 +7124,6 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
-   "title": "UCI reviews international student work program following second ICE memo - New University",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVlVNTBCVE9OSGxrVTZEQlVld2w3a3JrVUJxVHlTOGx0Tm5tS3VubjgyaHBzTExFMk5vWDltMW0xU3NyTkphcVhiSXRUUHVTR3FGTWNHMjZQOWwxeF8wYVdPMHRxWjVGWm8wRHBpWi1rMUFhdDVOUndlQWQ0aF9QNWRWZ05US3NNZHJWaHhQMmxqWjRoTk1YYklqeUVkZnZWWmVUSXBkZzhRT044T2xr?oc=5",
-   "published": "2026-08-27T07:00:00+00:00",
-   "excerpt": "UCI reviews international student work program following second ICE memo New University",
-   "author": null,
-   "source": "Google News",
-   "id": "490b306680e4",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:08:07.595859+08:00"
-  },
-  {
    "title": "US government warns universities to limit their authorisation of Curricular Practical Training work placements - ICEF Monitor",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVW5GU3NpbWlCWFN0NEdDdGlpdW15QUNnZEV3dUxMWXhwYXFmbUx5U3ZvbEhyanNpX01zclZQTlplUGpjRnJVZVo3V0U3d04xakU2VVkwaVZxUUwxdXJpRlByTWM3dVpTMXV5ME5zaDdRRWRUWmlHNElYV3pkMndLb1ZmLWc5eEZOb0poejl6ZEp1b3RTa0hmVmxESE1JOHFzc3k4amp0WGpkZTdOQ1FYbnhJdjE5ZWw0Z0EwRTlzRnp2SU9PNC1rZWhYaEZpSERVUGhIVWpybVBsZWt1?oc=5",
    "published": "2026-09-03T07:00:00+00:00",
@@ -7108,13 +7152,13 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
-   "title": "Trump admin steps up scrutiny of CPT for international students, warns colleges over misuse - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdGVCNi15Snd5aEdCWTZNWWVnamIwWk9nLWRnbHdfU3c1WGxYNExIZVlHU0NNWmFiMFJqQThwODZTTVU1YXMxbnAtV2xPQXF0WVY0c3hqcFpJSkFfaVBReW91VWVDUlRWaENTZl82QnpyQnlTdHJrU0FzaHgzUzlVbDg1elVjZmFqQkdkaGtQQ011b3BManVoME8wOU5ISGRhVEM4SFFNVTE0VGJVN1dUeE5qRDV5dURCSlF2djRxVEh6UGNocnVQUkVZSnRzaGNMaTVyVno2VTM3Rkh3YWplN2dzWTlXUFZaVzFiZ1BrUk5mdnfSAfgBQVVfeXFMTWhlQlBQajBhXzhaaDBLMnBSQnlCNmlyQVQ4SzRnRjBCalZOeU9mVmUyUUtsZXE3a3ROMEw5X0ZqcDIta3VxVWRaSzJJa0lyMENZVTIzZHdjNlRlNEVRTTkwTV9hS1BuX295M0tlTUx5UkRMdEVHUHduNkRSUnNiOVdiNERtQnBpbnFzYTR4c2lib29BQm1oSGlDdmlWVldDZlNYanRaVDhIeWs0d09DZkV6cUZKVnpXQUNKMTB2cjZtcnFycWl2T1kzeVUzWDd5QW5JMkpSZm9pX2NkeDUzZVgtWWxzdWxhbkgzckNkZ25DN25PZW5iWTc?oc=5",
-   "published": "2026-08-13T07:00:00+00:00",
-   "excerpt": "Trump admin steps up scrutiny of CPT for international students, warns colleges over misuse The Times of India",
+   "title": "UCI reviews international student work program following second ICE memo - New University",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVlVNTBCVE9OSGxrVTZEQlVld2w3a3JrVUJxVHlTOGx0Tm5tS3VubjgyaHBzTExFMk5vWDltMW0xU3NyTkphcVhiSXRUUHVTR3FGTWNHMjZQOWwxeF8wYVdPMHRxWjVGWm8wRHBpWi1rMUFhdDVOUndlQWQ0aF9QNWRWZ05US3NNZHJWaHhQMmxqWjRoTk1YYklqeUVkZnZWWmVUSXBkZzhRT044T2xr?oc=5",
+   "published": "2026-08-27T07:00:00+00:00",
+   "excerpt": "UCI reviews international student work program following second ICE memo New University",
    "author": null,
    "source": "Google News",
-   "id": "936f4e693c35",
+   "id": "490b306680e4",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -7136,10 +7180,10 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
-   "title": "ICE’s OPT Fraud Crackdown: A Compliance Guide for Employers of F-1 Students - rnlawgroup.com",
+   "title": "ICE’s OPT Fraud Crackdown: A Compliance Guide for Employers of F-1 Students - Reddy Neumann Brown PC",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUE5KMkIzd1VSalVGelZocXhoUHZjRXpQSnEyOE9oQ2tvQWZjOS1hRnpKTmQ2UFk5eGp0R1lfS24yVWlQaUhBTEdGUzV6a0ljT0t4b0J5Q1YwZGF5TFNnX3hpU1dUSXVIdHRyRjdlOEltbGx1aldQZmh6cTVaeDZldm1FcDlxRkJmZFBxUUVFQlZpdkE5cWRaU2VoQ3IxSERRcWtJ?oc=5",
    "published": "2026-05-13T07:00:00+00:00",
-   "excerpt": "ICE’s OPT Fraud Crackdown: A Compliance Guide for Employers of F-1 Students rnlawgroup.com",
+   "excerpt": "ICE’s OPT Fraud Crackdown: A Compliance Guide for Employers of F-1 Students Reddy Neumann Brown PC",
    "author": null,
    "source": "Google News",
    "id": "d563bccb601f",
@@ -7192,20 +7236,6 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
-   "title": "Know Your Rights for International Students: Travel and Visa Concerns - Asian Law Caucus",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN1lnSFdVUHcwbmVuazlTLUpNUUtjbEpzZWhfaTU3Nk1peURYb25rUDI3ckJ0bHRCNmJVaXlFNUFKeVh2dl96YVp5Um9xYjEtZXE1cWpKWkNqSnFEdF9GUXpZdjFGY1FqUzlybmR3bGxPNzdBc0VMblNpN0JoZ1BLT19SX0pJMkJfVzBnU09vYjUwRDlzZkNQaE1oLXBDWjlEbTVlYjlMbVNCaXZp?oc=5",
-   "published": "2025-05-30T07:00:00+00:00",
-   "excerpt": "Know Your Rights for International Students: Travel and Visa Concerns Asian Law Caucus",
-   "author": null,
-   "source": "Google News",
-   "id": "62150c0a234f",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:08:07.595859+08:00"
-  },
-  {
    "title": "What Trump’s migration crackdown could mean for foreign students - Reuters",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByV3ZsZlVyanp4eTlNNG9hRHRiQjBxTXRzWXh0MDRybW5GSTJubjNzQWFzSlNJdWRYMU9penJrczgtbWJESURCWkdEWnB1elRNVVNnT3JMMWN1TjRhSkNyb3BoaXhTRXN1OUtxaENod2pQZkZ2LS1NVWR5dm45VEk?oc=5",
    "published": "2025-01-29T08:00:00+00:00",
@@ -7213,6 +7243,20 @@
    "author": null,
    "source": "Google News",
    "id": "a7fccc08760e",
+   "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:07.595859+08:00"
+  },
+  {
+   "title": "America may end or restrict OPT: The what, why, and how of a looming crackdown - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVzVXLUE3bGZ5SVl0RW1nbTh3eXdxS1h5STFHdzhWTlRhRzFzT1h0Ykt4R252NzlyYXViYWlTM2dxUlpZQzJ4SjBxZ3lsSWtibmxuSXp0dVdYQUZQR0YwQ2FNc25NTHY1NHNwaTRCaTREXzhNMUpRWldocUE4ZzFuQWROb1paZHV2bU1HT3p5Ul9VUFZYZ0JSc09rRWc0cUEwVDJyTVJPcDdzS1N5QmRhMWs2T0d3NVA3Ynh1TS1rS3owYkdhb0R2NER6dFluVmF4WG5ZWXY1RnRtWFJTdWJDSGc2akUzbmfSAewBQVVfeXFMUFNjOGJQQzMzQURSdVBVNWZ5ZFE0YkRib2Y5ekpXaW50UEtLc3AxZWN1Z3ozREU0bkZwdXVobEl2TmV1ZlRnZXRKQXkzMUs1Y2kxTmtRSWpSVm91ZzhrcENXQ2pwRENoZ0tOb2VFNjkwUmNVeHVSLVRmbi1zcm50RGY2a0RxZW4yNHJkY0w3T2tRMDBXWWlwaFE4X0I1TFotbVNPSFhFWjYwdndlWW5rQWU3c0Nwd0dRSFRzMU9jZzE3bXYxSUR2VF9DdFdWRGl1WFA3ZmQ1ZlVZZUtYemJUY1QxUTJwdVRDaUZfeEs?oc=5",
+   "published": "2025-11-14T08:00:00+00:00",
+   "excerpt": "America may end or restrict OPT: The what, why, and how of a looming crackdown The Times of India",
+   "author": null,
+   "source": "Google News",
+   "id": "d67b73f35f87",
    "policy_signal": true,
    "relevance": null,
    "summary": null,
@@ -7262,10 +7306,10 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
-   "title": "What the New F-1 Rule Means for You: A Guide for Current and Future International Students - rnlawgroup.com",
+   "title": "What the New F-1 Rule Means for You: A Guide for Current and Future International Students - Reddy Neumann Brown PC",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTEFjVTBBbFV3RUJ1YUtIVE5nc1plVVNja1dIT29IRjJ6OElnQzZJQUJiclhlNDctRlVZSGVvMklwZEFqWGtVdEdjZjJXbUJFZW5FTFJTektwMGtDbHVENXZUSGZyMTJlS09tTDNSLUpxRFFhUXhNVUlxRTQwVUxlQ0gzOGJjdE8xbGppNG9lb3Q4ekJpTy1zMUo4S0d6QWRhUEx0RGxqcGNqNFQ3WnhuazNxNXluNTQw?oc=5",
    "published": "2026-07-21T07:00:00+00:00",
-   "excerpt": "What the New F-1 Rule Means for You: A Guide for Current and Future International Students rnlawgroup.com",
+   "excerpt": "What the New F-1 Rule Means for You: A Guide for Current and Future International Students Reddy Neumann Brown PC",
    "author": null,
    "source": "Google News",
    "id": "9f93100c0ce8",
@@ -7298,6 +7342,20 @@
    "source": "Google News",
    "id": "9fd83fec1d42",
    "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:07.595859+08:00"
+  },
+  {
+   "title": "Columbia reviews international student work authorizations after federal memos, Olinto announces - Columbia Daily Spectator",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcFRpWlpwQVpPSzZzU3dpdVRWNHk5VV9GVVJ6WGtveEIwdTRIZV94dzJYakFURWJoWXB6ZUNGZXdFM2g3R3FfaUVGc3dYUFpOYkNMMjdCYWRwTHJNTmY3QmJhaFgwYVMtQWxzWnprR0Ryck5BeS1ZRm93eU1vTFhjUlpEUUVaQVd5UmNZb2I4MGM3YS1ZcnJac2l3S3RROFpfMDZ0T1ZXdmhSeWhLTWhWMTRGX0tiaExJQjBHOFRBYk1TN3cxc3FpSGJma1VUT1RiaTd2TDVsSFFHNXVaQ0xr?oc=5",
+   "published": "2026-08-31T07:00:00+00:00",
+   "excerpt": "Columbia reviews international student work authorizations after federal memos, Olinto announces Columbia Daily Spectator",
+   "author": null,
+   "source": "Google News",
+   "id": "6b786f3301ba",
+   "policy_signal": false,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -7444,6 +7502,34 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
+   "title": "Trump admin steps up scrutiny of CPT for international students, warns colleges over misuse - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdGVCNi15Snd5aEdCWTZNWWVnamIwWk9nLWRnbHdfU3c1WGxYNExIZVlHU0NNWmFiMFJqQThwODZTTVU1YXMxbnAtV2xPQXF0WVY0c3hqcFpJSkFfaVBReW91VWVDUlRWaENTZl82QnpyQnlTdHJrU0FzaHgzUzlVbDg1elVjZmFqQkdkaGtQQ011b3BManVoME8wOU5ISGRhVEM4SFFNVTE0VGJVN1dUeE5qRDV5dURCSlF2djRxVEh6UGNocnVQUkVZSnRzaGNMaTVyVno2VTM3Rkh3YWplN2dzWTlXUFZaVzFiZ1BrUk5mdnfSAfgBQVVfeXFMTWhlQlBQajBhXzhaaDBLMnBSQnlCNmlyQVQ4SzRnRjBCalZOeU9mVmUyUUtsZXE3a3ROMEw5X0ZqcDIta3VxVWRaSzJJa0lyMENZVTIzZHdjNlRlNEVRTTkwTV9hS1BuX295M0tlTUx5UkRMdEVHUHduNkRSUnNiOVdiNERtQnBpbnFzYTR4c2lib29BQm1oSGlDdmlWVldDZlNYanRaVDhIeWs0d09DZkV6cUZKVnpXQUNKMTB2cjZtcnFycWl2T1kzeVUzWDd5QW5JMkpSZm9pX2NkeDUzZVgtWWxzdWxhbkgzckNkZ25DN25PZW5iWTc?oc=5",
+   "published": "2026-08-13T07:00:00+00:00",
+   "excerpt": "Trump admin steps up scrutiny of CPT for international students, warns colleges over misuse The Times of India",
+   "author": null,
+   "source": "Google News",
+   "id": "936f4e693c35",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:07.595859+08:00"
+  },
+  {
+   "title": "Know Your Rights for International Students: Travel and Visa Concerns - Asian Law Caucus",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN1lnSFdVUHcwbmVuazlTLUpNUUtjbEpzZWhfaTU3Nk1peURYb25rUDI3ckJ0bHRCNmJVaXlFNUFKeVh2dl96YVp5Um9xYjEtZXE1cWpKWkNqSnFEdF9GUXpZdjFGY1FqUzlybmR3bGxPNzdBc0VMblNpN0JoZ1BLT19SX0pJMkJfVzBnU09vYjUwRDlzZkNQaE1oLXBDWjlEbTVlYjlMbVNCaXZp?oc=5",
+   "published": "2025-05-30T07:00:00+00:00",
+   "excerpt": "Know Your Rights for International Students: Travel and Visa Concerns Asian Law Caucus",
+   "author": null,
+   "source": "Google News",
+   "id": "62150c0a234f",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:07.595859+08:00"
+  },
+  {
    "title": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers - Employment Law Worldview",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmxyRF9DQ21KNWZiZW9obWZYV3JQOXd0ZEZaU3Iwd1kwTVM0LUhRdkJnTTFGV3pMUnNpdVh3X0FCcTNfeHhzeEdic1ladHJSSVpqME5CaEYzeHk0VURIOVNXbmxFb3FKSmZzc1pWd2ZNVUxla3VsU2dwZGpocFdjeWRqUllybmpFNWhxUmJHWEZzd3ZZaUE2WHFTNHQ4VF9MVjc0akQ1eXBQa3lWTFJRWTdDOEI4SFFXUGVRTlotVkhhLUFYV0E?oc=5",
    "published": "2025-12-15T08:00:00+00:00",
@@ -7493,20 +7579,6 @@
    "author": null,
    "source": "Google News",
    "id": "cb6be7848dbd",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:08:07.595859+08:00"
-  },
-  {
-   "title": "Columbia reviews international student work authorizations after federal memos, Olinto announces - Columbia Daily Spectator",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcFRpWlpwQVpPSzZzU3dpdVRWNHk5VV9GVVJ6WGtveEIwdTRIZV94dzJYakFURWJoWXB6ZUNGZXdFM2g3R3FfaUVGc3dYUFpOYkNMMjdCYWRwTHJNTmY3QmJhaFgwYVMtQWxzWnprR0Ryck5BeS1ZRm93eU1vTFhjUlpEUUVaQVd5UmNZb2I4MGM3YS1ZcnJac2l3S3RROFpfMDZ0T1ZXdmhSeWhLTWhWMTRGX0tiaExJQjBHOFRBYk1TN3cxc3FpSGJma1VUT1RiaTd2TDVsSFFHNXVaQ0xr?oc=5",
-   "published": "2026-08-31T07:00:00+00:00",
-   "excerpt": "Columbia reviews international student work authorizations after federal memos, Olinto announces Columbia Daily Spectator",
-   "author": null,
-   "source": "Google News",
-   "id": "6b786f3301ba",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -7927,20 +7999,6 @@
    "author": null,
    "source": "Google News",
    "id": "b7e6aa56f958",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:08:07.595859+08:00"
-  },
-  {
-   "title": "America may end or restrict OPT: The what, why, and how of a looming crackdown - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVzVXLUE3bGZ5SVl0RW1nbTh3eXdxS1h5STFHdzhWTlRhRzFzT1h0Ykt4R252NzlyYXViYWlTM2dxUlpZQzJ4SjBxZ3lsSWtibmxuSXp0dVdYQUZQR0YwQ2FNc25NTHY1NHNwaTRCaTREXzhNMUpRWldocUE4ZzFuQWROb1paZHV2bU1HT3p5Ul9VUFZYZ0JSc09rRWc0cUEwVDJyTVJPcDdzS1N5QmRhMWs2T0d3NVA3Ynh1TS1rS3owYkdhb0R2NER6dFluVmF4WG5ZWXY1RnRtWFJTdWJDSGc2akUzbmfSAewBQVVfeXFMUFNjOGJQQzMzQURSdVBVNWZ5ZFE0YkRib2Y5ekpXaW50UEtLc3AxZWN1Z3ozREU0bkZwdXVobEl2TmV1ZlRnZXRKQXkzMUs1Y2kxTmtRSWpSVm91ZzhrcENXQ2pwRENoZ0tOb2VFNjkwUmNVeHVSLVRmbi1zcm50RGY2a0RxZW4yNHJkY0w3T2tRMDBXWWlwaFE4X0I1TFotbVNPSFhFWjYwdndlWW5rQWU3c0Nwd0dRSFRzMU9jZzE3bXYxSUR2VF9DdFdWRGl1WFA3ZmQ1ZlVZZUtYemJUY1QxUTJwdVRDaUZfeEs?oc=5",
-   "published": "2025-11-14T08:00:00+00:00",
-   "excerpt": "America may end or restrict OPT: The what, why, and how of a looming crackdown The Times of India",
-   "author": null,
-   "source": "Google News",
-   "id": "d67b73f35f87",
    "policy_signal": true,
    "relevance": null,
    "summary": null,

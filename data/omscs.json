@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T12:45:11.389225+08:00",
+ "updated_at": "2026-10-08T12:56:10.548866+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -15,9 +15,9 @@
   },
   {
    "name": "Reddit r/gradadmissions",
-   "ok": true,
-   "count": 25,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
    "name": "Google News",
@@ -52,6 +52,73 @@
  ],
  "items": [
   {
+   "title": "The Real OMSAI Reddit",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x032gm/the_real_omsai_reddit/",
+   "published": "2026-10-07T17:42:59+00:00",
+   "excerpt": "Hi all, this is the real subreddit for the newly announced OMSAI program: https://www.reddit.com/r/omsai Go check it out, the previous community that was posted this morning here was a false start, the OMSAI URL for Reddit was already reserved. See you there on r/OMSAI ! submitted by /u/cyber_mail [link] [留言]",
+   "author": "/u/cyber_mail",
+   "source": "Reddit r/OMSCS",
+   "id": "203a5a840813",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
+   "title": "Are you okay? r/OMSCS Mental Health Check-in.",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wzvx5m/are_you_okay_romscs_mental_health_checkin/",
+   "published": "2026-10-07T13:01:04+00:00",
+   "excerpt": "You're doing great! Don't sweat the most recent or upcoming project, test, grade, etc. Make sure you give your best shot, and never, ever succumb to cheating. The OSI Police are in full force during this critical period, and you know it, through the Reddit threads that you would occasionally find how onerous these threats could be. You Are Not Alone & You'll Get Through This. Know that you are not alone. We all go through ups and downs and have tests or projects that don't go as planned. Never fear as bright days are ahead of you. Utilize this thread if you're feeling down and or want someone to talk to. We are all in this together and we're here for you and one another. There is a lot more ",
+   "author": "/u/AutoModerator",
+   "source": "Reddit r/OMSCS",
+   "id": "708d178ef553",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
+   "title": "Postponing enrollment repercussions",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x03oqe/postponing_enrollment_repercussions/",
+   "published": "2026-10-07T18:05:57+00:00",
+   "excerpt": "I was accepted into the OMSCS program and was set to enroll for this fall but I had some life circumstances come up so I was thinking of registering for courses in Fall 27. My concern is I know there’s a requirement that you must complete 2 core classes in your first year with a minimum of a B to remain in the program. So if I defer for a year am I not able to attend and take the OMSCS route? Some of the life stuff is good and some is bad but I feel deeply that not enrolling for this fall and the upcoming Spring semester is the right decision. But I’m randomly getting super depressed because getting my masters in machine learning is my dream and Im worried I can’t register next year if I don",
+   "author": "/u/MickeySlips",
+   "source": "Reddit r/OMSCS",
+   "id": "9ece923f0c0c",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted",
+    "decision"
+   ],
+   "relevance": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
+   "title": "The Recent Controversy of Graduate Algorithms in OMSCS - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZRU9vUUhja245M0tybmhGdmhqcDlXSUVaXzRqaGF0b0I0bVc5bW9ZWk9GSTlJWGVGNmUxcFNWdDVoYW54dUg4eG1uTVNGdm42cFhQZ091dWdZTVo2?oc=5",
+   "published": "2024-12-10T08:00:00+00:00",
+   "excerpt": "The Recent Controversy of Graduate Algorithms in OMSCS YouTube",
+   "author": null,
+   "source": "Google News",
+   "id": "c607f979e302",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "31b0ee4cb5e7",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
    "title": "How is the new OMS AI degree going to be different from OMSCS?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wzmyrc/how_is_the_new_oms_ai_degree_going_to_be/",
    "published": "2026-10-07T04:04:30+00:00",
@@ -62,6 +129,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-07T12:45:11.389225+08:00"
   },
   {
@@ -74,6 +143,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-07T12:45:11.389225+08:00"
   },
   {
@@ -422,12 +493,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
-   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
+   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
+   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "0484e7b5e74c",
+   "id": "c9fdb1306c54",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -436,12 +507,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
-   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
+   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
+   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "c9fdb1306c54",
+   "id": "0484e7b5e74c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -479,6 +550,21 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
+   "title": "The OMSCS Resources I Wish I Knew About Before Starting Georgia Tech’s Online MSCS",
+   "url": "https://medium.com/@shubhamraj97/the-omscs-resources-i-wish-i-knew-about-before-starting-georgia-techs-online-mscs-396c9366d002?source=rss------omscs-5",
+   "published": "2026-09-27T09:24:43+00:00",
+   "excerpt": "When I first started looking into Georgia Tech’s Online Master of Science in Computer Science (OMSCS), I thought the program was mostly… Continue reading on Medium »",
+   "author": "Shubham Raj",
+   "source": "Medium #omscs",
+   "id": "770d8b17bf67",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-28T12:08:08.693892+08:00"
+  },
+  {
    "title": "Buzzcard on campus not working",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wr7ctb/buzzcard_on_campus_not_working/",
    "published": "2026-09-27T01:33:00+00:00",
@@ -501,21 +587,6 @@
    "author": "/u/felmalorne",
    "source": "Reddit r/OMSCS",
    "id": "5eeaa986746c",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-28T12:08:08.693892+08:00"
-  },
-  {
-   "title": "The OMSCS Resources I Wish I Knew About Before Starting Georgia Tech’s Online MSCS",
-   "url": "https://medium.com/@shubhamraj97/the-omscs-resources-i-wish-i-knew-about-before-starting-georgia-techs-online-mscs-396c9366d002?source=rss------omscs-5",
-   "published": "2026-09-27T09:24:43+00:00",
-   "excerpt": "When I first started looking into Georgia Tech’s Online Master of Science in Computer Science (OMSCS), I thought the program was mostly… Continue reading on Medium »",
-   "author": "Shubham Raj",
-   "source": "Medium #omscs",
-   "id": "770d8b17bf67",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1029,12 +1100,12 @@
    "first_seen": "2026-09-17T11:49:40.293098+08:00"
   },
   {
-   "title": "Professor, Alumni Receive Award for Edge Computing Research",
-   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
+   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
+   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "194c0d5c9996",
+   "id": "f422b53b6e0b",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1043,12 +1114,12 @@
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
-   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
-   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
+   "title": "Professor, Alumni Receive Award for Edge Computing Research",
+   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "f422b53b6e0b",
+   "id": "194c0d5c9996",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1476,6 +1547,21 @@
    "first_seen": "2026-09-08T11:27:40.081789+08:00"
   },
   {
+   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
+   "published": "2024-04-04T07:00:00+00:00",
+   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "607e30a6c950",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
    "title": "Georgia Tech OMSCS Resume Format",
    "url": "https://www.reddit.com/r/gradadmissions/comments/1vmfudq/georgia_tech_omscs_resume_format/",
    "published": "2026-08-12T14:33:25+00:00",
@@ -1846,21 +1932,6 @@
     "accepted",
     "decision"
    ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-07T11:20:07.298976+08:00"
-  },
-  {
-   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
-   "published": "2024-04-04T07:00:00+00:00",
-   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "607e30a6c950",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2874,21 +2945,6 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmFJRDVrdTBzUVREbkJiMHJEOFdsVUd5dl84S3ZTbEd5RjBFeXgxakpKVEdRc2o5Z2tsdS0zQVA2WktkX0wyLW81T2txdFB1bmxoeVV0dWR0SHI4bloxenJrOHFjUnh2RE1GaHRid2NiUXd2aEdfYldxZm5MVHBuVkQxcURLTVpjNzFWdVR2bGhoc0Y1VVRZckZYN1dlRGdtWUc1TTk0aElqbkQ5WkZmdWZR?oc=5",
-   "published": "2025-06-27T07:00:00+00:00",
-   "excerpt": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "3b5108aa7f06",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
    "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
    "published": "2025-02-28T08:00:00+00:00",
@@ -3218,20 +3274,6 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Seeking Third Technical Cofounder",
-   "url": "https://news.ycombinator.com/item?id=48682086",
-   "published": "2026-06-26T03:39:51Z",
-   "excerpt": "We are seeking a third technical cofounder to help us build our company: - https:&#x2F;&#x2F;coffeechats.me&#x2F;<p>Equal equity splits. Prior big tech&#x2F;fast-growing startup experience strongly preferred.<p>The founding team consists of: - An MBA (Dartmouth), MSCS (UT Austin) graduate with prior 0 to 1 successes. - An MSCS (Dartmouth) graduate.",
-   "source": "Hacker News",
-   "id": "5ce7c7618b10",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
    "title": "Multi-omics and palynology of selected Philippine forest honey",
    "url": "https://www.nature.com/articles/s41598-024-71385-4",
    "published": "2026-06-05T13:35:07Z",
@@ -3444,6 +3486,49 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
+   "title": "Multi-omics landscape and molecular basis of radiation tolerance in a tardigrade",
+   "url": "https://www.science.org/doi/10.1126/science.adl0799",
+   "published": "2024-10-25T11:08:58Z",
+   "excerpt": "",
+   "source": "Hacker News",
+   "id": "c0852f643372",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmFJRDVrdTBzUVREbkJiMHJEOFdsVUd5dl84S3ZTbEd5RjBFeXgxakpKVEdRc2o5Z2tsdS0zQVA2WktkX0wyLW81T2txdFB1bmxoeVV0dWR0SHI4bloxenJrOHFjUnh2RE1GaHRid2NiUXd2aEdfYldxZm5MVHBuVkQxcURLTVpjNzFWdVR2bGhoc0Y1VVRZckZYN1dlRGdtWUc1TTk0aElqbkQ5WkZmdWZR?oc=5",
+   "published": "2025-06-27T07:00:00+00:00",
+   "excerpt": "OMSCS Team Takes Entrepreneurial Tack to Win $10,000 in Microsoft Azure Challenge Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "3b5108aa7f06",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Seeking Third Technical Cofounder",
+   "url": "https://news.ycombinator.com/item?id=48682086",
+   "published": "2026-06-26T03:39:51Z",
+   "excerpt": "We are seeking a third technical cofounder to help us build our company: - https:&#x2F;&#x2F;coffeechats.me&#x2F;<p>Equal equity splits. Prior big tech&#x2F;fast-growing startup experience strongly preferred.<p>The founding team consists of: - An MBA (Dartmouth), MSCS (UT Austin) graduate with prior 0 to 1 successes. - An MSCS (Dartmouth) graduate.",
+   "source": "Hacker News",
+   "id": "5ce7c7618b10",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
    "title": "Top Online Master's in Computer Science Without CS Undergrad - bestcolleges.com",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaEJ4V3V3YmdiYWkwVjJjUTZTb3BJUEFGQmk2bWF3MjlKU00zQUpMOHktdDBZZUdRLUMtZEFSN29GLUhyZlU1QVhEdDZNSnVrMlhvcHFxN3BTTUlMalZlRGNQQTREWTF6eFBxOHJvWUg5UVVPa1ow?oc=5",
    "published": "2024-10-08T07:00:00+00:00",
@@ -3480,20 +3565,6 @@
    "author": null,
    "source": "Google News",
    "id": "3e299541f687",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Multi-omics landscape and molecular basis of radiation tolerance in a tardigrade",
-   "url": "https://www.science.org/doi/10.1126/science.adl0799",
-   "published": "2024-10-25T11:08:58Z",
-   "excerpt": "",
-   "source": "Hacker News",
-   "id": "c0852f643372",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

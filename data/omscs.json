@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T12:56:10.548866+08:00",
+ "updated_at": "2026-10-09T12:58:43.435864+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,9 +9,9 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+   "ok": true,
+   "count": 25,
+   "note": ""
   },
   {
    "name": "Reddit r/gradadmissions",
@@ -22,13 +22,13 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "note": ""
   },
   {
    "name": "Google News",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "note": ""
   },
   {
@@ -52,6 +52,58 @@
  ],
  "items": [
   {
+   "title": "CS6290 (HPCA) is the worst course I've taken.",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x18gqf/cs6290_hpca_is_the_worst_course_ive_taken/",
+   "published": "2026-10-09T01:24:10+00:00",
+   "excerpt": "This is the first course in this program that I've been heavily disappointed in. The problem isn't about the lecture material, but rather about the projects. We're given word documents to provide our answers, which contains: Outdated questions, instructions, and errors that we have to refer to a LONG \"FAQ\" Ed post. There is no reason that the instructor(s) or maintainer(s) of this course can't update the actual working document. Why is that we're forced to continuously go back and forth while working on an assignment that requires tedious/meticulous attention? Styling/formatting issues from the word document. Entering an answer will often shift the document, sometimes erasing a blank for stu",
+   "author": "/u/__merc",
+   "source": "Reddit r/OMSCS",
+   "id": "dc2f5cab3a14",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-09T12:58:43.435864+08:00"
+  },
+  {
+   "title": "CS7646- Incorrect report name for Project 3",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x11zpk/cs7646_incorrect_report_name_for_project_3/",
+   "published": "2026-10-08T20:33:59+00:00",
+   "excerpt": "Hi, Just noticed that I had submitted the PDF for Project 3 with an incorrect name. Since Project 3 accounts for 10% of the total and report is 50% of Project 3, I’m scared I might lose 5 marks entirely because of this issue. More scared because this may directly impact my grade. I know I need to be more careful and I’ll review everything from now on, but since this project submission has closed already, is there something I can do? Thanks in advance. submitted by /u/Individual-Mud5511 [link] [留言]",
+   "author": "/u/Individual-Mud5511",
+   "source": "Reddit r/OMSCS",
+   "id": "fb44b20f3e8f",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-09T12:58:43.435864+08:00"
+  },
+  {
+   "title": "Can we request a 3-course overload immediately?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x0qhmv/can_we_request_a_3course_overload_immediately/",
+   "published": "2026-10-08T13:08:56+00:00",
+   "excerpt": "Hey everyone, I’m a new student starting in Spring 2027. I’ve heard that traditionally you can only sign up for three classes once you’ve completed 4 classes with a B or better, but I recently saw a thread claiming you can now request to take three right off the bat. Is this the case? My employer is sponsoring my degree and I have a deadline coming up soon to submit my academic plan, but unfortunately, I haven't heard back from advising after reaching out weeks ago. Thanks! Edit: Two other pieces of info. I read through Fall's orientation and the only relevant info I saw was \"During the Fall and Spring semesters, all students can, by default, enroll in a maximum of seven hours.\". I didn't se",
+   "author": "/u/Fangman22",
+   "source": "Reddit r/OMSCS",
+   "id": "0a5467ee7476",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-09T12:58:43.435864+08:00"
+  },
+  {
+   "title": "Anyone interested in building a community set of OMSCS notes?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wz7eh5/anyone_interested_in_building_a_community_set_of/",
+   "published": "2026-10-06T16:41:20+00:00",
+   "excerpt": "I feel like we need a canonical source of \"OMSCS notes.\" There are a few really awesome repos floating around ( OMSCS Notes stands out, plus a bunch of personal per-course ones), but what I'm thinking of is more of a community-driven, community-validated set of materials with some shared standards of rigour (and yes, I know, relevant xkcd 😅). Everything in Markdown so it's easy to contribute to. Basically a constantly evolving open-source \"textbook.\" In the age of AI this seems totally doable... though obviously we'd want to avoid creating a repo consisting of millions of lines of AI slop (hence, \"shared standards of rigour\"). Context: For each of my courses, I've been attempting to build my",
+   "author": "/u/john-c34",
+   "source": "Reddit r/OMSCS",
+   "id": "65c1f1ce587f",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-09T12:58:43.435864+08:00"
+  },
+  {
    "title": "The Real OMSAI Reddit",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x032gm/the_real_omsai_reddit/",
    "published": "2026-10-07T17:42:59+00:00",
@@ -62,6 +114,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-08T12:56:10.548866+08:00"
   },
   {
@@ -75,6 +129,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-08T12:56:10.548866+08:00"
   },
   {
@@ -91,6 +147,8 @@
     "decision"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-08T12:56:10.548866+08:00"
   },
   {
@@ -104,6 +162,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-08T12:56:10.548866+08:00"
   },
   {
@@ -116,6 +176,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-08T12:56:10.548866+08:00"
   },
   {
@@ -377,7 +439,7 @@
    "published": "2026-09-30T13:59:21+00:00",
    "excerpt": "Admitted for Spring 2027 and planning the HCI, starting with this course. I'll be traveling for about two weeks in mid-January (different time zone, laptop and internet most days), so I'll likely miss part of weeks 1-2. I've read the syllabus and the reviews for the course I'm considering. For people who took an HCI course in a recent Spring or Fall, did the first two weeks have hard deadlines, or was it flexible enough to get ahead on lectures beforehand? submitted by /u/Prestigious_Gain7804 [link] [留言]",
    "author": "/u/Prestigious_Gain7804",
-   "source": "Reddit r/OMSCS",
+   "source": "Reddit r/OMSCS 錄取討論",
    "id": "a4ed617daadd",
    "admission_signal": true,
    "keyword_hits": [
@@ -449,36 +511,6 @@
    "first_seen": "2026-09-30T12:25:13.601481+08:00"
   },
   {
-   "title": "CS 6515: 3rd time taking this course, running on fumes, and seriously considering dropping",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wsejm5/cs_6515_3rd_time_taking_this_course_running_on/",
-   "published": "2026-09-28T13:24:16+00:00",
-   "excerpt": "I’m at my absolute breaking point with this course and genuinely don’t know what to do anymore. For context, I've started OMSCS in Spring 2022 on the Computing Systems track, this is my 3rd attempt for CS 6515, and this is my last course in the OMSCS program: Attempt 1: Got a C Attempt 2: Withdrew after Exam 1 Attempt 3 (Now): Just took Exams 1 and 2, and I feel hopeless. To give some background: I have an undergraduate degree in math and about 8 years of industry experience as a software developer. Just to be clear: I don’t consider myself a super smart student who breezes through difficult material. Everything I’ve accomplished has come down to putting my head down and working exceptionall",
-   "author": "/u/AdSilent2916",
-   "source": "Reddit r/OMSCS",
-   "id": "9cff38c5c6bd",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-29T12:40:38.530061+08:00"
-  },
-  {
-   "title": "Please tell me that Machine Learning gets easier after SL report 1",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wsecdd/please_tell_me_that_machine_learning_gets_easier/",
-   "published": "2026-09-28T13:15:45+00:00",
-   "excerpt": "I haven't slept in a week submitted by /u/abrbbb [link] [留言]",
-   "author": "/u/abrbbb",
-   "source": "Reddit r/OMSCS",
-   "id": "cdc76305eb89",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-29T12:40:38.530061+08:00"
-  },
-  {
    "title": "GT Cybersecurity Expert Helping to Chart the Future of AI on the Energy Grid",
    "url": "https://omscs.gatech.edu/external-news/gt-cybersecurity-expert-helping-chart-future-ai-energy-grid",
    "published": null,
@@ -527,6 +559,36 @@
    "excerpt": "",
    "source": "OMSCS 官方公告",
    "id": "843b43f0f056",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-29T12:40:38.530061+08:00"
+  },
+  {
+   "title": "CS 6515: 3rd time taking this course, running on fumes, and seriously considering dropping",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wsejm5/cs_6515_3rd_time_taking_this_course_running_on/",
+   "published": "2026-09-28T13:24:16+00:00",
+   "excerpt": "I’m at my absolute breaking point with this course and genuinely don’t know what to do anymore. For context, I've started OMSCS in Spring 2022 on the Computing Systems track, this is my 3rd attempt for CS 6515, and this is my last course in the OMSCS program: Attempt 1: Got a C Attempt 2: Withdrew after Exam 1 Attempt 3 (Now): Just took Exams 1 and 2, and I feel hopeless. To give some background: I have an undergraduate degree in math and about 8 years of industry experience as a software developer. Just to be clear: I don’t consider myself a super smart student who breezes through difficult material. Everything I’ve accomplished has come down to putting my head down and working exceptionall",
+   "author": "/u/AdSilent2916",
+   "source": "Reddit r/OMSCS",
+   "id": "9cff38c5c6bd",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-29T12:40:38.530061+08:00"
+  },
+  {
+   "title": "Please tell me that Machine Learning gets easier after SL report 1",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wsecdd/please_tell_me_that_machine_learning_gets_easier/",
+   "published": "2026-09-28T13:15:45+00:00",
+   "excerpt": "I haven't slept in a week submitted by /u/abrbbb [link] [留言]",
+   "author": "/u/abrbbb",
+   "source": "Reddit r/OMSCS",
+   "id": "cdc76305eb89",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -615,7 +677,7 @@
    "published": "2026-09-26T11:56:10+00:00",
    "excerpt": "I'm at a slight loss for what to do about my GT situation on my resume and it seems no matter what I do, it throws a wrench into someone's ATS. I'm considering taking GT off of my resume entirely at this point (as I suspect I'm getting flagged as a full time student even though I am not) but it really does alter my resume for the better. Pros of including GT: I have a humanities background (minored in CS) and even though I practically got the major in undergrad, it doesn't show as such on paper. My work at GT comes with some really valuable (published) research in my area (systems) that I think really transforms my application and shows I'm serious about CS fundamentals, especially my partic",
    "author": "/u/HemiDemi593462",
-   "source": "Reddit r/OMSCS",
+   "source": "Reddit r/OMSCS 錄取討論",
    "id": "f9fc6a37e668",
    "admission_signal": true,
    "keyword_hits": [
@@ -687,21 +749,6 @@
    "first_seen": "2026-09-26T11:56:08.785653+08:00"
   },
   {
-   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
-   "published": "2025-04-24T07:00:00+00:00",
-   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "b46a54226e93",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
    "title": "OMSCS vs in-person masters Similarity",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
    "published": "2026-09-24T15:35:17+00:00",
@@ -713,6 +760,21 @@
    "keyword_hits": [
     "admission"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
+   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
+   "published": "2025-04-24T07:00:00+00:00",
+   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "b46a54226e93",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2549,23 +2611,6 @@
    "first_seen": "2026-09-05T21:20:16.080232+08:00"
   },
   {
-   "title": "Course & Specs Megathread - Selection, Choices & Registration",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5j/course_specs_megathread_selection_choices/",
-   "published": "2026-06-29T05:01:55+00:00",
-   "excerpt": "📌Specializations & Courses Megathread - Selection & Registration Welcome to the Specialization & Course Megathread for OMSCS! Now that you've {just been accepted / been here for a bit / been here for awhile}*, this thread is designed to help you navigate the various specializations offered and assist with selecting the right courses for your academic and career goals. (\\ delete as appropriate)* Please read through the information provided below before posting your questions. 📚 Available Specializations Machine Learning Interactive Intelligence Computing Systems Computer Graphics Computational Perception and Robotics Human-Computer Interaction Courses that are not linked in the official websi",
-   "author": "/u/Detective-Raichu",
-   "source": "Reddit r/OMSCS",
-   "id": "288826cfaae5",
-   "admission_signal": true,
-   "keyword_hits": [
-    "accepted"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:20:16.080232+08:00"
-  },
-  {
    "title": "Very Disappointing Application Process for International Students",
    "url": "https://www.reddit.com/r/OMSCS/comments/1w4im2t/very_disappointing_application_process_for/",
    "published": "2026-09-01T17:24:02+00:00",
@@ -2760,6 +2805,23 @@
     "admitted",
     "accepted",
     "admission"
+   ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:20:16.080232+08:00"
+  },
+  {
+   "title": "Course & Specs Megathread - Selection, Choices & Registration",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5j/course_specs_megathread_selection_choices/",
+   "published": "2026-06-29T05:01:55+00:00",
+   "excerpt": "📌Specializations & Courses Megathread - Selection & Registration Welcome to the Specialization & Course Megathread for OMSCS! Now that you've {just been accepted / been here for a bit / been here for awhile}*, this thread is designed to help you navigate the various specializations offered and assist with selecting the right courses for your academic and career goals. (\\ delete as appropriate)* Please read through the information provided below before posting your questions. 📚 Available Specializations Machine Learning Interactive Intelligence Computing Systems Computer Graphics Computational Perception and Robotics Human-Computer Interaction Courses that are not linked in the official websi",
+   "author": "/u/Detective-Raichu",
+   "source": "Reddit r/OMSCS",
+   "id": "288826cfaae5",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted"
    ],
    "relevance": null,
    "summary": null,
@@ -3095,6 +3157,21 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
+   "title": "Top Online Master's in Computer Science Without CS Undergrad - BestColleges",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaEJ4V3V3YmdiYWkwVjJjUTZTb3BJUEFGQmk2bWF3MjlKU00zQUpMOHktdDBZZUdRLUMtZEFSN29GLUhyZlU1QVhEdDZNSnVrMlhvcHFxN3BTTUlMalZlRGNQQTREWTF6eFBxOHJvWUg5UVVPa1ow?oc=5",
+   "published": "2024-10-08T07:00:00+00:00",
+   "excerpt": "Top Online Master's in Computer Science Without CS Undergrad BestColleges",
+   "author": null,
+   "source": "Google News",
+   "id": "5100fe8e67f9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
    "title": "What I Changed the Second Time I Took CS6515",
    "url": "https://medium.com/@b92614060/what-i-changed-the-second-time-i-took-cs6515-b0eb83a6a596?source=rss------omscs-5",
    "published": "2026-08-22T00:00:04+00:00",
@@ -3266,6 +3343,20 @@
    "excerpt": "Hey HN!<p>Inflexa is an OSS-first TUI for agentic-AI reproducible biological analysis with provenance tracked on every step. It&#x27;s a better designed Claude Science (bar the GUI for now).<p>Before this, we spent years building a cloud multi-omics analysis platform, working alongside research teams in pharma, biotech, and academia.<p>Our vision is as follows: - OSS first - Data privacy, and security are of utmost importance - Agents are untrusted actors<p>Agentic products do not solve a core a",
    "source": "Hacker News",
    "id": "07c5d75b96f5",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Seeking Third Technical Cofounder",
+   "url": "https://news.ycombinator.com/item?id=48682086",
+   "published": "2026-06-26T03:39:51Z",
+   "excerpt": "We are seeking a third technical cofounder to help us build our company: - https:&#x2F;&#x2F;coffeechats.me&#x2F;<p>Equal equity splits. Prior big tech&#x2F;fast-growing startup experience strongly preferred.<p>The founding team consists of: - An MBA (Dartmouth), MSCS (UT Austin) graduate with prior 0 to 1 successes. - An MSCS (Dartmouth) graduate.",
+   "source": "Hacker News",
+   "id": "5ce7c7618b10",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -3507,35 +3598,6 @@
    "author": null,
    "source": "Google News",
    "id": "3b5108aa7f06",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Seeking Third Technical Cofounder",
-   "url": "https://news.ycombinator.com/item?id=48682086",
-   "published": "2026-06-26T03:39:51Z",
-   "excerpt": "We are seeking a third technical cofounder to help us build our company: - https:&#x2F;&#x2F;coffeechats.me&#x2F;<p>Equal equity splits. Prior big tech&#x2F;fast-growing startup experience strongly preferred.<p>The founding team consists of: - An MBA (Dartmouth), MSCS (UT Austin) graduate with prior 0 to 1 successes. - An MSCS (Dartmouth) graduate.",
-   "source": "Hacker News",
-   "id": "5ce7c7618b10",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Top Online Master's in Computer Science Without CS Undergrad - bestcolleges.com",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaEJ4V3V3YmdiYWkwVjJjUTZTb3BJUEFGQmk2bWF3MjlKU00zQUpMOHktdDBZZUdRLUMtZEFSN29GLUhyZlU1QVhEdDZNSnVrMlhvcHFxN3BTTUlMalZlRGNQQTREWTF6eFBxOHJvWUg5UVVPa1ow?oc=5",
-   "published": "2024-10-08T07:00:00+00:00",
-   "excerpt": "Top Online Master's in Computer Science Without CS Undergrad bestcolleges.com",
-   "author": null,
-   "source": "Google News",
-   "id": "5100fe8e67f9",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

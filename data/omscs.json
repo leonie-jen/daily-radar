@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T12:58:43.435864+08:00",
+ "updated_at": "2026-10-10T12:44:37.032036+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -22,7 +22,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "note": ""
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "OMSCS 官方公告",
    "ok": true,
-   "count": 10,
+   "count": 3,
    "note": ""
   },
   {
@@ -52,6 +52,44 @@
  ],
  "items": [
   {
+   "title": "Unpopular Opinion: OMSCS Makes Learning Harder Than It Needs to Be",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x1x2y1/unpopular_opinion_omscs_makes_learning_harder/",
+   "published": "2026-10-09T21:08:46+00:00",
+   "excerpt": "Unpopular opinion: Georgia Tech's OMSCS classes are unnecessarily difficult and tedious. Or maybe the difficulty is necessary, depending on your goals. For context, I'm currently taking a robotics course at a different institution that combines theory, hands-on work, projects, and research. Comparing the two, I find OMSCS unnecessarily more difficult. Sometimes it feels like doing “wax on, wax off” with Mr. Miyagi. I don't know about others, but I learn best when I understand maybe 50% of the theory, then work on a practical project that helps another 25–35% click. The rest I pick up on my own when I want to explore something in more depth. Maybe OMSCS just isn't for me, but I feel like the ",
+   "author": "/u/SnooConfections1353",
+   "source": "Reddit r/OMSCS",
+   "id": "1b0aae03d2e6",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-10T12:44:37.032036+08:00"
+  },
+  {
+   "title": "Fall 2026 Commencement Ceremony Tickets",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x17ciq/fall_2026_commencement_ceremony_tickets/",
+   "published": "2026-10-09T00:28:06+00:00",
+   "excerpt": "I emailed [ events@gatech.edu ](mailto: events@gatech.edu ) the below: \"The schedule events website says the Masters only ceremony on Thursday requires RSVP. The RSVP website does not have a category for Masters only ceremonies. What is the policy for tickets for this ceremony?\" This was their response: \"Thank you for reaching out. To clarify, all of our non-Ph.D. Ceremonies are ticketed and students are allotted 4 tickets each.\" So go ahead and RSVP your tickets if you plan to attend graduation this fall. submitted by /u/jmikey29 [link] [留言]",
+   "author": "/u/jmikey29",
+   "source": "Reddit r/OMSCS",
+   "id": "e24db549b741",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-10T12:44:37.032036+08:00"
+  },
+  {
+   "title": "Show HN: tgv: Genome viewer for you and your agents",
+   "url": "https://github.com/zeqianli/tgv",
+   "published": "2026-10-10T03:12:19Z",
+   "excerpt": "Hi HN, I’m sharing tgv, a new kind of genome viewer built for humans-agent collaboration in genomics.<p>I work in a cancer diagnostics lab and we check cancer patients’ sequencing data in genome viewers every day. Frustrated by the standard tools, last year I built tgv, a Vim-style, keyboard-driven genome viewer.<p>In 2026, while agents are scarily good at bioinformatics, bioinformatics tools haven’t kept up. tgv now brings a new kind of research workflow: expose multi-omics data to agents throu",
+   "source": "Hacker News",
+   "id": "50a8942187b0",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-10T12:44:37.032036+08:00"
+  },
+  {
    "title": "CS6290 (HPCA) is the worst course I've taken.",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x18gqf/cs6290_hpca_is_the_worst_course_ive_taken/",
    "published": "2026-10-09T01:24:10+00:00",
@@ -62,19 +100,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
-   "first_seen": "2026-10-09T12:58:43.435864+08:00"
-  },
-  {
-   "title": "CS7646- Incorrect report name for Project 3",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x11zpk/cs7646_incorrect_report_name_for_project_3/",
-   "published": "2026-10-08T20:33:59+00:00",
-   "excerpt": "Hi, Just noticed that I had submitted the PDF for Project 3 with an incorrect name. Since Project 3 accounts for 10% of the total and report is 50% of Project 3, I’m scared I might lose 5 marks entirely because of this issue. More scared because this may directly impact my grade. I know I need to be more careful and I’ll review everything from now on, but since this project submission has closed already, is there something I can do? Thanks in advance. submitted by /u/Individual-Mud5511 [link] [留言]",
-   "author": "/u/Individual-Mud5511",
-   "source": "Reddit r/OMSCS",
-   "id": "fb44b20f3e8f",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
@@ -88,6 +115,23 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-09T12:58:43.435864+08:00"
+  },
+  {
+   "title": "CS7646- Incorrect report name for Project 3",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x11zpk/cs7646_incorrect_report_name_for_project_3/",
+   "published": "2026-10-08T20:33:59+00:00",
+   "excerpt": "Hi, Just noticed that I had submitted the PDF for Project 3 with an incorrect name. Since Project 3 accounts for 10% of the total and report is 50% of Project 3, I’m scared I might lose 5 marks entirely because of this issue. More scared because this may directly impact my grade. I know I need to be more careful and I’ll review everything from now on, but since this project submission has closed already, is there something I can do? Thanks in advance. submitted by /u/Individual-Mud5511 [link] [留言]",
+   "author": "/u/Individual-Mud5511",
+   "source": "Reddit r/OMSCS",
+   "id": "fb44b20f3e8f",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
@@ -101,6 +145,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
@@ -419,21 +465,6 @@
    "first_seen": "2026-10-01T12:36:09.562200+08:00"
   },
   {
-   "title": "Transferring MCIT course credits to OMSCS",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wu59gy/transferring_mcit_course_credits_to_omscs/",
-   "published": "2026-09-30T13:41:24+00:00",
-   "excerpt": "I know this is a weird question. But has anyone started the MCIT program, completed a few core courses, dropped out, and were able to transfer those class credits to the OMSCS program? submitted by /u/errbone [link] [留言]",
-   "author": "/u/errbone",
-   "source": "Reddit r/OMSCS",
-   "id": "01c197220df8",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-01T12:36:09.562200+08:00"
-  },
-  {
    "title": "Starting OMSCS in Spring 2027, traveling for 2 weeks in mid-January. How manageable is the first",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wu5orc/starting_omscs_in_spring_2027_traveling_for_2/",
    "published": "2026-09-30T13:59:21+00:00",
@@ -445,6 +476,21 @@
    "keyword_hits": [
     "admitted"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-01T12:36:09.562200+08:00"
+  },
+  {
+   "title": "Transferring MCIT course credits to OMSCS",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wu59gy/transferring_mcit_course_credits_to_omscs/",
+   "published": "2026-09-30T13:41:24+00:00",
+   "excerpt": "I know this is a weird question. But has anyone started the MCIT program, completed a few core courses, dropped out, and were able to transfer those class credits to the OMSCS program? submitted by /u/errbone [link] [留言]",
+   "author": "/u/errbone",
+   "source": "Reddit r/OMSCS",
+   "id": "01c197220df8",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -3037,6 +3083,21 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
+   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
+   "published": "2023-05-03T07:00:00+00:00",
+   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "54defa3e479c",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
    "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
    "published": "2024-08-25T07:00:00+00:00",
@@ -3059,21 +3120,6 @@
    "author": null,
    "source": "Google News",
    "id": "29987ae51976",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
-   "published": "2023-05-03T07:00:00+00:00",
-   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
-   "author": null,
-   "source": "Google News",
-   "id": "54defa3e479c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

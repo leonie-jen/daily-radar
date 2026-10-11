@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T12:44:37.032036+08:00",
+ "updated_at": "2026-10-11T12:29:38.328756+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -34,7 +34,7 @@
   {
    "name": "OMSCS 官方公告",
    "ok": true,
-   "count": 3,
+   "count": 10,
    "note": ""
   },
   {
@@ -52,6 +52,19 @@
  ],
  "items": [
   {
+   "title": "Are OMSCS students allowed to wear GT merch?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x29jbg/are_omscs_students_allowed_to_wear_gt_merch/",
+   "published": "2026-10-10T07:56:46+00:00",
+   "excerpt": "Hi guys, I just started OMSCS this semester, so I wanted to ask the veterans here for some advice. As an international student with a non-tech background, I mostly just want to show off with some school merch. You know, hoodies, T-shirts, that kind of thing. I’m planning to wear them at work and during online meetings, preferably with the biggest yellow jacket I can find printed on the front. For now, I’m planning to buy just two or three hoodies, a jersey, a mug, and a car sticker. Nothing excessive. Just enough to make sure everyone knows. But I’m a little concerned. What if an on-campus GT student spots me, runs a background check, discovers I’m in OMSCS, and beats me up? Would I get beat",
+   "author": "/u/Reasonable-Acadia-14",
+   "source": "Reddit r/OMSCS",
+   "id": "22a7340a1923",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-11T12:29:38.328756+08:00"
+  },
+  {
    "title": "Unpopular Opinion: OMSCS Makes Learning Harder Than It Needs to Be",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x1x2y1/unpopular_opinion_omscs_makes_learning_harder/",
    "published": "2026-10-09T21:08:46+00:00",
@@ -62,6 +75,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-10T12:44:37.032036+08:00"
   },
   {
@@ -75,6 +90,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-10T12:44:37.032036+08:00"
   },
   {
@@ -87,6 +104,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-10T12:44:37.032036+08:00"
   },
   {
@@ -571,12 +590,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
-   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
+   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
+   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "c9fdb1306c54",
+   "id": "0484e7b5e74c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -585,12 +604,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
-   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
+   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
+   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "0484e7b5e74c",
+   "id": "c9fdb1306c54",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

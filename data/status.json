@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-10T12:45:51.060612+08:00",
- "duration_sec": 131.8,
+ "updated_at": "2026-10-11T12:30:49.661448+08:00",
+ "duration_sec": 129.3,
  "sections": [
   {
    "key": "omscs",
    "label": "OMSCS 情報",
    "ok": true,
-   "items": 250,
+   "items": 251,
    "sources": [
     {
      "name": "Reddit r/OMSCS",
@@ -41,7 +41,7 @@
     {
      "name": "OMSCS 官方公告",
      "ok": true,
-     "count": 3,
+     "count": 10,
      "note": ""
     },
     {
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 705,
+   "items": 715,
    "sources": [
     {
      "name": "Google News",
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 932,
+   "items": 949,
    "sources": [
     {
      "name": "104｜自動化測試",
@@ -215,7 +215,7 @@
     {
      "name": "哈利的投資研究筆記庫",
      "ok": true,
-     "count": 7,
+     "count": 5,
      "note": ""
     }
    ]

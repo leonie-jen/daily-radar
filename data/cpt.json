@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T12:30:33.172489+08:00",
+ "updated_at": "2026-10-12T12:46:09.188939+08:00",
  "sources": [
   {
    "name": "Google News",
@@ -33,9 +33,9 @@
   },
   {
    "name": "Reddit r/f1visa",
-   "ok": true,
-   "count": 25,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
    "name": "Reddit r/immigration CPT",
@@ -58,6 +58,30 @@
  ],
  "items": [
   {
+   "title": "The New School restricts CPT work authorization for international students - The New School Free Press",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYVotSGdtdEZtRUJqS0NQZGMzcFJFODZxYXJVYmdORXdWRUVOWk1DRGRuX0JhZXIxUHNZQVlJWmEwdmlnNEVmcW10NFNiTmx6M0Nlc2VhNFpPNUFfYTNRNEhBVnd0QlZubnpya1ZWRF9xc0t5TFRmRGZNbEhXYTd4SzlQSWMxUFhxSjVEWi1WZXg5RktueE92dUJQYWlxaWw5bGhiVmFUSUNUdnBMUlZGN25Gb1dPVC1XWGJBRF9R?oc=5",
+   "published": "2026-10-11T12:00:00+00:00",
+   "excerpt": "The New School restricts CPT work authorization for international students The New School Free Press",
+   "author": null,
+   "source": "Google News",
+   "id": "effe0bb33b50",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-12T12:46:09.188939+08:00"
+  },
+  {
+   "title": "DHS Proposes $70,000 Fee for International Student Work Authorization - Chicago Maroon",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZU1lbVhxb2k2Q0pKYmlCSWxDYVFpOTZBbnFKeFRlckMwVmVsTVhLcExPU09TYjFvVk01Vmt0NGdVY2tCMkRDdnFxUDFoWnNHb3RaR2F4OWlkTFhEeHRjaHpYc2F0TC1aMFg2M3l1ZVVOSktITEt5enFPN0w3Zll0ZEtYQkxod24yNHhPdXQtWGUwanB3aGxaQVZIRWh3UDZQYXNnNkxvb0w?oc=5",
+   "published": "2026-10-11T20:36:16+00:00",
+   "excerpt": "DHS Proposes $70,000 Fee for International Student Work Authorization Chicago Maroon",
+   "author": null,
+   "source": "Google News",
+   "id": "8458e0c908de",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-12T12:46:09.188939+08:00"
+  },
+  {
    "title": "Trump Administration Proposes $70,000 Fee on International Students Seeking Post-Graduate Employment - American Immigration Council",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQS05S3hiUUtqbllMRl8tdUNQUkhyLXRTTHNuTVZGVVVSUGc0OXdfMVNwS1pXclFKYkhhMHFHeE5HX29XRVl5c2dDRlBzMGxscjMwcEhRV1BfYXRrd0JUaGJ4TjZRZWNtR1IzMWg2aUZLcVFOSXBubkhKTERpZF8ydFMzM3F0eHd5UFNsWER6dHpkNXFfZGRaNUdLMk81RklpY3ZJSGVMdw?oc=5",
    "published": "2026-10-09T17:48:01+00:00",
@@ -67,6 +91,8 @@
    "id": "7cef9720054f",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-11T12:30:33.172489+08:00"
   },
   {
@@ -79,6 +105,8 @@
    "id": "d19ae73b9305",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-11T12:30:33.172489+08:00"
   },
   {
@@ -496,6 +524,20 @@
    "first_seen": "2026-10-09T12:59:38.349418+08:00"
   },
   {
+   "title": "91 FR 64566",
+   "url": "https://www.ice.gov/node/70364",
+   "published": null,
+   "excerpt": "",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "690a3ae51db1",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-09T12:59:38.349418+08:00"
+  },
+  {
    "title": "got rfe but recently changed address",
    "url": "https://www.reddit.com/r/f1visa/comments/1x1b0t9/got_rfe_but_recently_changed_address/",
    "published": "2026-10-09T03:34:59+00:00",
@@ -517,20 +559,6 @@
    "author": "/u/anxiousadhder",
    "source": "Reddit r/f1visa",
    "id": "40f8ee028f5e",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-09T12:59:38.349418+08:00"
-  },
-  {
-   "title": "91 FR 64566",
-   "url": "https://www.ice.gov/node/70364",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "690a3ae51db1",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -732,6 +760,20 @@
    "first_seen": "2026-10-08T12:56:53.476136+08:00"
   },
   {
+   "title": "DHS Proposes New $100,000 Fee on Foreign Grad Work Program (1) - Bloomberg Law News",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcTkwRDhyeWNNWTlKcjZCVWthcEhmc2xSMXdfOWdjQmlZRDJzMzFuby1GdlNHVUo4cDBrQzhiTUhHMWxTZnQ0bUpfUUlvTHFqTmJiWjZSOGNCODdzaEkwZFQ4RmVYQUhxUE9KZ2hKeEI1QnpxVkxpdlVIbHRCVTFJYzFqdDZ2RTdKXzRVczdrVm9udk5ZaHRmbzY4dnFPVkZYa21RNjVKcE4talZVaTZB?oc=5",
+   "published": "2026-10-07T13:29:00+00:00",
+   "excerpt": "DHS Proposes New $100,000 Fee on Foreign Grad Work Program (1) Bloomberg Law News",
+   "author": null,
+   "source": "Google News",
+   "id": "9a0270d7e009",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:53.476136+08:00"
+  },
+  {
    "title": "New OPT fee proposed: Colleges to pay $70,000 for first-time F-1 students, $30,000 for extensions; DHS sa - The Times of India",
    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOU3lHZld2c0dydlMyMEVqdk1iZHFxai0wVDVJUExBMHJRSnhTWEg2ZGRGcWRqUTJ5RUk2ZG9TZC1ZV3JJZHRDcVN4Z1lnUzR5bVJfWmZTZmYzNnJxcUFoU2VaQUh1d2JNRU5KaFdoUmd1MzZqYUMtTjlSclBKM05ydEEzRmRJNEpPOXNxYnJkb3pmWmlxV2RoZlh4Y3Exc05KZlQ2Uzl5NkNBdTN1c1JVTC1mQm44QzV3ejBfaDRoQjEzQjNVeFIwOTdHZjRmeFdqTWZEQmJlUS1DLXBIbHFTNTd6SUdaRUFYc1BjS3BnampkaEhORl81UHBVejVESHBlY0xqVkFMV0JCSXVGMzViSExMMWNZSmxndFJVM9IBogJBVV95cUxNdEpVRF9ZOTVPOXUyVTN6QU8zdmhqckhOTjBYU0VpME80eHpSZGdTMnlzcXRZV21JRlJnaUxRNFZWdV9YTklFejRRRlJVMG5KMzNzY09aUEwtOWJtQnNQdS1pQnBMRjJnXzNHWmdDMjQ4OTh2NnpJbDI5WFZpREZyTTlTd1dSLVRrNHRrSGNfV2k0WEpUOXVtRWc4dTkyNk15MVNYc2tsWHV6UU52NTBtUUxYMW9RNHVRRThuSDc4dU10aUM4SU81UHExQ0h2YmtydWpxcW05cFpCeUJEMWhFbEw3VF8xZzFOSzBub3Jib0RIcWk5cVZyLTFDNjBVbWdCWEpuTnJOVVpLMDFaSFNOeVhsODNjU3dMNG0yQ1hFQUtNZw?oc=5",
    "published": "2026-10-07T14:37:00+00:00",
@@ -802,20 +844,6 @@
    "first_seen": "2026-10-08T12:56:53.476136+08:00"
   },
   {
-   "title": "OPT New Fees Proposed",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wzztxw/opt_new_fees_proposed/",
-   "published": "2026-10-07T15:40:30+00:00",
-   "excerpt": "This proposed rule from the U.S. Department of Homeland Security (DHS) would impose substantial new fees on F-1 international students who participate in Optional Practical Training (OPT): $70,000 for an initial OPT authorization and $30,000 for each subsequent OPT authorization . DHS states that the fees are intended to combat fraud, strengthen immigration-system integrity, improve oversight of the OPT program, and protect U.S. workers. The proposal argues that DHS has broad statutory authority to regulate the conditions of F-1 student status and employment authorization, reviews the history and legal basis of OPT and STEM OPT programs, and contends that enhanced monitoring and compliance a",
-   "author": "/u/CyberSecWarrior",
-   "source": "Reddit r/f1visa",
-   "id": "a8563c39a192",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:53.476136+08:00"
-  },
-  {
    "title": "2026-ICFO-25372",
    "url": "https://www.ice.gov/node/70362",
    "published": null,
@@ -866,6 +894,20 @@
    "source": "ICE 新聞稿",
    "id": "881a38e2b520",
    "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:53.476136+08:00"
+  },
+  {
+   "title": "OPT New Fees Proposed",
+   "url": "https://www.reddit.com/r/f1visa/comments/1wzztxw/opt_new_fees_proposed/",
+   "published": "2026-10-07T15:40:30+00:00",
+   "excerpt": "This proposed rule from the U.S. Department of Homeland Security (DHS) would impose substantial new fees on F-1 international students who participate in Optional Practical Training (OPT): $70,000 for an initial OPT authorization and $30,000 for each subsequent OPT authorization . DHS states that the fees are intended to combat fraud, strengthen immigration-system integrity, improve oversight of the OPT program, and protect U.S. workers. The proposal argues that DHS has broad statutory authority to regulate the conditions of F-1 student status and employment authorization, reviews the history and legal basis of OPT and STEM OPT programs, and contends that enhanced monitoring and compliance a",
+   "author": "/u/CyberSecWarrior",
+   "source": "Reddit r/f1visa",
+   "id": "a8563c39a192",
+   "policy_signal": true,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -1224,18 +1266,6 @@
    "first_seen": "2026-10-08T12:56:53.476136+08:00"
   },
   {
-   "title": "DHS Proposes New $100,000 Fee on Foreign Grad Work Program (1) - Bloomberg Law News",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcTkwRDhyeWNNWTlKcjZCVWthcEhmc2xSMXdfOWdjQmlZRDJzMzFuby1GdlNHVUo4cDBrQzhiTUhHMWxTZnQ0bUpfUUlvTHFqTmJiWjZSOGNCODdzaEkwZFQ4RmVYQUhxUE9KZ2hKeEI1QnpxVkxpdlVIbHRCVTFJYzFqdDZ2RTdKXzRVczdrVm9udk5ZaHRmbzY4dnFPVkZYa21RNjVKcE4talZVaTZB?oc=5",
-   "published": "2026-10-07T13:02:00+00:00",
-   "excerpt": "DHS Proposes New $100,000 Fee on Foreign Grad Work Program (1) Bloomberg Law News",
-   "author": null,
-   "source": "Google News",
-   "id": "9a0270d7e009",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-10-08T12:56:53.476136+08:00"
-  },
-  {
    "title": "Domestic flight with expired visa",
    "url": "https://www.reddit.com/r/f1visa/comments/1wzmi9w/domestic_flight_with_expired_visa/",
    "published": "2026-10-07T03:39:00+00:00",
@@ -1332,20 +1362,6 @@
    "first_seen": "2026-10-07T12:46:05.857773+08:00"
   },
   {
-   "title": "Harvard Law Ends Work Authorization for International Students’ Externships After New Federal Guidance - The Harvard Crimson",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORktTX0FEdmJZdDJ4VDYtMGc1R2h2N3d4NUhKdTB2c1VFbFZCc0VZRmRtRWRCdnlUalVJc01wZ1lpN1F6LUxsSTk1RkdxN2JkOXFXdm5tejdDSFBSSVFGYnFQbHNKb3FBXzJubnF0MzdueVppVHFLUU1YOFRtM1Byd1VvUVlNazBTZDJySUZpblg?oc=5",
-   "published": "2026-10-05T12:00:03+00:00",
-   "excerpt": "Harvard Law Ends Work Authorization for International Students’ Externships After New Federal Guidance The Harvard Crimson",
-   "author": null,
-   "source": "Google News",
-   "id": "91d93abd117a",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-06T13:18:09.790340+08:00"
-  },
-  {
    "title": "Detainee Death Review: Charles Leo Daniel",
    "url": "https://www.ice.gov/node/70357",
    "published": null,
@@ -1367,6 +1383,20 @@
    "author": null,
    "source": "ICE 新聞稿",
    "id": "2afd1e31cc26",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-06T13:18:09.790340+08:00"
+  },
+  {
+   "title": "Harvard Law Ends Work Authorization for International Students’ Externships After New Federal Guidance - The Harvard Crimson",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORktTX0FEdmJZdDJ4VDYtMGc1R2h2N3d4NUhKdTB2c1VFbFZCc0VZRmRtRWRCdnlUalVJc01wZ1lpN1F6LUxsSTk1RkdxN2JkOXFXdm5tejdDSFBSSVFGYnFQbHNKb3FBXzJubnF0MzdueVppVHFLUU1YOFRtM1Byd1VvUVlNazBTZDJySUZpblg?oc=5",
+   "published": "2026-10-05T12:00:03+00:00",
+   "excerpt": "Harvard Law Ends Work Authorization for International Students’ Externships After New Federal Guidance The Harvard Crimson",
+   "author": null,
+   "source": "Google News",
+   "id": "91d93abd117a",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -3756,20 +3786,6 @@
    "first_seen": "2026-09-25T11:51:32.391248+08:00"
   },
   {
-   "title": "DHS tightens student visa rules amid legal battle - The Williams Record",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaDVqbFlPTWhkWmVaM0syd0NSeVd5TkJXVXlvNnRLYi14Q01rZDZuUWdRdzJWbkhWTmloRF8ybkszaWc4Rl9HRzhrcmNzRk5EaEhDZEFwUVhNS0Y0Q2lkS0dNMHlrSjNoOTRrQzFuQldpWE5WNUNZNHZGbHZRNTJQWXV4Njd4V3FWMDltcnNKNmhVV1k?oc=5",
-   "published": "2026-09-23T05:23:23+00:00",
-   "excerpt": "DHS tightens student visa rules amid legal battle The Williams Record",
-   "author": null,
-   "source": "Google News",
-   "id": "ee85257063a9",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-24T11:34:39.626400+08:00"
-  },
-  {
    "title": "What Indian students need to know about the new American visa rules - The Hindu",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNjcyVlFYckdpT3c3cHNZYzNGOFJtaXFHNXpneURBZHdHajg5ZnA2UTFSbVItVjlUQjhMY1dzdzRCWHJtY0dObkVOT1ktcDdHUHIxU2F2UnpfT2NNODRCcXFFZFBTZ3dIeC0xSzRxRXRGaFJEQWFPN1hWbklVRVBCN1ZlNzNFcjZvV2tJMzYxcUlLMmo3cGN1V1Fia19tSVQwVERLMkpVTHhHQmQwLWpuc19TcjhhMkk0akFzamJKb9IBxgFBVV95cUxPVWg1M1l5LUdHeWRMdzZtVWJWbUtEYUJBTnVjYlNJZmh1bTktWl9kWjd1TXFkWHZoWXgzS2F1TmxRMFRBaXBKVVJ0N0x0UnlrakFmR1lBRm90bTQ5SWE0TFZTLWYzZ29wMTRsMFpNb1c4MkJhaDJNYzQ5R0tVUU9pMXBFOURqTk1YQllTbGZQbUY0WDVkZ1h3amZaR05UdTdhRVpPWnF6NEdvbTZrMFlseWxiWU9SOHBBNHdhaXREMmpWUERqSlE?oc=5",
    "published": "2026-09-20T07:00:00+00:00",
@@ -3777,6 +3793,20 @@
    "author": null,
    "source": "Google News",
    "id": "ebb0fe960206",
+   "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-24T11:34:39.626400+08:00"
+  },
+  {
+   "title": "DHS tightens student visa rules amid legal battle - The Williams Record",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaDVqbFlPTWhkWmVaM0syd0NSeVd5TkJXVXlvNnRLYi14Q01rZDZuUWdRdzJWbkhWTmloRF8ybkszaWc4Rl9HRzhrcmNzRk5EaEhDZEFwUVhNS0Y0Q2lkS0dNMHlrSjNoOTRrQzFuQldpWE5WNUNZNHZGbHZRNTJQWXV4Njd4V3FWMDltcnNKNmhVV1k?oc=5",
+   "published": "2026-09-23T05:23:23+00:00",
+   "excerpt": "DHS tightens student visa rules amid legal battle The Williams Record",
+   "author": null,
+   "source": "Google News",
+   "id": "ee85257063a9",
    "policy_signal": true,
    "relevance": null,
    "summary": null,
@@ -7650,20 +7680,6 @@
    "first_seen": "2026-09-05T23:31:31.296681+08:00"
   },
   {
-   "title": "Megathread: CPT Interpretation Changes",
-   "url": "https://www.reddit.com/r/f1visa/comments/1vttbw3/megathread_cpt_interpretation_changes/",
-   "published": "2026-08-20T19:25:15+00:00",
-   "excerpt": "This is the Megathread for CPT. TL;DR: Whatever your school tells you about CPT is what matters. Your school defines the rules for CPT. Update October 5, 2026 Lawsuit has been filed regarding the CPT Interpretation changes. The August 14, 2026 CPT change is not a new CPT regulation or statutory change. SEVP issued Broadcast Message 2608-01, “Reminder of Liability for DSOs Regarding CPT Authorization,\". The underlying CPT regulations have not been amended. What has changed is SEVP's interpretation and enforcement posture regarding the existing requirements, particularly what it considers sufficiently “integral” to an established curriculum. CPT is a school-by-school process. It depends heavil",
-   "author": "/u/Codetornado",
-   "source": "Reddit r/f1visa",
-   "id": "e2028e024530",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:19:12.974663+08:00"
-  },
-  {
    "title": "Recent Videos",
    "url": "https://www.ice.gov/newsroom-youtube-videos/recent-videos",
    "published": null,
@@ -7672,6 +7688,20 @@
    "source": "ICE 新聞稿",
    "id": "599136d01a2d",
    "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:19:12.974663+08:00"
+  },
+  {
+   "title": "Megathread: CPT Interpretation Changes",
+   "url": "https://www.reddit.com/r/f1visa/comments/1vttbw3/megathread_cpt_interpretation_changes/",
+   "published": "2026-08-20T19:25:15+00:00",
+   "excerpt": "This is the Megathread for CPT. TL;DR: Whatever your school tells you about CPT is what matters. Your school defines the rules for CPT. Update October 5, 2026 Lawsuit has been filed regarding the CPT Interpretation changes. The August 14, 2026 CPT change is not a new CPT regulation or statutory change. SEVP issued Broadcast Message 2608-01, “Reminder of Liability for DSOs Regarding CPT Authorization,\". The underlying CPT regulations have not been amended. What has changed is SEVP's interpretation and enforcement posture regarding the existing requirements, particularly what it considers sufficiently “integral” to an established curriculum. CPT is a school-by-school process. It depends heavil",
+   "author": "/u/Codetornado",
+   "source": "Reddit r/f1visa",
+   "id": "e2028e024530",
+   "policy_signal": true,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -8224,10 +8254,10 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
-   "title": "DHS Finalizes Rule Ending “Duration of Status” for F, J, and I Nonimmigrants - JDSupra",
+   "title": "DHS Finalizes Rule Ending “Duration of Status” for F, J, and I Nonimmigrants - JD Supra",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTlJYTYwUzJNNlFJbnNDemM0Rk1HZW1kQ3d1U1ZOenVHaDIxM1YxOFBMbUtaVFlWRFNlYkRFMVJEZ01EdTNGSFRpa1RuRVNzSUNGMkI2eHQwa25GVS1RVjhhUTkzTkhaMUpVb1prYW5NV29KN0poTkwycGI3RE9zeVhhQ1dCbVU?oc=5",
    "published": "2026-07-20T07:00:00+00:00",
-   "excerpt": "DHS Finalizes Rule Ending “Duration of Status” for F, J, and I Nonimmigrants JDSupra",
+   "excerpt": "DHS Finalizes Rule Ending “Duration of Status” for F, J, and I Nonimmigrants JD Supra",
    "author": null,
    "source": "Google News",
    "id": "28c5e0a983de",
@@ -8280,20 +8310,6 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
-   "title": "Trump’s CPT crackdown: What it means for international and indian students - Bhaskar English",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2YtMnE4T2ZHQzA3RHkyQlBLV1pORW5tMXFkZmZyaERCRXdEYk1kNExhTzFxR0pqcF9ZZkRadkk3Z1lrd3NaYUcwRGxNOGlNREJtWktBemljNGlTZWhFeTQyTzQ2TFRxVTFtM1lHZjFWLUFab2duRnRTenRqZkVObEJjV2N1YnJkeUFuenZzYmx5ZV9vZDVtM0N3MU5aTHpIZUZuMFJSOGZ1c0xVeWFVU0h3Z1FpS3UwQ2xGcdIBwgFBVV95cUxQX1p0LXdDSi1hOEFSUFBKTFoySnZ0QTI5Z3VsZHgyQzV0VWJ6ZVdRWjcxNm4yZ0ZSUW9rajhkSkRnbk1IQ1ZGQjc2N0dsMnFDdnF6Wk5HVkp0Tlc5WWg4X2ZwWEZwVThpd3dfYnpOSmw3enlGOXZpcGJUN0UxaXB1ejV2dk5tNVNGbXpFOGRHSXNhbktCWExkZFQ2Y1lKWmY4OXFhNGRJdHFqN1VuSG00dDUwSjF2YVBta1d4RFJzWHBWdw?oc=5",
-   "published": "2026-08-30T07:11:36+00:00",
-   "excerpt": "Trump’s CPT crackdown: What it means for international and indian students Bhaskar English",
-   "author": null,
-   "source": "Google News",
-   "id": "3d00a16bab90",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:08:07.595859+08:00"
-  },
-  {
    "title": "US universities rethink CPT program after ICE warning: What Indian students need to know about the pause | Hindustan Times - Hindustan Times",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMVlGOW9DR3VKWWpXaVRtVkU1TU5GYnJpZjllTmVwYTRlNWlFa3R6d0pMd28zWGRpTWc4ZDBBYXg4UDVHZlBTYVZ4amZYWnJJSk1VREhVTVc1WWZfZ2ROQlRmN0RqSGJvYnFrUDNoVmUxa05hTjNyX0tNRG9IZkFSNmdTSnVqY0szazRGMTNZclJLMS1vWWRjWDQ2VUtIV2FqYmhYTUVHajR3emJnNWsxWWlEODZIUVoybkxPUGMxSGFsbHp6VTlXQzlTcF9ZczU4Y0VZbng5LThra2dzd0QxSmdrR2tIVXBrWlRWX29TNGjSAfYBQVVfeXFMTlZBZDBoVms3LVF3SUppQUdhcFRhanhNNm91dndMSTVZUldzUURqdzRyR195OVVfWFpacE5ObkNSTmowRXFnVGFKRHZGVkxpTDhNZ245bG83SjhJdVp3eXFzOHNnVzNRaHVOTGd0T1lDZHpoZE1scUdpTjN1ZDlLYS10T09HRHZ0T3QxOFllSnVqQ0cwVDZEeHFUTzJkbl9iY25LbUlqajRjek5aTUdSZE1hV21yZFJ1eTZoWVdsSXNVUDcxY1IyRUswV200ZnpRN3JzdTRhc3U5Q1QtdldwUnhfenNzMnYyblV5RXV1dU9LZ3FTa1Bn?oc=5",
    "published": "2026-08-26T07:00:00+00:00",
@@ -8302,6 +8318,20 @@
    "source": "Google News",
    "id": "688b3fd4ac67",
    "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:07.595859+08:00"
+  },
+  {
+   "title": "US tightens work rules for foreign students: What changes for CPT, OPT and H-1B? - The Indian Express",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcmZuN19DZHYybjZ5SjlWZ2lacmQ2cG4xMlJmS0VYVG9tV3p1aUR4U2xqVVBkdWJhSkxVQ2lmVDlidHZpLXZ0NDdsRGxpV1N3RXNkaTdXLVcyeXEtU3NqNmhqRTdmRlpHRVRvaWVjVHNpb0ZST3FNdzZKckItcDkzR3RjWUwwZFh1VDVJdTlnV3U1dmt1dzJfaDVrS203Rkg2S0UycDNnQV9wdmpUR0k3MmMtTDAyWVEyUTZnMF9aUkN1amVuZmp4ZUp0aVFydnRVRFNET2Y4aGE0WDllN2I1OG1NWkxzVVpvZ0lNR0Z3MNIB9gFBVV95cUxOTU94a29TcGpmWVRNRVRFb1lzUHBPUFBBUWVxOGoyN2g0cndQeGt1VFhKQVd5TFJQRGFDdW5xb1NRdHJyWlpHdTZwdUFfNHlkRFhVQ2JDSEtNTkRPVWNiNTJDSVBxZzZleEFEMWlhLWlQZTUtOHlvMDFHekxKdlQyRnZMdV9Md1BGVWdnRFB1R21EX1ItNGlCb01fTnFYUVhSanpXWWN6dmFsZzVQY2kzTnoyZTU2X3Z4N0VNQUVaNHhhSk1ROGRBUHpBS29OVUZrMEdSOFhpMHJNbWlNZGFyZlZrdkxoRnlSWk1TVTNRSFFFTHNkYVE?oc=5",
+   "published": "2026-08-30T07:00:00+00:00",
+   "excerpt": "US tightens work rules for foreign students: What changes for CPT, OPT and H-1B? The Indian Express",
+   "author": null,
+   "source": "Google News",
+   "id": "752950a509d6",
+   "policy_signal": true,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -8343,20 +8373,6 @@
    "author": null,
    "source": "Google News",
    "id": "cc0190251936",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:08:07.595859+08:00"
-  },
-  {
-   "title": "US government warns universities to limit their authorisation of Curricular Practical Training work placements - ICEF Monitor",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVW5GU3NpbWlCWFN0NEdDdGlpdW15QUNnZEV3dUxMWXhwYXFmbUx5U3ZvbEhyanNpX01zclZQTlplUGpjRnJVZVo3V0U3d04xakU2VVkwaVZxUUwxdXJpRlByTWM3dVpTMXV5ME5zaDdRRWRUWmlHNElYV3pkMndLb1ZmLWc5eEZOb0poejl6ZEp1b3RTa0hmVmxESE1JOHFzc3k4amp0WGpkZTdOQ1FYbnhJdjE5ZWw0Z0EwRTlzRnp2SU9PNC1rZWhYaEZpSERVUGhIVWpybVBsZWt1?oc=5",
-   "published": "2026-09-03T07:00:00+00:00",
-   "excerpt": "US government warns universities to limit their authorisation of Curricular Practical Training work placements ICEF Monitor",
-   "author": null,
-   "source": "Google News",
-   "id": "a78c21e7982d",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -8434,13 +8450,13 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
-   "title": "US tightens work rules for foreign students: What changes for CPT, OPT and H-1B? - The Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcmZuN19DZHYybjZ5SjlWZ2lacmQ2cG4xMlJmS0VYVG9tV3p1aUR4U2xqVVBkdWJhSkxVQ2lmVDlidHZpLXZ0NDdsRGxpV1N3RXNkaTdXLVcyeXEtU3NqNmhqRTdmRlpHRVRvaWVjVHNpb0ZST3FNdzZKckItcDkzR3RjWUwwZFh1VDVJdTlnV3U1dmt1dzJfaDVrS203Rkg2S0UycDNnQV9wdmpUR0k3MmMtTDAyWVEyUTZnMF9aUkN1amVuZmp4ZUp0aVFydnRVRFNET2Y4aGE0WDllN2I1OG1NWkxzVVpvZ0lNR0Z3MNIB9gFBVV95cUxOTU94a29TcGpmWVRNRVRFb1lzUHBPUFBBUWVxOGoyN2g0cndQeGt1VFhKQVd5TFJQRGFDdW5xb1NRdHJyWlpHdTZwdUFfNHlkRFhVQ2JDSEtNTkRPVWNiNTJDSVBxZzZleEFEMWlhLWlQZTUtOHlvMDFHekxKdlQyRnZMdV9Md1BGVWdnRFB1R21EX1ItNGlCb01fTnFYUVhSanpXWWN6dmFsZzVQY2kzTnoyZTU2X3Z4N0VNQUVaNHhhSk1ROGRBUHpBS29OVUZrMEdSOFhpMHJNbWlNZGFyZlZrdkxoRnlSWk1TVTNRSFFFTHNkYVE?oc=5",
-   "published": "2026-08-30T07:00:00+00:00",
-   "excerpt": "US tightens work rules for foreign students: What changes for CPT, OPT and H-1B? The Indian Express",
+   "title": "Trump’s CPT crackdown: What it means for international and indian students - Bhaskar English",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2YtMnE4T2ZHQzA3RHkyQlBLV1pORW5tMXFkZmZyaERCRXdEYk1kNExhTzFxR0pqcF9ZZkRadkk3Z1lrd3NaYUcwRGxNOGlNREJtWktBemljNGlTZWhFeTQyTzQ2TFRxVTFtM1lHZjFWLUFab2duRnRTenRqZkVObEJjV2N1YnJkeUFuenZzYmx5ZV9vZDVtM0N3MU5aTHpIZUZuMFJSOGZ1c0xVeWFVU0h3Z1FpS3UwQ2xGcdIBwgFBVV95cUxQX1p0LXdDSi1hOEFSUFBKTFoySnZ0QTI5Z3VsZHgyQzV0VWJ6ZVdRWjcxNm4yZ0ZSUW9rajhkSkRnbk1IQ1ZGQjc2N0dsMnFDdnF6Wk5HVkp0Tlc5WWg4X2ZwWEZwVThpd3dfYnpOSmw3enlGOXZpcGJUN0UxaXB1ejV2dk5tNVNGbXpFOGRHSXNhbktCWExkZFQ2Y1lKWmY4OXFhNGRJdHFqN1VuSG00dDUwSjF2YVBta1d4RFJzWHBWdw?oc=5",
+   "published": "2026-08-30T07:11:36+00:00",
+   "excerpt": "Trump’s CPT crackdown: What it means for international and indian students Bhaskar English",
    "author": null,
    "source": "Google News",
-   "id": "752950a509d6",
+   "id": "3d00a16bab90",
    "policy_signal": true,
    "relevance": null,
    "summary": null,
@@ -8462,28 +8478,14 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
-   "title": "Will Trump take on misuse of student visas? (opinion) - Inside Higher Ed",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVJkVjBIZHMwSDVJLWkyRkM0clo1UnVzSTRlWS1icmxlMjdYNERSYmFRNEVTNjJsTTRBalRjUk13TnY4OWVuSTJ1Wi1kQVFXeFd6REg4UUl5ek1WNEUxcU55SFEwakV5bGhoY1htR09Fb3pDUTU1aGNabmtOZXd5STJfbzVUQVJCVGNLdFp6RHNoNmc1WEF5OTBRMWo5WERPMlE?oc=5",
-   "published": "2025-01-06T08:00:00+00:00",
-   "excerpt": "Will Trump take on misuse of student visas? (opinion) Inside Higher Ed",
+   "title": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers - Employment Law Worldview",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmxyRF9DQ21KNWZiZW9obWZYV3JQOXd0ZEZaU3Iwd1kwTVM0LUhRdkJnTTFGV3pMUnNpdVh3X0FCcTNfeHhzeEdic1ladHJSSVpqME5CaEYzeHk0VURIOVNXbmxFb3FKSmZzc1pWd2ZNVUxla3VsU2dwZGpocFdjeWRqUllybmpFNWhxUmJHWEZzd3ZZaUE2WHFTNHQ4VF9MVjc0akQ1eXBQa3lWTFJRWTdDOEI4SFFXUGVRTlotVkhhLUFYV0E?oc=5",
+   "published": "2025-12-15T08:00:00+00:00",
+   "excerpt": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers Employment Law Worldview",
    "author": null,
    "source": "Google News",
-   "id": "891f1a6a5200",
+   "id": "bf45294c2331",
    "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:08:07.595859+08:00"
-  },
-  {
-   "title": "DHS finalizes rule replacing “Duration of Status” for F-1, J-1, and I visa holders - Nixon Peabody",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR1o2VDdCZF9xaXQ5bXNzanR1Y3FUOEhKSTNMdk9nNzFxSVhtSktPdVNTTzA0VnIwcV9jNTZQQkxBYjRwX3dGWkZQVDVLYWpXZEg5Zk5vOU4xVGEyOXBrRVlhdUVPdmJIR29wOGpibV9yN1Z4dEM3OXl2ZmRqZWxnVWtxb0pTS3JubVA4VEpvNzc5dk1qSEdEenNLbld1OWZfUENiLVlhSS1OZDJiVmlpQ2RVcWdfeXRPS1dLWjlnWExvWW9hWjhvc09SY2tKaUE?oc=5",
-   "published": "2026-07-17T07:00:00+00:00",
-   "excerpt": "DHS finalizes rule replacing “Duration of Status” for F-1, J-1, and I visa holders Nixon Peabody",
-   "author": null,
-   "source": "Google News",
-   "id": "896621613828",
-   "policy_signal": true,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -8630,6 +8632,48 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
+   "title": "US government warns universities to limit their authorisation of Curricular Practical Training work placements - ICEF Monitor",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVW5GU3NpbWlCWFN0NEdDdGlpdW15QUNnZEV3dUxMWXhwYXFmbUx5U3ZvbEhyanNpX01zclZQTlplUGpjRnJVZVo3V0U3d04xakU2VVkwaVZxUUwxdXJpRlByTWM3dVpTMXV5ME5zaDdRRWRUWmlHNElYV3pkMndLb1ZmLWc5eEZOb0poejl6ZEp1b3RTa0hmVmxESE1JOHFzc3k4amp0WGpkZTdOQ1FYbnhJdjE5ZWw0Z0EwRTlzRnp2SU9PNC1rZWhYaEZpSERVUGhIVWpybVBsZWt1?oc=5",
+   "published": "2026-09-03T07:00:00+00:00",
+   "excerpt": "US government warns universities to limit their authorisation of Curricular Practical Training work placements ICEF Monitor",
+   "author": null,
+   "source": "Google News",
+   "id": "a78c21e7982d",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:07.595859+08:00"
+  },
+  {
+   "title": "Will Trump take on misuse of student visas? (opinion) - Inside Higher Ed",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVJkVjBIZHMwSDVJLWkyRkM0clo1UnVzSTRlWS1icmxlMjdYNERSYmFRNEVTNjJsTTRBalRjUk13TnY4OWVuSTJ1Wi1kQVFXeFd6REg4UUl5ek1WNEUxcU55SFEwakV5bGhoY1htR09Fb3pDUTU1aGNabmtOZXd5STJfbzVUQVJCVGNLdFp6RHNoNmc1WEF5OTBRMWo5WERPMlE?oc=5",
+   "published": "2025-01-06T08:00:00+00:00",
+   "excerpt": "Will Trump take on misuse of student visas? (opinion) Inside Higher Ed",
+   "author": null,
+   "source": "Google News",
+   "id": "891f1a6a5200",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:07.595859+08:00"
+  },
+  {
+   "title": "DHS finalizes rule replacing “Duration of Status” for F-1, J-1, and I visa holders - Nixon Peabody",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR1o2VDdCZF9xaXQ5bXNzanR1Y3FUOEhKSTNMdk9nNzFxSVhtSktPdVNTTzA0VnIwcV9jNTZQQkxBYjRwX3dGWkZQVDVLYWpXZEg5Zk5vOU4xVGEyOXBrRVlhdUVPdmJIR29wOGpibV9yN1Z4dEM3OXl2ZmRqZWxnVWtxb0pTS3JubVA4VEpvNzc5dk1qSEdEenNLbld1OWZfUENiLVlhSS1OZDJiVmlpQ2RVcWdfeXRPS1dLWjlnWExvWW9hWjhvc09SY2tKaUE?oc=5",
+   "published": "2026-07-17T07:00:00+00:00",
+   "excerpt": "DHS finalizes rule replacing “Duration of Status” for F-1, J-1, and I visa holders Nixon Peabody",
+   "author": null,
+   "source": "Google News",
+   "id": "896621613828",
+   "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:07.595859+08:00"
+  },
+  {
    "title": "What Trump’s migration crackdown could mean for foreign students - Reuters",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByV3ZsZlVyanp4eTlNNG9hRHRiQjBxTXRzWXh0MDRybW5GSTJubjNzQWFzSlNJdWRYMU9penJrczgtbWJESURCWkdEWnB1elRNVVNnT3JMMWN1TjRhSkNyb3BoaXhTRXN1OUtxaENod2pQZkZ2LS1NVWR5dm45VEk?oc=5",
    "published": "2025-01-29T08:00:00+00:00",
@@ -8749,20 +8793,6 @@
    "author": null,
    "source": "Google News",
    "id": "62150c0a234f",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:08:07.595859+08:00"
-  },
-  {
-   "title": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers - Employment Law Worldview",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmxyRF9DQ21KNWZiZW9obWZYV3JQOXd0ZEZaU3Iwd1kwTVM0LUhRdkJnTTFGV3pMUnNpdVh3X0FCcTNfeHhzeEdic1ladHJSSVpqME5CaEYzeHk0VURIOVNXbmxFb3FKSmZzc1pWd2ZNVUxla3VsU2dwZGpocFdjeWRqUllybmpFNWhxUmJHWEZzd3ZZaUE2WHFTNHQ4VF9MVjc0akQ1eXBQa3lWTFJRWTdDOEI4SFFXUGVRTlotVkhhLUFYV0E?oc=5",
-   "published": "2025-12-15T08:00:00+00:00",
-   "excerpt": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers Employment Law Worldview",
-   "author": null,
-   "source": "Google News",
-   "id": "bf45294c2331",
    "policy_signal": false,
    "relevance": null,
    "summary": null,

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T12:45:03.405823+08:00",
+ "updated_at": "2026-10-13T13:49:37.059421+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,15 +9,15 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
-  },
-  {
-   "name": "Reddit r/gradadmissions",
    "ok": true,
    "count": 25,
    "note": ""
+  },
+  {
+   "name": "Reddit r/gradadmissions",
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
    "name": "Google News",
@@ -52,6 +52,58 @@
  ],
  "items": [
   {
+   "title": "AI Use by PROFESSORS in Coursework",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x4gpiu/ai_use_by_professors_in_coursework/",
+   "published": "2026-10-12T23:03:29+00:00",
+   "excerpt": "Has anyone else noticed just how many professors are using AI to create all of our coursework (often busywork) but then proceed to ban AI usage by students? Feels like this should cut both ways submitted by /u/AcrobaticFox2218 [link] [留言]",
+   "author": "/u/AcrobaticFox2218",
+   "source": "Reddit r/OMSCS",
+   "id": "5526fee14534",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-13T13:49:37.059421+08:00"
+  },
+  {
+   "title": "Is this acceptable or unacceptable use of AI if the content is yours but formatting is not?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x4jjom/is_this_acceptable_or_unacceptable_use_of_ai_if/",
+   "published": "2026-10-13T01:18:01+00:00",
+   "excerpt": "So I'm taking a very writing report heavy course. We basically conduct our own experiment and then we write up a report usually in either IEEE or Joyner Format or whatever. Now I conduct the experiment myself. I actually do write up the material entirely myself and cite sources. However I do run it through LLM to do a lot of formatting and to put citations in properly. I will usually run the assignment instructions paper as well through LLM. And will usually ask did I answer everything that was needed. If not point to which and then I'll answer it Again the actual content is fully mine and the sources cited are sources I found and cited in my drafts. I feel like this should be fine cause con",
+   "author": "/u/downtimeredditor",
+   "source": "Reddit r/OMSCS",
+   "id": "c676d7343626",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-13T13:49:37.059421+08:00"
+  },
+  {
+   "title": "NLP course scheduling doesn't make sense",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x3vv96/nlp_course_scheduling_doesnt_make_sense/",
+   "published": "2026-10-12T07:53:32+00:00",
+   "excerpt": "The course calendar for NLP has a strangely uneven workload. Some weeks have several closed-book module quizzes and a homework assignment due, while others have nothing due. The (closed-book) midterm covers the first several modules, and a quiz on entirely new material is due the same day. Several students asked on Ed whether the quiz could be moved to another week so they could better prepare for the midterm. Staff replied that agreeing to extend the quiz deadline would oblige them to accept hundreds of individual rescheduling requests, which doesn't make sense at all. It’s a very unprofessional whataboutism way to respond to a reasonable request. In my experience, most teaching staff in ot",
+   "author": "/u/goro-n",
+   "source": "Reddit r/OMSCS",
+   "id": "1adb1258bb1f",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-13T13:49:37.059421+08:00"
+  },
+  {
+   "title": "Most of my team-members probably? use AI to write required Documents",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x3wmyq/most_of_my_teammembers_probably_use_ai_to_write/",
+   "published": "2026-10-12T08:43:11+00:00",
+   "excerpt": "I am unsure what to do! I tried so hard not to use any AI when writing the required documents... And then suddely someone pushes the most crazy mermaid diagrams and perfectly aligned and written tables.. It's not even the text, but who would create manually a perfect Table with 15 rows and 7 columns? Can't believe I have those problems in the last semester! I might get out this semester. How did you handle this? I saw other posts like this but not a solution.. Especially, I don't even know if they did, perhaps there are tools to easily create diagrams? Perhaps they are mermaid pros? EDIT: Added some more clarification. submitted by /u/Fusken [link] [留言]",
+   "author": "/u/Fusken",
+   "source": "Reddit r/OMSCS",
+   "id": "c0a7aa4810f5",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-13T13:49:37.059421+08:00"
+  },
+  {
    "title": "How much are people using AI in CS6242?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x3hhwv/how_much_are_people_using_ai_in_cs6242/",
    "published": "2026-10-11T19:43:55+00:00",
@@ -62,6 +114,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-12T12:45:03.405823+08:00"
   },
   {
@@ -75,6 +129,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-12T12:45:03.405823+08:00"
   },
   {
@@ -88,32 +144,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
-   "first_seen": "2026-10-12T12:45:03.405823+08:00"
-  },
-  {
-   "title": "OSAP for OMSCS? (for ontario students)",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x3nys7/osap_for_omscs_for_ontario_students/",
-   "published": "2026-10-12T00:31:36+00:00",
-   "excerpt": "Did anyone try to apply OSAP for OMSCS? I applied and I take OSAP parttime with a full time programmer job. idk if it is because of my (not high, but full-time salary), or the relatively low tuition fee per semester ($1300 CAD), it estimated $0 for OSAP? (OSAP stands for Ontario Student Assistance Program if you are not from ontario I figure you might not heard of it) submitted by /u/yrrejl [link] [留言]",
-   "author": "/u/yrrejl",
-   "source": "Reddit r/OMSCS",
-   "id": "e81602c9527d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "first_seen": "2026-10-12T12:45:03.405823+08:00"
-  },
-  {
-   "title": "Was too slow before AI. Been acing classes since. Am I an imposter?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x3merd/was_too_slow_before_ai_been_acing_classes_since/",
-   "published": "2026-10-11T23:15:48+00:00",
-   "excerpt": "So I used to fail all my courses cause I had a hard time writing and debugging code. Id understand the logic perfectly and could write the pseudo code, functions, loops etc and what they should do. But when I ran it everything would crash. Bascially id spend 1-2 hours writing code and 8 hours debugging syntax or be stuck and not know what to do. So what would end up happening is more often then not I'd run out of time during an exam/lab/assignment or would make one formatting error I couldn't see clearly and the entire output would crash and I'd fail the course. Also there was a problem of you don't know what you don't know. So for exmaple if my class never showed me a hashmap it wouldn't ev",
-   "author": "/u/aldjfh",
-   "source": "Reddit r/OMSCS",
-   "id": "fa5554e0ae7f",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-12T12:45:03.405823+08:00"
   },
   {
@@ -127,19 +159,38 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-12T12:45:03.405823+08:00"
   },
   {
-   "title": "OMSCS Exam Formats - 7646 ML4T and beyond",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x3jz4i/omscs_exam_formats_7646_ml4t_and_beyond/",
-   "published": "2026-10-11T21:25:13+00:00",
-   "excerpt": "Currently taking my first course in the program (ML4T) and have a question about materials and exam formats across OMSCS generally compared to ML4T specifically. To preface, I recognize 1) ML4T is experimenting with the exam pool currently and by no means do I take for granted the amount of work it was for the course staff to compile this, much appreciated! 2) This is a masters and the expectation is to be able to learn without handholding. I’ve completed all the required video lectures and assignments, but haven’t done all of the supplementary readings/materials such as videos and textbooks. In the exam pool, there are many terms and theoretical concepts which do not appear at all in assign",
-   "author": "/u/Skrude157",
+   "title": "OSAP for OMSCS? (for ontario students)",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x3nys7/osap_for_omscs_for_ontario_students/",
+   "published": "2026-10-12T00:31:36+00:00",
+   "excerpt": "Did anyone try to apply OSAP for OMSCS? I applied and I take OSAP parttime with a full time programmer job. idk if it is because of my (not high, but full-time salary), or the relatively low tuition fee per semester ($1300 CAD), it estimated $0 for OSAP? (OSAP stands for Ontario Student Assistance Program if you are not from ontario I figure you might not heard of it) submitted by /u/yrrejl [link] [留言]",
+   "author": "/u/yrrejl",
    "source": "Reddit r/OMSCS",
-   "id": "a31d9df0c319",
+   "id": "e81602c9527d",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-12T12:45:03.405823+08:00"
+  },
+  {
+   "title": "Was too slow before AI. Been acing classes since. Am I an imposter?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x3merd/was_too_slow_before_ai_been_acing_classes_since/",
+   "published": "2026-10-11T23:15:48+00:00",
+   "excerpt": "So I used to fail all my courses cause I had a hard time writing and debugging code. Id understand the logic perfectly and could write the pseudo code, functions, loops etc and what they should do. But when I ran it everything would crash. Bascially id spend 1-2 hours writing code and 8 hours debugging syntax or be stuck and not know what to do. So what would end up happening is more often then not I'd run out of time during an exam/lab/assignment or would make one formatting error I couldn't see clearly and the entire output would crash and I'd fail the course. Also there was a problem of you don't know what you don't know. So for exmaple if my class never showed me a hashmap it wouldn't ev",
+   "author": "/u/aldjfh",
+   "source": "Reddit r/OMSCS",
+   "id": "fa5554e0ae7f",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-12T12:45:03.405823+08:00"
   },
   {
@@ -150,6 +201,21 @@
    "author": "/u/Jumpy_Junket_3021",
    "source": "Reddit r/OMSCS",
    "id": "812a47e925c7",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-12T12:45:03.405823+08:00"
+  },
+  {
+   "title": "OMSCS Exam Formats - 7646 ML4T and beyond",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x3jz4i/omscs_exam_formats_7646_ml4t_and_beyond/",
+   "published": "2026-10-11T21:25:13+00:00",
+   "excerpt": "Currently taking my first course in the program (ML4T) and have a question about materials and exam formats across OMSCS generally compared to ML4T specifically. To preface, I recognize 1) ML4T is experimenting with the exam pool currently and by no means do I take for granted the amount of work it was for the course staff to compile this, much appreciated! 2) This is a masters and the expectation is to be able to learn without handholding. I’ve completed all the required video lectures and assignments, but haven’t done all of the supplementary readings/materials such as videos and textbooks. In the exam pool, there are many terms and theoretical concepts which do not appear at all in assign",
+   "author": "/u/Skrude157",
+   "source": "Reddit r/OMSCS",
+   "id": "a31d9df0c319",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -535,10 +601,27 @@
    "published": "2026-09-30T18:17:53+00:00",
    "excerpt": "I keep seeing the same \"OMSCS isn't worth it\" posts, so here's my rebuttal. Bias disclosure: I'm justifying my own time and money. I'm five classes in (GIOS, AOS, DC, EdTech, HCI), a PM in legacy enterprise tech, with a civil/aerospace undergrad, so I have a lot to gain here. \"You can learn all of this on your own for free.\" You could. You won't. The materials have been online for years, and ~95% of MOOC students never finish. You're paying for the forcing function: deadlines, autograders, TAs, classmates, and a grade. \"I didn't learn anything; it's busywork.\" Check which courses they took. There's a well-known low-effort path through this program. Show some backbone and take a tough course ",
    "author": "/u/Sensei_Daniel_San",
-   "source": "Reddit r/OMSCS",
+   "source": "Reddit r/OMSCS 錄取討論",
    "id": "3512205930d5",
    "admission_signal": false,
    "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-01T12:36:09.562200+08:00"
+  },
+  {
+   "title": "Starting OMSCS in Spring 2027, traveling for 2 weeks in mid-January. How manageable is the first",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wu5orc/starting_omscs_in_spring_2027_traveling_for_2/",
+   "published": "2026-09-30T13:59:21+00:00",
+   "excerpt": "Admitted for Spring 2027 and planning the HCI, starting with this course. I'll be traveling for about two weeks in mid-January (different time zone, laptop and internet most days), so I'll likely miss part of weeks 1-2. I've read the syllabus and the reviews for the course I'm considering. For people who took an HCI course in a recent Spring or Fall, did the first two weeks have hard deadlines, or was it flexible enough to get ahead on lectures beforehand? submitted by /u/Prestigious_Gain7804 [link] [留言]",
+   "author": "/u/Prestigious_Gain7804",
+   "source": "Reddit r/OMSCS 錄取討論",
+   "id": "a4ed617daadd",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admitted"
+   ],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -584,23 +667,6 @@
    "id": "8c3553ba65bc",
    "admission_signal": false,
    "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-01T12:36:09.562200+08:00"
-  },
-  {
-   "title": "Starting OMSCS in Spring 2027, traveling for 2 weeks in mid-January. How manageable is the first",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wu5orc/starting_omscs_in_spring_2027_traveling_for_2/",
-   "published": "2026-09-30T13:59:21+00:00",
-   "excerpt": "Admitted for Spring 2027 and planning the HCI, starting with this course. I'll be traveling for about two weeks in mid-January (different time zone, laptop and internet most days), so I'll likely miss part of weeks 1-2. I've read the syllabus and the reviews for the course I'm considering. For people who took an HCI course in a recent Spring or Fall, did the first two weeks have hard deadlines, or was it flexible enough to get ahead on lectures beforehand? submitted by /u/Prestigious_Gain7804 [link] [留言]",
-   "author": "/u/Prestigious_Gain7804",
-   "source": "Reddit r/OMSCS 錄取討論",
-   "id": "a4ed617daadd",
-   "admission_signal": true,
-   "keyword_hits": [
-    "admitted"
-   ],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -696,12 +762,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
-   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
+   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
+   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "0484e7b5e74c",
+   "id": "c9fdb1306c54",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -710,12 +776,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
-   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
+   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
+   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "c9fdb1306c54",
+   "id": "0484e7b5e74c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -920,21 +986,6 @@
    "first_seen": "2026-09-26T11:56:08.785653+08:00"
   },
   {
-   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
-   "published": "2025-04-24T07:00:00+00:00",
-   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "b46a54226e93",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
    "title": "OMSCS vs in-person masters Similarity",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
    "published": "2026-09-24T15:35:17+00:00",
@@ -946,6 +997,21 @@
    "keyword_hits": [
     "admission"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
+   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
+   "published": "2025-04-24T07:00:00+00:00",
+   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "b46a54226e93",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -1780,6 +1846,21 @@
    "first_seen": "2026-09-08T11:27:40.081789+08:00"
   },
   {
+   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
+   "published": "2024-04-04T07:00:00+00:00",
+   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "607e30a6c950",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-07T11:20:07.298976+08:00"
+  },
+  {
    "title": "Georgia Tech OMSCS Resume Format",
    "url": "https://www.reddit.com/r/gradadmissions/comments/1vmfudq/georgia_tech_omscs_resume_format/",
    "published": "2026-08-12T14:33:25+00:00",
@@ -2150,21 +2231,6 @@
     "accepted",
     "decision"
    ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-07T11:20:07.298976+08:00"
-  },
-  {
-   "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
-   "published": "2024-04-04T07:00:00+00:00",
-   "excerpt": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "607e30a6c950",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,

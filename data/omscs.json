@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T13:49:37.059421+08:00",
+ "updated_at": "2026-10-14T11:52:41.091945+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -28,7 +28,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "note": ""
   },
   {
@@ -52,6 +52,69 @@
  ],
  "items": [
   {
+   "title": "Grade I in OMSCS Deep Learning",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x4qlad/grade_i_in_omscs_deep_learning/",
+   "published": "2026-10-13T07:50:21+00:00",
+   "excerpt": "I got a grade I in deep learning , but on gradescope it still shows as a C. I have tried following up with the instructor to help get this resolved . submitted by /u/ana-dorak [link] [留言]",
+   "author": "/u/ana-dorak",
+   "source": "Reddit r/OMSCS",
+   "id": "a5a97edf0a81",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-14T11:52:41.091945+08:00"
+  },
+  {
+   "title": "OMSAI --> OMSSI: Guys, we could be the first on this...",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x4o05o/omsai_omssi_guys_we_could_be_the_first_on_this/",
+   "published": "2026-10-13T05:09:03+00:00",
+   "excerpt": "Super > Artificial submitted by /u/Slow_Taste7955 [link] [留言]",
+   "author": "/u/Slow_Taste7955",
+   "source": "Reddit r/OMSCS",
+   "id": "04675bfbf6a0",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-14T11:52:41.091945+08:00"
+  },
+  {
+   "title": "OMSCS: The Revolution Will Be Digitized - Communications of the ACM",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WV090QjhDRGRFeVB5ZmEtdmh0Z1h5V1VYM3F1NF9QQ2IzU0Z6QnhFU0dMa0wwbmdoa0hrUkZVZlJ4N1JwQllwV0g2aw?oc=5",
+   "published": "2020-08-01T07:00:00+00:00",
+   "excerpt": "OMSCS: The Revolution Will Be Digitized Communications of the ACM",
+   "author": null,
+   "source": "Google News",
+   "id": "11dbfbd3de7e",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-14T11:52:41.091945+08:00"
+  },
+  {
+   "title": "Deleted AI Chats May Leave Clues Behind",
+   "url": "https://omscs.gatech.edu/external-news/deleted-ai-chats-may-leave-clues-behind",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "661fddd60253",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-14T11:52:41.091945+08:00"
+  },
+  {
+   "title": "OMSCS Instructors Make Summer 2026 Honor Roll",
+   "url": "https://omscs.gatech.edu/external-news/omscs-instructors-make-summer-2026-honor-roll",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "17523f00a658",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-14T11:52:41.091945+08:00"
+  },
+  {
    "title": "AI Use by PROFESSORS in Coursework",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x4gpiu/ai_use_by_professors_in_coursework/",
    "published": "2026-10-12T23:03:29+00:00",
@@ -62,19 +125,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
-   "first_seen": "2026-10-13T13:49:37.059421+08:00"
-  },
-  {
-   "title": "Is this acceptable or unacceptable use of AI if the content is yours but formatting is not?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x4jjom/is_this_acceptable_or_unacceptable_use_of_ai_if/",
-   "published": "2026-10-13T01:18:01+00:00",
-   "excerpt": "So I'm taking a very writing report heavy course. We basically conduct our own experiment and then we write up a report usually in either IEEE or Joyner Format or whatever. Now I conduct the experiment myself. I actually do write up the material entirely myself and cite sources. However I do run it through LLM to do a lot of formatting and to put citations in properly. I will usually run the assignment instructions paper as well through LLM. And will usually ask did I answer everything that was needed. If not point to which and then I'll answer it Again the actual content is fully mine and the sources cited are sources I found and cited in my drafts. I feel like this should be fine cause con",
-   "author": "/u/downtimeredditor",
-   "source": "Reddit r/OMSCS",
-   "id": "c676d7343626",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-13T13:49:37.059421+08:00"
   },
   {
@@ -88,6 +140,23 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-13T13:49:37.059421+08:00"
+  },
+  {
+   "title": "Is this acceptable or unacceptable use of AI if the content is yours but formatting is not?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x4jjom/is_this_acceptable_or_unacceptable_use_of_ai_if/",
+   "published": "2026-10-13T01:18:01+00:00",
+   "excerpt": "So I'm taking a very writing report heavy course. We basically conduct our own experiment and then we write up a report usually in either IEEE or Joyner Format or whatever. Now I conduct the experiment myself. I actually do write up the material entirely myself and cite sources. However I do run it through LLM to do a lot of formatting and to put citations in properly. I will usually run the assignment instructions paper as well through LLM. And will usually ask did I answer everything that was needed. If not point to which and then I'll answer it Again the actual content is fully mine and the sources cited are sources I found and cited in my drafts. I feel like this should be fine cause con",
+   "author": "/u/downtimeredditor",
+   "source": "Reddit r/OMSCS",
+   "id": "c676d7343626",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-13T13:49:37.059421+08:00"
   },
   {
@@ -101,6 +170,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-13T13:49:37.059421+08:00"
   },
   {
@@ -126,6 +197,21 @@
    "author": "/u/abrbbb",
    "source": "Reddit r/OMSCS",
    "id": "af694e44c5e0",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-12T12:45:03.405823+08:00"
+  },
+  {
+   "title": "Was too slow before AI. Been acing classes since. Am I an imposter?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x3merd/was_too_slow_before_ai_been_acing_classes_since/",
+   "published": "2026-10-11T23:15:48+00:00",
+   "excerpt": "So I used to fail all my courses cause I had a hard time writing and debugging code. Id understand the logic perfectly and could write the pseudo code, functions, loops etc and what they should do. But when I ran it everything would crash. Bascially id spend 1-2 hours writing code and 8 hours debugging syntax or be stuck and not know what to do. So what would end up happening is more often then not I'd run out of time during an exam/lab/assignment or would make one formatting error I couldn't see clearly and the entire output would crash and I'd fail the course. Also there was a problem of you don't know what you don't know. So for exmaple if my class never showed me a hashmap it wouldn't ev",
+   "author": "/u/aldjfh",
+   "source": "Reddit r/OMSCS",
+   "id": "fa5554e0ae7f",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -171,21 +257,6 @@
    "author": "/u/yrrejl",
    "source": "Reddit r/OMSCS",
    "id": "e81602c9527d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-12T12:45:03.405823+08:00"
-  },
-  {
-   "title": "Was too slow before AI. Been acing classes since. Am I an imposter?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x3merd/was_too_slow_before_ai_been_acing_classes_since/",
-   "published": "2026-10-11T23:15:48+00:00",
-   "excerpt": "So I used to fail all my courses cause I had a hard time writing and debugging code. Id understand the logic perfectly and could write the pseudo code, functions, loops etc and what they should do. But when I ran it everything would crash. Bascially id spend 1-2 hours writing code and 8 hours debugging syntax or be stuck and not know what to do. So what would end up happening is more often then not I'd run out of time during an exam/lab/assignment or would make one formatting error I couldn't see clearly and the entire output would crash and I'd fail the course. Also there was a problem of you don't know what you don't know. So for exmaple if my class never showed me a hashmap it wouldn't ev",
-   "author": "/u/aldjfh",
-   "source": "Reddit r/OMSCS",
-   "id": "fa5554e0ae7f",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

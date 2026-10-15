@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T11:52:41.091945+08:00",
+ "updated_at": "2026-10-15T11:34:43.894044+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -22,7 +22,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "note": ""
   },
   {
@@ -52,6 +52,32 @@
  ],
  "items": [
   {
+   "title": "Available research opportunities email",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x69xgw/available_research_opportunities_email/",
+   "published": "2026-10-15T02:22:10+00:00",
+   "excerpt": "Hey yall, I’m going to be a new student in spring 2027, and I plan to hopefully do the research path. That being said, I have seen that a common way to find places on existing research teams is through an email that comes around every semester which lists some available positions. Once I start, when does this email usually come through? Is it towards the end of the semester? Would there be any way for me to receive the previous semester’s email? Thank you for your help in advance, this is all a bit new to me. submitted by /u/xrtion [link] [留言]",
+   "author": "/u/xrtion",
+   "source": "Reddit r/OMSCS",
+   "id": "74b9b10938e9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-15T11:34:43.894044+08:00"
+  },
+  {
+   "title": "How Does the Research Pipeline Work?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x5iw6e/how_does_the_research_pipeline_work/",
+   "published": "2026-10-14T05:21:21+00:00",
+   "excerpt": "I'm a little confused by how to pursue a research project. If I understand correctly, the standard approach is to take CS 8903. If that works out, you can convert it to CS 6999 and do it for two more semesters. CS 8903 can only be taken for credit once. So practically, let's say you get into CS 8903 and for whatever reason the sponsoring Prof doesn't want to continue for two more semesters. Does that effectively mean you're out of luck, since CS 8903 is the standard way of doing a project-based thesis but you can't take it again? Or do you just do it again but without credit? submitted by /u/Entre-Nous-mena [link] [留言]",
+   "author": "/u/Entre-Nous-mena",
+   "source": "Reddit r/OMSCS",
+   "id": "fc2bc715dd68",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-15T11:34:43.894044+08:00"
+  },
+  {
    "title": "Grade I in OMSCS Deep Learning",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x4qlad/grade_i_in_omscs_deep_learning/",
    "published": "2026-10-13T07:50:21+00:00",
@@ -62,6 +88,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-14T11:52:41.091945+08:00"
   },
   {
@@ -75,6 +103,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-14T11:52:41.091945+08:00"
   },
   {
@@ -88,6 +118,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-14T11:52:41.091945+08:00"
   },
   {
@@ -100,6 +132,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-14T11:52:41.091945+08:00"
   },
   {
@@ -112,6 +146,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-14T11:52:41.091945+08:00"
   },
   {
@@ -130,13 +166,13 @@
    "first_seen": "2026-10-13T13:49:37.059421+08:00"
   },
   {
-   "title": "NLP course scheduling doesn't make sense",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x3vv96/nlp_course_scheduling_doesnt_make_sense/",
-   "published": "2026-10-12T07:53:32+00:00",
-   "excerpt": "The course calendar for NLP has a strangely uneven workload. Some weeks have several closed-book module quizzes and a homework assignment due, while others have nothing due. The (closed-book) midterm covers the first several modules, and a quiz on entirely new material is due the same day. Several students asked on Ed whether the quiz could be moved to another week so they could better prepare for the midterm. Staff replied that agreeing to extend the quiz deadline would oblige them to accept hundreds of individual rescheduling requests, which doesn't make sense at all. It’s a very unprofessional whataboutism way to respond to a reasonable request. In my experience, most teaching staff in ot",
-   "author": "/u/goro-n",
+   "title": "Is this acceptable or unacceptable use of AI if the content is yours but formatting is not?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x4jjom/is_this_acceptable_or_unacceptable_use_of_ai_if/",
+   "published": "2026-10-13T01:18:01+00:00",
+   "excerpt": "So I'm taking a very writing report heavy course. We basically conduct our own experiment and then we write up a report usually in either IEEE or Joyner Format or whatever. Now I conduct the experiment myself. I actually do write up the material entirely myself and cite sources. However I do run it through LLM to do a lot of formatting and to put citations in properly. I will usually run the assignment instructions paper as well through LLM. And will usually ask did I answer everything that was needed. If not point to which and then I'll answer it Again the actual content is fully mine and the sources cited are sources I found and cited in my drafts. I feel like this should be fine cause con",
+   "author": "/u/downtimeredditor",
    "source": "Reddit r/OMSCS",
-   "id": "1adb1258bb1f",
+   "id": "c676d7343626",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -145,13 +181,13 @@
    "first_seen": "2026-10-13T13:49:37.059421+08:00"
   },
   {
-   "title": "Is this acceptable or unacceptable use of AI if the content is yours but formatting is not?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x4jjom/is_this_acceptable_or_unacceptable_use_of_ai_if/",
-   "published": "2026-10-13T01:18:01+00:00",
-   "excerpt": "So I'm taking a very writing report heavy course. We basically conduct our own experiment and then we write up a report usually in either IEEE or Joyner Format or whatever. Now I conduct the experiment myself. I actually do write up the material entirely myself and cite sources. However I do run it through LLM to do a lot of formatting and to put citations in properly. I will usually run the assignment instructions paper as well through LLM. And will usually ask did I answer everything that was needed. If not point to which and then I'll answer it Again the actual content is fully mine and the sources cited are sources I found and cited in my drafts. I feel like this should be fine cause con",
-   "author": "/u/downtimeredditor",
+   "title": "NLP course scheduling doesn't make sense",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x3vv96/nlp_course_scheduling_doesnt_make_sense/",
+   "published": "2026-10-12T07:53:32+00:00",
+   "excerpt": "The course calendar for NLP has a strangely uneven workload. Some weeks have several closed-book module quizzes and a homework assignment due, while others have nothing due. The (closed-book) midterm covers the first several modules, and a quiz on entirely new material is due the same day. Several students asked on Ed whether the quiz could be moved to another week so they could better prepare for the midterm. Staff replied that agreeing to extend the quiz deadline would oblige them to accept hundreds of individual rescheduling requests, which doesn't make sense at all. It’s a very unprofessional whataboutism way to respond to a reasonable request. In my experience, most teaching staff in ot",
+   "author": "/u/goro-n",
    "source": "Reddit r/OMSCS",
-   "id": "c676d7343626",
+   "id": "1adb1258bb1f",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -220,13 +256,13 @@
    "first_seen": "2026-10-12T12:45:03.405823+08:00"
   },
   {
-   "title": "Agentic AI Coursework Requests for OMSCS",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x33lr1/agentic_ai_coursework_requests_for_omscs/",
-   "published": "2026-10-11T09:14:02+00:00",
-   "excerpt": "I'm not sure if there is an official avenue for course requests for the OMSCS program, but I had a couple that I had been looking at from the Stanford Online Graduate Certificate that I wish we had available in the OMSCS program. The first is \"CS224V: Agentic AI\": - https://online.stanford.edu/courses/cs224v-agentic-ai The second is \"CS329A: Self Improving AI Agents\" - https://online.stanford.edu/courses/cs329a-self-improving-ai-agents Both of these courses are available online from Stanford and official courses in their graduate curriculum as well. For the OMSCS program, we currently do not cover these topics in any available classes. I had also looked into if it may be possible to take the",
-   "author": "/u/MediumGuidance934",
+   "title": "How hard is the AI specialization program for someone who is not good at math and algorithms?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x3b1bi/how_hard_is_the_ai_specialization_program_for/",
+   "published": "2026-10-11T15:27:43+00:00",
+   "excerpt": "I have a bachelor's computer science but I also have a very very very hard time with mathematics all the way going back to my elementary school days. In college I barely survived getting a D in my algorithms class with all the studying and office hours that I could do. I have learning disabilities including dyslexia and anything mathematical wise is it very difficult for me. So how screwed would I be to even try to do the program? submitted by /u/0x426C797A [link] [留言]",
+   "author": "/u/0x426C797A",
    "source": "Reddit r/OMSCS",
-   "id": "2c005909e79e",
+   "id": "0c35879d8230",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -235,13 +271,13 @@
    "first_seen": "2026-10-12T12:45:03.405823+08:00"
   },
   {
-   "title": "How hard is the AI specialization program for someone who is not good at math and algorithms?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x3b1bi/how_hard_is_the_ai_specialization_program_for/",
-   "published": "2026-10-11T15:27:43+00:00",
-   "excerpt": "I have a bachelor's computer science but I also have a very very very hard time with mathematics all the way going back to my elementary school days. In college I barely survived getting a D in my algorithms class with all the studying and office hours that I could do. I have learning disabilities including dyslexia and anything mathematical wise is it very difficult for me. So how screwed would I be to even try to do the program? submitted by /u/0x426C797A [link] [留言]",
-   "author": "/u/0x426C797A",
+   "title": "Agentic AI Coursework Requests for OMSCS",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x33lr1/agentic_ai_coursework_requests_for_omscs/",
+   "published": "2026-10-11T09:14:02+00:00",
+   "excerpt": "I'm not sure if there is an official avenue for course requests for the OMSCS program, but I had a couple that I had been looking at from the Stanford Online Graduate Certificate that I wish we had available in the OMSCS program. The first is \"CS224V: Agentic AI\": - https://online.stanford.edu/courses/cs224v-agentic-ai The second is \"CS329A: Self Improving AI Agents\" - https://online.stanford.edu/courses/cs329a-self-improving-ai-agents Both of these courses are available online from Stanford and official courses in their graduate curriculum as well. For the OMSCS program, we currently do not cover these topics in any available classes. I had also looked into if it may be possible to take the",
+   "author": "/u/MediumGuidance934",
    "source": "Reddit r/OMSCS",
-   "id": "0c35879d8230",
+   "id": "2c005909e79e",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -447,7 +483,7 @@
    "published": "2026-10-07T18:05:57+00:00",
    "excerpt": "I was accepted into the OMSCS program and was set to enroll for this fall but I had some life circumstances come up so I was thinking of registering for courses in Fall 27. My concern is I know there’s a requirement that you must complete 2 core classes in your first year with a minimum of a B to remain in the program. So if I defer for a year am I not able to attend and take the OMSCS route? Some of the life stuff is good and some is bad but I feel deeply that not enrolling for this fall and the upcoming Spring semester is the right decision. But I’m randomly getting super depressed because getting my masters in machine learning is my dream and Im worried I can’t register next year if I don",
    "author": "/u/MickeySlips",
-   "source": "Reddit r/OMSCS",
+   "source": "Reddit r/OMSCS 錄取討論",
    "id": "9ece923f0c0c",
    "admission_signal": true,
    "keyword_hits": [

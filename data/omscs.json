@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T11:34:43.894044+08:00",
+ "updated_at": "2026-10-16T11:30:38.998170+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -62,6 +62,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-15T11:34:43.894044+08:00"
   },
   {
@@ -75,6 +77,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-15T11:34:43.894044+08:00"
   },
   {
@@ -256,13 +260,13 @@
    "first_seen": "2026-10-12T12:45:03.405823+08:00"
   },
   {
-   "title": "How hard is the AI specialization program for someone who is not good at math and algorithms?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x3b1bi/how_hard_is_the_ai_specialization_program_for/",
-   "published": "2026-10-11T15:27:43+00:00",
-   "excerpt": "I have a bachelor's computer science but I also have a very very very hard time with mathematics all the way going back to my elementary school days. In college I barely survived getting a D in my algorithms class with all the studying and office hours that I could do. I have learning disabilities including dyslexia and anything mathematical wise is it very difficult for me. So how screwed would I be to even try to do the program? submitted by /u/0x426C797A [link] [留言]",
-   "author": "/u/0x426C797A",
+   "title": "Agentic AI Coursework Requests for OMSCS",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x33lr1/agentic_ai_coursework_requests_for_omscs/",
+   "published": "2026-10-11T09:14:02+00:00",
+   "excerpt": "I'm not sure if there is an official avenue for course requests for the OMSCS program, but I had a couple that I had been looking at from the Stanford Online Graduate Certificate that I wish we had available in the OMSCS program. The first is \"CS224V: Agentic AI\": - https://online.stanford.edu/courses/cs224v-agentic-ai The second is \"CS329A: Self Improving AI Agents\" - https://online.stanford.edu/courses/cs329a-self-improving-ai-agents Both of these courses are available online from Stanford and official courses in their graduate curriculum as well. For the OMSCS program, we currently do not cover these topics in any available classes. I had also looked into if it may be possible to take the",
+   "author": "/u/MediumGuidance934",
    "source": "Reddit r/OMSCS",
-   "id": "0c35879d8230",
+   "id": "2c005909e79e",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -271,13 +275,13 @@
    "first_seen": "2026-10-12T12:45:03.405823+08:00"
   },
   {
-   "title": "Agentic AI Coursework Requests for OMSCS",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x33lr1/agentic_ai_coursework_requests_for_omscs/",
-   "published": "2026-10-11T09:14:02+00:00",
-   "excerpt": "I'm not sure if there is an official avenue for course requests for the OMSCS program, but I had a couple that I had been looking at from the Stanford Online Graduate Certificate that I wish we had available in the OMSCS program. The first is \"CS224V: Agentic AI\": - https://online.stanford.edu/courses/cs224v-agentic-ai The second is \"CS329A: Self Improving AI Agents\" - https://online.stanford.edu/courses/cs329a-self-improving-ai-agents Both of these courses are available online from Stanford and official courses in their graduate curriculum as well. For the OMSCS program, we currently do not cover these topics in any available classes. I had also looked into if it may be possible to take the",
-   "author": "/u/MediumGuidance934",
+   "title": "How hard is the AI specialization program for someone who is not good at math and algorithms?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x3b1bi/how_hard_is_the_ai_specialization_program_for/",
+   "published": "2026-10-11T15:27:43+00:00",
+   "excerpt": "I have a bachelor's computer science but I also have a very very very hard time with mathematics all the way going back to my elementary school days. In college I barely survived getting a D in my algorithms class with all the studying and office hours that I could do. I have learning disabilities including dyslexia and anything mathematical wise is it very difficult for me. So how screwed would I be to even try to do the program? submitted by /u/0x426C797A [link] [留言]",
+   "author": "/u/0x426C797A",
    "source": "Reddit r/OMSCS",
-   "id": "2c005909e79e",
+   "id": "0c35879d8230",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -869,12 +873,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
-   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
+   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
+   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "c9fdb1306c54",
+   "id": "0484e7b5e74c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -883,12 +887,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
-   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
+   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
+   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "0484e7b5e74c",
+   "id": "c9fdb1306c54",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1506,12 +1510,12 @@
    "first_seen": "2026-09-17T11:49:40.293098+08:00"
   },
   {
-   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
-   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
+   "title": "Professor, Alumni Receive Award for Edge Computing Research",
+   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "f422b53b6e0b",
+   "id": "194c0d5c9996",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1520,12 +1524,12 @@
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
-   "title": "Professor, Alumni Receive Award for Edge Computing Research",
-   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
+   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
+   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "194c0d5c9996",
+   "id": "f422b53b6e0b",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T11:36:07.487087+08:00",
+ "updated_at": "2026-10-16T11:31:51.015760+08:00",
  "sources": [
   {
    "name": "電子鋼琴 DP200（88 鍵重鎚）",
@@ -9,9 +9,9 @@
   },
   {
    "name": "Bora BX-20 折疊電鋼琴",
-   "ok": true,
-   "count": 1,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "抓不到價格（可能被反爬擋，或網址失效）"
   },
   {
    "name": "決勝領思 5500 單字",
@@ -201,9 +201,13 @@
     {
      "d": "2026-10-15",
      "v": 13800.0
+    },
+    {
+     "d": "2026-10-16",
+     "v": 13800.0
     }
    ],
-   "checked_at": "2026-10-15T11:36:05.908865+08:00",
+   "checked_at": "2026-10-16T11:31:50.027383+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,
@@ -212,14 +216,14 @@
   {
    "id": "c67f886722b7",
    "title": "Bora BX-20 折疊電鋼琴",
-   "detected_title": "【Bora】BX-20無線藍牙法國DREAM音源力度鍵盤88鍵折疊式電鋼琴(數位電鋼 重力 重錘 折疊電鋼 無線藍牙連接) - momo購物網 - 好評推薦 -2026年10月",
+   "detected_title": "momo購物網 -- Mobile管理訊息",
    "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=9442657",
    "source": "www.momoshop.com.tw",
    "currency": "TWD",
-   "price": 3588.0,
-   "ok": true,
+   "price": null,
+   "ok": false,
    "prev_price": 3588.0,
-   "change": 0.0,
+   "change": null,
    "lowest": 3336.0,
    "highest": 3688.0,
    "is_lowest_ever": false,
@@ -391,7 +395,7 @@
      "v": 3588.0
     }
    ],
-   "checked_at": "2026-10-15T11:36:07.322822+08:00",
+   "checked_at": "2026-10-16T11:31:50.722401+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,
@@ -419,7 +423,7 @@
      "v": 629.0
     }
    ],
-   "checked_at": "2026-10-15T11:36:07.486256+08:00",
+   "checked_at": "2026-10-16T11:31:51.014952+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,

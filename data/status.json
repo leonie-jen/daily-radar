@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-15T11:36:07.487859+08:00",
- "duration_sec": 130.3,
+ "updated_at": "2026-10-16T11:31:51.016538+08:00",
+ "duration_sec": 131.4,
  "sections": [
   {
    "key": "omscs",
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 779,
+   "items": 801,
    "sources": [
     {
      "name": "Google News",
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 1024,
+   "items": 1044,
    "sources": [
     {
      "name": "104｜自動化測試",
@@ -198,7 +198,7 @@
    "key": "finance",
    "label": "匯率與股市",
    "ok": true,
-   "items": 72,
+   "items": 74,
    "sources": [
     {
      "name": "匯率 USD/TWD",
@@ -234,9 +234,9 @@
     },
     {
      "name": "Bora BX-20 折疊電鋼琴",
-     "ok": true,
-     "count": 1,
-     "note": ""
+     "ok": false,
+     "count": 0,
+     "note": "抓不到價格（可能被反爬擋，或網址失效）"
     },
     {
      "name": "決勝領思 5500 單字",

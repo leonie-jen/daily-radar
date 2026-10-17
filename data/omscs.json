@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T11:30:38.998170+08:00",
+ "updated_at": "2026-10-17T11:20:46.292879+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -22,7 +22,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 15,
+   "count": 13,
    "note": ""
   },
   {
@@ -51,6 +51,64 @@
   }
  ],
  "items": [
+  {
+   "title": "How long does it take to get an answer on transfer credits?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x7hjta/how_long_does_it_take_to_get_an_answer_on/",
+   "published": "2026-10-16T14:21:24+00:00",
+   "excerpt": "I took a ML class at an in person program prior to getting accepted and enrolling in OMSCS. I submitted a request to get credits transferred in April. I have followed up a couple times since then and I keep getting told that it’s in progress but we are now going on 6 months. I was initially told I would receive a response once the spring semester had finished and the grades/graduations had been completed. I then went an entire summer semester, and now we are halfway through the fall semester and I still haven’t gotten a resolution. I’m over halfway through the program, it’d be nice if I knew what was going on so I could plan what courses I still needed. I know that there was a switch in advi",
+   "author": "/u/Big-Salad-7306",
+   "source": "Reddit r/OMSCS",
+   "id": "7b98ddd73f1e",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted"
+   ],
+   "relevance": null,
+   "first_seen": "2026-10-17T11:20:46.292879+08:00"
+  },
+  {
+   "title": "Question on CS6747 (Malware Analysis) Assignments",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x7m6o4/question_on_cs6747_malware_analysis_assignments/",
+   "published": "2026-10-16T17:18:53+00:00",
+   "excerpt": "Are they all autograded on Gradescope with unlimited submissions? If not, what's the grading system like? submitted by /u/identifyxnz123 [link] [留言]",
+   "author": "/u/identifyxnz123",
+   "source": "Reddit r/OMSCS",
+   "id": "7c5197e9dbc2",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-17T11:20:46.292879+08:00"
+  },
+  {
+   "title": "Withdrawal consequences on admission",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x76k95/withdrawal_consequences_on_admission/",
+   "published": "2026-10-16T04:16:03+00:00",
+   "excerpt": "I am currently enrolled in one course this semester and this is my second course overall and summer I haven’t enrolled, my life took a turn and I am unable to take time out this semester and I am not doing good in the course I enrolled this semester, what are my options to retain my admission? submitted by /u/Bitter-Battle3564 [link] [留言]",
+   "author": "/u/Bitter-Battle3564",
+   "source": "Reddit r/OMSCS",
+   "id": "f05eb47609b9",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admission"
+   ],
+   "relevance": null,
+   "first_seen": "2026-10-17T11:20:46.292879+08:00"
+  },
+  {
+   "title": "Estimating Expected Seats Available during Registration",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x6jtya/estimating_expected_seats_available_during/",
+   "published": "2026-10-15T12:04:24+00:00",
+   "excerpt": "hi all, this my first OMSCS semester. thinking about how should I think about expected seat availability as I start to consider Spring Registration, since I’ll be toward the end of the line. should I assume that itll be similar to my first semester? related, reason why I’m asking - I’m hoping to take a fairly challenging course next semester in the ML/AI domain, but not sure what I should expect to be open. should I assume I’ll have to get off the waitlist to get into something like ML or AI (the classes) my second semester? thank you! submitted by /u/Necessary-Buffalo-97 [link] [留言]",
+   "author": "/u/Necessary-Buffalo-97",
+   "source": "Reddit r/OMSCS",
+   "id": "f9d37ad795db",
+   "admission_signal": true,
+   "keyword_hits": [
+    "waitlist"
+   ],
+   "relevance": null,
+   "first_seen": "2026-10-17T11:20:46.292879+08:00"
+  },
   {
    "title": "Available research opportunities email",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x69xgw/available_research_opportunities_email/",
@@ -452,6 +510,38 @@
    "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
+   "title": "Postponing enrollment repercussions",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x03oqe/postponing_enrollment_repercussions/",
+   "published": "2026-10-07T18:05:57+00:00",
+   "excerpt": "I was accepted into the OMSCS program and was set to enroll for this fall but I had some life circumstances come up so I was thinking of registering for courses in Fall 27. My concern is I know there’s a requirement that you must complete 2 core classes in your first year with a minimum of a B to remain in the program. So if I defer for a year am I not able to attend and take the OMSCS route? Some of the life stuff is good and some is bad but I feel deeply that not enrolling for this fall and the upcoming Spring semester is the right decision. But I’m randomly getting super depressed because getting my masters in machine learning is my dream and Im worried I can’t register next year if I don",
+   "author": "/u/MickeySlips",
+   "source": "Reddit r/OMSCS 錄取討論",
+   "id": "9ece923f0c0c",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted",
+    "decision"
+   ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "31b0ee4cb5e7",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
    "title": "The Real OMSAI Reddit",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x032gm/the_real_omsai_reddit/",
    "published": "2026-10-07T17:42:59+00:00",
@@ -482,24 +572,6 @@
    "first_seen": "2026-10-08T12:56:10.548866+08:00"
   },
   {
-   "title": "Postponing enrollment repercussions",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x03oqe/postponing_enrollment_repercussions/",
-   "published": "2026-10-07T18:05:57+00:00",
-   "excerpt": "I was accepted into the OMSCS program and was set to enroll for this fall but I had some life circumstances come up so I was thinking of registering for courses in Fall 27. My concern is I know there’s a requirement that you must complete 2 core classes in your first year with a minimum of a B to remain in the program. So if I defer for a year am I not able to attend and take the OMSCS route? Some of the life stuff is good and some is bad but I feel deeply that not enrolling for this fall and the upcoming Spring semester is the right decision. But I’m randomly getting super depressed because getting my masters in machine learning is my dream and Im worried I can’t register next year if I don",
-   "author": "/u/MickeySlips",
-   "source": "Reddit r/OMSCS 錄取討論",
-   "id": "9ece923f0c0c",
-   "admission_signal": true,
-   "keyword_hits": [
-    "accepted",
-    "decision"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
    "title": "The Recent Controversy of Graduate Algorithms in OMSCS - YouTube",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZRU9vUUhja245M0tybmhGdmhqcDlXSUVaXzRqaGF0b0I0bVc5bW9ZWk9GSTlJWGVGNmUxcFNWdDVoYW54dUg4eG1uTVNGdm42cFhQZ091dWdZTVo2?oc=5",
    "published": "2024-12-10T08:00:00+00:00",
@@ -507,20 +579,6 @@
    "author": null,
    "source": "Google News",
    "id": "c607f979e302",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
-   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "31b0ee4cb5e7",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -3430,21 +3488,6 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
-   "published": "2023-04-21T07:00:00+00:00",
-   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
-   "author": null,
-   "source": "Google News",
-   "id": "43f2eafe3c1d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
    "title": "Unique Program Offers Campus Research Opportunities for Online Students - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0ZlSlQ5T2JrVjEtYmpGUGtzb1F1SlBIT0trOENndE9PeG9pN2pQNllxLUc5bk1vTzNmSW1GVWFsNl9ZQl92NnEwbGJjNGYyLTJkNjE0NDFnMEE5UlBybTJraXU1cDVlT1VJUEtFaU9WczBXRHZMTWpsRWxHYTlmQmtXNkJrS3NJMy1KUDBZQ0w0aWc5b25LOExxaVZiZEQ5SmFEaXF4N2RyRTQ?oc=5",
    "published": "2024-04-29T07:00:00+00:00",
@@ -3903,6 +3946,21 @@
    "excerpt": "",
    "source": "Hacker News",
    "id": "295050d1612a",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
+   "published": "2023-04-21T07:00:00+00:00",
+   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "43f2eafe3c1d",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

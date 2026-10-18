@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-17T11:21:48.996498+08:00",
- "duration_sec": 109.2,
+ "updated_at": "2026-10-18T11:27:09.102802+08:00",
+ "duration_sec": 128.7,
  "sections": [
   {
    "key": "omscs",
@@ -16,9 +16,9 @@
     },
     {
      "name": "Reddit r/OMSCS 錄取討論",
-     "ok": true,
-     "count": 25,
-     "note": ""
+     "ok": false,
+     "count": 0,
+     "note": "沒抓到資料（可能被擋或今天沒新內容）"
     },
     {
      "name": "Reddit r/gradadmissions",
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 818,
+   "items": 833,
    "sources": [
     {
      "name": "Google News",
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 1065,
+   "items": 1081,
    "sources": [
     {
      "name": "104｜自動化測試",
@@ -215,7 +215,7 @@
     {
      "name": "哈利的投資研究筆記庫",
      "ok": true,
-     "count": 8,
+     "count": 6,
      "note": ""
     }
    ]

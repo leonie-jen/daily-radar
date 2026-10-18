@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T11:20:46.292879+08:00",
+ "updated_at": "2026-10-18T11:26:09.987836+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,9 +9,9 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": true,
-   "count": 25,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
    "name": "Reddit r/gradadmissions",
@@ -64,19 +64,8 @@
     "accepted"
    ],
    "relevance": null,
-   "first_seen": "2026-10-17T11:20:46.292879+08:00"
-  },
-  {
-   "title": "Question on CS6747 (Malware Analysis) Assignments",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x7m6o4/question_on_cs6747_malware_analysis_assignments/",
-   "published": "2026-10-16T17:18:53+00:00",
-   "excerpt": "Are they all autograded on Gradescope with unlimited submissions? If not, what's the grading system like? submitted by /u/identifyxnz123 [link] [留言]",
-   "author": "/u/identifyxnz123",
-   "source": "Reddit r/OMSCS",
-   "id": "7c5197e9dbc2",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-17T11:20:46.292879+08:00"
   },
   {
@@ -92,6 +81,23 @@
     "admission"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-17T11:20:46.292879+08:00"
+  },
+  {
+   "title": "Question on CS6747 (Malware Analysis) Assignments",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x7m6o4/question_on_cs6747_malware_analysis_assignments/",
+   "published": "2026-10-16T17:18:53+00:00",
+   "excerpt": "Are they all autograded on Gradescope with unlimited submissions? If not, what's the grading system like? submitted by /u/identifyxnz123 [link] [留言]",
+   "author": "/u/identifyxnz123",
+   "source": "Reddit r/OMSCS",
+   "id": "7c5197e9dbc2",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-17T11:20:46.292879+08:00"
   },
   {
@@ -107,6 +113,8 @@
     "waitlist"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-17T11:20:46.292879+08:00"
   },
   {
@@ -510,6 +518,20 @@
    "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "31b0ee4cb5e7",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
    "title": "Postponing enrollment repercussions",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x03oqe/postponing_enrollment_repercussions/",
    "published": "2026-10-07T18:05:57+00:00",
@@ -522,20 +544,6 @@
     "accepted",
     "decision"
    ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
-   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "31b0ee4cb5e7",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -931,12 +939,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
-   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
+   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
+   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "0484e7b5e74c",
+   "id": "c9fdb1306c54",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -945,12 +953,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
-   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
+   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
+   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "c9fdb1306c54",
+   "id": "0484e7b5e74c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1155,6 +1163,21 @@
    "first_seen": "2026-09-26T11:56:08.785653+08:00"
   },
   {
+   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
+   "published": "2025-04-24T07:00:00+00:00",
+   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "b46a54226e93",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
    "title": "OMSCS vs in-person masters Similarity",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
    "published": "2026-09-24T15:35:17+00:00",
@@ -1166,21 +1189,6 @@
    "keyword_hits": [
     "admission"
    ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
-   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
-   "published": "2025-04-24T07:00:00+00:00",
-   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "b46a54226e93",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -1568,12 +1576,12 @@
    "first_seen": "2026-09-17T11:49:40.293098+08:00"
   },
   {
-   "title": "Professor, Alumni Receive Award for Edge Computing Research",
-   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
+   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
+   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "194c0d5c9996",
+   "id": "f422b53b6e0b",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1582,12 +1590,12 @@
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
-   "title": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
-   "url": "https://omscs.gatech.edu/external-news/i-worked-safety-openai-what-it-should-do-now",
+   "title": "Professor, Alumni Receive Award for Edge Computing Research",
+   "url": "https://omscs.gatech.edu/external-news/professor-alumni-receive-award-edge-computing-research",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "f422b53b6e0b",
+   "id": "194c0d5c9996",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

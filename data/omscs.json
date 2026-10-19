@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T11:26:09.987836+08:00",
+ "updated_at": "2026-10-19T11:37:35.452153+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,9 +9,9 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+   "ok": true,
+   "count": 25,
+   "note": ""
   },
   {
    "name": "Reddit r/gradadmissions",
@@ -28,7 +28,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 6,
+   "count": 4,
    "note": ""
   },
   {
@@ -51,6 +51,19 @@
   }
  ],
  "items": [
+  {
+   "title": "Interest at ECE8843, but no longer available",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x9iqpw/interest_at_ece8843_but_no_longer_available/",
+   "published": "2026-10-19T00:24:43+00:00",
+   "excerpt": "I would like to learn more about security vulnerability of computer architecture. But it seems that the course ECE 8843 is no longer provided since 2022. Will it come back in future? submitted by /u/kjhhgt76 [link] [留言]",
+   "author": "/u/kjhhgt76",
+   "source": "Reddit r/OMSCS",
+   "id": "cfcdb319fe7b",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-19T11:37:35.452153+08:00"
+  },
   {
    "title": "How long does it take to get an answer on transfer credits?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x7hjta/how_long_does_it_take_to_get_an_answer_on/",
@@ -429,13 +442,12 @@
    "first_seen": "2026-10-10T12:44:37.032036+08:00"
   },
   {
-   "title": "Fall 2026 Commencement Ceremony Tickets",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x17ciq/fall_2026_commencement_ceremony_tickets/",
-   "published": "2026-10-09T00:28:06+00:00",
-   "excerpt": "I emailed [ events@gatech.edu ](mailto: events@gatech.edu ) the below: \"The schedule events website says the Masters only ceremony on Thursday requires RSVP. The RSVP website does not have a category for Masters only ceremonies. What is the policy for tickets for this ceremony?\" This was their response: \"Thank you for reaching out. To clarify, all of our non-Ph.D. Ceremonies are ticketed and students are allotted 4 tickets each.\" So go ahead and RSVP your tickets if you plan to attend graduation this fall. submitted by /u/jmikey29 [link] [留言]",
-   "author": "/u/jmikey29",
-   "source": "Reddit r/OMSCS",
-   "id": "e24db549b741",
+   "title": "Show HN: tgv: Genome viewer for you and your agents",
+   "url": "https://github.com/zeqianli/tgv",
+   "published": "2026-10-10T03:12:19Z",
+   "excerpt": "Hi HN, I’m sharing tgv, a new kind of genome viewer built for humans-agent collaboration in genomics.<p>I work in a cancer diagnostics lab and we check cancer patients’ sequencing data in genome viewers every day. Frustrated by the standard tools, last year I built tgv, a Vim-style, keyboard-driven genome viewer.<p>In 2026, while agents are scarily good at bioinformatics, bioinformatics tools haven’t kept up. tgv now brings a new kind of research workflow: expose multi-omics data to agents throu",
+   "source": "Hacker News",
+   "id": "50a8942187b0",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -444,12 +456,13 @@
    "first_seen": "2026-10-10T12:44:37.032036+08:00"
   },
   {
-   "title": "Show HN: tgv: Genome viewer for you and your agents",
-   "url": "https://github.com/zeqianli/tgv",
-   "published": "2026-10-10T03:12:19Z",
-   "excerpt": "Hi HN, I’m sharing tgv, a new kind of genome viewer built for humans-agent collaboration in genomics.<p>I work in a cancer diagnostics lab and we check cancer patients’ sequencing data in genome viewers every day. Frustrated by the standard tools, last year I built tgv, a Vim-style, keyboard-driven genome viewer.<p>In 2026, while agents are scarily good at bioinformatics, bioinformatics tools haven’t kept up. tgv now brings a new kind of research workflow: expose multi-omics data to agents throu",
-   "source": "Hacker News",
-   "id": "50a8942187b0",
+   "title": "Fall 2026 Commencement Ceremony Tickets",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x17ciq/fall_2026_commencement_ceremony_tickets/",
+   "published": "2026-10-09T00:28:06+00:00",
+   "excerpt": "I emailed [ events@gatech.edu ](mailto: events@gatech.edu ) the below: \"The schedule events website says the Masters only ceremony on Thursday requires RSVP. The RSVP website does not have a category for Masters only ceremonies. What is the policy for tickets for this ceremony?\" This was their response: \"Thank you for reaching out. To clarify, all of our non-Ph.D. Ceremonies are ticketed and students are allotted 4 tickets each.\" So go ahead and RSVP your tickets if you plan to attend graduation this fall. submitted by /u/jmikey29 [link] [留言]",
+   "author": "/u/jmikey29",
+   "source": "Reddit r/OMSCS",
+   "id": "e24db549b741",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -518,20 +531,6 @@
    "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
-   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "31b0ee4cb5e7",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
    "title": "Postponing enrollment repercussions",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x03oqe/postponing_enrollment_repercussions/",
    "published": "2026-10-07T18:05:57+00:00",
@@ -544,6 +543,20 @@
     "accepted",
     "decision"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "31b0ee4cb5e7",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -1163,21 +1176,6 @@
    "first_seen": "2026-09-26T11:56:08.785653+08:00"
   },
   {
-   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
-   "published": "2025-04-24T07:00:00+00:00",
-   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "b46a54226e93",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
    "title": "OMSCS vs in-person masters Similarity",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
    "published": "2026-09-24T15:35:17+00:00",
@@ -1189,6 +1187,21 @@
    "keyword_hits": [
     "admission"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
+   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
+   "published": "2025-04-24T07:00:00+00:00",
+   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "b46a54226e93",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -3541,21 +3554,6 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Research challenges assumptions about online education success - Phys.org",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
-   "published": "2026-08-03T07:00:00+00:00",
-   "excerpt": "Research challenges assumptions about online education success Phys.org",
-   "author": null,
-   "source": "Google News",
-   "id": "3fd446b8a3e2",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
    "title": "Top Online Master's in Computer Science Without CS Undergrad - BestColleges",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaEJ4V3V3YmdiYWkwVjJjUTZTb3BJUEFGQmk2bWF3MjlKU00zQUpMOHktdDBZZUdRLUMtZEFSN29GLUhyZlU1QVhEdDZNSnVrMlhvcHFxN3BTTUlMalZlRGNQQTREWTF6eFBxOHJvWUg5UVVPa1ow?oc=5",
    "published": "2024-10-08T07:00:00+00:00",
@@ -3954,6 +3952,21 @@
    "excerpt": "",
    "source": "Hacker News",
    "id": "295050d1612a",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "Research challenges assumptions about online education success - Phys.org",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
+   "published": "2026-08-03T07:00:00+00:00",
+   "excerpt": "Research challenges assumptions about online education success Phys.org",
+   "author": null,
+   "source": "Google News",
+   "id": "3fd446b8a3e2",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

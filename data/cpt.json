@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T11:38:11.871979+08:00",
+ "updated_at": "2026-10-20T11:49:10.431004+08:00",
  "sources": [
   {
    "name": "Google News",
@@ -39,9 +39,9 @@
   },
   {
    "name": "Reddit r/immigration CPT",
-   "ok": true,
-   "count": 25,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
    "name": "ICE 新聞稿",
@@ -57,6 +57,30 @@
   }
  ],
  "items": [
+  {
+   "title": "New CPT Rule for F-1 Students | Day-1 CPT SEVP Crackdown - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1waUdCYXlvd2h0Vk5xOFJTbzQ0VUxpX3NSdDVUcDNqMnp6ZF9WUEh0VnlfZm1JUVJYVlp1c01ycW1DNkRJN1A0MndNdld0Tnd0WEF2eUsxNGtSSnB0?oc=5",
+   "published": "2026-08-13T07:00:00+00:00",
+   "excerpt": "New CPT Rule for F-1 Students | Day-1 CPT SEVP Crackdown YouTube",
+   "author": null,
+   "source": "Google News",
+   "id": "e234506d9f8b",
+   "policy_signal": true,
+   "relevance": null,
+   "first_seen": "2026-10-20T11:49:10.431004+08:00"
+  },
+  {
+   "title": "Can International Students Work in Taiwan After Graduation?｜Politics & Society｜2026-10-20｜web only - 天下雜誌",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hYXkybUp3TmRLMVN1azRzT25EX0MwSmNON1F3MkRZYVlPQjVEd2Z0SUxWVGpYRTdFSVpiZTB2eVcxQnJoMmZkMHpOZWIzOVNJd0NuMWcxa0p0QnhFMk9GVi1PbXNRVzA?oc=5",
+   "published": "2026-10-20T02:10:34+00:00",
+   "excerpt": "Can International Students Work in Taiwan After Graduation?｜Politics & Society｜2026-10-20｜web only 天下雜誌",
+   "author": null,
+   "source": "Google News",
+   "id": "e0f427cb1b13",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-20T11:49:10.431004+08:00"
+  },
   {
    "title": "Trump administration floats $70,000 fee for international student work authorization - Honolulu Star-Advertiser",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTBnNk9kTUhYRHd4OWRCQkF1NTh1YmJOSmVFSnBMU1J5LXFOQ0x4MWFnR1RkRDh6dmFzckxhT2FzcFQ2TFNlVl9xbDJuWC1QTHFYZjBjb2x5NWVCc21Za0NYeVpjbkF0NFY1VHF5M3Q2LVlFT043LW1UNzQwanJPX3Nuek1pcnEwcnFqek5lVnBFRHAtN1c0aEdrVFJCSGVPcHA4X2RuM2M5WUNHYnZlbkgtZGdiYVVuXzFNQ1VydC1zRHlXcHc?oc=5",
@@ -348,6 +372,34 @@
    "first_seen": "2026-10-18T11:26:52.573531+08:00"
   },
   {
+   "title": "Lake County Jail",
+   "url": "https://www.ice.gov/detain/detention-facilities/lake-county-jail",
+   "published": null,
+   "excerpt": "",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "4f222eeba1bb",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-18T11:26:52.573531+08:00"
+  },
+  {
+   "title": "ParticipatingAgencies10162026pm",
+   "url": "https://www.ice.gov/node/70370",
+   "published": null,
+   "excerpt": "",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "da1e306e144e",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-18T11:26:52.573531+08:00"
+  },
+  {
    "title": "ICE turns over criminal illegal alien charged in newlyweds’ deaths to Oregon state officials for prosecution after county ignored detainer",
    "url": "https://www.ice.gov/news/releases/ice-turns-over-criminal-illegal-alien-charged-newlyweds-deaths-oregon-state-officials",
    "published": null,
@@ -491,30 +543,6 @@
    "author": "/u/Consistent_Taste_776",
    "source": "Reddit r/f1visa",
    "id": "85bda638209e",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-10-18T11:26:52.573531+08:00"
-  },
-  {
-   "title": "Lake County Jail",
-   "url": "https://www.ice.gov/detain/detention-facilities/lake-county-jail",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "4f222eeba1bb",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-10-18T11:26:52.573531+08:00"
-  },
-  {
-   "title": "ParticipatingAgencies10162026pm",
-   "url": "https://www.ice.gov/node/70370",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "da1e306e144e",
    "policy_signal": false,
    "relevance": null,
    "first_seen": "2026-10-18T11:26:52.573531+08:00"
@@ -1070,20 +1098,6 @@
    "first_seen": "2026-10-15T11:35:38.577355+08:00"
   },
   {
-   "title": "US ends automatic work permit extensions: What Indian students on OPT and STEM OPT need to know - Moneycontrol.com",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSFNGVFpheXpld2FnbHZhQnlkWVB1ZUdxMjZMU3lXZllVTXJSTjhpcmVwMlBJTGJueF8wOEI0TFVsZ0s0akNYTFdJMVJYbTdoa0RZZ3piT19QdjJ1TWFOVzNQRHBVMUVTRmlUcEpHYzhHYXFYaVBTcl9aQl9OblU1YmZSQUpySXAxRGR6YmhmVUFvM0ZRT3laWnBwTkIxY2hTR0cybFlnU1hBVXFqUjg3YWZuQjZtQXltVGg1b3NUdERuVmZYTmFzZmpkUkdBTVBYRmFtRlpfZi1xZW5BYlRRWnEyMHBPQdIB6wFBVV95cUxQYXBFSWpTcnJ3T1JKbjZDekladnJpb0NrSzlUb3N5ZjV1UDA4RlRackZ5Rm5CcUFYQlVFOV9OYmlOQUhjaVNvMnZKT245MVBqeE11ZkJXZ2ZwRGhQWVdHUGRpekhOUWJPWGs0T3VsY2NZcmRCM3FialNZVl9vZVdLXzYza1J0SWE5czg2TVdBTDRCR3dWT3RuTG1FTjJTSU5LRXNDazkxQWFsd214aUc3TFZzelQ2Zl81a241TlNDRmhFMFpVNTJUVURTVkt4MFRTM3VxXzVVMTNGRFB0alFJekdEdXZGNHYxS1lz?oc=5",
-   "published": "2026-10-14T14:10:24+00:00",
-   "excerpt": "US ends automatic work permit extensions: What Indian students on OPT and STEM OPT need to know Moneycontrol.com",
-   "author": null,
-   "source": "Google News",
-   "id": "9e48f5e15292",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-15T11:35:38.577355+08:00"
-  },
-  {
    "title": "ICE Washington, DC arrests criminal illegal alien convicted of possessing child sex abuse material in Virginia",
    "url": "https://www.ice.gov/news/releases/ice-washington-dc-arrests-criminal-illegal-alien-convicted-possessing-child-sex-abuse",
    "published": null,
@@ -1105,6 +1119,20 @@
    "author": null,
    "source": "ICE 新聞稿",
    "id": "bc5a6d54d726",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-15T11:35:38.577355+08:00"
+  },
+  {
+   "title": "US ends automatic work permit extensions: What Indian students on OPT and STEM OPT need to know - Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSFNGVFpheXpld2FnbHZhQnlkWVB1ZUdxMjZMU3lXZllVTXJSTjhpcmVwMlBJTGJueF8wOEI0TFVsZ0s0akNYTFdJMVJYbTdoa0RZZ3piT19QdjJ1TWFOVzNQRHBVMUVTRmlUcEpHYzhHYXFYaVBTcl9aQl9OblU1YmZSQUpySXAxRGR6YmhmVUFvM0ZRT3laWnBwTkIxY2hTR0cybFlnU1hBVXFqUjg3YWZuQjZtQXltVGg1b3NUdERuVmZYTmFzZmpkUkdBTVBYRmFtRlpfZi1xZW5BYlRRWnEyMHBPQdIB6wFBVV95cUxQYXBFSWpTcnJ3T1JKbjZDekladnJpb0NrSzlUb3N5ZjV1UDA4RlRackZ5Rm5CcUFYQlVFOV9OYmlOQUhjaVNvMnZKT245MVBqeE11ZkJXZ2ZwRGhQWVdHUGRpekhOUWJPWGs0T3VsY2NZcmRCM3FialNZVl9vZVdLXzYza1J0SWE5czg2TVdBTDRCR3dWT3RuTG1FTjJTSU5LRXNDazkxQWFsd214aUc3TFZzelQ2Zl81a241TlNDRmhFMFpVNTJUVURTVkt4MFRTM3VxXzVVMTNGRFB0alFJekdEdXZGNHYxS1lz?oc=5",
+   "published": "2026-10-14T14:10:24+00:00",
+   "excerpt": "US ends automatic work permit extensions: What Indian students on OPT and STEM OPT need to know Moneycontrol.com",
+   "author": null,
+   "source": "Google News",
+   "id": "9e48f5e15292",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -2292,6 +2320,20 @@
    "first_seen": "2026-10-09T12:59:38.349418+08:00"
   },
   {
+   "title": "US Proposes $70,000 Fee for International Students Seeking Post-Graduation Work Authorization - INDIA New England News",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2FRblNZYVZhbXhWOTBBcW1icW9BNVV4ZTFpdDJvRzZpcDlFbVJ3dTVTSzBCQzRpS2N0MXptLUNtNlVlNWJsd2xpVVNHVjFJazJ5dl9CUnNpbWZVd0htUnVZUFJQZVRVaWxnN3hqNFJjTjZtd2M0czJDam1kUXdIV202VV9PbzkweU8tX3d1SlJfMFJxMjdiSmVkVGJuTzUwOUhPSDE5NjU3emZHNXVHT0JvYjBHRGNKMi1QNQ?oc=5",
+   "published": "2026-10-19T07:20:13+00:00",
+   "excerpt": "US Proposes $70,000 Fee for International Students Seeking Post-Graduation Work Authorization INDIA New England News",
+   "author": null,
+   "source": "Google News",
+   "id": "8e4c908ba262",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-09T12:59:38.349418+08:00"
+  },
+  {
    "title": "Trump Administration Proposes $70K Fee for International Students to Work in U.S. - Time Magazine",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObERuUGEzYTJwbHNyby1Udjd6V1N1UC02V1Y3UnBQX3AxcjJGWXA5M1RBVS1JVEJ5dVRKaThxWUhvNkZUZ3FONTZlTjJQM2YyeXpIaFZwUVhMT1BiWWlnZjM0dHpucS04TnBMcFhlaVZXa3FSUjNsMkdXYjRvUnhzYV8ydC1wSzQxeDQ1cUNWRTAwQmttZnczS0lvcnlXTmVtYjg4?oc=5",
    "published": "2026-10-08T07:00:00+00:00",
@@ -2459,18 +2501,6 @@
    "author": null,
    "source": "Google News",
    "id": "91a36f65da00",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-10-09T12:59:38.349418+08:00"
-  },
-  {
-   "title": "US Proposes $70,000 Fee for International Students Seeking Post-Graduation Work Authorization - INDIA New England News",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2FRblNZYVZhbXhWOTBBcW1icW9BNVV4ZTFpdDJvRzZpcDlFbVJ3dTVTSzBCQzRpS2N0MXptLUNtNlVlNWJsd2xpVVNHVjFJazJ5dl9CUnNpbWZVd0htUnVZUFJQZVRVaWxnN3hqNFJjTjZtd2M0czJDam1kUXdIV202VV9PbzkweU8tX3d1SlJfMFJxMjdiSmVkVGJuTzUwOUhPSDE5NjU3emZHNXVHT0JvYjBHRGNKMi1QNQ?oc=5",
-   "published": "2026-10-08T14:55:17+00:00",
-   "excerpt": "US Proposes $70,000 Fee for International Students Seeking Post-Graduation Work Authorization INDIA New England News",
-   "author": null,
-   "source": "Google News",
-   "id": "8e4c908ba262",
    "policy_signal": false,
    "relevance": null,
    "first_seen": "2026-10-09T12:59:38.349418+08:00"
@@ -7050,7 +7080,7 @@
   {
    "title": "UNC to review and update CPT processes following memo from ICE - The Daily Tar Heel",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHF0dWppY0VUcFhfU1ZqM3dtaDhVci1oQTRkU213bVE0blppdHNWNklDN3B1aWNnWUQ0cGV4LVpxRnBzYmFUMU16SS1QM3NPZEtOSl91bGUwN3l6NzlpSmFmdWFibEtJUkpGN25yNDRjQV91b1J3MDB6b3JmdUFfczNpejBzS3BDb1lIRnlNZ1RQTWt0RDRHV2Y2UDVKTnlpZ2lmNWdoOUNNTjQ5MXRIMA?oc=5",
-   "published": "2026-08-27T07:00:00+00:00",
+   "published": "2026-08-28T04:18:27+00:00",
    "excerpt": "UNC to review and update CPT processes following memo from ICE The Daily Tar Heel",
    "author": null,
    "source": "Google News",
@@ -10042,20 +10072,6 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
-   "title": "The $100,000 OPT fee is a Trojan Horse for H-1B abuse - Economic Innovation Group",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IQzNBV2o1X2pHalFSNm4zSTZybU1kb19odzk5UzN1UE1fTkhpejJTQXpOX1VSTVVhNVFLZnRTNV90QkRDY0xIOElPaDFQazVsS0J4Sw?oc=5",
-   "published": "2026-08-14T07:00:00+00:00",
-   "excerpt": "The $100,000 OPT fee is a Trojan Horse for H-1B abuse Economic Innovation Group",
-   "author": null,
-   "source": "Google News",
-   "id": "c2da4c298dc9",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:08:07.595859+08:00"
-  },
-  {
    "title": "US universities pausing CPT program after new ICE memo: Indian students in a fix - The Times of India",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTWRXd0pJWkVVQmtFTnQyRlJKTGVvLVN2cllQeklsOXd2Ml83UHlxUXFJQnZGMGd0N3ZOb1ZVM2NmSE05LW54NC1KNklrWTBNS1J6VU1yRl92UER6UDVyQzFyazNrWVBfV1RBVFgxWXdxRGhLek9kNm5ubGdRNUdnUG05NkpCWDRyTmR4d3ZnclYwVHhRZzdKRzRoZHl6OUJqcXlpYmdTUWlqTlYtNEswaDBkcVNhZFA3OGFhVW5hRXNDUWtTQl9xbmZqLVdIZkFIMm5TUjB3U2E5SkR0ZWFVdUg0WnHSAeoBQVVfeXFMUEdQZFVWYmJCblJMM0NuSG9JbUJvWkNlSzNibWh3dzgwOFYwcXFhbUx4bVFNYVBuZzduaC16VXBnS25QQUxEMi1HUlBhaUt6R3huaTczN3MyazE0T3M2Tk5uenhpVFQtU1d0d2pHNkZVU0NIakJJbXl0VkZMYTQxa21UQnBMbWttNV9tdlh5a1JIbnFoOEtMc2Nrb0dBUXFnV1ZSY0YxbVg5MG1VbUgzcTRXWVc0VGhpNXhEaUNleU1yM1UwZkcyU2dNNE5tV1p6SnJEaTR2eU1VOENFYTZDZXNZVk8yRHBud1l3?oc=5",
    "published": "2026-08-25T07:00:00+00:00",
@@ -10063,6 +10079,20 @@
    "author": null,
    "source": "Google News",
    "id": "a03610b59ca0",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:07.595859+08:00"
+  },
+  {
+   "title": "The $100,000 OPT fee is a Trojan Horse for H-1B abuse - Economic Innovation Group",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IQzNBV2o1X2pHalFSNm4zSTZybU1kb19odzk5UzN1UE1fTkhpejJTQXpOX1VSTVVhNVFLZnRTNV90QkRDY0xIOElPaDFQazVsS0J4Sw?oc=5",
+   "published": "2026-08-14T07:00:00+00:00",
+   "excerpt": "The $100,000 OPT fee is a Trojan Horse for H-1B abuse Economic Innovation Group",
+   "author": null,
+   "source": "Google News",
+   "id": "c2da4c298dc9",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -10224,13 +10254,27 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
-   "title": "ICE’s OPT Fraud Crackdown: A Compliance Guide for Employers of F-1 Students - Reddy Neumann Brown PC",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUE5KMkIzd1VSalVGelZocXhoUHZjRXpQSnEyOE9oQ2tvQWZjOS1hRnpKTmQ2UFk5eGp0R1lfS24yVWlQaUhBTEdGUzV6a0ljT0t4b0J5Q1YwZGF5TFNnX3hpU1dUSXVIdHRyRjdlOEltbGx1aldQZmh6cTVaeDZldm1FcDlxRkJmZFBxUUVFQlZpdkE5cWRaU2VoQ3IxSERRcWtJ?oc=5",
-   "published": "2026-05-13T07:00:00+00:00",
-   "excerpt": "ICE’s OPT Fraud Crackdown: A Compliance Guide for Employers of F-1 Students Reddy Neumann Brown PC",
+   "title": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers - Employment Law Worldview",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmxyRF9DQ21KNWZiZW9obWZYV3JQOXd0ZEZaU3Iwd1kwTVM0LUhRdkJnTTFGV3pMUnNpdVh3X0FCcTNfeHhzeEdic1ladHJSSVpqME5CaEYzeHk0VURIOVNXbmxFb3FKSmZzc1pWd2ZNVUxla3VsU2dwZGpocFdjeWRqUllybmpFNWhxUmJHWEZzd3ZZaUE2WHFTNHQ4VF9MVjc0akQ1eXBQa3lWTFJRWTdDOEI4SFFXUGVRTlotVkhhLUFYV0E?oc=5",
+   "published": "2025-12-15T08:00:00+00:00",
+   "excerpt": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers Employment Law Worldview",
    "author": null,
    "source": "Google News",
-   "id": "d563bccb601f",
+   "id": "bf45294c2331",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:07.595859+08:00"
+  },
+  {
+   "title": "After second ICE threat, UC Berkeley indefinitely suspends international student work authorizations - Daily Cal",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQREk3RlI0eHZZbW00aGdKNy1aWjl0OHVDbGxIWS16OUpaNVNSM2ZDa2cwOGI5d3hJWVlwUDZ6a051bTQyM19QRXRJTkNjSE1lWlpfekRRTDlUTHVIakRubHg0SUlMNE5CMy0wSXJjZE1Ga2gyS1RxT19KQ0dVOFlHM1YtbDFnMmoyeWgxZ0dhZGc1cFFJNlVaZklvMWE4VW1fa1pHb2FZQXFTbWh4Y0VaLTQzelNfaVBkWXBNeFZla2Z0VmxsdmpTRUUwY250bnowMnNvUXZtSm5qb0tFZzFkZUFTOUQ4N2xReTJjYU0zOUlzRnZFYV9DcnlkNzJyaFY3UzZINnlPQUM0SENDU01TdU4tNHU?oc=5",
+   "published": "2026-08-26T07:00:00+00:00",
+   "excerpt": "After second ICE threat, UC Berkeley indefinitely suspends international student work authorizations Daily Cal",
+   "author": null,
+   "source": "Google News",
+   "id": "9fd83fec1d42",
    "policy_signal": true,
    "relevance": null,
    "summary": null,
@@ -10378,6 +10422,20 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
+   "title": "ICE’s OPT Fraud Crackdown: A Compliance Guide for Employers of F-1 Students - Reddy Neumann Brown PC",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUE5KMkIzd1VSalVGelZocXhoUHZjRXpQSnEyOE9oQ2tvQWZjOS1hRnpKTmQ2UFk5eGp0R1lfS24yVWlQaUhBTEdGUzV6a0ljT0t4b0J5Q1YwZGF5TFNnX3hpU1dUSXVIdHRyRjdlOEltbGx1aldQZmh6cTVaeDZldm1FcDlxRkJmZFBxUUVFQlZpdkE5cWRaU2VoQ3IxSERRcWtJ?oc=5",
+   "published": "2026-05-13T07:00:00+00:00",
+   "excerpt": "ICE’s OPT Fraud Crackdown: A Compliance Guide for Employers of F-1 Students Reddy Neumann Brown PC",
+   "author": null,
+   "source": "Google News",
+   "id": "d563bccb601f",
+   "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:07.595859+08:00"
+  },
+  {
    "title": "Trump admin steps up scrutiny of CPT for international students, warns colleges over misuse - The Times of India",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdGVCNi15Snd5aEdCWTZNWWVnamIwWk9nLWRnbHdfU3c1WGxYNExIZVlHU0NNWmFiMFJqQThwODZTTVU1YXMxbnAtV2xPQXF0WVY0c3hqcFpJSkFfaVBReW91VWVDUlRWaENTZl82QnpyQnlTdHJrU0FzaHgzUzlVbDg1elVjZmFqQkdkaGtQQ011b3BManVoME8wOU5ISGRhVEM4SFFNVTE0VGJVN1dUeE5qRDV5dURCSlF2djRxVEh6UGNocnVQUkVZSnRzaGNMaTVyVno2VTM3Rkh3YWplN2dzWTlXUFZaVzFiZ1BrUk5mdnfSAfgBQVVfeXFMTWhlQlBQajBhXzhaaDBLMnBSQnlCNmlyQVQ4SzRnRjBCalZOeU9mVmUyUUtsZXE3a3ROMEw5X0ZqcDIta3VxVWRaSzJJa0lyMENZVTIzZHdjNlRlNEVRTTkwTV9hS1BuX295M0tlTUx5UkRMdEVHUHduNkRSUnNiOVdiNERtQnBpbnFzYTR4c2lib29BQm1oSGlDdmlWVldDZlNYanRaVDhIeWs0d09DZkV6cUZKVnpXQUNKMTB2cjZtcnFycWl2T1kzeVUzWDd5QW5JMkpSZm9pX2NkeDUzZVgtWWxzdWxhbkgzckNkZ25DN25PZW5iWTc?oc=5",
    "published": "2026-08-13T07:00:00+00:00",
@@ -10399,20 +10457,6 @@
    "author": null,
    "source": "Google News",
    "id": "5aaa898c1d9c",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:08:07.595859+08:00"
-  },
-  {
-   "title": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers - Employment Law Worldview",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmxyRF9DQ21KNWZiZW9obWZYV3JQOXd0ZEZaU3Iwd1kwTVM0LUhRdkJnTTFGV3pMUnNpdVh3X0FCcTNfeHhzeEdic1ladHJSSVpqME5CaEYzeHk0VURIOVNXbmxFb3FKSmZzc1pWd2ZNVUxla3VsU2dwZGpocFdjeWRqUllybmpFNWhxUmJHWEZzd3ZZaUE2WHFTNHQ4VF9MVjc0akQ1eXBQa3lWTFJRWTdDOEI4SFFXUGVRTlotVkhhLUFYV0E?oc=5",
-   "published": "2025-12-15T08:00:00+00:00",
-   "excerpt": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers Employment Law Worldview",
-   "author": null,
-   "source": "Google News",
-   "id": "bf45294c2331",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -10568,20 +10612,6 @@
    "source": "Google News",
    "id": "09fb146b2bb8",
    "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:08:07.595859+08:00"
-  },
-  {
-   "title": "After second ICE threat, UC Berkeley indefinitely suspends international student work authorizations - dailycal.org",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQREk3RlI0eHZZbW00aGdKNy1aWjl0OHVDbGxIWS16OUpaNVNSM2ZDa2cwOGI5d3hJWVlwUDZ6a051bTQyM19QRXRJTkNjSE1lWlpfekRRTDlUTHVIakRubHg0SUlMNE5CMy0wSXJjZE1Ga2gyS1RxT19KQ0dVOFlHM1YtbDFnMmoyeWgxZ0dhZGc1cFFJNlVaZklvMWE4VW1fa1pHb2FZQXFTbWh4Y0VaLTQzelNfaVBkWXBNeFZla2Z0VmxsdmpTRUUwY250bnowMnNvUXZtSm5qb0tFZzFkZUFTOUQ4N2xReTJjYU0zOUlzRnZFYV9DcnlkNzJyaFY3UzZINnlPQUM0SENDU01TdU4tNHU?oc=5",
-   "published": "2026-08-26T07:00:00+00:00",
-   "excerpt": "After second ICE threat, UC Berkeley indefinitely suspends international student work authorizations dailycal.org",
-   "author": null,
-   "source": "Google News",
-   "id": "9fd83fec1d42",
-   "policy_signal": true,
    "relevance": null,
    "summary": null,
    "tags": null,

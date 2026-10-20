@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-19T11:38:27.494918+08:00",
- "duration_sec": 111.4,
+ "updated_at": "2026-10-20T11:49:57.865186+08:00",
+ "duration_sec": 157.3,
  "sections": [
   {
    "key": "omscs",
    "label": "OMSCS 情報",
    "ok": true,
-   "items": 275,
+   "items": 276,
    "sources": [
     {
      "name": "Reddit r/OMSCS",
@@ -16,15 +16,15 @@
     },
     {
      "name": "Reddit r/OMSCS 錄取討論",
-     "ok": true,
-     "count": 25,
-     "note": ""
-    },
-    {
-     "name": "Reddit r/gradadmissions",
      "ok": false,
      "count": 0,
      "note": "沒抓到資料（可能被擋或今天沒新內容）"
+    },
+    {
+     "name": "Reddit r/gradadmissions",
+     "ok": true,
+     "count": 25,
+     "note": ""
     },
     {
      "name": "Google News",
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 856,
+   "items": 858,
    "sources": [
     {
      "name": "Google News",
@@ -102,9 +102,9 @@
     },
     {
      "name": "Reddit r/immigration CPT",
-     "ok": true,
-     "count": 25,
-     "note": ""
+     "ok": false,
+     "count": 0,
+     "note": "沒抓到資料（可能被擋或今天沒新內容）"
     },
     {
      "name": "ICE 新聞稿",
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 1099,
+   "items": 1115,
    "sources": [
     {
      "name": "104｜自動化測試",
@@ -152,8 +152,8 @@
     },
     {
      "name": "LinkedIn 職缺",
-     "ok": true,
-     "count": 10,
+     "ok": false,
+     "count": 0,
      "note": "LinkedIn 常擋機器人，抓不到屬正常"
     },
     {
@@ -198,7 +198,7 @@
    "key": "finance",
    "label": "匯率與股市",
    "ok": true,
-   "items": 77,
+   "items": 79,
    "sources": [
     {
      "name": "匯率 USD/TWD",

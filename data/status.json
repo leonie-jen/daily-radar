@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-20T11:49:57.865186+08:00",
- "duration_sec": 157.3,
+ "updated_at": "2026-10-21T11:40:21.718116+08:00",
+ "duration_sec": 130.5,
  "sections": [
   {
    "key": "omscs",
    "label": "OMSCS 情報",
    "ok": true,
-   "items": 276,
+   "items": 202,
    "sources": [
     {
      "name": "Reddit r/OMSCS",
@@ -29,7 +29,7 @@
     {
      "name": "Google News",
      "ok": true,
-     "count": 13,
+     "count": 12,
      "note": ""
     },
     {
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 858,
+   "items": 757,
    "sources": [
     {
      "name": "Google News",
@@ -102,9 +102,9 @@
     },
     {
      "name": "Reddit r/immigration CPT",
-     "ok": false,
-     "count": 0,
-     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+     "ok": true,
+     "count": 25,
+     "note": ""
     },
     {
      "name": "ICE 新聞稿",
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 1115,
+   "items": 1035,
    "sources": [
     {
      "name": "104｜自動化測試",
@@ -152,8 +152,8 @@
     },
     {
      "name": "LinkedIn 職缺",
-     "ok": false,
-     "count": 0,
+     "ok": true,
+     "count": 10,
      "note": "LinkedIn 常擋機器人，抓不到屬正常"
     },
     {
@@ -198,7 +198,7 @@
    "key": "finance",
    "label": "匯率與股市",
    "ok": true,
-   "items": 79,
+   "items": 73,
    "sources": [
     {
      "name": "匯率 USD/TWD",
@@ -215,7 +215,7 @@
     {
      "name": "哈利的投資研究筆記庫",
      "ok": true,
-     "count": 4,
+     "count": 5,
      "note": ""
     }
    ]

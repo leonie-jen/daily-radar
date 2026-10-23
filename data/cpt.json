@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T11:39:32.977216+08:00",
+ "updated_at": "2026-10-23T11:44:04.724273+08:00",
  "sources": [
   {
    "name": "Google News",
@@ -33,15 +33,15 @@
   },
   {
    "name": "Reddit r/f1visa",
-   "ok": true,
-   "count": 25,
-   "note": ""
-  },
-  {
-   "name": "Reddit r/immigration CPT",
    "ok": false,
    "count": 0,
    "note": "沒抓到資料（可能被擋或今天沒新內容）"
+  },
+  {
+   "name": "Reddit r/immigration CPT",
+   "ok": true,
+   "count": 25,
+   "note": ""
   },
   {
    "name": "ICE 新聞稿",
@@ -58,6 +58,78 @@
  ],
  "items": [
   {
+   "title": "CPT restrictions won’t bear positive results - Daily Trojan",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUk1ua0tKdURTX2tTNVdOZHBWcm9fNkh4UlBIemZOcGhScVlkdk5JXzJ1RDh1aWVpWGY5VkxMTFp5YkJlMFlKTkNMUWJPRnliRmdVaHptYnhfZzJwaVNldjhKc3BLN2N3bko0R0RjSzdCRDZZYmRiOV8xeUhjTU9SZGpkUzUwUQ?oc=5",
+   "published": "2026-09-04T07:00:00+00:00",
+   "excerpt": "CPT restrictions won’t bear positive results Daily Trojan",
+   "author": null,
+   "source": "Google News",
+   "id": "637700b09ea4",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-23T11:44:04.724273+08:00"
+  },
+  {
+   "title": "Emerson international students say despite opportunities, they face disconnect from peers, professors, and campus - The Berkeley Beacon",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ0RqYmpWcEdvdVU0TUsxZ09ueHhIQUQtY1JtMllZdHFMZ1IwaUYwV0FCaXN6azBhV3oyWVBUTEp5S0tXVTgzTzJ0V3pETGVwM3kzSHJSYktCaE9qblZKSkdUeUlUcWxhOTYzTy1ZSHVsVXJ0SUl5dTV0Q2VpMzBQeXQtWDlDVHAxd0V2ckdMTDZveTBNajJhWXFIVkFBaXFMVkZvYW9Oa2RnN1lyeERKX2xDSGtSaEVKR3ZCMHZkS0tPUTZYYkIyaUx5Mkx4ZjBhYzZfQw?oc=5",
+   "published": "2026-10-22T07:34:51+00:00",
+   "excerpt": "Emerson international students say despite opportunities, they face disconnect from peers, professors, and campus The Berkeley Beacon",
+   "author": null,
+   "source": "Google News",
+   "id": "420074818f08",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-23T11:44:04.724273+08:00"
+  },
+  {
+   "title": "Does ice / uscis tips are taken seriously?",
+   "url": "https://www.reddit.com/r/immigration/comments/1xcoqx9/does_ice_uscis_tips_are_taken_seriously/",
+   "published": "2026-10-22T17:19:45+00:00",
+   "excerpt": "Just wanted to know because someone was reported for student visa / opt fraud and curious if they even take these kinda tips seriously? submitted by /u/Interesting-Dare-727 [link] [留言]",
+   "author": "/u/Interesting-Dare-727",
+   "source": "Reddit r/immigration CPT",
+   "id": "6ddd09354e79",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-23T11:44:04.724273+08:00"
+  },
+  {
+   "title": "F-1 visa refused 3 times under 214(b) while on approved OPT — any similar experiences?",
+   "url": "https://www.reddit.com/r/immigration/comments/1xcjc2a/f1_visa_refused_3_times_under_214b_while_on/",
+   "published": "2026-10-22T13:58:36+00:00",
+   "excerpt": "Hi everyone, I’m going through a really difficult situation and hoping someone here might have experienced something similar or could offer some advice. I’m from a country in the Caucasus region. I graduated from a Top 10 U.S. MBA program this spring and started working at a big tech company on approved OPT, valid until mid-2027. In September, I traveled back home to renew my F-1 visa. I thought it would be a straightforward process since I’d already graduated, had valid OPT, and was employed. Unfortunately, I’ve now been refused three times under 214(b). The first application was initially put under 221(g), then changed to 214(b). The hardest part is that my wife and two young children are ",
+   "author": "/u/camp-glow-012",
+   "source": "Reddit r/immigration CPT",
+   "id": "49596b6ae0cd",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-23T11:44:04.724273+08:00"
+  },
+  {
+   "title": "Dustin Baxter (Kuck Baxter)",
+   "url": "https://www.reddit.com/r/immigration/comments/1xchkw3/dustin_baxter_kuck_baxter/",
+   "published": "2026-10-22T12:45:37+00:00",
+   "excerpt": "Hi everyone, I live in Atlanta and recently married my fiancée. We're now looking for a good immigration attorney and have an in-person consultation scheduled with Dustin Baxter at Kuck Baxter Immigration. Does anyone have experience with them, and would you recommend them for our case? My case is straightforward. I've never been out of status and have no criminal history. I came to the US legally on an F-1, worked on OPT, and my company sponsored me for an H-1B. I still have 4 years left on my H-1B, but we want to start the process now so we can travel more easily. Also, does anyone know roughly what Kuck Baxter charges? Thanks in advance! submitted by /u/hhaider94 [link] [留言]",
+   "author": "/u/hhaider94",
+   "source": "Reddit r/immigration CPT",
+   "id": "e5cf6dca16a2",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-23T11:44:04.724273+08:00"
+  },
+  {
+   "title": "OPT Pending Since May, Upgraded to Premium Processing — Worried About Losing Job Offer",
+   "url": "https://www.reddit.com/r/immigration/comments/1xbtu66/opt_pending_since_may_upgraded_to_premium/",
+   "published": "2026-10-21T17:38:32+00:00",
+   "excerpt": "I received a job offer and my employer wants me to start by the end of October. The problem is that I applied for my OPT EAD in May, and my case is still pending. I contacted USCIS but didn't get much help. I paid for premium processing yesterday because I really don't want to lose this opportunity. I also reached out to my senator's office for assistance. I'm extremely stressed because I've worked so hard to get this offer, and I'm worried my EAD won't arrive in time. Has anyone been in a similar situation recently? How long did it take to get your OPT approved and receive your EAD card after upgrading to premium processing? I'd really appreciate any advice or experiences. Thank you! submit",
+   "author": "/u/ariadne789",
+   "source": "Reddit r/immigration CPT",
+   "id": "7a1e72677b84",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-23T11:44:04.724273+08:00"
+  },
+  {
    "title": "US government warns universities to limit their authorisation of Curricular Practical Training work placements - ICEF Monitor",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVW5GU3NpbWlCWFN0NEdDdGlpdW15QUNnZEV3dUxMWXhwYXFmbUx5U3ZvbEhyanNpX01zclZQTlplUGpjRnJVZVo3V0U3d04xakU2VVkwaVZxUUwxdXJpRlByTWM3dVpTMXV5ME5zaDdRRWRUWmlHNElYV3pkMndLb1ZmLWc5eEZOb0poejl6ZEp1b3RTa0hmVmxESE1JOHFzc3k4amp0WGpkZTdOQ1FYbnhJdjE5ZWw0Z0EwRTlzRnp2SU9PNC1rZWhYaEZpSERVUGhIVWpybVBsZWt1?oc=5",
    "published": "2026-09-03T07:00:00+00:00",
@@ -67,6 +139,8 @@
    "id": "a78c21e7982d",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:39:32.977216+08:00"
   },
   {
@@ -79,6 +153,8 @@
    "id": "8198d896c8d0",
    "policy_signal": true,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:39:32.977216+08:00"
   },
   {
@@ -91,6 +167,8 @@
    "id": "bf45294c2331",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:39:32.977216+08:00"
   },
   {
@@ -103,6 +181,8 @@
    "id": "94b861093d53",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:39:32.977216+08:00"
   },
   {
@@ -115,6 +195,64 @@
    "id": "53123066fd9d",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-22T11:39:32.977216+08:00"
+  },
+  {
+   "title": "2026 California City Immigration Processing Center, California, City, CA - Aug. 25-27, 2026",
+   "url": "https://www.ice.gov/node/70380",
+   "published": null,
+   "excerpt": "",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "f42c4eea52c6",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-22T11:39:32.977216+08:00"
+  },
+  {
+   "title": "ICE HSI St. Louis seizes weapons, cash, drugs during HSTF operations",
+   "url": "https://www.ice.gov/news/releases/ice-hsi-st-louis-seizes-weapons-cash-drugs-during-hstf-operations",
+   "published": null,
+   "excerpt": "ICE’s Homeland Security Investigations St. Louis continues to make significant progress in the fight against drugs, illegal weapons and violent gangs, helping make St. Louis and local communities safer. During the last week of June, HSI special agents executed search warrants as part of three separate investigations, resulting in the removal of substantial amounts of illicit cash, drugs and weapons from the streets.",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "cef718c8129d",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-22T11:39:32.977216+08:00"
+  },
+  {
+   "title": "ParticipatingAgencies10202026pm",
+   "url": "https://www.ice.gov/node/70377",
+   "published": null,
+   "excerpt": "",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "ea46d612a826",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-22T11:39:32.977216+08:00"
+  },
+  {
+   "title": "ICE Washington, DC arrests criminal illegal alien gang leader in Maryland",
+   "url": "https://www.ice.gov/news/releases/ice-washington-dc-arrests-criminal-illegal-alien-gang-leader-maryland",
+   "published": null,
+   "excerpt": "On Sept. 11, ICE arrested a 29-year-old criminal illegal alien from El Salvador who is a high-ranking leader of the notorious MS-13 transnational criminal gang.",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "95468cdfadf7",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:39:32.977216+08:00"
   },
   {
@@ -418,54 +556,6 @@
    "first_seen": "2026-10-22T11:39:32.977216+08:00"
   },
   {
-   "title": "2026 California City Immigration Processing Center, California, City, CA - Aug. 25-27, 2026",
-   "url": "https://www.ice.gov/node/70380",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "f42c4eea52c6",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-10-22T11:39:32.977216+08:00"
-  },
-  {
-   "title": "ICE HSI St. Louis seizes weapons, cash, drugs during HSTF operations",
-   "url": "https://www.ice.gov/news/releases/ice-hsi-st-louis-seizes-weapons-cash-drugs-during-hstf-operations",
-   "published": null,
-   "excerpt": "ICE’s Homeland Security Investigations St. Louis continues to make significant progress in the fight against drugs, illegal weapons and violent gangs, helping make St. Louis and local communities safer. During the last week of June, HSI special agents executed search warrants as part of three separate investigations, resulting in the removal of substantial amounts of illicit cash, drugs and weapons from the streets.",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "cef718c8129d",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-10-22T11:39:32.977216+08:00"
-  },
-  {
-   "title": "ParticipatingAgencies10202026pm",
-   "url": "https://www.ice.gov/node/70377",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "ea46d612a826",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-10-22T11:39:32.977216+08:00"
-  },
-  {
-   "title": "ICE Washington, DC arrests criminal illegal alien gang leader in Maryland",
-   "url": "https://www.ice.gov/news/releases/ice-washington-dc-arrests-criminal-illegal-alien-gang-leader-maryland",
-   "published": null,
-   "excerpt": "On Sept. 11, ICE arrested a 29-year-old criminal illegal alien from El Salvador who is a high-ranking leader of the notorious MS-13 transnational criminal gang.",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "95468cdfadf7",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-10-22T11:39:32.977216+08:00"
-  },
-  {
    "title": "DHS Finalizes End of Automatic EAD Extensions: Who Is Affected and What’s Next? - Reddy Neumann Brown PC",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPamRBcjNFZEhFVjhLaEdtUkFJZkNaMm1qREc3WGxtV1o2UlpMSGl5RV9MWjlkZ3IyajY4bmVrQ1RpNWtrU0tQMFBkbjloVHU0ZTZwN2VnenpWUzJ0ZXY2bldBT21VSkVIR01mbGlSVk5WMkhFd0lTbDk4cS1rSW5qb2t0d0NVZHdrd011d2RBaXU1RlFiUXYzTkRfRUMwVldIZ3hXdGNnWQ?oc=5",
    "published": "2026-10-20T17:39:29+00:00",
@@ -488,6 +578,20 @@
    "source": "Google News",
    "id": "120250f7bb30",
    "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-21T11:40:04.604124+08:00"
+  },
+  {
+   "title": "I-485 with Pending Misdemeanor for Failure to Obey a Traffic Control Device — Anyone Similar Experience?",
+   "url": "https://www.reddit.com/r/immigration/comments/1xaxk7t/i485_with_pending_misdemeanor_for_failure_to_obey/",
+   "published": "2026-10-20T16:56:51+00:00",
+   "excerpt": "I’m currently on F-1 OPT and have an approved EB-2 NIW I-140 with a current priority date. I’m planning to file my I-485, but I have a pending misdemeanor traffic case and would appreciate hearing from anyone with a similar experience. The charge is failure to obey a traffic control device. It resulted from a car accident where I stopped at a stop sign but entered the roadway when it was unsafe because I mistakenly selected Drive instead of Reverse. The other driver suffered a wrist injury. There was no DUI, alcohol/drugs, reckless driving allegation, hit-and-run, or intentional conduct. I also have no prior criminal history. My criminal attorney is trying to resolve the case, potentially as",
+   "author": "/u/Hefty_Negotiation183",
+   "source": "Reddit r/immigration CPT",
+   "id": "d4a6cedde9ea",
+   "policy_signal": false,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -540,18 +644,6 @@
    "source": "Reddit r/immigration CPT",
    "id": "5621e88d06bb",
    "policy_signal": true,
-   "relevance": null,
-   "first_seen": "2026-10-21T11:40:04.604124+08:00"
-  },
-  {
-   "title": "I-485 with Pending Misdemeanor for Failure to Obey a Traffic Control Device — Anyone Similar Experience?",
-   "url": "https://www.reddit.com/r/immigration/comments/1xaxk7t/i485_with_pending_misdemeanor_for_failure_to_obey/",
-   "published": "2026-10-20T16:56:51+00:00",
-   "excerpt": "I’m currently on F-1 OPT and have an approved EB-2 NIW I-140 with a current priority date. I’m planning to file my I-485, but I have a pending misdemeanor traffic case and would appreciate hearing from anyone with a similar experience. The charge is failure to obey a traffic control device. It resulted from a car accident where I stopped at a stop sign but entered the roadway when it was unsafe because I mistakenly selected Drive instead of Reverse. The other driver suffered a wrist injury. There was no DUI, alcohol/drugs, reckless driving allegation, hit-and-run, or intentional conduct. I also have no prior criminal history. My criminal attorney is trying to resolve the case, potentially as",
-   "author": "/u/Hefty_Negotiation183",
-   "source": "Reddit r/immigration CPT",
-   "id": "d4a6cedde9ea",
-   "policy_signal": false,
    "relevance": null,
    "first_seen": "2026-10-21T11:40:04.604124+08:00"
   },
@@ -916,20 +1008,6 @@
    "first_seen": "2026-10-19T11:38:11.871979+08:00"
   },
   {
-   "title": "3 former international students launched Northbridge to connect global talent with US companies - Technical.ly",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDMyZGJXbDVlYVNQUkE0dkxiWTRjS18zUHR1a0lsa09DQndiQnFwbXM0V1JDeFVZd2hCdWlqVE1aZTVPbk9Pc21FWUZsLWNicEQ2SzY1UHB0LXktMEJMS2VYUjVhUnBOSmdRX1pYMnIxVnhPM3NLVk01ZkNUckltOFBxUC1lc3lTZ01VMElfdjU5SDREUjNxVjRn?oc=5",
-   "published": "2026-10-16T10:15:12+00:00",
-   "excerpt": "3 former international students launched Northbridge to connect global talent with US companies Technical.ly",
-   "author": null,
-   "source": "Google News",
-   "id": "7ad8b6176910",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-18T11:26:52.573531+08:00"
-  },
-  {
    "title": "Lake County Jail",
    "url": "https://www.ice.gov/detain/detention-facilities/lake-county-jail",
    "published": null,
@@ -979,6 +1057,20 @@
    "author": null,
    "source": "ICE 新聞稿",
    "id": "88de0ff22c8f",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-18T11:26:52.573531+08:00"
+  },
+  {
+   "title": "3 former international students launched Northbridge to connect global talent with US companies - Technical.ly",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDMyZGJXbDVlYVNQUkE0dkxiWTRjS18zUHR1a0lsa09DQndiQnFwbXM0V1JDeFVZd2hCdWlqVE1aZTVPbk9Pc21FWUZsLWNicEQ2SzY1UHB0LXktMEJMS2VYUjVhUnBOSmdRX1pYMnIxVnhPM3NLVk01ZkNUckltOFBxUC1lc3lTZ01VMElfdjU5SDREUjNxVjRn?oc=5",
+   "published": "2026-10-16T10:15:12+00:00",
+   "excerpt": "3 former international students launched Northbridge to connect global talent with US companies Technical.ly",
+   "author": null,
+   "source": "Google News",
+   "id": "7ad8b6176910",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -1616,7 +1708,7 @@
   {
    "title": "CPT crackdown threatens America’s student appeal - The PIE News",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GLTFyeVY5Qmw1dUNSeE1BQVNsalBxTU1xTktjMWkzVlFicWM2ek5pLTdiMkRtTDg5T0RSTjdNM0hfT2tTZXNFdTNsMlhxUWxvSl9qNHpWY0Z3MlhFaDlhS3dUb0tRNUVfNFI5WEFfbWJqN3U3N1U0cW5EYw?oc=5",
-   "published": "2026-10-14T14:09:44+00:00",
+   "published": "2026-10-14T07:00:00+00:00",
    "excerpt": "CPT crackdown threatens America’s student appeal The PIE News",
    "author": null,
    "source": "Google News",
@@ -1802,7 +1894,7 @@
   {
    "title": "DHS looks to charge $70K fee for international student work authorization - Daily Bruin",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcHJQbnN5TTlyTC1iNHBfODVRSXJUNmdXdUNBWVFCZHFlSjQ5WjR5S1RiNG9jbV82V1pXdWs3MlhBRkE0ZWdTZ1diY080aVNIT0J6VnprZXRaZkxNcWdndm9aMFpQQ2FfV185U1dHWkw1UFA1NDJkRjZXM3Z2bWMwRGtSU2YzNVdkaDh2ZmZPNWNGV1NRXzExRFdUMFVmNy1BbHZqeVFfSElFQQ?oc=5",
-   "published": "2026-10-13T23:55:00+00:00",
+   "published": "2026-10-13T07:00:00+00:00",
    "excerpt": "DHS looks to charge $70K fee for international student work authorization Daily Bruin",
    "author": null,
    "source": "Google News",
@@ -9578,258 +9670,6 @@
    "first_seen": "2026-09-08T11:28:35.190523+08:00"
   },
   {
-   "title": "Question about leave of absence and paystubs during F-1 STEM OPT",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wabe0q/question_about_leave_of_absence_and_paystubs/",
-   "published": "2026-09-08T02:05:08+00:00",
-   "excerpt": "Hi all, I am currently on my F-1 STEM OPT, and the first year of my STEM extension (which is my second year of overall OPT) is coming to an end soon. Late last year, early in my STEM OPT period, I had a very serious family emergency and was unable to work while trying to keep things together. I know it was foolish of me not to contact my DSO at the time to discuss how to maintain my status, but I was in a headspace where I simply couldn't think about it. Nothing else seemed to matter to me at that moment. My employer (a small company) thought it would be best to keep paying me minimum wage during my absence. However, this amount was significantly less than the required wage for a 20-hour wor",
-   "author": "/u/NorthElectronic6346",
-   "source": "Reddit r/f1visa",
-   "id": "7b12ea475eda",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "STEM OPT pending — wrong employer name/EIN corrected, old entry still in SEVIS",
-   "url": "https://www.reddit.com/r/f1visa/comments/1waas2a/stem_opt_pending_wrong_employer_nameein_corrected/",
-   "published": "2026-09-08T01:37:09+00:00",
-   "excerpt": "My STEM OPT I-765 is still pending. I realized that my I-983 had the wrong employer name and EIN , even though my actual employer never changed. I submitted a corrected I-983 to my DSO. She updated SEVIS and issued a new I-20, which I uploaded to USCIS as unsolicited evidence. Now both the old incorrect employer entry and the correct employer entry appear in SEVIS/I-20 with the same start date. Has anyone had this happen while STEM OPT was pending? Did the DSO remove the old entry before approval, or only after? Did USCIS issue an RFE? I’m also considering premium processing and want to make sure the record is clean first. submitted by /u/worldopinion [link] [留言]",
-   "author": "/u/worldopinion",
-   "source": "Reddit r/f1visa",
-   "id": "c96a24462314",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "I was detained by ICE while my i537 application was pending. I voluntary departured USA and I want to apply for new f1. Do i have any chance of getting new visa?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w9pxzo/i_was_detained_by_ice_while_my_i537_application/",
-   "published": "2026-09-07T11:47:51+00:00",
-   "excerpt": "Hey, So as my title said. I was detained by ice, apparently you can get detained even if you have a legal stay but no status. I was detained at the airport. I chose to voluntary depart. My i537 was still pending even when i was leaving the USA. I want to apply for new visa because i really need to finish my degree. I have strong ties to my country. Own a property, my family is here, i have a job offer letter for after my degree is finished. I have the funds. I also have new i20 issued by my school and another letter of support by dso. My sevis was terminated due medical reasons. I think i had a strong case with my doctor support letter and also my former school dso letter, new dso letter and",
-   "author": "/u/No-Attention-801",
-   "source": "Reddit r/f1visa",
-   "id": "48ea841136d5",
-   "policy_signal": true,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "Can I start a gofundme for a new phone on initial OPT?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wab0vs/can_i_start_a_gofundme_for_a_new_phone_on_initial/",
-   "published": "2026-09-08T01:48:19+00:00",
-   "excerpt": "I recently go a job but it's on minimum wage and for 20 hours. The money i earn goes entirely to my rent, food and transportation (my workplace is over an hour away). I can't even save $100 after a month. I'm using my phone for 6 years now and it has started some serious problems like battery would drain so fast, most of the time when i come home, my phone is dead even though i left home with full charge, the camera is also so bad and recently the phone heats up if i use it over 40 minute. The main problem is with the battery. I'm a female so a dead phone is very scary for me when i'm outside. I was thinking of starting a gofundme for a new phone but was worried if it'll cause any problems. ",
-   "author": "/u/daydreamer_she",
-   "source": "Reddit r/f1visa",
-   "id": "b83e3fab9c43",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "I’m fully confused for my i20 process",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w9q6dr/im_fully_confused_for_my_i20_process/",
-   "published": "2026-09-07T11:59:18+00:00",
-   "excerpt": "So I’m an Indian student and will be applying to cuny but the thing is I don’t get my 12th marksheet until may and the whole revaluation process will also take dayss. So my question is I can get an conditional acceptance in January with my 10th and 11th marksheet than with that can I get an i20 and start my visa process coz if not it’ll be a big problem. submitted by /u/Puzzleheaded-Ad-4478 [link] [留言]",
-   "author": "/u/Puzzleheaded-Ad-4478",
-   "source": "Reddit r/f1visa",
-   "id": "e3e85095a7a4",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "When should I start applying for OPT jobs?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w93qf1/when_should_i_start_applying_for_opt_jobs/",
-   "published": "2026-09-06T18:17:57+00:00",
-   "excerpt": "Hi! I will be applying for OPT in 2 weeks as I am graduating in December. Is it okay if I start applying for jobs now? I’m thinking of applying for behavior technician or research assistant roles because my major is psychology submitted by /u/zyshio [link] [留言]",
-   "author": "/u/zyshio",
-   "source": "Reddit r/f1visa",
-   "id": "b2b4708c071f",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "Wrong CIP code on my I-20 — should I be concerned?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w9a1vl/wrong_cip_code_on_my_i20_should_i_be_concerned/",
-   "published": "2026-09-06T22:18:43+00:00",
-   "excerpt": "an F-1 student at SIUE studying B.S. Business Administration – Finance . I’m currently in my 4th semester. My December 2024 I-20 shows: Major: Management Sciences and Quantitative Methods, Other CIP: 52.1399 But SIUE’s undergraduate information shows Business Administration/Finance as 52.0201 . Has anyone had a similar I-20 major/CIP mismatch? If it was a school/DSO error, can they correct the SEVIS record and issue a new I-20? Could this affect my F-1 status? submitted by /u/Over_Scallion_973 [link] [留言]",
-   "author": "/u/Over_Scallion_973",
-   "source": "Reddit r/f1visa",
-   "id": "8e22ac5039b6",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "Consecutive Authorized Break Term and Last term Program Completion?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w9759f/consecutive_authorized_break_term_and_last_term/",
-   "published": "2026-09-06T20:23:42+00:00",
-   "excerpt": "Hey Guys! I was supposed to graduate in the summer, but failed a course which is only offered in the summer and winter. I have been a full time student for the past 12 consecutive months and from my program completion, that is the only course remaining ( the one offered in the winter). Is it possible to take an authorized Break term in the fall and a RCL for Program completion in the winter? submitted by /u/sammiiiiiiiiihehehe [link] [留言]",
-   "author": "/u/sammiiiiiiiiihehehe",
-   "source": "Reddit r/f1visa",
-   "id": "96b1a77fd0ec",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "F1 to L2 change of status approved over a year late and already expired. How to return to F1?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w98pr0/f1_to_l2_change_of_status_approved_over_a_year/",
-   "published": "2026-09-06T21:24:12+00:00",
-   "excerpt": "My brother was in the US on F1 status when he filed an I-539 to change to L2 as my dad’s L1A dependent. USCIS received the application on March 10 2025, but did not approve it until June 4, 2026. His I-797A says the L2Y status was approved retroactively from March 15, 2025 and ended on June 15, 2025, which was his 21st birthday. So basically the approved L2 period had already expired almost a year before USCIS issued the notification. He has remained in the US during this time and did not work nor do anything that violate F1 status. We are trying to figure out whether whether he can now file another I-539 to change back to F1 or whether F1 reinstatement would be required. Has anyone dealt wi",
-   "author": "/u/peterphanofneverland",
-   "source": "Reddit r/f1visa",
-   "id": "20c3b1dbdd18",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "Are people allowed to monetize youtube and social media while on F1?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w9bxoa/are_people_allowed_to_monetize_youtube_and_social/",
-   "published": "2026-09-06T23:40:35+00:00",
-   "excerpt": "Thought it was illegal, but see a lot of youtubers and influencers doing so while studying in usa. Is it permitted by certain universities or something? the most recent one is the.rebel.kid (she is really popular here in India), and she is studying in columbia, but I also keep seeing other creators do the same Should I ask for permission from uni or anywhere in advance? submitted by /u/LostSoulOnAShip [link] [留言]",
-   "author": "/u/LostSoulOnAShip",
-   "source": "Reddit r/f1visa",
-   "id": "dfdfce71edfe",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "For those working on opt or in process of job search, at what point do you mention your status?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w8muzf/for_those_working_on_opt_or_in_process_of_job/",
-   "published": "2026-09-06T05:08:08+00:00",
-   "excerpt": "If you haven’t been asked, at which point in the interview process did you bring it up? Asking for a friend. They have option of stem opt afterwards too. submitted by /u/Educational_Fig_8616 [link] [留言]",
-   "author": "/u/Educational_Fig_8616",
-   "source": "Reddit r/f1visa",
-   "id": "61b2a796a445",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "F1 visa with active immigration case!",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w8pn2n/f1_visa_with_active_immigration_case/",
-   "published": "2026-09-06T07:43:21+00:00",
-   "excerpt": "So I have an active immigration case on the very last stages, only the visa issuance is left due to the 75-country pause. Even if the pause is lifted it doesn’t mean an immigrant visa the very next day and my uni timeline can’t move further, so my question is that with the case in place will I even be considered for an F1 as I technically will have an immigrant intent. submitted by /u/Hour_Carrot_5474 [link] [留言]",
-   "author": "/u/Hour_Carrot_5474",
-   "source": "Reddit r/f1visa",
-   "id": "a52977294646",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "Laid off on STEM OPT and pending application",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w8dasi/laid_off_on_stem_opt_and_pending_application/",
-   "published": "2026-09-05T21:36:28+00:00",
-   "excerpt": "Hi everyone, I need urgent help I was verbally laid off yesterday from company who I filled my STEM OPT extension application with my application is still pending and I don’t know what to do? I don’t know what should be my next steps when to update DSO? What about my pending STEM OPT application? Do I need to get the i983 evaluation filled and signed by employer? What happens if they don’t do it? I’m very concerned please help me. My application of STEM OPT has not been yet approved submitted by /u/New_Championship3929 [link] [留言]",
-   "author": "/u/New_Championship3929",
-   "source": "Reddit r/f1visa",
-   "id": "97edf6d21bfe",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "How late can one return after the winter break?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w8thub/how_late_can_one_return_after_the_winter_break/",
-   "published": "2026-09-06T11:18:57+00:00",
-   "excerpt": "Planning on going to India in December. My University starts on Jan 20, I was planning on coming back from India 2 weeks after - so around 4 Feb. I'll only have my Masters project and will be on RCL as it's my last semester. Is this fine? Heard from seniors that they all came 1-3 weeks after uni started in their last semester and they didn't have any issues but wanted a wider opinion. submitted by /u/randomredditer_69 [link] [留言]",
-   "author": "/u/randomredditer_69",
-   "source": "Reddit r/f1visa",
-   "id": "b6d560f7bfed",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "How useful or successful is it to pursue EB-3 through agencies or lawyers?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w8m4ue/how_useful_or_successful_is_it_to_pursue_eb3/",
-   "published": "2026-09-06T04:29:43+00:00",
-   "excerpt": "How effective is it to apply for EB-3 Other Workers through an agency or immigration attorney? Are these agencies actually helpful in finding legitimate employers and completing the process, or is it better to find an employer on your own? Would love to hear from anyone who has gone through it. submitted by /u/Deadinsidebutisok [link] [留言]",
-   "author": "/u/Deadinsidebutisok",
-   "source": "Reddit r/f1visa",
-   "id": "39b1cbd3d1a7",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "International travel before initial OPT expires",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w888m8/international_travel_before_initial_opt_expires/",
-   "published": "2026-09-05T18:20:04+00:00",
-   "excerpt": "Hi everyone, With the new I-94 rule taking effect soon, my travel plans have been disturbed. I’m hoping someone can offer some advice. I’m currently on F-1 status. My F-1 visa is still valid, and I started my initial OPT in Feb 2026. I’m now working full-time. I was planning to travel outside the U.S. and return before my F-1 visa expires in last week of Dec. However, the earliest I can apply for STEM OPT is around mid November 2026 which is the same same time I plan to travel. Given my situation, is it safe to travel under these circumstances? Will the end of stay also affect my plans? Currently my plan is to come back and apply for STEM extension by mid January (my ead expires mid feb) Tha",
-   "author": "/u/Feeling-Potential759",
-   "source": "Reddit r/f1visa",
-   "id": "bdfdc7325788",
-   "policy_signal": true,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "Failed 2 classes as a graduating senior",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w86i02/failed_2_classes_as_a_graduating_senior/",
-   "published": "2026-09-05T17:14:09+00:00",
-   "excerpt": "I was supposed to graduate yesterday, but I found out that I have failed 2 classes and my program end date was yesterday. Really need some help on what I can do? I spoke to my DSO yesterday but at the time I had only known about one subject, so I was supposed to retake that final as a graduating senior. However as of yesterday evening, this is changed. My OPT will be approved any day now , and my program end date has passed by. Please help!! submitted by /u/sammiiiiiiiiihehehe [link] [留言]",
-   "author": "/u/sammiiiiiiiiihehehe",
-   "source": "Reddit r/f1visa",
-   "id": "2ff88fd49661",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "Just curious if OPT or H1B can start a company/side hustle???",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w8p6ir/just_curious_if_opt_or_h1b_can_start_a/",
-   "published": "2026-09-06T07:16:47+00:00",
-   "excerpt": "Just like what the question says. I’m not saying I want to be a businessman, butI’m just curious whether it’s possible to start something on the side as a side hustle. I’m currently looking for a job on OPT, but lately I’ve also been thinking about doing something I’m passionate about. I don’t really believe that relying on a single income is sustainable for me long-term, so I’d love to explore what options are actually allowed while on OPT, STEM OPT, or H-1B. If you’re currently on OPT, STEM OPT, or H-1B and have started a business or side hustle, I appreciate it if you could share your experience. Especially interested in what you were/weren’t allowed to do and how you handled the immigrat",
-   "author": "/u/Math_grad_phd",
-   "source": "Reddit r/f1visa",
-   "id": "ea5fb28139fb",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "Any potential changes to OPT/ STEM OPT in the next 15 days ?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w8iutv/any_potential_changes_to_opt_stem_opt_in_the_next/",
-   "published": "2026-09-06T01:47:18+00:00",
-   "excerpt": "I am going to filing for my STEM OPT soon as my OPT is coming to an end, could there be any potential disruptive changes in the interim out of the blue in the next 2 weeks ? submitted by /u/69Chiefqueef [link] [留言]",
-   "author": "/u/69Chiefqueef",
-   "source": "Reddit r/f1visa",
-   "id": "3df173272ed3",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "Travel out of US?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w86dnb/travel_out_of_us/",
-   "published": "2026-09-05T17:09:27+00:00",
-   "excerpt": "Hi all, I have a valid opt i20, ead card, visa, passport, job offer letter (start date is Sept 21.) Can I travel from Sept 11-21st with no issues or because of the new D/S rule is this something I should not do? submitted by /u/mah8204 [link] [留言]",
-   "author": "/u/mah8204",
-   "source": "Reddit r/f1visa",
-   "id": "6e68a765f827",
-   "policy_signal": true,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
-   "title": "Can I do a foreign online PG diploma while on STEM OPT?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1w85m3g/can_i_do_a_foreign_online_pg_diploma_while_on/",
-   "published": "2026-09-05T16:40:43+00:00",
-   "excerpt": "Hi! I’m currently working in the US on STEM OPT. Can I enroll in a 100% online Post Graduate Diploma from the Indian Statistical Institute (India) while continuing my STEM OPT employment? There’s no I-20, SEVIS transfer, or change to my US school/status. Has anyone done something similar or checked this with their DSO/immigration attorney? Thanks! submitted by /u/Interesting_Chair653 [link] [留言]",
-   "author": "/u/Interesting_Chair653",
-   "source": "Reddit r/f1visa",
-   "id": "b45d1340d961",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-08T11:28:35.190523+08:00"
-  },
-  {
    "title": "US visa crackdown: F-1 visa violations Indian students need to know about under Trump administration - India Today",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNHpscE40UVJEWm9GLUJXSl9VSmtQUkxuUWpoZEc4UEU5bGRxN3JSTDR1M0haWDU2Tk55Vm4yd0pab0sxRHlxUnZvWl8td0gtZXRKd0dfemlaR3RvT3pabXJVbHlVeWZoTnJvV3dlSkpXbG55ajNCdldmdWtfLVVWTzFpYlBjS3pZdjREcGIyNGM3ZlVSZjJ3LXotYXM4SHJrU3NSYXd4Y0praFlDakJxNlExVnB4Y0t3SzBsSFNvMkFoZVBUTFZkUTY5cUIwZjBRYV9QcE1QZzd2TWNVaXh2cVhKMGVnZEk4?oc=5",
    "published": "2026-08-11T07:00:00+00:00",
@@ -9928,6 +9768,20 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
+   "title": "Trump’s CPT crackdown: What it means for international and indian students - Bhaskar English",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2YtMnE4T2ZHQzA3RHkyQlBLV1pORW5tMXFkZmZyaERCRXdEYk1kNExhTzFxR0pqcF9ZZkRadkk3Z1lrd3NaYUcwRGxNOGlNREJtWktBemljNGlTZWhFeTQyTzQ2TFRxVTFtM1lHZjFWLUFab2duRnRTenRqZkVObEJjV2N1YnJkeUFuenZzYmx5ZV9vZDVtM0N3MU5aTHpIZUZuMFJSOGZ1c0xVeWFVU0h3Z1FpS3UwQ2xGcdIBwgFBVV95cUxQX1p0LXdDSi1hOEFSUFBKTFoySnZ0QTI5Z3VsZHgyQzV0VWJ6ZVdRWjcxNm4yZ0ZSUW9rajhkSkRnbk1IQ1ZGQjc2N0dsMnFDdnF6Wk5HVkp0Tlc5WWg4X2ZwWEZwVThpd3dfYnpOSmw3enlGOXZpcGJUN0UxaXB1ejV2dk5tNVNGbXpFOGRHSXNhbktCWExkZFQ2Y1lKWmY4OXFhNGRJdHFqN1VuSG00dDUwSjF2YVBta1d4RFJzWHBWdw?oc=5",
+   "published": "2026-08-30T07:11:36+00:00",
+   "excerpt": "Trump’s CPT crackdown: What it means for international and indian students Bhaskar English",
+   "author": null,
+   "source": "Google News",
+   "id": "3d00a16bab90",
+   "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:07.595859+08:00"
+  },
+  {
    "title": "US tightens work rules for foreign students: What changes for CPT, OPT and H-1B? - The Indian Express",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcmZuN19DZHYybjZ5SjlWZ2lacmQ2cG4xMlJmS0VYVG9tV3p1aUR4U2xqVVBkdWJhSkxVQ2lmVDlidHZpLXZ0NDdsRGxpV1N3RXNkaTdXLVcyeXEtU3NqNmhqRTdmRlpHRVRvaWVjVHNpb0ZST3FNdzZKckItcDkzR3RjWUwwZFh1VDVJdTlnV3U1dmt1dzJfaDVrS203Rkg2S0UycDNnQV9wdmpUR0k3MmMtTDAyWVEyUTZnMF9aUkN1amVuZmp4ZUp0aVFydnRVRFNET2Y4aGE0WDllN2I1OG1NWkxzVVpvZ0lNR0Z3MNIB9gFBVV95cUxOTU94a29TcGpmWVRNRVRFb1lzUHBPUFBBUWVxOGoyN2g0cndQeGt1VFhKQVd5TFJQRGFDdW5xb1NRdHJyWlpHdTZwdUFfNHlkRFhVQ2JDSEtNTkRPVWNiNTJDSVBxZzZleEFEMWlhLWlQZTUtOHlvMDFHekxKdlQyRnZMdV9Md1BGVWdnRFB1R21EX1ItNGlCb01fTnFYUVhSanpXWWN6dmFsZzVQY2kzTnoyZTU2X3Z4N0VNQUVaNHhhSk1ROGRBUHpBS29OVUZrMEdSOFhpMHJNbWlNZGFyZlZrdkxoRnlSWk1TVTNRSFFFTHNkYVE?oc=5",
    "published": "2026-08-30T07:00:00+00:00",
@@ -9942,20 +9796,6 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
-   "title": "US universities rethink CPT program after ICE warning: What Indian students need to know about the pause | Hindustan Times - Hindustan Times",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMVlGOW9DR3VKWWpXaVRtVkU1TU5GYnJpZjllTmVwYTRlNWlFa3R6d0pMd28zWGRpTWc4ZDBBYXg4UDVHZlBTYVZ4amZYWnJJSk1VREhVTVc1WWZfZ2ROQlRmN0RqSGJvYnFrUDNoVmUxa05hTjNyX0tNRG9IZkFSNmdTSnVqY0szazRGMTNZclJLMS1vWWRjWDQ2VUtIV2FqYmhYTUVHajR3emJnNWsxWWlEODZIUVoybkxPUGMxSGFsbHp6VTlXQzlTcF9ZczU4Y0VZbng5LThra2dzd0QxSmdrR2tIVXBrWlRWX29TNGjSAfYBQVVfeXFMTlZBZDBoVms3LVF3SUppQUdhcFRhanhNNm91dndMSTVZUldzUURqdzRyR195OVVfWFpacE5ObkNSTmowRXFnVGFKRHZGVkxpTDhNZ245bG83SjhJdVp3eXFzOHNnVzNRaHVOTGd0T1lDZHpoZE1scUdpTjN1ZDlLYS10T09HRHZ0T3QxOFllSnVqQ0cwVDZEeHFUTzJkbl9iY25LbUlqajRjek5aTUdSZE1hV21yZFJ1eTZoWVdsSXNVUDcxY1IyRUswV200ZnpRN3JzdTRhc3U5Q1QtdldwUnhfenNzMnYyblV5RXV1dU9LZ3FTa1Bn?oc=5",
-   "published": "2026-08-26T07:00:00+00:00",
-   "excerpt": "US universities rethink CPT program after ICE warning: What Indian students need to know about the pause | Hindustan Times Hindustan Times",
-   "author": null,
-   "source": "Google News",
-   "id": "688b3fd4ac67",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:08:07.595859+08:00"
-  },
-  {
    "title": "US universities pausing CPT program after new ICE memo: Indian students in a fix - The Times of India",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTWRXd0pJWkVVQmtFTnQyRlJKTGVvLVN2cllQeklsOXd2Ml83UHlxUXFJQnZGMGd0N3ZOb1ZVM2NmSE05LW54NC1KNklrWTBNS1J6VU1yRl92UER6UDVyQzFyazNrWVBfV1RBVFgxWXdxRGhLek9kNm5ubGdRNUdnUG05NkpCWDRyTmR4d3ZnclYwVHhRZzdKRzRoZHl6OUJqcXlpYmdTUWlqTlYtNEswaDBkcVNhZFA3OGFhVW5hRXNDUWtTQl9xbmZqLVdIZkFIMm5TUjB3U2E5SkR0ZWFVdUg0WnHSAeoBQVVfeXFMUEdQZFVWYmJCblJMM0NuSG9JbUJvWkNlSzNibWh3dzgwOFYwcXFhbUx4bVFNYVBuZzduaC16VXBnS25QQUxEMi1HUlBhaUt6R3huaTczN3MyazE0T3M2Tk5uenhpVFQtU1d0d2pHNkZVU0NIakJJbXl0VkZMYTQxa21UQnBMbWttNV9tdlh5a1JIbnFoOEtMc2Nrb0dBUXFnV1ZSY0YxbVg5MG1VbUgzcTRXWVc0VGhpNXhEaUNleU1yM1UwZkcyU2dNNE5tV1p6SnJEaTR2eU1VOENFYTZDZXNZVk8yRHBud1l3?oc=5",
    "published": "2026-08-25T07:00:00+00:00",
@@ -9963,6 +9803,20 @@
    "author": null,
    "source": "Google News",
    "id": "a03610b59ca0",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:07.595859+08:00"
+  },
+  {
+   "title": "US universities rethink CPT program after ICE warning: What Indian students need to know about the pause | Hindustan Times - Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMVlGOW9DR3VKWWpXaVRtVkU1TU5GYnJpZjllTmVwYTRlNWlFa3R6d0pMd28zWGRpTWc4ZDBBYXg4UDVHZlBTYVZ4amZYWnJJSk1VREhVTVc1WWZfZ2ROQlRmN0RqSGJvYnFrUDNoVmUxa05hTjNyX0tNRG9IZkFSNmdTSnVqY0szazRGMTNZclJLMS1vWWRjWDQ2VUtIV2FqYmhYTUVHajR3emJnNWsxWWlEODZIUVoybkxPUGMxSGFsbHp6VTlXQzlTcF9ZczU4Y0VZbng5LThra2dzd0QxSmdrR2tIVXBrWlRWX29TNGjSAfYBQVVfeXFMTlZBZDBoVms3LVF3SUppQUdhcFRhanhNNm91dndMSTVZUldzUURqdzRyR195OVVfWFpacE5ObkNSTmowRXFnVGFKRHZGVkxpTDhNZ245bG83SjhJdVp3eXFzOHNnVzNRaHVOTGd0T1lDZHpoZE1scUdpTjN1ZDlLYS10T09HRHZ0T3QxOFllSnVqQ0cwVDZEeHFUTzJkbl9iY25LbUlqajRjek5aTUdSZE1hV21yZFJ1eTZoWVdsSXNVUDcxY1IyRUswV200ZnpRN3JzdTRhc3U5Q1QtdldwUnhfenNzMnYyblV5RXV1dU9LZ3FTa1Bn?oc=5",
+   "published": "2026-08-26T07:00:00+00:00",
+   "excerpt": "US universities rethink CPT program after ICE warning: What Indian students need to know about the pause | Hindustan Times Hindustan Times",
+   "author": null,
+   "source": "Google News",
+   "id": "688b3fd4ac67",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -10047,20 +9901,6 @@
    "author": null,
    "source": "Google News",
    "id": "d563bccb601f",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:08:07.595859+08:00"
-  },
-  {
-   "title": "Trump’s CPT crackdown: What it means for international and indian students - Bhaskar English",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2YtMnE4T2ZHQzA3RHkyQlBLV1pORW5tMXFkZmZyaERCRXdEYk1kNExhTzFxR0pqcF9ZZkRadkk3Z1lrd3NaYUcwRGxNOGlNREJtWktBemljNGlTZWhFeTQyTzQ2TFRxVTFtM1lHZjFWLUFab2duRnRTenRqZkVObEJjV2N1YnJkeUFuenZzYmx5ZV9vZDVtM0N3MU5aTHpIZUZuMFJSOGZ1c0xVeWFVU0h3Z1FpS3UwQ2xGcdIBwgFBVV95cUxQX1p0LXdDSi1hOEFSUFBKTFoySnZ0QTI5Z3VsZHgyQzV0VWJ6ZVdRWjcxNm4yZ0ZSUW9rajhkSkRnbk1IQ1ZGQjc2N0dsMnFDdnF6Wk5HVkp0Tlc5WWg4X2ZwWEZwVThpd3dfYnpOSmw3enlGOXZpcGJUN0UxaXB1ejV2dk5tNVNGbXpFOGRHSXNhbktCWExkZFQ2Y1lKWmY4OXFhNGRJdHFqN1VuSG00dDUwSjF2YVBta1d4RFJzWHBWdw?oc=5",
-   "published": "2026-08-30T07:11:36+00:00",
-   "excerpt": "Trump’s CPT crackdown: What it means for international and indian students Bhaskar English",
-   "author": null,
-   "source": "Google News",
-   "id": "3d00a16bab90",
    "policy_signal": true,
    "relevance": null,
    "summary": null,

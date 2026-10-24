@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T11:43:09.869237+08:00",
+ "updated_at": "2026-10-24T11:37:35.792721+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,26 +9,26 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
-  },
-  {
-   "name": "Reddit r/gradadmissions",
    "ok": true,
    "count": 25,
    "note": ""
   },
   {
+   "name": "Reddit r/gradadmissions",
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+  },
+  {
    "name": "Google News",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "note": ""
   },
   {
    "name": "Google News",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "note": ""
   },
   {
@@ -52,6 +52,44 @@
  ],
  "items": [
   {
+   "title": "Which classes require (or would be easier with) x64 CPU architecture?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xdng4u/which_classes_require_or_would_be_easier_with_x64/",
+   "published": "2026-10-23T19:22:47+00:00",
+   "excerpt": "Which courses either require you to have a computer with x64 CPU architecture or would make your life noticeably easier if you used a com with that architecture? submitted by /u/JustAPieceOfMeat385 [link] [留言]",
+   "author": "/u/JustAPieceOfMeat385",
+   "source": "Reddit r/OMSCS",
+   "id": "aa80ca19d0eb",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-24T11:37:35.792721+08:00"
+  },
+  {
+   "title": "Soup Kings: The OG début straight outta KBAI",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xdn48e/soup_kings_the_og_début_straight_outta_kbai/",
+   "published": "2026-10-23T19:10:29+00:00",
+   "excerpt": "https://preview.redd.it/aooennfym9xh1.png?width=944&format=png&auto=webp&s=da81e9df1f95fa119dc09371dcf54dad33994d7a Following the smash hit \"Homework 2,\" Dr. Joyner and Dr. Ashok just released their debut album, \"Soup Kings\"! Listen to it as you finish your Mini-Project this weekend. [From Ed] submitted by /u/WilliamEdwardson [link] [留言]",
+   "author": "/u/WilliamEdwardson",
+   "source": "Reddit r/OMSCS",
+   "id": "6647a6d892b3",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-24T11:37:35.792721+08:00"
+  },
+  {
+   "title": "Seeking Third Technical Cofounder",
+   "url": "https://news.ycombinator.com/item?id=48682086",
+   "published": "2026-06-26T03:39:51Z",
+   "excerpt": "We are seeking a third technical cofounder to help us build our company: - https:&#x2F;&#x2F;coffeechats.me&#x2F;<p>Equal equity splits. Prior big tech&#x2F;fast-growing startup experience strongly preferred.<p>The founding team consists of: - An MBA (Dartmouth), MSCS (UT Austin) graduate with prior 0 to 1 successes. - An MSCS (Dartmouth) graduate.",
+   "source": "Hacker News",
+   "id": "5ce7c7618b10",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-24T11:37:35.792721+08:00"
+  },
+  {
    "title": "Are you okay? r/OMSCS Mental Health Check-in.",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xchxkd/are_you_okay_romscs_mental_health_checkin/",
    "published": "2026-10-22T13:01:06+00:00",
@@ -62,6 +100,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-23T11:43:09.869237+08:00"
   },
   {
@@ -75,6 +115,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-23T11:43:09.869237+08:00"
   },
   {
@@ -88,6 +130,66 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
+   "published": "2023-04-21T07:00:00+00:00",
+   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "43f2eafe3c1d",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "Research challenges assumptions about online education success - Phys.org",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
+   "published": "2026-08-03T07:00:00+00:00",
+   "excerpt": "Research challenges assumptions about online education success Phys.org",
+   "author": null,
+   "source": "Google News",
+   "id": "3fd446b8a3e2",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "When a Ship’s Systems Lie, Cybersecurity Gets Complicated",
+   "url": "https://omscs.gatech.edu/external-news/when-ships-systems-lie-cybersecurity-gets-complicated",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "0fdbc2225ff1",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
+   "url": "https://omscs.gatech.edu/external-news/where-are-they-now-team-atlanta-takes-ai-cybersecurity-beyond-competition",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "76452fa7004b",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-23T11:43:09.869237+08:00"
   },
   {
@@ -438,56 +540,6 @@
    "first_seen": "2026-10-23T11:43:09.869237+08:00"
   },
   {
-   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
-   "published": "2023-04-21T07:00:00+00:00",
-   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
-   "author": null,
-   "source": "Google News",
-   "id": "43f2eafe3c1d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "Research challenges assumptions about online education success - Phys.org",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
-   "published": "2026-08-03T07:00:00+00:00",
-   "excerpt": "Research challenges assumptions about online education success Phys.org",
-   "author": null,
-   "source": "Google News",
-   "id": "3fd446b8a3e2",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "When a Ship’s Systems Lie, Cybersecurity Gets Complicated",
-   "url": "https://omscs.gatech.edu/external-news/when-ships-systems-lie-cybersecurity-gets-complicated",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "0fdbc2225ff1",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
-   "url": "https://omscs.gatech.edu/external-news/where-are-they-now-team-atlanta-takes-ai-cybersecurity-beyond-competition",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "76452fa7004b",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
    "title": "The Growing Importance of Computational Biology",
    "url": "https://omicstutorials.com/from-lab-bench-to-laptop-the-growing-importance-of-computational-biology/",
    "published": "2025-01-03T15:22:25Z",
@@ -529,6 +581,8 @@
     "application"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -544,6 +598,8 @@
     "decision"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -559,6 +615,8 @@
     "admitted"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -574,6 +632,8 @@
     "rejected"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -589,6 +649,8 @@
     "decision"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -602,6 +664,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -619,6 +683,8 @@
     "application"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -635,6 +701,8 @@
     "admission"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -648,6 +716,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -661,6 +731,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -676,6 +748,8 @@
     "admitted"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -689,6 +763,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -702,6 +778,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -715,6 +793,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -728,6 +808,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -743,6 +825,8 @@
     "admitted"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -758,6 +842,8 @@
     "decision"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-22T11:38:37.984911+08:00"
   },
   {
@@ -1304,20 +1390,6 @@
    "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
-   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "31b0ee4cb5e7",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
    "title": "Postponing enrollment repercussions",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x03oqe/postponing_enrollment_repercussions/",
    "published": "2026-10-07T18:05:57+00:00",
@@ -1330,6 +1402,20 @@
     "accepted",
     "decision"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "31b0ee4cb5e7",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2704,96 +2790,6 @@
    "first_seen": "2026-09-10T11:29:06.422193+08:00"
   },
   {
-   "title": "GaTech MSCS vs UIUC MCS",
-   "url": "https://www.reddit.com/r/gradadmissions/comments/1liooah/gatech_mscs_vs_uiuc_mcs/",
-   "published": "2025-06-23T18:40:32+00:00",
-   "excerpt": "Title. Not interested in research. My concern is with Georgia Tech; I feel the degree may not help me stand out, given the large number of OMSCS graduates entering the job market compared to UIUC. (Nothing against OMSCS, it’s just that there may be too many of us for the degree to remain a strong differentiator) What would be the better choice here? Edit: this question is for the ON CAMPUS programs submitted by /u/Much-Level3132 [link] [留言]",
-   "author": "/u/Much-Level3132",
-   "source": "Reddit r/gradadmissions",
-   "id": "e7950603383b",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-09T11:31:05.420826+08:00"
-  },
-  {
-   "title": "Georgia Tech OMSCS vs Electrical Engineering MS at Northeastern",
-   "url": "https://www.reddit.com/r/gradadmissions/comments/1la9u1q/georgia_tech_omscs_vs_electrical_engineering_ms/",
-   "published": "2025-06-13T07:25:35+00:00",
-   "excerpt": "I am working full time and planning on doing a part time masters. Both Northeastern and Georgia Tech would cost roughly the same and are relatively cheap due to a tuition scholarship. I eventually want to pursue something in the HPC/Hardware Software Codesign space, but my main goal is just to continue my education. I do not know how Georgia Tech’s CS masters would look vs NEU’s masters in Electrical Engineering on my resume, and I am not sure whether the tradeoff of an in person program in Boston would be worth the flexibility of a fully online program. Any opinions or advice is appreciated. submitted by /u/TheSid12 [link] [留言]",
-   "author": "/u/TheSid12",
-   "source": "Reddit r/gradadmissions",
-   "id": "0730751e61f7",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-09T11:31:05.420826+08:00"
-  },
-  {
-   "title": "Can research at another university count toward OMSCS research/project credits?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1waem82/can_research_at_another_university_count_toward/",
-   "published": "2026-09-08T04:46:08+00:00",
-   "excerpt": "I had some questions regarding pursuing research outside of Georgia Tech. I'm very interested in being a visiting scholar at another university that is more local to me (I'm currently working in the Bay Area). I've seen that there are some Georgia Tech PhD students who are visiting scholars involved with research labs in Stanford / UC Berkeley. I was looking into spending roughly 1 year at a research lab here and wanted to see whether I could count this toward research credits. (e.g. CS 8903/6999) Ideally for 9 credits to fulfill the \"Project Track\" of OMSCS. This question is for both faculty or other students that have pursued this previously. If this is a possibility, what does the process",
-   "author": "/u/MediumGuidance934",
-   "source": "Reddit r/OMSCS",
-   "id": "3d2bc1ec8c7a",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-09T11:31:05.420826+08:00"
-  },
-  {
-   "title": "Any OMSCS NFL tipping groups?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wa9j6p/any_omscs_nfl_tipping_groups/",
-   "published": "2026-09-08T00:39:53+00:00",
-   "excerpt": "Is anyone running an NFL tipping or pick’em group for OMSCS students and alumni this season? Looking for something casual, mostly for bragging rights and a distraction from debugging at work past 2 am in the morning. submitted by /u/GeorgePBurdell1927 [link] [留言]",
-   "author": "/u/GeorgePBurdell1927",
-   "source": "Reddit r/OMSCS",
-   "id": "3babf7510f3e",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-09T11:31:05.420826+08:00"
-  },
-  {
-   "title": "Are you okay? r/OMSCS Mental Health Check-in.",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1w9rjiv/are_you_okay_romscs_mental_health_checkin/",
-   "published": "2026-09-07T13:01:07+00:00",
-   "excerpt": "You're doing great! Don't sweat the most recent or upcoming project, test, grade, etc. Make sure you give your best shot, and never, ever succumb to cheating. The OSI Police are in full force during this critical period, and you know it, through the Reddit threads that you would occasionally find how onerous these threats could be. You Are Not Alone & You'll Get Through This. Know that you are not alone. We all go through ups and downs and have tests or projects that don't go as planned. Never fear as bright days are ahead of you. Utilize this thread if you're feeling down and or want someone to talk to. We are all in this together and we're here for you and one another. There is a lot more ",
-   "author": "/u/AutoModerator",
-   "source": "Reddit r/OMSCS",
-   "id": "ce8bb9996a55",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-09T11:31:05.420826+08:00"
-  },
-  {
-   "title": "Aos Omscs - Oma Erto",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mcVZnWmZzWU1NRDNZZ3FGSEx4THVhY3o1S3hPUGFSQms5clBPelY1cDYxZUVKWGpPbFRZQ1JzazB5cmtCeDk3SDNERTZRdw?oc=5",
-   "published": "2026-08-11T04:09:45+00:00",
-   "excerpt": "Aos Omscs Oma Erto",
-   "author": null,
-   "source": "Google News",
-   "id": "8af33b154542",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-09T11:31:05.420826+08:00"
-  },
-  {
    "title": "Experts Say Life-long Learning is a Must to Keep Pace with Generative AI - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGhMUWk2YTFFYlpWSld5M2hETkJrUUI3eU1RQUFKU2pldHlodmg3YmVBaUM0WFlRN1diU1g2TnZmWlRVaUNOa3NwNU1sT1JRSjdsa3d4V0t6N1dBQUxWVzFtY3ZkMHBZamMtb0RjajAxMkpXTzJQQnhkOVc0UEFLZEpualE4c2kxRmRaNUdRMWZ2ZjNLdmd3VGlfZmNlZEdE?oc=5",
    "published": "2024-04-04T07:00:00+00:00",
@@ -2887,13 +2883,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
-   "published": "2023-05-03T07:00:00+00:00",
-   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
+   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
+   "published": "2024-08-25T07:00:00+00:00",
+   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
    "author": null,
    "source": "Google News",
-   "id": "54defa3e479c",
+   "id": "0236a502b4bf",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2902,13 +2898,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
-   "published": "2024-08-25T07:00:00+00:00",
-   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
+   "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
+   "published": "2023-05-03T07:00:00+00:00",
+   "excerpt": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal DataDrivenInvestor",
    "author": null,
    "source": "Google News",
-   "id": "0236a502b4bf",
+   "id": "54defa3e479c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

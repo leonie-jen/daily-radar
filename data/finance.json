@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T11:36:08.245909+08:00",
+ "updated_at": "2026-10-26T11:38:56.931046+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -16,11 +16,23 @@
   {
    "name": "哈利的投資研究筆記庫",
    "ok": true,
-   "count": 6,
+   "count": 4,
    "note": ""
   }
  ],
  "items": [
+  {
+   "title": "[加密貨幣] 2026-10-26 加密貨幣盤後報告",
+   "url": "https://harrymemo.com/outputs/crypto/2026-10-26_CRYPTO_Weekly_Dashboard",
+   "published": "2026-10-26",
+   "excerpt": "",
+   "market_section": "crypto",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "c7fdb799aa3f",
+   "relevance": null,
+   "first_seen": "2026-10-26T11:38:56.931046+08:00"
+  },
   {
    "title": "[美股] 2026-10-24 美股盤後報告",
    "url": "https://harrymemo.com/outputs/us/2026-10-24_US_Market_Dashboard",
@@ -1014,38 +1026,10 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-12T11:33:12.897891+08:00"
-  },
-  {
-   "title": "[美股] 2026-09-11 美股盤後報告",
-   "url": "https://harrymemo.com/outputs/us/2026-09-11_US_Market_Dashboard",
-   "published": "2026-09-11",
-   "excerpt": "",
-   "market_section": "us",
-   "paywalled": true,
-   "source": "哈利的投資研究筆記庫",
-   "id": "6880a4fd3e69",
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-11T11:27:48.638852+08:00"
-  },
-  {
-   "title": "[台股] 2026-09-10 台股盤後報告",
-   "url": "https://harrymemo.com/outputs/tw/2026-09-10_TW_Market_Dashboard",
-   "published": "2026-09-10",
-   "excerpt": "",
-   "market_section": "tw",
-   "paywalled": true,
-   "source": "哈利的投資研究筆記庫",
-   "id": "35413dea56f5",
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-11T11:27:48.638852+08:00"
   }
  ],
  "fx": {
-  "usd_twd": 32.57,
+  "usd_twd": 32.564,
   "source": "rter.info",
   "history": [
    {
@@ -1251,10 +1235,14 @@
    {
     "d": "2026-10-25",
     "v": 32.57
+   },
+   {
+    "d": "2026-10-26",
+    "v": 32.564
    }
   ],
-  "change_7d": 0.142,
-  "change_30d": 0.837,
+  "change_7d": 0.038,
+  "change_30d": 0.869,
   "alert_below": 30.5,
   "good_time_to_buy": false,
   "note": "中間價，實際銀行買賣會有價差"

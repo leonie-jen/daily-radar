@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T11:35:11.168132+08:00",
+ "updated_at": "2026-10-26T11:37:37.724246+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,9 +9,9 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+   "ok": true,
+   "count": 25,
+   "note": ""
   },
   {
    "name": "Reddit r/gradadmissions",
@@ -28,7 +28,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "note": ""
   },
   {
@@ -51,6 +51,45 @@
   }
  ],
  "items": [
+  {
+   "title": "how do you guys find other students near you?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xer06w/how_do_you_guys_find_other_students_near_you/",
+   "published": "2026-10-25T02:47:17+00:00",
+   "excerpt": "i've seen a bunch of posts here like \"anyone from ___?\" and it got me thinking has anyone actually found classmates in their city or someone from the same course to study with? how'd you do it? for me it's kinda hard since everything's online. curious if it's just me or if others feel the same, or if you just don't care about meeting people and that's fine too lol submitted by /u/Alive_Cow304 [link] [留言]",
+   "author": "/u/Alive_Cow304",
+   "source": "Reddit r/OMSCS",
+   "id": "794540f4c7df",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-26T11:37:37.724246+08:00"
+  },
+  {
+   "title": "Looking for 2 Guest Tickets – Fall 2026 OMSCS Commencement",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xep2tm/looking_for_2_guest_tickets_fall_2026_omscs/",
+   "published": "2026-10-25T01:08:43+00:00",
+   "excerpt": "Hey everyone! I’m looking for 2 extra guest tickets for Georgia Tech’s Fall 2026 commencement ceremony. If anyone has spare tickets they won’t be using, I’d really appreciate it if you could reach out. Please feel free to comment or send me a DM. Thanks in advance, and congratulations to everyone graduating this fall! 🎓🐝 submitted by /u/Queim [link] [留言]",
+   "author": "/u/Queim",
+   "source": "Reddit r/OMSCS",
+   "id": "60cc11604dbb",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-26T11:37:37.724246+08:00"
+  },
+  {
+   "title": "Any Chicago meetups late Dec / early Jan?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xe3xhl/any_chicago_meetups_late_dec_early_jan/",
+   "published": "2026-10-24T09:09:59+00:00",
+   "excerpt": "Hi all! I’m an incoming Spring 2027 student, currently based in Seoul. I’ll be in Chicago for about three weeks, from late December through mid-January. I know most people will probably be busy with family over the holidays, but if anyone’s planning a meetup in Chicago around then, I’d love to join! Coffee, drinks, whatever works. It’d be great to meet some fellow OMSCS folks in person before the semester kicks off. Thanks! submitted by /u/kokoyellow [link] [留言]",
+   "author": "/u/kokoyellow",
+   "source": "Reddit r/OMSCS",
+   "id": "4d59e495fa74",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-26T11:37:37.724246+08:00"
+  },
   {
    "title": "Which classes require (or would be easier with) x64 CPU architecture?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xdng4u/which_classes_require_or_would_be_easier_with_x64/",
@@ -1041,21 +1080,6 @@
    "first_seen": "2026-10-14T11:52:41.091945+08:00"
   },
   {
-   "title": "OMSAI --> OMSSI: Guys, we could be the first on this...",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x4o05o/omsai_omssi_guys_we_could_be_the_first_on_this/",
-   "published": "2026-10-13T05:09:03+00:00",
-   "excerpt": "Super > Artificial submitted by /u/Slow_Taste7955 [link] [留言]",
-   "author": "/u/Slow_Taste7955",
-   "source": "Reddit r/OMSCS",
-   "id": "04675bfbf6a0",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-14T11:52:41.091945+08:00"
-  },
-  {
    "title": "OMSCS: The Revolution Will Be Digitized - Communications of the ACM",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WV090QjhDRGRFeVB5ZmEtdmh0Z1h5V1VYM3F1NF9QQ2IzU0Z6QnhFU0dMa0wwbmdoa0hrUkZVZlJ4N1JwQllwV0g2aw?oc=5",
    "published": "2020-08-01T07:00:00+00:00",
@@ -1091,6 +1115,21 @@
    "excerpt": "",
    "source": "OMSCS 官方公告",
    "id": "17523f00a658",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-14T11:52:41.091945+08:00"
+  },
+  {
+   "title": "OMSAI --> OMSSI: Guys, we could be the first on this...",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x4o05o/omsai_omssi_guys_we_could_be_the_first_on_this/",
+   "published": "2026-10-13T05:09:03+00:00",
+   "excerpt": "Super > Artificial submitted by /u/Slow_Taste7955 [link] [留言]",
+   "author": "/u/Slow_Taste7955",
+   "source": "Reddit r/OMSCS",
+   "id": "04675bfbf6a0",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1396,20 +1435,6 @@
    "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
-   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "31b0ee4cb5e7",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
    "title": "Postponing enrollment repercussions",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x03oqe/postponing_enrollment_repercussions/",
    "published": "2026-10-07T18:05:57+00:00",
@@ -1422,6 +1447,20 @@
     "accepted",
     "decision"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "31b0ee4cb5e7",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2041,21 +2080,6 @@
    "first_seen": "2026-09-26T11:56:08.785653+08:00"
   },
   {
-   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
-   "published": "2025-04-24T07:00:00+00:00",
-   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "b46a54226e93",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
    "title": "OMSCS vs in-person masters Similarity",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
    "published": "2026-09-24T15:35:17+00:00",
@@ -2067,6 +2091,21 @@
    "keyword_hits": [
     "admission"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
+   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
+   "published": "2025-04-24T07:00:00+00:00",
+   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "b46a54226e93",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,

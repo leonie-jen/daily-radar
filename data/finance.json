@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T12:03:24.081769+08:00",
+ "updated_at": "2026-10-28T12:28:46.212292+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -16,11 +16,35 @@
   {
    "name": "哈利的投資研究筆記庫",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "note": ""
   }
  ],
  "items": [
+  {
+   "title": "[美股] 2026-10-28 美股盤後報告",
+   "url": "https://harrymemo.com/outputs/us/2026-10-28_US_Market_Dashboard",
+   "published": "2026-10-28",
+   "excerpt": "",
+   "market_section": "us",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "893693e6e73c",
+   "relevance": null,
+   "first_seen": "2026-10-28T12:28:46.212292+08:00"
+  },
+  {
+   "title": "[台股] 2026-10-27 台股盤後報告",
+   "url": "https://harrymemo.com/outputs/tw/2026-10-27_TW_Market_Dashboard",
+   "published": "2026-10-27",
+   "excerpt": "",
+   "market_section": "tw",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "60d56afcaa06",
+   "relevance": null,
+   "first_seen": "2026-10-28T12:28:46.212292+08:00"
+  },
   {
    "title": "[美股] 2026-10-27 美股盤後報告",
    "url": "https://harrymemo.com/outputs/us/2026-10-27_US_Market_Dashboard",
@@ -31,6 +55,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "bfba1cbfe2ac",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-27T12:03:24.081769+08:00"
   },
   {
@@ -43,6 +69,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "397cf6237f2d",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-27T12:03:24.081769+08:00"
   },
   {
@@ -1027,7 +1055,7 @@
   }
  ],
  "fx": {
-  "usd_twd": 32.494,
+  "usd_twd": 32.43,
   "source": "rter.info",
   "history": [
    {
@@ -1241,10 +1269,14 @@
    {
     "d": "2026-10-27",
     "v": 32.494
+   },
+   {
+    "d": "2026-10-28",
+    "v": 32.43
    }
   ],
-  "change_7d": -0.09,
-  "change_30d": 0.799,
+  "change_7d": -0.164,
+  "change_30d": 0.667,
   "alert_below": 30.5,
   "good_time_to_buy": false,
   "note": "中間價，實際銀行買賣會有價差"
@@ -1253,61 +1285,61 @@
   {
    "symbol": "^TWII",
    "name": "台股加權",
-   "price": 46041.43,
-   "change": -846.34,
-   "change_pct": 1.81,
-   "currency": "TWD",
-   "as_of": "2026-10-22",
-   "market": "TW"
-  },
-  {
-   "symbol": "^GSPC",
-   "name": "S&P 500",
-   "price": 7676.77,
-   "change": 53.09,
-   "change_pct": 0.7,
-   "currency": "USD",
-   "as_of": "2026-10-26",
-   "market": "US"
-  },
-  {
-   "symbol": "^IXIC",
-   "name": "那斯達克",
-   "price": 26169.381,
-   "change": 214.039,
-   "change_pct": 0.82,
-   "currency": "USD",
-   "as_of": "2026-10-26",
-   "market": "US"
-  },
-  {
-   "symbol": "^SOX",
-   "name": "費半",
-   "price": 11083.47,
-   "change": 304.006,
-   "change_pct": 2.82,
-   "currency": "USD",
-   "as_of": "2026-10-26",
-   "market": "US"
-  },
-  {
-   "symbol": "2330.TW",
-   "name": "台積電",
-   "price": null,
-   "change": null,
-   "change_pct": null,
+   "price": 46096.23,
+   "change": 54.8,
+   "change_pct": 0.12,
    "currency": "TWD",
    "as_of": "2026-10-27",
    "market": "TW"
   },
   {
+   "symbol": "^GSPC",
+   "name": "S&P 500",
+   "price": 7722.6,
+   "change": 45.83,
+   "change_pct": 0.6,
+   "currency": "USD",
+   "as_of": "2026-10-27",
+   "market": "US"
+  },
+  {
+   "symbol": "^IXIC",
+   "name": "那斯達克",
+   "price": 26477.811,
+   "change": 308.43,
+   "change_pct": 1.18,
+   "currency": "USD",
+   "as_of": "2026-10-27",
+   "market": "US"
+  },
+  {
+   "symbol": "^SOX",
+   "name": "費半",
+   "price": 11482.505,
+   "change": 399.035,
+   "change_pct": 3.6,
+   "currency": "USD",
+   "as_of": "2026-10-27",
+   "market": "US"
+  },
+  {
+   "symbol": "2330.TW",
+   "name": "台積電",
+   "price": 2415.0,
+   "change": 15.0,
+   "change_pct": 0.62,
+   "currency": "TWD",
+   "as_of": "2026-10-28",
+   "market": "TW"
+  },
+  {
    "symbol": "NVDA",
    "name": "NVIDIA",
-   "price": 216.0,
-   "change": 5.04,
-   "change_pct": 2.39,
+   "price": 217.94,
+   "change": 1.94,
+   "change_pct": 0.9,
    "currency": "USD",
-   "as_of": "2026-10-26",
+   "as_of": "2026-10-27",
    "market": "US"
   }
  ],

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T12:03:11.059303+08:00",
+ "updated_at": "2026-10-28T12:28:10.448065+08:00",
  "sources": [
   {
    "name": "Google News",
@@ -16,7 +16,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "note": ""
   },
   {
@@ -39,9 +39,9 @@
   },
   {
    "name": "Reddit r/immigration CPT",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+   "ok": true,
+   "count": 25,
+   "note": ""
   },
   {
    "name": "ICE 新聞稿",
@@ -58,6 +58,66 @@
  ],
  "items": [
   {
+   "title": "US CPT Crackdown: Why international students may lose internship options - The Financial Express",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEp1MmhnYlBEdzdwRW1YWDRkXzQ4RFNJVEpEaDZHWmh0OVpSME9DcnZyRHNBR0ctUXdLTF9HR21jeng4bDh3YVdvV1UzQVJ3cXpyYmpncjNwZnBrWHVYamVGR3d6bllqNUVzU1ZIWktYSEJ5ZXYxYkRjMmJNck8wLXpsRGpKSkZSUktEam9fSzg3MDN1THV0alAtQkQydzhsRU12LURhSHhLZUF5QXFvNFJEQVplSGZtbGVvdmJuX3FZTHhVRzFj0gHOAUFVX3lxTE5xcUt1a0JySy1uTWppc2hMM1ZVSmdpNVpjbGs4dkJ6SzYyU1lfWXp0RGEzYWhJVkZFam1ETFhSTjZsMHk0eGNpZXNjdFhvclBOa2VHS3RJMVppVjB0Z3lSNnJtSERna2l2WlRBa1VHZTRyamk0MVZiRGFsU2FmMGhPQjFEd2Q0LXNkbWhaZEVDaHdaNkdfUmRLME9PUUp5S0VFTUFUTlB1VGVGcW5KdWJpUThuOC1pdXpBSnQ3a1lwdnBvYlN3bTBSdElYZ3hn?oc=5",
+   "published": "2026-10-02T07:00:00+00:00",
+   "excerpt": "US CPT Crackdown: Why international students may lose internship options The Financial Express",
+   "author": null,
+   "source": "Google News",
+   "id": "d4dcbee35671",
+   "policy_signal": true,
+   "relevance": null,
+   "first_seen": "2026-10-28T12:28:10.448065+08:00"
+  },
+  {
+   "title": "DHS Proposes $70,000 Fee for International Students' Work Training - Legis1",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55SGlqSVRtZFlQOEhyc25MYlQ5QnhtajQtWWtqX3RtLTVLdVJTZE50cDRmRVhYakxLWWNJdlN6bVdsTGI3QXhSdGJucWZFUTBpQkd4NzlIUENWVVZ1OEJOVFVzUHNJTVpHS0dHaS03NW92UXlaaTZ3?oc=5",
+   "published": "2026-10-27T20:27:42+00:00",
+   "excerpt": "DHS Proposes $70,000 Fee for International Students' Work Training Legis1",
+   "author": null,
+   "source": "Google News",
+   "id": "bffb0d2f9c8f",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-28T12:28:10.448065+08:00"
+  },
+  {
+   "title": "International students could see a massive fee increase for OPT work visa - Marketplace.org",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRzBtcFA5OHhVOTFQb2RUMF9mZnJSbUsySldhX09RcEtseDBiOVJfWXRDUkNYMTRNRnVsbU1iTG9nZTlNekFZVnM2aWpkMjRST3g5SWJoS1JGZFlzdHJ1OTNYazBUTmw2YmNnb2FDRDZUXzdjbEJHSm04SDFSakdkY0M3UkJJNGpJTDZFZHZybi1LTnVpNUI4c0poVHA1TTVKX0ZxcWFHVVN1QTZsTTN4SzA1MDZJUQ?oc=5",
+   "published": "2026-10-09T07:00:00+00:00",
+   "excerpt": "International students could see a massive fee increase for OPT work visa Marketplace.org",
+   "author": null,
+   "source": "Google News",
+   "id": "b67012f3545a",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-28T12:28:10.448065+08:00"
+  },
+  {
+   "title": "Recent India Travel Experience on STEM OPT",
+   "url": "https://www.reddit.com/r/immigration/comments/1xg5e2m/recent_india_travel_experience_on_stem_opt/",
+   "published": "2026-10-26T18:42:58+00:00",
+   "excerpt": "Hi everyone! I’m currently on STEM OPT and planning to visit India for 20 days for a family wedding. I recently moved to a different state for work. Has anyone traveled to India and re-entered the US recently? How was your immigration experience? What documents did they check? Did they ask for pay stubs or personal bank statements? Would appreciate any recent experiences or suggestions. Thanks! submitted by /u/Sai123charan [link] [留言]",
+   "author": "/u/Sai123charan",
+   "source": "Reddit r/immigration CPT",
+   "id": "9282988e51a6",
+   "policy_signal": true,
+   "relevance": null,
+   "first_seen": "2026-10-28T12:28:10.448065+08:00"
+  },
+  {
+   "title": "Need Advice on Filing H-1B Visa Stamping with TWO Prior 221(g) Administrative Processing Refusals",
+   "url": "https://www.reddit.com/r/immigration/comments/1xf7wqd/need_advice_on_filing_h1b_visa_stamping_with_two/",
+   "published": "2026-10-25T17:11:10+00:00",
+   "excerpt": "Hi everyone, Looking for insights or experiences from anyone who has navigated filing a new cap-exempt H-1B visa application in Canada following prior 221(g) administrative processing holds. Full Timeline & Context (feel free to skip): Dec 2017 – Dec 2022: Held F-1 visa. Graduated in Dec 2019. Obtained OPT in Feb, 2020. Began working in March. Total gap of about 2.5 months. OPT & STEM OPT: Worked on OPT from Mar 2020 till Feb 2023 until expired. Feb 2023: 12-day status gap while waiting for new university CPT and pending H-1B approval. Last week of Feb 2023: Started CPT at new university. March 2023: H-1B started (SEVIS closed, CPT canceled). May 2023: Job contract ended. June 2023: Moved to",
+   "author": "/u/Noisy-Chicken",
+   "source": "Reddit r/immigration CPT",
+   "id": "6358c0b76160",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-28T12:28:10.448065+08:00"
+  },
+  {
    "title": "US CPT crackdown: Why are colleges suing DHS after new ICE rules - The Financial Express",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkctUVpaellIQ2NPaUQzdlJnUXRmbTdNWDUxNTRoUm5URERJYnZPaklnb3NuZzZZMk5hMjVibG5JWVJRNlFWWXBqcGFjVThoa0gtdUxVczMzS2NLWG9yMXoydFQ1VDN1NU45X05acHhrVjVFSms0OW1ORVVoVTRPRWJiX0hqdHJCNm1qcjBnaGZSU1FlZ195Ni1PaDVTcE0teWpFOHhXYThwZ0k4bUV5T3h1UjdkTlBm0gG_AUFVX3lxTE9vck8zRUhHUkFxSnFDQWVKVzMybWl2RU5aUWw4NVlXYWFsRmVBYnE4THF3d29zYUI2Vjh3LVpuUzd3WFg0TDFWNXRYLWE2NUxIQXJ3Uk04TGJXZ3hWWm5NcHliRVJQZ2t6SW8zdi1nMDhPS1J6Q2ZLTmVkLURXNkFhaFNSQTJRTFl4NmlDRE1HbGd2em82TkFfWXBJNktBZzFMRVdOUTNJNXlKQU42NVhNWk1GUm5iVjRBN2NQQlVv?oc=5",
    "published": "2026-10-07T07:00:00+00:00",
@@ -67,6 +127,8 @@
    "id": "4cefe3457c3e",
    "policy_signal": true,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-27T12:03:11.059303+08:00"
   },
   {
@@ -79,6 +141,8 @@
    "id": "857a0c58ec57",
    "policy_signal": true,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-27T12:03:11.059303+08:00"
   },
   {
@@ -91,6 +155,8 @@
    "id": "9306f2ac0be5",
    "policy_signal": true,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-27T12:03:11.059303+08:00"
   },
   {
@@ -103,6 +169,8 @@
    "id": "009e0d888116",
    "policy_signal": true,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-27T12:03:11.059303+08:00"
   },
   {
@@ -115,6 +183,8 @@
    "id": "a305461f4b30",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-27T12:03:11.059303+08:00"
   },
   {
@@ -266,11 +336,25 @@
   {
    "title": "Understanding proposed changes to Optional Practical Training (OPT) - American Physical Society",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFFka01DZDJKaGJZbVg4QUxSWFFfaXMxTm1Na2ZQY0gydTN1Nzg2dFpEcF9qb19qMGpNOXB1dUx0NDk0dFNiWWtIWXlWWnpjMDZacHNZSndRUWJlY0FPVi1XZjVzYVRqNURpdU5acWpuYmMyMW9pWEJPUy1VNkNKbktmWHlOMWZveW1SVXE0STFzeWZKNkQ2Y1VNZFhSTlJCaFE?oc=5",
-   "published": "2026-10-26T21:34:44+00:00",
+   "published": "2026-10-28T00:57:25+00:00",
    "excerpt": "Understanding proposed changes to Optional Practical Training (OPT) American Physical Society",
    "author": null,
    "source": "Google News",
    "id": "8d7d154b49e8",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-25T11:35:53.948243+08:00"
+  },
+  {
+   "title": "Trump administration plans to charge international students $70,000 for work authorization - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMlhCa1pMd3dvMl9qSjgtTlpObWgwcFNGcXUxd1RKYV9VTzl2WVFaRXdtZWNfMlE0VnpjM2pGZmlnXzFfX3VZYWJZU1NrU1VZYWpiVnpfVG1FR3NQREIxUHp1Z1EwU2lXdDE4WlFFWi1QXzhub3Z5S3NWeHFwOE9IakxINjk0VG1xT05sMUI3M1lBaGV0VkxVM05PRXZSTmhJcGZ6LXNNWUxwcWFJRmc4V19ac1A5MWNqLUgybQ?oc=5",
+   "published": "2026-10-07T07:00:00+00:00",
+   "excerpt": "Trump administration plans to charge international students $70,000 for work authorization Reuters",
+   "author": null,
+   "source": "Google News",
+   "id": "b8c826b0415c",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -369,20 +453,6 @@
    "author": null,
    "source": "ICE 新聞稿",
    "id": "341ad1da4287",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-25T11:35:53.948243+08:00"
-  },
-  {
-   "title": "Trump administration plans to charge international students $70,000 for work authorization - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMlhCa1pMd3dvMl9qSjgtTlpObWgwcFNGcXUxd1RKYV9VTzl2WVFaRXdtZWNfMlE0VnpjM2pGZmlnXzFfX3VZYWJZU1NrU1VZYWpiVnpfVG1FR3NQREIxUHp1Z1EwU2lXdDE4WlFFWi1QXzhub3Z5S3NWeHFwOE9IakxINjk0VG1xT05sMUI3M1lBaGV0VkxVM05PRXZSTmhJcGZ6LXNNWUxwcWFJRmc4V19ac1A5MWNqLUgybQ?oc=5",
-   "published": "2026-10-07T07:00:00+00:00",
-   "excerpt": "Trump administration plans to charge international students $70,000 for work authorization Reuters",
-   "author": null,
-   "source": "Google News",
-   "id": "b8c826b0415c",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -794,6 +864,48 @@
    "first_seen": "2026-10-24T11:38:12.118886+08:00"
   },
   {
+   "title": "Employment End Date Suddenly Disappeared from Inactive Post-Completion OPT in SEVP Portal — Has Anyone Experienced This?",
+   "url": "https://www.reddit.com/r/immigration/comments/1xdpwqb/employment_end_date_suddenly_disappeared_from/",
+   "published": "2026-10-23T20:59:25+00:00",
+   "excerpt": "Hi everyone, I’m currently on STEM OPT and recently noticed something strange in my SEVP Portal. One of my previous employers under Inactive Post-Completion OPT had the correct employment end date displayed before, but suddenly the end date disappeared. This happened around the time my DSO was processing employment updates for my STEM OPT. I contacted SEVP, but they couldn’t explain why the end date disappeared. I’ve also reached out to my DSO to get it checked. My previous I-20s show the correct employment dates. Has anyone experienced something similar? ● Can historical employment end dates disappear due to a SEVIS/SEVP Portal synchronization issue? ● Has anyone noticed changes to inactive",
+   "author": "/u/Straight_Desk5415",
+   "source": "Reddit r/immigration CPT",
+   "id": "1c73f7907264",
+   "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-24T11:38:12.118886+08:00"
+  },
+  {
+   "title": "J1",
+   "url": "https://www.reddit.com/r/immigration/comments/1xdabia/j1/",
+   "published": "2026-10-23T10:27:37+00:00",
+   "excerpt": "Are employers allowed to hire on J1 visa for a full time role? How does that work? Is J1 transfer allowed after opt? submitted by /u/Clean_Match6971 [link] [留言]",
+   "author": "/u/Clean_Match6971",
+   "source": "Reddit r/immigration CPT",
+   "id": "6e23076565d6",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-24T11:38:12.118886+08:00"
+  },
+  {
+   "title": "Should I take a short-term contract job on F-1 OPT if I already have a full-time job starting in March?",
+   "url": "https://www.reddit.com/r/immigration/comments/1xd3wvw/should_i_take_a_shortterm_contract_job_on_f1_opt/",
+   "published": "2026-10-23T04:07:17+00:00",
+   "excerpt": "tl;dr: I’m an international student in the US on post-completion F-1 OPT. I received a short-term contract job paying fair hourly, potentially starting in early November. I’ve already accepted a full-time job starting March of 2027. The contract says I can resign at any time but requests two weeks’ notice. It also has a broad 18-month non-solicitation/non-performance clause. Is it worth taking the contract for a few months, or could it create immigration, legal, or future employment issues? I’m an international student in the US who recently graduated with a Master’s in Computer Science and am currently on post-completion F-1 OPT. I received an offer for a QA Engineer position through a staf",
+   "author": "/u/swedevknowsball",
+   "source": "Reddit r/immigration CPT",
+   "id": "3c7368549a11",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-24T11:38:12.118886+08:00"
+  },
+  {
    "title": "Proposed work authorization fee could disrupt international student career pipeline, Penn experts warn - The Daily Pennsylvanian",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1V3dERETDFOSkxnUGZLb2F0LVZuQ2p3WjBJUnpBN0RvXzZfYnR3WmZVTGlmUzdfRGV3ZnpFVlBybVpZNlo4aVhJbXRrbTVDSWxMb1gxZkhwb2dfWHVvMEs5eGkzSDJnYk5aU2ZyenRTVDJWcXNTQjAxN1g0cjdsaVY1TTdJMklrZ05UUzZEVG92Ymk1OTRHR3B0cDN2V3JKeVBIYmYzbw?oc=5",
    "published": "2026-09-01T03:16:25+00:00",
@@ -836,18 +948,6 @@
    "first_seen": "2026-10-24T11:38:12.118886+08:00"
   },
   {
-   "title": "Employment End Date Suddenly Disappeared from Inactive Post-Completion OPT in SEVP Portal — Has Anyone Experienced This?",
-   "url": "https://www.reddit.com/r/immigration/comments/1xdpwqb/employment_end_date_suddenly_disappeared_from/",
-   "published": "2026-10-23T20:59:25+00:00",
-   "excerpt": "Hi everyone, I’m currently on STEM OPT and recently noticed something strange in my SEVP Portal. One of my previous employers under Inactive Post-Completion OPT had the correct employment end date displayed before, but suddenly the end date disappeared. This happened around the time my DSO was processing employment updates for my STEM OPT. I contacted SEVP, but they couldn’t explain why the end date disappeared. I’ve also reached out to my DSO to get it checked. My previous I-20s show the correct employment dates. Has anyone experienced something similar? ● Can historical employment end dates disappear due to a SEVIS/SEVP Portal synchronization issue? ● Has anyone noticed changes to inactive",
-   "author": "/u/Straight_Desk5415",
-   "source": "Reddit r/immigration CPT",
-   "id": "1c73f7907264",
-   "policy_signal": true,
-   "relevance": null,
-   "first_seen": "2026-10-24T11:38:12.118886+08:00"
-  },
-  {
    "title": "Title: H-1B COS pending (filed by consulting firm), joining a different company on STEM OPT. Transfer right after approval?",
    "url": "https://www.reddit.com/r/immigration/comments/1xdjuov/title_h1b_cos_pending_filed_by_consulting_firm/",
    "published": "2026-10-23T17:07:26+00:00",
@@ -858,58 +958,6 @@
    "policy_signal": false,
    "relevance": null,
    "first_seen": "2026-10-24T11:38:12.118886+08:00"
-  },
-  {
-   "title": "J1",
-   "url": "https://www.reddit.com/r/immigration/comments/1xdabia/j1/",
-   "published": "2026-10-23T10:27:37+00:00",
-   "excerpt": "Are employers allowed to hire on J1 visa for a full time role? How does that work? Is J1 transfer allowed after opt? submitted by /u/Clean_Match6971 [link] [留言]",
-   "author": "/u/Clean_Match6971",
-   "source": "Reddit r/immigration CPT",
-   "id": "6e23076565d6",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-10-24T11:38:12.118886+08:00"
-  },
-  {
-   "title": "Should I take a short-term contract job on F-1 OPT if I already have a full-time job starting in March?",
-   "url": "https://www.reddit.com/r/immigration/comments/1xd3wvw/should_i_take_a_shortterm_contract_job_on_f1_opt/",
-   "published": "2026-10-23T04:07:17+00:00",
-   "excerpt": "tl;dr: I’m an international student in the US on post-completion F-1 OPT. I received a short-term contract job paying fair hourly, potentially starting in early November. I’ve already accepted a full-time job starting March of 2027. The contract says I can resign at any time but requests two weeks’ notice. It also has a broad 18-month non-solicitation/non-performance clause. Is it worth taking the contract for a few months, or could it create immigration, legal, or future employment issues? I’m an international student in the US who recently graduated with a Master’s in Computer Science and am currently on post-completion F-1 OPT. I received an offer for a QA Engineer position through a staf",
-   "author": "/u/swedevknowsball",
-   "source": "Reddit r/immigration CPT",
-   "id": "3c7368549a11",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-10-24T11:38:12.118886+08:00"
-  },
-  {
-   "title": "CPT restrictions won’t bear positive results - Daily Trojan",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUk1ua0tKdURTX2tTNVdOZHBWcm9fNkh4UlBIemZOcGhScVlkdk5JXzJ1RDh1aWVpWGY5VkxMTFp5YkJlMFlKTkNMUWJPRnliRmdVaHptYnhfZzJwaVNldjhKc3BLN2N3bko0R0RjSzdCRDZZYmRiOV8xeUhjTU9SZGpkUzUwUQ?oc=5",
-   "published": "2026-09-04T07:00:00+00:00",
-   "excerpt": "CPT restrictions won’t bear positive results Daily Trojan",
-   "author": null,
-   "source": "Google News",
-   "id": "637700b09ea4",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:44:04.724273+08:00"
-  },
-  {
-   "title": "Emerson international students say despite opportunities, they face disconnect from peers, professors, and campus - The Berkeley Beacon",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ0RqYmpWcEdvdVU0TUsxZ09ueHhIQUQtY1JtMllZdHFMZ1IwaUYwV0FCaXN6azBhV3oyWVBUTEp5S0tXVTgzTzJ0V3pETGVwM3kzSHJSYktCaE9qblZKSkdUeUlUcWxhOTYzTy1ZSHVsVXJ0SUl5dTV0Q2VpMzBQeXQtWDlDVHAxd0V2ckdMTDZveTBNajJhWXFIVkFBaXFMVkZvYW9Oa2RnN1lyeERKX2xDSGtSaEVKR3ZCMHZkS0tPUTZYYkIyaUx5Mkx4ZjBhYzZfQw?oc=5",
-   "published": "2026-10-22T07:34:51+00:00",
-   "excerpt": "Emerson international students say despite opportunities, they face disconnect from peers, professors, and campus The Berkeley Beacon",
-   "author": null,
-   "source": "Google News",
-   "id": "420074818f08",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:44:04.724273+08:00"
   },
   {
    "title": "F-1 visa refused 3 times under 214(b) while on approved OPT — any similar experiences?",
@@ -954,6 +1002,34 @@
    "first_seen": "2026-10-23T11:44:04.724273+08:00"
   },
   {
+   "title": "CPT restrictions won’t bear positive results - Daily Trojan",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUk1ua0tKdURTX2tTNVdOZHBWcm9fNkh4UlBIemZOcGhScVlkdk5JXzJ1RDh1aWVpWGY5VkxMTFp5YkJlMFlKTkNMUWJPRnliRmdVaHptYnhfZzJwaVNldjhKc3BLN2N3bko0R0RjSzdCRDZZYmRiOV8xeUhjTU9SZGpkUzUwUQ?oc=5",
+   "published": "2026-09-04T07:00:00+00:00",
+   "excerpt": "CPT restrictions won’t bear positive results Daily Trojan",
+   "author": null,
+   "source": "Google News",
+   "id": "637700b09ea4",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:44:04.724273+08:00"
+  },
+  {
+   "title": "Emerson international students say despite opportunities, they face disconnect from peers, professors, and campus - The Berkeley Beacon",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ0RqYmpWcEdvdVU0TUsxZ09ueHhIQUQtY1JtMllZdHFMZ1IwaUYwV0FCaXN6azBhV3oyWVBUTEp5S0tXVTgzTzJ0V3pETGVwM3kzSHJSYktCaE9qblZKSkdUeUlUcWxhOTYzTy1ZSHVsVXJ0SUl5dTV0Q2VpMzBQeXQtWDlDVHAxd0V2ckdMTDZveTBNajJhWXFIVkFBaXFMVkZvYW9Oa2RnN1lyeERKX2xDSGtSaEVKR3ZCMHZkS0tPUTZYYkIyaUx5Mkx4ZjBhYzZfQw?oc=5",
+   "published": "2026-10-22T07:34:51+00:00",
+   "excerpt": "Emerson international students say despite opportunities, they face disconnect from peers, professors, and campus The Berkeley Beacon",
+   "author": null,
+   "source": "Google News",
+   "id": "420074818f08",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:44:04.724273+08:00"
+  },
+  {
    "title": "Does ice / uscis tips are taken seriously?",
    "url": "https://www.reddit.com/r/immigration/comments/1xcoqx9/does_ice_uscis_tips_are_taken_seriously/",
    "published": "2026-10-22T17:19:45+00:00",
@@ -988,6 +1064,34 @@
    "source": "Google News",
    "id": "8198d896c8d0",
    "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-22T11:39:32.977216+08:00"
+  },
+  {
+   "title": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers - Employment Law Worldview",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmxyRF9DQ21KNWZiZW9obWZYV3JQOXd0ZEZaU3Iwd1kwTVM0LUhRdkJnTTFGV3pMUnNpdVh3X0FCcTNfeHhzeEdic1ladHJSSVpqME5CaEYzeHk0VURIOVNXbmxFb3FKSmZzc1pWd2ZNVUxla3VsU2dwZGpocFdjeWRqUllybmpFNWhxUmJHWEZzd3ZZaUE2WHFTNHQ4VF9MVjc0akQ1eXBQa3lWTFJRWTdDOEI4SFFXUGVRTlotVkhhLUFYV0E?oc=5",
+   "published": "2025-12-15T08:00:00+00:00",
+   "excerpt": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers Employment Law Worldview",
+   "author": null,
+   "source": "Google News",
+   "id": "bf45294c2331",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-22T11:39:32.977216+08:00"
+  },
+  {
+   "title": "More I-94 Monitoring + Timely EOS Filing for Employers as DHS Reshapes F-1 and J-1 Framework - Jackson Lewis",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFFlTVpjRnNiUEppaW9RdGRjTENVWDRfZ1pnSzFZV0p6aFZsYUJxTnh3Wk1RNDNaaUtwZWhjTkpFVUJvUDhZMzFVLUFMdVMwWHZTVnNiUGhsMEY3ODYyb2ZoME5KZ2JmMnY1c1ZNdU9mWHZKUkdSbjdaeVRQTGlrM3ZpOFpWRmtyWTlCN0NiWFdPaUwxN2lUYW9jTVRLeU11YXJ2OXdIblQwYkRPWWctdjBtMGFFR21yS2J5aVVn?oc=5",
+   "published": "2026-07-20T07:00:00+00:00",
+   "excerpt": "More I-94 Monitoring + Timely EOS Filing for Employers as DHS Reshapes F-1 and J-1 Framework Jackson Lewis",
+   "author": null,
+   "source": "Google News",
+   "id": "94b861093d53",
+   "policy_signal": false,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -1058,34 +1162,6 @@
    "source": "Reddit r/f1visa",
    "id": "783bff7618a5",
    "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-22T11:39:32.977216+08:00"
-  },
-  {
-   "title": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers - Employment Law Worldview",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmxyRF9DQ21KNWZiZW9obWZYV3JQOXd0ZEZaU3Iwd1kwTVM0LUhRdkJnTTFGV3pMUnNpdVh3X0FCcTNfeHhzeEdic1ladHJSSVpqME5CaEYzeHk0VURIOVNXbmxFb3FKSmZzc1pWd2ZNVUxla3VsU2dwZGpocFdjeWRqUllybmpFNWhxUmJHWEZzd3ZZaUE2WHFTNHQ4VF9MVjc0akQ1eXBQa3lWTFJRWTdDOEI4SFFXUGVRTlotVkhhLUFYV0E?oc=5",
-   "published": "2025-12-15T08:00:00+00:00",
-   "excerpt": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers Employment Law Worldview",
-   "author": null,
-   "source": "Google News",
-   "id": "bf45294c2331",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-22T11:39:32.977216+08:00"
-  },
-  {
-   "title": "More I-94 Monitoring + Timely EOS Filing for Employers as DHS Reshapes F-1 and J-1 Framework - Jackson Lewis",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFFlTVpjRnNiUEppaW9RdGRjTENVWDRfZ1pnSzFZV0p6aFZsYUJxTnh3Wk1RNDNaaUtwZWhjTkpFVUJvUDhZMzFVLUFMdVMwWHZTVnNiUGhsMEY3ODYyb2ZoME5KZ2JmMnY1c1ZNdU9mWHZKUkdSbjdaeVRQTGlrM3ZpOFpWRmtyWTlCN0NiWFdPaUwxN2lUYW9jTVRLeU11YXJ2OXdIblQwYkRPWWctdjBtMGFFR21yS2J5aVVn?oc=5",
-   "published": "2026-07-20T07:00:00+00:00",
-   "excerpt": "More I-94 Monitoring + Timely EOS Filing for Employers as DHS Reshapes F-1 and J-1 Framework Jackson Lewis",
-   "author": null,
-   "source": "Google News",
-   "id": "94b861093d53",
-   "policy_signal": false,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -1410,20 +1486,6 @@
    "first_seen": "2026-10-21T11:40:04.604124+08:00"
   },
   {
-   "title": "Indian Students Could Face $70,000 OPT Fee Under Proposed US Immigration Rule - INDIA New England News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2VlQ000bTZfWHFmZTNfRjZGQlV2N2Y3d1I5ZmgxNTFPdllCV1RaTEstUVp0dHNpczF2ckZXbmUyeHZ5NzZUUjBsbVNIaC10ZGp2VWxTemVVRXhQQTM5YW56Si13TkdVanlESWZqRHFBaER3cXJPdDFiM0Yxd20yazZ3eG54OXpEWHhiQkxmdlZuM0l3OHJVUGc3a2xLSWtXRzlfZkFhVQ?oc=5",
-   "published": "2026-10-20T15:51:22+00:00",
-   "excerpt": "Indian Students Could Face $70,000 OPT Fee Under Proposed US Immigration Rule INDIA New England News",
-   "author": null,
-   "source": "Google News",
-   "id": "120250f7bb30",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-21T11:40:04.604124+08:00"
-  },
-  {
    "title": "I-485 with Pending Misdemeanor for Failure to Obey a Traffic Control Device — Anyone Similar Experience?",
    "url": "https://www.reddit.com/r/immigration/comments/1xaxk7t/i485_with_pending_misdemeanor_for_failure_to_obey/",
    "published": "2026-10-20T16:56:51+00:00",
@@ -1432,6 +1494,20 @@
    "source": "Reddit r/immigration CPT",
    "id": "d4a6cedde9ea",
    "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-21T11:40:04.604124+08:00"
+  },
+  {
+   "title": "Indian Students Could Face $70,000 OPT Fee Under Proposed US Immigration Rule - INDIA New England News",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2VlQ000bTZfWHFmZTNfRjZGQlV2N2Y3d1I5ZmgxNTFPdllCV1RaTEstUVp0dHNpczF2ckZXbmUyeHZ5NzZUUjBsbVNIaC10ZGp2VWxTemVVRXhQQTM5YW56Si13TkdVanlESWZqRHFBaER3cXJPdDFiM0Yxd20yazZ3eG54OXpEWHhiQkxmdlZuM0l3OHJVUGc3a2xLSWtXRzlfZkFhVQ?oc=5",
+   "published": "2026-10-20T15:51:22+00:00",
+   "excerpt": "Indian Students Could Face $70,000 OPT Fee Under Proposed US Immigration Rule INDIA New England News",
+   "author": null,
+   "source": "Google News",
+   "id": "120250f7bb30",
+   "policy_signal": true,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -1524,20 +1600,6 @@
    "policy_signal": false,
    "relevance": null,
    "first_seen": "2026-10-20T11:49:10.431004+08:00"
-  },
-  {
-   "title": "Trump administration floats $70,000 fee for international student work authorization - Honolulu Star-Advertiser",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTBnNk9kTUhYRHd4OWRCQkF1NTh1YmJOSmVFSnBMU1J5LXFOQ0x4MWFnR1RkRDh6dmFzckxhT2FzcFQ2TFNlVl9xbDJuWC1QTHFYZjBjb2x5NWVCc21Za0NYeVpjbkF0NFY1VHF5M3Q2LVlFT043LW1UNzQwanJPX3Nuek1pcnEwcnFqek5lVnBFRHAtN1c0aEdrVFJCSGVPcHA4X2RuM2M5WUNHYnZlbkgtZGdiYVVuXzFNQ1VydC1zRHlXcHc?oc=5",
-   "published": "2026-10-07T07:00:00+00:00",
-   "excerpt": "Trump administration floats $70,000 fee for international student work authorization Honolulu Star-Advertiser",
-   "author": null,
-   "source": "Google News",
-   "id": "f8bd9e001da7",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-19T11:38:11.871979+08:00"
   },
   {
    "title": "Is it legal for F-1 STEM OPT holders to join a credit union?",
@@ -1666,20 +1728,6 @@
    "first_seen": "2026-10-19T11:38:11.871979+08:00"
   },
   {
-   "title": "Questions about visa status",
-   "url": "https://www.reddit.com/r/immigration/comments/1x4jpha/questions_about_visa_status/",
-   "published": "2026-10-13T01:25:55+00:00",
-   "excerpt": "​ Asking for a friend My friend lost their job on September 29th 2026, They had an approved i797 / h1b application. Their OPT expired in Jun 2026. Their stem opt extension is filed and currently shows a status of \"processing\" DSO had informed them that they have transitioned to h1b Their employer hasn't informed them if the h1b application has been withdrawn and if so when They are currently in the us Questions: 1) Are they currently out of status since they were not employed on Oct 1, and their stem opt extension is still processing ? 2) can their DSO update their status back to f1 (reinstatement)? 3) how much time do they legally have to stay in the us ? 90 days? 60 days? 4) Can they do a ",
-   "author": "/u/AaamrasPuri",
-   "source": "Reddit r/immigration CPT",
-   "id": "5d76bb738e6e",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-19T11:38:11.871979+08:00"
-  },
-  {
    "title": "EB5 Journey",
    "url": "https://www.reddit.com/r/immigration/comments/1x43gd0/eb5_journey/",
    "published": "2026-10-12T14:32:54+00:00",
@@ -1771,6 +1819,34 @@
    "author": "/u/Inside_Cupcake_2366",
    "source": "Reddit r/immigration CPT",
    "id": "bbb210a970dd",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-19T11:38:11.871979+08:00"
+  },
+  {
+   "title": "Trump administration floats $70,000 fee for international student work authorization - Honolulu Star-Advertiser",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTBnNk9kTUhYRHd4OWRCQkF1NTh1YmJOSmVFSnBMU1J5LXFOQ0x4MWFnR1RkRDh6dmFzckxhT2FzcFQ2TFNlVl9xbDJuWC1QTHFYZjBjb2x5NWVCc21Za0NYeVpjbkF0NFY1VHF5M3Q2LVlFT043LW1UNzQwanJPX3Nuek1pcnEwcnFqek5lVnBFRHAtN1c0aEdrVFJCSGVPcHA4X2RuM2M5WUNHYnZlbkgtZGdiYVVuXzFNQ1VydC1zRHlXcHc?oc=5",
+   "published": "2026-10-07T07:00:00+00:00",
+   "excerpt": "Trump administration floats $70,000 fee for international student work authorization Honolulu Star-Advertiser",
+   "author": null,
+   "source": "Google News",
+   "id": "f8bd9e001da7",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-19T11:38:11.871979+08:00"
+  },
+  {
+   "title": "Questions about visa status",
+   "url": "https://www.reddit.com/r/immigration/comments/1x4jpha/questions_about_visa_status/",
+   "published": "2026-10-13T01:25:55+00:00",
+   "excerpt": "​ Asking for a friend My friend lost their job on September 29th 2026, They had an approved i797 / h1b application. Their OPT expired in Jun 2026. Their stem opt extension is filed and currently shows a status of \"processing\" DSO had informed them that they have transitioned to h1b Their employer hasn't informed them if the h1b application has been withdrawn and if so when They are currently in the us Questions: 1) Are they currently out of status since they were not employed on Oct 1, and their stem opt extension is still processing ? 2) can their DSO update their status back to f1 (reinstatement)? 3) how much time do they legally have to stay in the us ? 90 days? 60 days? 4) Can they do a ",
+   "author": "/u/AaamrasPuri",
+   "source": "Reddit r/immigration CPT",
+   "id": "5d76bb738e6e",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -9596,104 +9672,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-14T11:48:11.495848+08:00"
-  },
-  {
-   "title": "DHS Moves to End Duration of Status for F-1, J-1, and I Visa Holders: What Students and Schools Must Know - Reddy Neumann Brown PC",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcWsyQkExZlE0SExhWTVZdzdIQ2R2MlF4TWVwdjRnN0JCYXgwaUtXMC03ZUxhdEdfOUgtNmllQ2tjQVdzWXU4aWhJcldBVVA4dTFRR3dGVHJ6bVRIaE1ZbFkwVTNoWXV0dGlSTGgxV2lDYWZ0UHVfTERPSGl6RmIxcUwxQ1dYcFQxNHZMSEo2dVUtRTFLZG1zOVdyM3pEUnp5VGtVdXVsQUdtSzNsYXk0eWlSRV90SXNJelJvX25wTDRidVFkRENWUlJn?oc=5",
-   "published": "2026-05-12T07:00:00+00:00",
-   "excerpt": "DHS Moves to End Duration of Status for F-1, J-1, and I Visa Holders: What Students and Schools Must Know Reddy Neumann Brown PC",
-   "author": null,
-   "source": "Google News",
-   "id": "73dbebe8500f",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-13T11:39:11.188619+08:00"
-  },
-  {
-   "title": "2026 Calhoun County Correctional Center, Battle Creek, MI - Jul. 28–30, 2026",
-   "url": "https://www.ice.gov/node/70258",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "2a3a3bf13dd9",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-13T11:39:11.188619+08:00"
-  },
-  {
-   "title": "ICE arrests 3 criminal illegal aliens from Guatemala after Tennessee identity theft investigation",
-   "url": "https://www.ice.gov/news/releases/ice-arrests-3-criminal-illegal-aliens-guatemala-after-tennessee-identity-theft",
-   "published": null,
-   "excerpt": "ICE New Orleans arrested three illegal aliens — two with existing criminal histories — from Guatemala Aug. 4 through an identity theft investigation. The arrests were related to an investigation into alleged fraudulent use of stolen identities and Social Security numbers.",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "5a625b2ef873",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-13T11:39:11.188619+08:00"
-  },
-  {
-   "title": "ICE marks 100,000th removal for Fiscal Year 2026 in Louisiana",
-   "url": "https://www.ice.gov/news/releases/ice-marks-100000th-removal-fiscal-year-2026-louisiana-0",
-   "published": null,
-   "excerpt": "ICE New Orleans has removed its 100,000th individual for Fiscal Year 2026, marking a significant operational milestone. ICE Air conducted the removal from the Alexandria Staging Facility in Louisiana, with the alien being returned to Guatemala.",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "9a7b79ff8d2c",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-13T11:39:11.188619+08:00"
-  },
-  {
-   "title": "500 illegal aliens arrested during weeklong, multiagency immigration enforcement surge operations in Southwest Florida",
-   "url": "https://www.ice.gov/news/releases/500-illegal-aliens-arrested-during-weeklong-multiagency-immigration-enforcement-surge",
-   "published": null,
-   "excerpt": "ICE, alongside the Florida Highway Patrol, the Lee County Sheriff’s Office, the Florida National Guard, the Florida Fish and Wildlife Conservation Commission, U.S. Customs and Border Protection and multiple other state and local agency partners, arrested 500 illegal aliens in a weeklong immigration enforcement operation in Ft. Myers between Aug. 24 and Aug. 27.",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "94da69017995",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-13T11:39:11.188619+08:00"
-  },
-  {
-   "title": "70CDCR21DIG000012 P00020: Moshannon Valley Processing Center - Philipsburg, PA",
-   "url": "https://www.ice.gov/node/70252",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "fadd1e5f2f3c",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-13T11:39:11.188619+08:00"
-  },
-  {
-   "title": "What The New Federal Crackdown On International Student Inte - ИФЗ РАН",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRnY2MDAxM09KUmstUkN2OUxoVTd2Uzg3MmpIUE9XM25oTk9NdUlhZnc2dGNkUmt4LUFSeXByTGh3QnVrU3RVZ1haUk1VVGIyWEhQTVVpZF9vdzlLT3ZFN2d5SktXemhaTEhyeEN0cm1IWWNaZ25UV1pOUVRWb2RkMXFGMm9PTGxTQXB3UFNZT3lSYnJzeVFlSVFmNA?oc=5",
-   "published": "2026-09-12T08:01:15+00:00",
-   "excerpt": "What The New Federal Crackdown On International Student Inte ИФЗ РАН",
-   "author": null,
-   "source": "Google News",
-   "id": "82c856668954",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-13T11:39:11.188619+08:00"
   },
   {
    "title": "Why is Trump cracking down on foreign student internships? - The Indian Express",

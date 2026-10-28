@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T12:02:04.851438+08:00",
+ "updated_at": "2026-10-28T12:27:33.316520+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,15 +9,15 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
-  },
-  {
-   "name": "Reddit r/gradadmissions",
    "ok": true,
    "count": 25,
    "note": ""
+  },
+  {
+   "name": "Reddit r/gradadmissions",
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
    "name": "Google News",
@@ -62,6 +62,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-27T12:02:04.851438+08:00"
   },
   {
@@ -228,6 +230,64 @@
    "author": "/u/Grandpa_OMSC_Student",
    "source": "Reddit r/OMSCS",
    "id": "c16c5be70425",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
+   "published": "2023-04-21T07:00:00+00:00",
+   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "43f2eafe3c1d",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "Research challenges assumptions about online education success - Phys.org",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
+   "published": "2026-08-03T07:00:00+00:00",
+   "excerpt": "Research challenges assumptions about online education success Phys.org",
+   "author": null,
+   "source": "Google News",
+   "id": "3fd446b8a3e2",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
+   "url": "https://omscs.gatech.edu/external-news/where-are-they-now-team-atlanta-takes-ai-cybersecurity-beyond-competition",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "76452fa7004b",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "When a Ship’s Systems Lie, Cybersecurity Gets Complicated",
+   "url": "https://omscs.gatech.edu/external-news/when-ships-systems-lie-cybersecurity-gets-complicated",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "0fdbc2225ff1",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -606,64 +666,6 @@
     "accepted",
     "decision"
    ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
-   "published": "2023-04-21T07:00:00+00:00",
-   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
-   "author": null,
-   "source": "Google News",
-   "id": "43f2eafe3c1d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "Research challenges assumptions about online education success - Phys.org",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
-   "published": "2026-08-03T07:00:00+00:00",
-   "excerpt": "Research challenges assumptions about online education success Phys.org",
-   "author": null,
-   "source": "Google News",
-   "id": "3fd446b8a3e2",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
-   "url": "https://omscs.gatech.edu/external-news/where-are-they-now-team-atlanta-takes-ai-cybersecurity-beyond-competition",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "76452fa7004b",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "When a Ship’s Systems Lie, Cybersecurity Gets Complicated",
-   "url": "https://omscs.gatech.edu/external-news/when-ships-systems-lie-cybersecurity-gets-complicated",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "0fdbc2225ff1",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -1535,20 +1537,6 @@
    "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
-   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "31b0ee4cb5e7",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
    "title": "Postponing enrollment repercussions",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x03oqe/postponing_enrollment_repercussions/",
    "published": "2026-10-07T18:05:57+00:00",
@@ -1561,6 +1549,20 @@
     "accepted",
     "decision"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "31b0ee4cb5e7",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2180,21 +2182,6 @@
    "first_seen": "2026-09-26T11:56:08.785653+08:00"
   },
   {
-   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
-   "published": "2025-04-24T07:00:00+00:00",
-   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "b46a54226e93",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
    "title": "OMSCS vs in-person masters Similarity",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
    "published": "2026-09-24T15:35:17+00:00",
@@ -2206,6 +2193,21 @@
    "keyword_hits": [
     "admission"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
+   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
+   "published": "2025-04-24T07:00:00+00:00",
+   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "b46a54226e93",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2796,21 +2798,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-14T11:47:04.737919+08:00"
-  },
-  {
-   "title": "Philly Local Meetup Group - looking to find or start one",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wet5ul/philly_local_meetup_group_looking_to_find_or/",
-   "published": "2026-09-13T00:40:41+00:00",
-   "excerpt": "Hi everyone! Are there any OMSCS students in the Philly area interested in meeting up? I've been looking for an active local group but haven't been able to find one. It would be great to connect with other students for coffee, studying, networking, or simply sharing the OMSCS experience. If there isn't already an active Philly meetup group, I'd be happy to help organize the first meetup. If you're in the Philly area and interested, please comment below or send me a message. Let's see if we can find—or get—a local OMSCS group started! Thanks! submitted by /u/Alive-Edge-2718 [link] [留言]",
-   "author": "/u/Alive-Edge-2718",
-   "source": "Reddit r/OMSCS",
-   "id": "fe505971b6eb",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-13T11:38:04.747429+08:00"
   },
   {
    "title": "The Digital Bridge - Harvard Graduate School of Education",

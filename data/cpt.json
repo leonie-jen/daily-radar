@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T12:28:10.448065+08:00",
+ "updated_at": "2026-10-29T12:46:09.499336+08:00",
  "sources": [
   {
    "name": "Google News",
@@ -39,9 +39,9 @@
   },
   {
    "name": "Reddit r/immigration CPT",
-   "ok": true,
-   "count": 25,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
    "name": "ICE 新聞稿",
@@ -58,6 +58,138 @@
  ],
  "items": [
   {
+   "title": "Keeping lobbying spending high, Yale fights foreign student restrictions - Yale Daily News",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXl4VnZiTHlLa2ZxNGpoZjlEcHVvTXhjY0VnOTZ3VkRRSVEtQ3BGbG9Ea1dVVW9FamVLTldFUnZVWlpfTUJTS0N2RGtfNVR2b1RyVnFwX25GMFFwS19SbWhpYU9yWHZWV1NFQ1dMY2ZuRU1wQUZvdXh2LXJaTWlRaWN0WTVMbFRFN25zeWRrNERPSUlrOWZtXzFjNWJIRjhGN1A1ektWMHhUUQ?oc=5",
+   "published": "2026-10-28T07:21:03+00:00",
+   "excerpt": "Keeping lobbying spending high, Yale fights foreign student restrictions Yale Daily News",
+   "author": null,
+   "source": "Google News",
+   "id": "522d41c0caaa",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-29T12:46:09.499336+08:00"
+  },
+  {
+   "title": "USG approves resolution supporting international students, curricular practical training - Daily Trojan",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQnV2ZVpKVDJCRDRJdWlrY3NPU2tzSVlzVS1XUHBsNGhPdERZN2xXaDVMNW00RnZ5emV0bjFIbW80TXVsQkJOeFRFT0o1NWtwNGk4TG1Lc1pMWjRybmhOc0pVTHR6b0dJVVFteElINGZpYUc2VGR6V0VtbGM5cHJsY0hPMjdCZ0Y2ZXFIQTl4b1FkMmhTcU5PNkpDN0Q2RlZJT3lwVzZFdlpUbnlxZTZSdU5qZ1NFN1BUakdkajl0ZEk?oc=5",
+   "published": "2026-10-28T07:02:44+00:00",
+   "excerpt": "USG approves resolution supporting international students, curricular practical training Daily Trojan",
+   "author": null,
+   "source": "Google News",
+   "id": "11d743ea1b6f",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-29T12:46:09.499336+08:00"
+  },
+  {
+   "title": "2026 Stewart Detention Center, Lumpkin, GA - Sep. 15 - 17, 2026",
+   "url": "https://www.ice.gov/node/70467",
+   "published": null,
+   "excerpt": "",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "e57a30fe1360",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-29T12:46:09.499336+08:00"
+  },
+  {
+   "title": "ParticipatingAgencies10272026pma.xlsx",
+   "url": "https://www.ice.gov/node/70466",
+   "published": null,
+   "excerpt": "",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "14cd1b508ba1",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-29T12:46:09.499336+08:00"
+  },
+  {
+   "title": "ParticipatingAgencies10272026pm",
+   "url": "https://www.ice.gov/node/70463",
+   "published": null,
+   "excerpt": "",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "15eea0475874",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-29T12:46:09.499336+08:00"
+  },
+  {
+   "title": "2026 Richwood Correctional Center, Monroe, LA - Sep. 1 - 3, 2026",
+   "url": "https://www.ice.gov/node/70461",
+   "published": null,
+   "excerpt": "",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "a3ad2fc42af0",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-29T12:46:09.499336+08:00"
+  },
+  {
+   "title": "2026 El Valle Detention Facility, Raymondville, TX - Sep. 1 - 3, 2026",
+   "url": "https://www.ice.gov/node/70462",
+   "published": null,
+   "excerpt": "",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "3a8368bcdd26",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-29T12:46:09.499336+08:00"
+  },
+  {
+   "title": "2026 El Paso Service Processing Center, El Paso, TX - Aug. 25–27, 2026",
+   "url": "https://www.ice.gov/node/70460",
+   "published": null,
+   "excerpt": "",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "9a34ddd33ab3",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-29T12:46:09.499336+08:00"
+  },
+  {
+   "title": "Henderson County Detention Center",
+   "url": "https://www.ice.gov/detain/detention-facilities/henderson-county-detention-center",
+   "published": null,
+   "excerpt": "",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "9e8f3f56761a",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-29T12:46:09.499336+08:00"
+  },
+  {
+   "title": "Illegal alien vandalizes Iwo Jima Memorial in Quantico with sledgehammer",
+   "url": "https://www.ice.gov/news/releases/illegal-alien-vandalizes-iwo-jima-memorial-quantico-sledgehammer",
+   "published": null,
+   "excerpt": "Miguel Alonso Maldonado Soriano, an illegal alien from Mexico, has been charged with felony destruction of property and trespassing with intent to damage property.",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "56b9e4e00c67",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-29T12:46:09.499336+08:00"
+  },
+  {
+   "title": "ICE removes accused violent fugitive to face homicide charges in native Guyana",
+   "url": "https://www.ice.gov/news/releases/ice-removes-accused-violent-fugitive-face-homicide-charges-native-guyana",
+   "published": null,
+   "excerpt": "On Sept. 18, ICE removed Kanand Ojha, an illegal alien from Guyana who was wanted in his home country for a 2015 murder.",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "07cee1405581",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-10-29T12:46:09.499336+08:00"
+  },
+  {
    "title": "US CPT Crackdown: Why international students may lose internship options - The Financial Express",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEp1MmhnYlBEdzdwRW1YWDRkXzQ4RFNJVEpEaDZHWmh0OVpSME9DcnZyRHNBR0ctUXdLTF9HR21jeng4bDh3YVdvV1UzQVJ3cXpyYmpncjNwZnBrWHVYamVGR3d6bllqNUVzU1ZIWktYSEJ5ZXYxYkRjMmJNck8wLXpsRGpKSkZSUktEam9fSzg3MDN1THV0alAtQkQydzhsRU12LURhSHhLZUF5QXFvNFJEQVplSGZtbGVvdmJuX3FZTHhVRzFj0gHOAUFVX3lxTE5xcUt1a0JySy1uTWppc2hMM1ZVSmdpNVpjbGs4dkJ6SzYyU1lfWXp0RGEzYWhJVkZFam1ETFhSTjZsMHk0eGNpZXNjdFhvclBOa2VHS3RJMVppVjB0Z3lSNnJtSERna2l2WlRBa1VHZTRyamk0MVZiRGFsU2FmMGhPQjFEd2Q0LXNkbWhaZEVDaHdaNkdfUmRLME9PUUp5S0VFTUFUTlB1VGVGcW5KdWJpUThuOC1pdXpBSnQ3a1lwdnBvYlN3bTBSdElYZ3hn?oc=5",
    "published": "2026-10-02T07:00:00+00:00",
@@ -67,6 +199,8 @@
    "id": "d4dcbee35671",
    "policy_signal": true,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-28T12:28:10.448065+08:00"
   },
   {
@@ -79,6 +213,8 @@
    "id": "bffb0d2f9c8f",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-28T12:28:10.448065+08:00"
   },
   {
@@ -1486,6 +1622,20 @@
    "first_seen": "2026-10-21T11:40:04.604124+08:00"
   },
   {
+   "title": "Indian Students Could Face $70,000 OPT Fee Under Proposed US Immigration Rule - INDIA New England News",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2VlQ000bTZfWHFmZTNfRjZGQlV2N2Y3d1I5ZmgxNTFPdllCV1RaTEstUVp0dHNpczF2ckZXbmUyeHZ5NzZUUjBsbVNIaC10ZGp2VWxTemVVRXhQQTM5YW56Si13TkdVanlESWZqRHFBaER3cXJPdDFiM0Yxd20yazZ3eG54OXpEWHhiQkxmdlZuM0l3OHJVUGc3a2xLSWtXRzlfZkFhVQ?oc=5",
+   "published": "2026-10-28T18:57:08+00:00",
+   "excerpt": "Indian Students Could Face $70,000 OPT Fee Under Proposed US Immigration Rule INDIA New England News",
+   "author": null,
+   "source": "Google News",
+   "id": "120250f7bb30",
+   "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-21T11:40:04.604124+08:00"
+  },
+  {
    "title": "I-485 with Pending Misdemeanor for Failure to Obey a Traffic Control Device — Anyone Similar Experience?",
    "url": "https://www.reddit.com/r/immigration/comments/1xaxk7t/i485_with_pending_misdemeanor_for_failure_to_obey/",
    "published": "2026-10-20T16:56:51+00:00",
@@ -1494,20 +1644,6 @@
    "source": "Reddit r/immigration CPT",
    "id": "d4a6cedde9ea",
    "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-21T11:40:04.604124+08:00"
-  },
-  {
-   "title": "Indian Students Could Face $70,000 OPT Fee Under Proposed US Immigration Rule - INDIA New England News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2VlQ000bTZfWHFmZTNfRjZGQlV2N2Y3d1I5ZmgxNTFPdllCV1RaTEstUVp0dHNpczF2ckZXbmUyeHZ5NzZUUjBsbVNIaC10ZGp2VWxTemVVRXhQQTM5YW56Si13TkdVanlESWZqRHFBaER3cXJPdDFiM0Yxd20yazZ3eG54OXpEWHhiQkxmdlZuM0l3OHJVUGc3a2xLSWtXRzlfZkFhVQ?oc=5",
-   "published": "2026-10-20T15:51:22+00:00",
-   "excerpt": "Indian Students Could Face $70,000 OPT Fee Under Proposed US Immigration Rule INDIA New England News",
-   "author": null,
-   "source": "Google News",
-   "id": "120250f7bb30",
-   "policy_signal": true,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -4154,6 +4290,20 @@
    "first_seen": "2026-10-08T12:56:53.476136+08:00"
   },
   {
+   "title": "DHS proposes massive $70K fee for foreign students seeking work authorization - Fox News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFVoaENNRWdMYjc2cEpuZnJ2REQ4OUFFYVQzNVd4YUp6X01wdFEzdEFpOXAzdFNoNWxvUkIwUk04ZHM2SmhtVi11aXVBaFlDbDJUUHVxTG5sV1BFS3pKVURqdHc3SDk2bzR4a3FLVUpGWjZqWjV6ZE9GS3JOQ2VnMlM0UDB4Qkpyc3U2WEM4ZWZDME4xTkt0X2VheUxwRk9KMW1UYlVULXrSAa4BQVVfeXFMTUdtQk9OeWRwNWZ5M1paclhDSmRqYjdJa29rdVQxdnVYZzFOZHBVSFZhUzJBMWdNMXVSR2ZCZHFwNlVmNG5JRGQyN3Y5SXV2N0ZMajRIVHRYM2pGZzJfa1FrQmJWVW84bng5Q1I3Yy1GNF9jeGVLaExZRG14SllaVUhpd0RIeEVfcFZORFg5eGFWU0hzT3RYdjBVRkUzYklSWFBQb0s4dG1vVU41X1J3?oc=5",
+   "published": "2026-10-07T07:00:00+00:00",
+   "excerpt": "DHS proposes massive $70K fee for foreign students seeking work authorization Fox News",
+   "author": null,
+   "source": "Google News",
+   "id": "b158ee20378e",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:53.476136+08:00"
+  },
+  {
    "title": "CPT restriction for international students: Universities challenge new ICE policy, says it was announced - The Times of India",
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTTlQYkZfTVoxOUlmUXo3V0sxMXRrdG9hbGdiVU9lZ21iYjMwU1o2WkI0YXlDejJFOXBvREhucnVkYVNDYWxqTEVDT3lBQ3VweGhXeElaUW40aWt3Qi1qcFpXN2paVGlwZUU5ZS1nbUdtQk1BdEU1RVItZFFOTWxfbnpTTjNzODlqRE16aG11VVBYaEJmMXBqUTRFM0pWQWs2S0ZwWGFzSVJhTmVFdm9scUV5QXh3b1RQNEVaQmlpbFJFTHM3b0dEeTFTc05fX0t3cE45dW9CSkx4Nm9QeE82dWtsTnNQbWVoXzBZakJpMjNiZVE4VUJTcWZuMjBMRWdCMVBDMFc3MHhJb0ZQY3Iw0gGUAkFVX3lxTE1xalQ1T1RQUGw1bFdHbk1lSEFPOW1WaFBzOGZpT3MtSjlDUjB6ZFFfOURDb3NNajNsa2p2ajBYUzdXallUTmdYb3plNjJtWkVqeFpBVkpNbmJpR1RYRk9hNFJiQkQ4LUFaeXhmQzQxd1E2ZFBuRjFZTjZaTFEwY2VNaTlsNXVCSGtxUVV4TVpYN2JJX2VKMVdRZjVmLUM3aHNrVHZ2b181NWZfQldYMGJQNXFDc2M4eXdCb0oydFFqaFYybzllaW5Ia0RTQ19Db3BJMEZJRGtNWmg4azc3VlUxc3JoVlplVFlLXzJfWV9iM3k4bnk5S3V1YXp3aUpTN001cWdIWmwwZFA2WUtNckxTTVlvLQ?oc=5",
    "published": "2026-10-07T07:00:00+00:00",
@@ -4189,20 +4339,6 @@
    "author": null,
    "source": "ICE 新聞稿",
    "id": "785b991c7f65",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:53.476136+08:00"
-  },
-  {
-   "title": "DHS proposes massive $70K fee for foreign students seeking work authorization - Fox News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFVoaENNRWdMYjc2cEpuZnJ2REQ4OUFFYVQzNVd4YUp6X01wdFEzdEFpOXAzdFNoNWxvUkIwUk04ZHM2SmhtVi11aXVBaFlDbDJUUHVxTG5sV1BFS3pKVURqdHc3SDk2bzR4a3FLVUpGWjZqWjV6ZE9GS3JOQ2VnMlM0UDB4Qkpyc3U2WEM4ZWZDME4xTkt0X2VheUxwRk9KMW1UYlVULXrSAa4BQVVfeXFMTUdtQk9OeWRwNWZ5M1paclhDSmRqYjdJa29rdVQxdnVYZzFOZHBVSFZhUzJBMWdNMXVSR2ZCZHFwNlVmNG5JRGQyN3Y5SXV2N0ZMajRIVHRYM2pGZzJfa1FrQmJWVW84bng5Q1I3Yy1GNF9jeGVLaExZRG14SllaVUhpd0RIeEVfcFZORFg5eGFWU0hzT3RYdjBVRkUzYklSWFBQb0s4dG1vVU41X1J3?oc=5",
-   "published": "2026-10-07T07:00:00+00:00",
-   "excerpt": "DHS proposes massive $70K fee for foreign students seeking work authorization Fox News",
-   "author": null,
-   "source": "Google News",
-   "id": "b158ee20378e",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -9632,48 +9768,6 @@
    "first_seen": "2026-09-15T11:48:33.071743+08:00"
   },
   {
-   "title": "Student Assembly Passes Resolutions on International Student Employment, Outreach, Funding - The Cornell Daily Sun",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdlN3UVN3RXNETUhfeTJseW11TlMtZ1h4TDhMN0s3dU9yUy0ycThJV3BOaXRrSkRGMVo0TzNKWFJxeTdneXR0VzE2X1VMd0hpaHZXQlMzNl85b0N6RnpxLW5SelYyc0JwZjF6Z0NyUktrT2FCYnVrOXdYRnJKUGxpblhpTFhtLWJnaWh0WlNyM3hoTDc2SGpmN01oZkhpRWtMUGgxbmczRzFNUEhFYjk5eVZ0b05GX3FpeXB1Y3pJTE1DZzZGNXh2dURTOA?oc=5",
-   "published": "2026-09-13T07:00:00+00:00",
-   "excerpt": "Student Assembly Passes Resolutions on International Student Employment, Outreach, Funding The Cornell Daily Sun",
-   "author": null,
-   "source": "Google News",
-   "id": "0038e64b051c",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-14T11:48:11.495848+08:00"
-  },
-  {
-   "title": "US Visa Overhaul: Indian Students Could Face Fresh Hurdles Under Revised Policy. Here's Why - NDTV Profit",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOUNaTXEwWlNTS1JFTHp5eXlnT1ZNejc1OVYzX0dRQlIzdElkZXMzSTY4Um1zam1nOHE3S1lGVmFOcnNhT1kyVjV2ZjBJNG1jQkhRN0IyS1Y3QzlzX0RTOEtDZ1BLUEo3bVJsZUVhUEgyR1FYczhLZVdDdUc2M0tEX3lIUzBMMDVtZHBrWHFiWXRSTFowQktXa19ZOGVEekFWdzE4NTZNaXdOOVFZUFZETXRjeGl2YjN0ZkpkSnA5NlEwVHNvRk9UOXh3?oc=5",
-   "published": "2026-06-02T07:00:00+00:00",
-   "excerpt": "US Visa Overhaul: Indian Students Could Face Fresh Hurdles Under Revised Policy. Here's Why NDTV Profit",
-   "author": null,
-   "source": "Google News",
-   "id": "72dbdcd0218b",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-14T11:48:11.495848+08:00"
-  },
-  {
-   "title": "Penn resumes Curricular Practical Training review for federally-compliant international students - The Daily Pennsylvanian",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNV9TUE5OUDJmUFFPOW11cmRnYjZ0T00tTDlwNEpON09BT3JnUzlpVXNFeXR5OS1yMzV6REVfT3ppOFdmaWE1aXJ4UlhJMHlWdFdFdTk3THBrdE9TWGI0VUdzZUJKbHU5Qk4tc2M0VjNSc1ZIUXB2VEpTd2w1ZC0zV25pYndEd2hmdklVNm5PS2tra0tzQ3M4VHBEenVlenFiM2JyWC12bkF3QQ?oc=5",
-   "published": "2026-09-14T04:24:40+00:00",
-   "excerpt": "Penn resumes Curricular Practical Training review for federally-compliant international students The Daily Pennsylvanian",
-   "author": null,
-   "source": "Google News",
-   "id": "fb2c6fc75369",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-14T11:48:11.495848+08:00"
-  },
-  {
    "title": "Why is Trump cracking down on foreign student internships? - The Indian Express",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdjd2NVcxcFpBUHhaUjEzNWVrd1RqLVdDQko1cWNTRkFJQ2Q2azgwVGlXNG91Mm5yMkYtUkNKc016QmZ6R1VYQl9sTjFaWWtQUlRQM21jWnFPZ2ZPTVpKaUthNU12LS1ZLW5FNHhCM0Y3eERJcnNfU3p1Z0RiMEIzYjA5RDdLem9LdnZaUUI4UEFPV2pWcVhCdjNLQUF6bXp4TkVXeUZrUTNIcGFrd0VMRTdJdWJYeEZaNTNCY3NicnZUTlJydDNGbW9VQTVJUzgxbEJnZtIB2wFBVV95cUxQRlF2eUlWZ293UC1VU3ZKdktoZTJEZDVaa0pCYUU5SmhMN2Rzc01nYVprRVgwS2FOQXlVeWQ4T3hBWnVBT1NKalpwN0V5WnduQjhqcUdQMzZBX2NlWS1yVTJTMmhYZEpSQ2JHZjdXcFlKSC1SX2ZNMjBqbTl2QlJqaHVFZ0sxaWpoUG1iZGFEVEd5NUtzci0wTGxoU3h5SlpJZVhWU3RGTHNxYXoxT3NZVXFfNnUyci1zUjB1X2NlNlRyVHlCVTdPNkNtWFczR25SRmFrS0pZcFJVaGs?oc=5",
    "published": "2026-08-29T07:00:00+00:00",
@@ -9800,20 +9894,6 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
-   "title": "Employer Advisory: USCIS Policy Memorandum on Adjustment of Status Discretion (PM-602-0199) - WR Immigration",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSTRmWGFfYWJmRDJVdklvOVducklXakF5bXFYQUxVMEo2bHUwUkVYbndlR2RFWEtlS2VtS3Jtek96aVpDa2JsRUpycGFQRzV1RW5HR2JyOXlPckQ3TTd1V2xnaHlvb1RGdzk3RnQzU3Rpc0lKWmxOblQ3ZVQyaFZKTk44UVlOV0dqOGF0R0lJRU9nTEZGeHZ2T190aWMtdDdra3ZtdnZ6ZW5zdjBoUzZkRw?oc=5",
-   "published": "2026-05-22T07:00:00+00:00",
-   "excerpt": "Employer Advisory: USCIS Policy Memorandum on Adjustment of Status Discretion (PM-602-0199) WR Immigration",
-   "author": null,
-   "source": "Google News",
-   "id": "ce19d3948ca0",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:08:07.595859+08:00"
-  },
-  {
    "title": "Trump’s CPT crackdown: What it means for international and indian students - Bhaskar English",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2YtMnE4T2ZHQzA3RHkyQlBLV1pORW5tMXFkZmZyaERCRXdEYk1kNExhTzFxR0pqcF9ZZkRadkk3Z1lrd3NaYUcwRGxNOGlNREJtWktBemljNGlTZWhFeTQyTzQ2TFRxVTFtM1lHZjFWLUFab2duRnRTenRqZkVObEJjV2N1YnJkeUFuenZzYmx5ZV9vZDVtM0N3MU5aTHpIZUZuMFJSOGZ1c0xVeWFVU0h3Z1FpS3UwQ2xGcdIBwgFBVV95cUxQX1p0LXdDSi1hOEFSUFBKTFoySnZ0QTI5Z3VsZHgyQzV0VWJ6ZVdRWjcxNm4yZ0ZSUW9rajhkSkRnbk1IQ1ZGQjc2N0dsMnFDdnF6Wk5HVkp0Tlc5WWg4X2ZwWEZwVThpd3dfYnpOSmw3enlGOXZpcGJUN0UxaXB1ejV2dk5tNVNGbXpFOGRHSXNhbktCWExkZFQ2Y1lKWmY4OXFhNGRJdHFqN1VuSG00dDUwSjF2YVBta1d4RFJzWHBWdw?oc=5",
    "published": "2026-08-24T07:00:00+00:00",
@@ -9821,6 +9901,20 @@
    "author": null,
    "source": "Google News",
    "id": "3d00a16bab90",
+   "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:07.595859+08:00"
+  },
+  {
+   "title": "Employer Advisory: USCIS Policy Memorandum on Adjustment of Status Discretion (PM-602-0199) - WR Immigration",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSTRmWGFfYWJmRDJVdklvOVducklXakF5bXFYQUxVMEo2bHUwUkVYbndlR2RFWEtlS2VtS3Jtek96aVpDa2JsRUpycGFQRzV1RW5HR2JyOXlPckQ3TTd1V2xnaHlvb1RGdzk3RnQzU3Rpc0lKWmxOblQ3ZVQyaFZKTk44UVlOV0dqOGF0R0lJRU9nTEZGeHZ2T190aWMtdDdra3ZtdnZ6ZW5zdjBoUzZkRw?oc=5",
+   "published": "2026-05-22T07:00:00+00:00",
+   "excerpt": "Employer Advisory: USCIS Policy Memorandum on Adjustment of Status Discretion (PM-602-0199) WR Immigration",
+   "author": null,
+   "source": "Google News",
+   "id": "ce19d3948ca0",
    "policy_signal": true,
    "relevance": null,
    "summary": null,

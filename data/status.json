@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-29T12:46:27.570363+08:00",
- "duration_sec": 123.9,
+ "updated_at": "2026-10-30T12:45:26.010989+08:00",
+ "duration_sec": 112.3,
  "sections": [
   {
    "key": "omscs",
    "label": "OMSCS 情報",
    "ok": true,
-   "items": 218,
+   "items": 217,
    "sources": [
     {
      "name": "Reddit r/OMSCS",
@@ -41,7 +41,7 @@
     {
      "name": "OMSCS 官方公告",
      "ok": true,
-     "count": 3,
+     "count": 10,
      "note": ""
     },
     {
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 778,
+   "items": 755,
    "sources": [
     {
      "name": "Google News",
@@ -79,7 +79,7 @@
     {
      "name": "Google News",
      "ok": true,
-     "count": 11,
+     "count": 12,
      "note": ""
     },
     {
@@ -102,9 +102,9 @@
     },
     {
      "name": "Reddit r/immigration CPT",
-     "ok": false,
-     "count": 0,
-     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+     "ok": true,
+     "count": 25,
+     "note": ""
     },
     {
      "name": "ICE 新聞稿",
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 988,
+   "items": 983,
    "sources": [
     {
      "name": "104｜自動化測試",
@@ -147,7 +147,7 @@
     {
      "name": "104｜Playwright",
      "ok": true,
-     "count": 14,
+     "count": 15,
      "note": ""
     },
     {
@@ -198,7 +198,7 @@
    "key": "finance",
    "label": "匯率與股市",
    "ok": true,
-   "items": 76,
+   "items": 75,
    "sources": [
     {
      "name": "匯率 USD/TWD",
@@ -215,7 +215,7 @@
     {
      "name": "哈利的投資研究筆記庫",
      "ok": true,
-     "count": 8,
+     "count": 7,
      "note": ""
     }
    ]

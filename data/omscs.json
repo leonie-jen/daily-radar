@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T12:45:03.990995+08:00",
+ "updated_at": "2026-10-30T12:44:13.847971+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -34,7 +34,7 @@
   {
    "name": "OMSCS 官方公告",
    "ok": true,
-   "count": 3,
+   "count": 10,
    "note": ""
   },
   {
@@ -52,6 +52,71 @@
  ],
  "items": [
   {
+   "title": "Anyone else not finding time after work anymore and its affecting OMSCS?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xibt52/anyone_else_not_finding_time_after_work_anymore/",
+   "published": "2026-10-29T05:52:16+00:00",
+   "excerpt": "Hi, I wanted to share my experience over the past year. My boss found out about AI and since then has been working me like a dog. I’m working 60 hour weeks now and on top of it I have to attend hackathons, give presentations at conferences, evaluate new AI tools, answer calls on a Sunday and work on thanksgiving too. This just started happening to me a year ago. I used to have time after work to actually do my OMSCS course work but now I’m constantly doing work after work just to keep up with the new technology and stay competitive. I worked as a software engineer for 5 years before this year and I never had to work this hard to stay on top of things. I know this program is designed for peop",
+   "author": "/u/Typical_Childhood674",
+   "source": "Reddit r/OMSCS",
+   "id": "ea09279d4a77",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-30T12:44:13.847971+08:00"
+  },
+  {
+   "title": "Should I drop CS6515. Is it worth staying at this point?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xi67my/should_i_drop_cs6515_is_it_worth_staying_at_this/",
+   "published": "2026-10-29T01:02:31+00:00",
+   "excerpt": "As of right now I currently have a 55.83% in the course and just took exam 3 this past weekend and now coming to the conclusion that for the graphs exam I have a suboptimal solution for 1/2 problems and judging from what the TA said in office hours I also got the second frq completely wrong on this exam. There are 2 more exams with one of them being the final that has a 10% extra credit. And as of right now I am in the ML spec but have the courses needed for the AI spec so could possibly get a C and switch specs. But at this point I don't know if I can even get a C grade in this class. I have this weekend to decide, I don't feel like I am making the connections needed to do well on these exa",
+   "author": "/u/Emotional-Corgi4923",
+   "source": "Reddit r/OMSCS",
+   "id": "5539f369dc25",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-30T12:44:13.847971+08:00"
+  },
+  {
+   "title": "AOS is kinda old outdated, is CS 6211: System Design for Cloud Computing same old and outdated?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xhxbu2/aos_is_kinda_old_outdated_is_cs_6211_system/",
+   "published": "2026-10-28T19:06:07+00:00",
+   "excerpt": "Doing AOS rn, reading papers and watching videos.. feels super outdates, even kinda boring tbh. is CS 6211: System Design for Cloud Computing same old and outdated ? or is DC wouild be a bit better more align with current tech ? submitted by /u/Bitter-Shop-7724 [link] [留言]",
+   "author": "/u/Bitter-Shop-7724",
+   "source": "Reddit r/OMSCS",
+   "id": "81b4b9d89911",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-30T12:44:13.847971+08:00"
+  },
+  {
+   "title": "Not yet enrolled, when can I access my gatech email?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xcv9nx/not_yet_enrolled_when_can_i_access_my_gatech_email/",
+   "published": "2026-10-22T21:23:47+00:00",
+   "excerpt": "I need a gatech email and account to signup for my country's local educational benefits. I can login to BuzzPort and Passport, but outlook 365 does not work. submitted by /u/Appropriate-Air-4592 [link] [留言]",
+   "author": "/u/Appropriate-Air-4592",
+   "source": "Reddit r/OMSCS",
+   "id": "e437beaf43d0",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-30T12:44:13.847971+08:00"
+  },
+  {
+   "title": "A Step-by-Step Guide to Applying to Georgia Tech’s OMSCS Program as an Indian Applicant",
+   "url": "https://medium.com/@barvevedant/a-step-by-step-guide-to-applying-to-georgia-techs-omscs-program-as-an-indian-applicant-3912d09aa2e1?source=rss------omscs-5",
+   "published": "2026-10-29T12:52:48+00:00",
+   "excerpt": "Introduction Continue reading on Medium »",
+   "author": "vedantbarve",
+   "source": "Medium #omscs",
+   "id": "b7b6734adc4f",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-10-30T12:44:13.847971+08:00"
+  },
+  {
    "title": "CS 6515: Graduate Algorithms New Format",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xhlosc/cs_6515_graduate_algorithms_new_format/",
    "published": "2026-10-28T11:38:47+00:00",
@@ -62,6 +127,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-29T12:45:03.990995+08:00"
   },
   {
@@ -75,6 +142,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-29T12:45:03.990995+08:00"
   },
   {
@@ -88,6 +157,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-29T12:45:03.990995+08:00"
   },
   {
@@ -101,6 +172,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-29T12:45:03.990995+08:00"
   },
   {
@@ -114,6 +187,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-29T12:45:03.990995+08:00"
   },
   {
@@ -1269,13 +1344,12 @@
    "first_seen": "2026-10-14T11:52:41.091945+08:00"
   },
   {
-   "title": "Grade I in OMSCS Deep Learning",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x4qlad/grade_i_in_omscs_deep_learning/",
-   "published": "2026-10-13T07:50:21+00:00",
-   "excerpt": "I got a grade I in deep learning , but on gradescope it still shows as a C. I have tried following up with the instructor to help get this resolved . submitted by /u/ana-dorak [link] [留言]",
-   "author": "/u/ana-dorak",
-   "source": "Reddit r/OMSCS",
-   "id": "a5a97edf0a81",
+   "title": "OMSCS Instructors Make Summer 2026 Honor Roll",
+   "url": "https://omscs.gatech.edu/external-news/omscs-instructors-make-summer-2026-honor-roll",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "17523f00a658",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1284,12 +1358,13 @@
    "first_seen": "2026-10-14T11:52:41.091945+08:00"
   },
   {
-   "title": "OMSCS Instructors Make Summer 2026 Honor Roll",
-   "url": "https://omscs.gatech.edu/external-news/omscs-instructors-make-summer-2026-honor-roll",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "17523f00a658",
+   "title": "Grade I in OMSCS Deep Learning",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x4qlad/grade_i_in_omscs_deep_learning/",
+   "published": "2026-10-13T07:50:21+00:00",
+   "excerpt": "I got a grade I in deep learning , but on gradescope it still shows as a C. I have tried following up with the instructor to help get this resolved . submitted by /u/ana-dorak [link] [留言]",
+   "author": "/u/ana-dorak",
+   "source": "Reddit r/OMSCS",
+   "id": "a5a97edf0a81",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -1610,6 +1685,20 @@
    "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "31b0ee4cb5e7",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
    "title": "Postponing enrollment repercussions",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x03oqe/postponing_enrollment_repercussions/",
    "published": "2026-10-07T18:05:57+00:00",
@@ -1622,20 +1711,6 @@
     "accepted",
     "decision"
    ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
-   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "31b0ee4cb5e7",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2031,12 +2106,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
-   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
+   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
+   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "c9fdb1306c54",
+   "id": "0484e7b5e74c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2045,12 +2120,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
-   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
+   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
+   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "0484e7b5e74c",
+   "id": "c9fdb1306c54",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2753,81 +2828,6 @@
    "first_seen": "2026-09-16T11:44:33.653307+08:00"
   },
   {
-   "title": "Is OMSCS from Georgia Tech worth it in 2026, especially with AI moving so fast?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wg65zd/is_omscs_from_georgia_tech_worth_it_in_2026/",
-   "published": "2026-09-14T15:12:39+00:00",
-   "excerpt": "Hi all, I'm a Senior Software Engineer, considering OMSCS. What I'm still unsure about, specific to my situation (senior-level, 8 YoE): 1. Career impact at senior level Most threads I found are from people earlier in their career using OMSCS to break in or move up from junior/mid roles. For those already senior with several YoE: did it actually change your trajectory (promotions, role switches, comp), or at this stage does experience just outweigh it and it becomes more of a personal-interest/credential thing? 2. Workload reality: while senior + presumably more life obligations Beyond the generic \"it's time-consuming\" answer, for people balancing a demanding senior IC/lead role (on-calls, mo",
-   "author": "/u/Prestigious_Gain7804",
-   "source": "Reddit r/OMSCS",
-   "id": "e194d6073960",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-15T11:47:38.526330+08:00"
-  },
-  {
-   "title": "Exchange semester in Metz - How was your experience?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wgl0rd/exchange_semester_in_metz_how_was_your_experience/",
-   "published": "2026-09-15T00:27:10+00:00",
-   "excerpt": "Hi, I am thinking of doing a semester in Metz (Georgia Tech Europe) as part of the program in the future. I read that OMSCS students can go there for a semester or more. I was wondering if there is someone here who studied there and what their experience was like. I am also quite interested in joining the activities of the DREAM lab but I don't know how possible that is. submitted by /u/ArgumentZestyclose62 [link] [留言]",
-   "author": "/u/ArgumentZestyclose62",
-   "source": "Reddit r/OMSCS",
-   "id": "5dff0ffb8af4",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-15T11:47:38.526330+08:00"
-  },
-  {
-   "title": "Please take Operating Systems for your career.",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wfx5ij/please_take_operating_systems_for_your_career/",
-   "published": "2026-09-14T07:58:47+00:00",
-   "excerpt": "I'm writing this as someone that once feared this class because of rumors around its difficulty. I'm in my final semester of OMSCS and Operating Systems has been a class that I hadn't taken in undergrad and for my entire journey here because I was afraid of the difficulty. I ended up committing to take it right before registration ended because I wanted to truly challenge myself. The other OMSCS classes were simply \"okay\" for learning (aside from Deep Learning and ML4T, which were solid). I'm only on the first project, so take this for what it's worth, but I've already learned things I didn't know that I can directly apply at my job. We are essentially building a client and server from scrat",
-   "author": "/u/Equivalent-Spend-647",
-   "source": "Reddit r/OMSCS",
-   "id": "c3eb484765ca",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-15T11:47:38.526330+08:00"
-  },
-  {
-   "title": "In Person CoC Career Fair registration",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wgaume/in_person_coc_career_fair_registration/",
-   "published": "2026-09-14T17:58:54+00:00",
-   "excerpt": "Does anyone know any information about going to the In-Person CoC Career Fair on Thursday? I tried to view the companies that were registered to attend on Handshake, but the page says I don't have permission to view it. I also don't know if there is parking available or what to expect, so any advice/info is very appreciated. https://www.cc.gatech.edu/gt-college-computing-career-fair-student-information Also, does anyone else have any issues with the BuzzCard? I have the eAccounts app, but there is no place to add the card to my Apple Wallet? It looks like it is needed to enter the Career Fair submitted by /u/ServeAggravating4500 [link] [留言]",
-   "author": "/u/ServeAggravating4500",
-   "source": "Reddit r/OMSCS",
-   "id": "641322ca9f0f",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-15T11:47:38.526330+08:00"
-  },
-  {
-   "title": "Please stop complaining about me in r/OMSCS on reddit if you're not a TA",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wg8mp6/please_stop_complaining_about_me_in_romscs_on/",
-   "published": "2026-09-14T16:41:48+00:00",
-   "excerpt": "This goes out to the dude in ML/CS7641 spamming comments about me in every r/OMSCS post. You're not Dr. Joyner, please chill and let any student have the opportunity to discuss and answer questions unimpeded. Because you're not part of the teaching staff, we don't know if your complaints are correct or not, even if they are and you're actually Isbell's smurf, see 1., it's extremely annoying. Reddit karma is free and everyone gets upvoted unless you defend the GA TA's on power trip, chill the f out. I can't block all other students on reddit so I'm forced to see your posts every time I browse the r/OMSCS . Please be considerate and chill. Thanks submitted by /u/siteunreliability [link] [留言]",
-   "author": "/u/siteunreliability",
-   "source": "Reddit r/OMSCS",
-   "id": "0b9458d64f41",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-15T11:47:38.526330+08:00"
-  },
-  {
    "title": "The Digital Bridge - Harvard Graduate School of Education",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4WElYZVptUTFza2dhNV9TSWlNUnVyVFBXQTZhZXE5SmxBemZ1cV82RnAwbDhsOG1mZzZRX0pQWkxienVzV0VOTkc3ZHhwWlBWYV9lb0RNUDRtcFdnVV9DZTUtWGtRdXFmNHYybnlFUE5ETFh4VjYzSmoyWQ?oc=5",
    "published": "2016-10-17T07:00:00+00:00",
@@ -2906,13 +2906,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
-   "published": "2022-05-07T07:00:00+00:00",
-   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
+   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
+   "published": "2024-08-25T07:00:00+00:00",
+   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
    "author": null,
    "source": "Google News",
-   "id": "29987ae51976",
+   "id": "0236a502b4bf",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2921,13 +2921,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
-   "published": "2024-08-25T07:00:00+00:00",
-   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
+   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
+   "published": "2022-05-07T07:00:00+00:00",
+   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
    "author": null,
    "source": "Google News",
-   "id": "0236a502b4bf",
+   "id": "29987ae51976",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -3110,21 +3110,6 @@
    "author": "Donggoo Kim",
    "source": "Medium #omscs",
    "id": "45688d368216",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "[Coursera] UC San Diego — Discrete Mathematics Study Log (Day 1)",
-   "url": "https://dolphindev.medium.com/coursera-uc-san-diego-discrete-mathematics-study-log-day-1-5f8bc16f157d?source=rss------omscs-5",
-   "published": "2026-03-18T11:51:04+00:00",
-   "excerpt": "Recently, I’ve decided to dive back into the fundamentals. This is part of my warm-up process as I prepare for the Georgia Tech OMSCS… Continue reading on Medium »",
-   "author": "DolphinDev",
-   "source": "Medium #omscs",
-   "id": "44b9995e8402",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

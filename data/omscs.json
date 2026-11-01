@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T12:29:13.537675+08:00",
+ "updated_at": "2026-11-01T12:48:37.518677+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,9 +9,9 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+   "ok": true,
+   "count": 25,
+   "note": ""
   },
   {
    "name": "Reddit r/gradadmissions",
@@ -28,7 +28,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "note": ""
   },
   {
@@ -52,6 +52,32 @@
  ],
  "items": [
   {
+   "title": "Is there an online equivalent to Georgia Tech CS 3510 with hands-on algorithm implementation?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xknvy8/is_there_an_online_equivalent_to_georgia_tech_cs/",
+   "published": "2026-10-31T23:02:02+00:00",
+   "excerpt": "Hi everyone, I'm planning to take CS 6515 (Introduction to Graduate Algorithms) in OMSCS and have been looking into Georgia Tech's undergraduate CS 3510 (Design and Analysis of Algorithms) curriculum. I noticed that CS 3510 covers several additional algorithms and concepts that aren't necessarily covered in CS 8001 ODA (Data Structures and Algorithms seminar) or CS 6515. I'd really like to study the complete CS 3510 curriculum, ideally through a structured online course that includes hands-on programming assignments, algorithm implementations, and coding exercises , rather than just theoretical lectures and mathematical proofs. I have a few questions: Does Georgia Tech offer an online equiva",
+   "author": "/u/dothisnightwing",
+   "source": "Reddit r/OMSCS",
+   "id": "4b21190501a2",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-01T12:48:37.518677+08:00"
+  },
+  {
+   "title": "CS6750 (HCI) Fall 2026: did badly on Test 1, is a B still realistic? Should I withdraw?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xk27g2/cs6750_hci_fall_2026_did_badly_on_test_1_is_a_b/",
+   "published": "2026-10-31T05:43:01+00:00",
+   "excerpt": "Hi all, I'm a first semester OMSCS student taking CS6750 HCI (human computer interaction). I did badly on Test 1, and I'm trying to decide whether to stay or withdraw before the deadline. My overall grade is 78.2% on graded work so far. The projects, Test 2, and most participation points aren't graded yet, so that number will move i guess. Questions: Has anyone done poorly on Test 1 and still finished with a B or better? What changed for you? How are the projects usually graded? Is 85-90% realistic if I try very hard? How does Test 2 compare to Test 1? Did anyone improve a lot? I'm hoping for a 4.0. Is it better to stay and risk a B, or withdraw and retake the course for an A? Thanks for any",
+   "author": "/u/AdhesivenessBasic571",
+   "source": "Reddit r/OMSCS",
+   "id": "784fb18fcb33",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-01T12:48:37.518677+08:00"
+  },
+  {
    "title": "Thoughts on New ML Course Format",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xjogl6/thoughts_on_new_ml_course_format/",
    "published": "2026-10-30T19:11:57+00:00",
@@ -62,32 +88,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
-   "first_seen": "2026-10-31T12:29:13.537675+08:00"
-  },
-  {
-   "title": "How is NLP this Fall? Does it still feel annoying?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xjh0ix/how_is_nlp_this_fall_does_it_still_feel_annoying/",
-   "published": "2026-10-30T14:33:24+00:00",
-   "excerpt": "I’m very torn on whether to take NLP or KBAI as my very last course in the program. I think NLP would be more interesting and feels like it would be nicer to talk about in interviews, KBAI and its consistency is something I also heavily value for my very last class. NLP’s behavior towards students also hasn’t been the most appealing. The quizzes weekly where I would have to clear out my desk setup seems like a nuisance. Sure I do it now for CN, but it’s just twice a semester for that class. Any advice or recommendations? submitted by /u/RuinousTrickster [link] [留言]",
-   "author": "/u/RuinousTrickster",
-   "source": "Reddit r/OMSCS",
-   "id": "4e57b2021996",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "first_seen": "2026-10-31T12:29:13.537675+08:00"
-  },
-  {
-   "title": "CS 7470 Mobile and Ubiquitous Computing (How has the course been recently)?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xjdqib/cs_7470_mobile_and_ubiquitous_computing_how_has/",
-   "published": "2026-10-30T12:14:42+00:00",
-   "excerpt": "Hi everyone, For those currently taking CS 7470 Mobile and Ubiquitous Computing in Fall 2026 or who took it in Summer 2026, how has the course been? It has had a reputation for poor organisation, unclear structure and unresponsive TAs in previous semesters. Have things improved? I'd particularly appreciate feedback on: Course organisation and TA responsiveness. Average workload (hours per week). Assignments and project difficulty. Any recent experiences would be appreciated. Thanks! submitted by /u/crisdanyx [link] [留言]",
-   "author": "/u/crisdanyx",
-   "source": "Reddit r/OMSCS",
-   "id": "e94217ab983e",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-31T12:29:13.537675+08:00"
   },
   {
@@ -101,6 +103,53 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-31T12:29:13.537675+08:00"
+  },
+  {
+   "title": "How is NLP this Fall? Does it still feel annoying?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xjh0ix/how_is_nlp_this_fall_does_it_still_feel_annoying/",
+   "published": "2026-10-30T14:33:24+00:00",
+   "excerpt": "I’m very torn on whether to take NLP or KBAI as my very last course in the program. I think NLP would be more interesting and feels like it would be nicer to talk about in interviews, KBAI and its consistency is something I also heavily value for my very last class. NLP’s behavior towards students also hasn’t been the most appealing. The quizzes weekly where I would have to clear out my desk setup seems like a nuisance. Sure I do it now for CN, but it’s just twice a semester for that class. Any advice or recommendations? submitted by /u/RuinousTrickster [link] [留言]",
+   "author": "/u/RuinousTrickster",
+   "source": "Reddit r/OMSCS",
+   "id": "4e57b2021996",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-31T12:29:13.537675+08:00"
+  },
+  {
+   "title": "CS 7470 Mobile and Ubiquitous Computing (How has the course been recently)?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xjdqib/cs_7470_mobile_and_ubiquitous_computing_how_has/",
+   "published": "2026-10-30T12:14:42+00:00",
+   "excerpt": "Hi everyone, For those currently taking CS 7470 Mobile and Ubiquitous Computing in Fall 2026 or who took it in Summer 2026, how has the course been? It has had a reputation for poor organisation, unclear structure and unresponsive TAs in previous semesters. Have things improved? I'd particularly appreciate feedback on: Course organisation and TA responsiveness. Average workload (hours per week). Assignments and project difficulty. Any recent experiences would be appreciated. Thanks! submitted by /u/crisdanyx [link] [留言]",
+   "author": "/u/crisdanyx",
+   "source": "Reddit r/OMSCS",
+   "id": "e94217ab983e",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-31T12:29:13.537675+08:00"
+  },
+  {
+   "title": "Those who took gios in fall 2025 and spring 2026, what was the grade cutoff for an A",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xjpdb9/those_who_took_gios_in_fall_2025_and_spring_2026/",
+   "published": "2026-10-30T19:47:07+00:00",
+   "excerpt": "TLDR: Those of you who took gios in fall 2025 and spring 2026, what was the grade cutoff for an A? I am trying to see if it makes sense for me to drop the course or not Unfortunately my grade for the project 1 was not so hot - I had a working solution for part 1 server, but accidentally submitted the solution for part 2 server to part 1 (I was sleep deprived and panicking to submit part 2) - so I lost the points for part 1 server on top of not completing part 2 client or the readme. I really want an A for this course because it may help with getting into other courses, internships, or even a PhD program if I decide to pursue that. Assuming I get 100% on the rest of the projects and perform s",
+   "author": "/u/Duum",
+   "source": "Reddit r/OMSCS",
+   "id": "0fb8f2c5f195",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-31T12:29:13.537675+08:00"
   },
   {
@@ -116,19 +165,8 @@
     "admission"
    ],
    "relevance": null,
-   "first_seen": "2026-10-31T12:29:13.537675+08:00"
-  },
-  {
-   "title": "Those who took gios in fall 2025 and spring 2026, what was the grade cutoff for an A",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xjpdb9/those_who_took_gios_in_fall_2025_and_spring_2026/",
-   "published": "2026-10-30T19:47:07+00:00",
-   "excerpt": "TLDR: Those of you who took gios in fall 2025 and spring 2026, what was the grade cutoff for an A? I am trying to see if it makes sense for me to drop the course or not Unfortunately my grade for the project 1 was not so hot - I had a working solution for part 1 server, but accidentally submitted the solution for part 2 server to part 1 (I was sleep deprived and panicking to submit part 2) - so I lost the points for part 1 server on top of not completing part 2 client or the readme. I really want an A for this course because it may help with getting into other courses, internships, or even a PhD program if I decide to pursue that. Assuming I get 100% on the rest of the projects and perform s",
-   "author": "/u/Duum",
-   "source": "Reddit r/OMSCS",
-   "id": "0fb8f2c5f195",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-31T12:29:13.537675+08:00"
   },
   {
@@ -142,6 +180,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-31T12:29:13.537675+08:00"
   },
   {
@@ -457,6 +497,48 @@
    "first_seen": "2026-10-23T11:43:09.869237+08:00"
   },
   {
+   "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
+   "url": "https://omscs.gatech.edu/external-news/where-are-they-now-team-atlanta-takes-ai-cybersecurity-beyond-competition",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "76452fa7004b",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "When a Ship’s Systems Lie, Cybersecurity Gets Complicated",
+   "url": "https://omscs.gatech.edu/external-news/when-ships-systems-lie-cybersecurity-gets-complicated",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "0fdbc2225ff1",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "The Growing Importance of Computational Biology",
+   "url": "https://omicstutorials.com/from-lab-bench-to-laptop-the-growing-importance-of-computational-biology/",
+   "published": "2025-01-03T15:22:25Z",
+   "excerpt": "",
+   "source": "Hacker News",
+   "id": "6f6341c8a2eb",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
    "title": "Studying Cognitive Science while getting tested for ADHD was kinda cool",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xc9zup/studying_cognitive_science_while_getting_tested/",
    "published": "2026-10-22T05:26:28+00:00",
@@ -494,34 +576,6 @@
    "author": null,
    "source": "Google News",
    "id": "3fd446b8a3e2",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
-   "url": "https://omscs.gatech.edu/external-news/where-are-they-now-team-atlanta-takes-ai-cybersecurity-beyond-competition",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "76452fa7004b",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "When a Ship’s Systems Lie, Cybersecurity Gets Complicated",
-   "url": "https://omscs.gatech.edu/external-news/when-ships-systems-lie-cybersecurity-gets-complicated",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "0fdbc2225ff1",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -921,20 +975,6 @@
    "first_seen": "2026-10-23T11:43:09.869237+08:00"
   },
   {
-   "title": "The Growing Importance of Computational Biology",
-   "url": "https://omicstutorials.com/from-lab-bench-to-laptop-the-growing-importance-of-computational-biology/",
-   "published": "2025-01-03T15:22:25Z",
-   "excerpt": "",
-   "source": "Hacker News",
-   "id": "6f6341c8a2eb",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
    "title": "Georgia Tech OMSCS Application",
    "url": "https://www.reddit.com/r/gradadmissions/comments/1qbdgzi/georgia_tech_omscs_application/",
    "published": "2026-01-13T01:12:13+00:00",
@@ -955,7 +995,7 @@
    "published": "2026-10-21T18:35:15+00:00",
    "excerpt": "I was admitted for Spring 2027, and i am looking to get some credits transfered as I took a few graduate level classes while in undergrad. I have access to buzzport now but do not see an area for contacting an advisor and was wondering where I could find that or when I will be able to thanks. submitted by /u/Alone-Document-1323 [link] [留言]",
    "author": "/u/Alone-Document-1323",
-   "source": "Reddit r/OMSCS",
+   "source": "Reddit r/OMSCS 錄取討論",
    "id": "a0c11a1def7e",
    "admission_signal": true,
    "keyword_hits": [
@@ -1322,6 +1362,23 @@
    "first_seen": "2026-10-19T11:37:35.452153+08:00"
   },
   {
+   "title": "Withdrawal consequences on admission",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1x76k95/withdrawal_consequences_on_admission/",
+   "published": "2026-10-16T04:16:03+00:00",
+   "excerpt": "I am currently enrolled in one course this semester and this is my second course overall and summer I haven’t enrolled, my life took a turn and I am unable to take time out this semester and I am not doing good in the course I enrolled this semester, what are my options to retain my admission? submitted by /u/Bitter-Battle3564 [link] [留言]",
+   "author": "/u/Bitter-Battle3564",
+   "source": "Reddit r/OMSCS 錄取討論",
+   "id": "f05eb47609b9",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admission"
+   ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-17T11:20:46.292879+08:00"
+  },
+  {
    "title": "How long does it take to get an answer on transfer credits?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x7hjta/how_long_does_it_take_to_get_an_answer_on/",
    "published": "2026-10-16T14:21:24+00:00",
@@ -1332,23 +1389,6 @@
    "admission_signal": true,
    "keyword_hits": [
     "accepted"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-17T11:20:46.292879+08:00"
-  },
-  {
-   "title": "Withdrawal consequences on admission",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x76k95/withdrawal_consequences_on_admission/",
-   "published": "2026-10-16T04:16:03+00:00",
-   "excerpt": "I am currently enrolled in one course this semester and this is my second course overall and summer I haven’t enrolled, my life took a turn and I am unable to take time out this semester and I am not doing good in the course I enrolled this semester, what are my options to retain my admission? submitted by /u/Bitter-Battle3564 [link] [留言]",
-   "author": "/u/Bitter-Battle3564",
-   "source": "Reddit r/OMSCS",
-   "id": "f05eb47609b9",
-   "admission_signal": true,
-   "keyword_hits": [
-    "admission"
    ],
    "relevance": null,
    "summary": null,
@@ -1788,20 +1828,6 @@
    "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
-   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "31b0ee4cb5e7",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
    "title": "Postponing enrollment repercussions",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x03oqe/postponing_enrollment_repercussions/",
    "published": "2026-10-07T18:05:57+00:00",
@@ -1814,6 +1840,20 @@
     "accepted",
     "decision"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "31b0ee4cb5e7",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2433,21 +2473,6 @@
    "first_seen": "2026-09-26T11:56:08.785653+08:00"
   },
   {
-   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
-   "published": "2025-04-24T07:00:00+00:00",
-   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "b46a54226e93",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
    "title": "OMSCS vs in-person masters Similarity",
    "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
    "published": "2026-09-24T15:35:17+00:00",
@@ -2459,6 +2484,21 @@
    "keyword_hits": [
     "admission"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-25T11:50:36.805435+08:00"
+  },
+  {
+   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
+   "published": "2025-04-24T07:00:00+00:00",
+   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "b46a54226e93",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2786,64 +2826,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-18T11:36:06.070068+08:00"
-  },
-  {
-   "title": "How should I present OMSCS on my resume?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wih9k7/how_should_i_present_omscs_on_my_resume/",
-   "published": "2026-09-17T02:21:34+00:00",
-   "excerpt": "Do I put “online” next to Georgia Institute of Technology? Do I even mention I’m taking the online route on my resume? I fear it might seem off to hiring managers or whatever advanced scanners companies have these days considering I live and work outside of Georgia. submitted by /u/Thy-Lich [link] [留言]",
-   "author": "/u/Thy-Lich",
-   "source": "Reddit r/OMSCS",
-   "id": "4dfd77304d30",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-17T11:49:40.293098+08:00"
-  },
-  {
-   "title": "Blind developer thinking of using OMSCS to upskill",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1whzipt/blind_developer_thinking_of_using_omscs_to_upskill/",
-   "published": "2026-09-16T14:54:43+00:00",
-   "excerpt": "I'm a blind software engineer at an insurance firm in NYC who has worked mostly on the mainframe for the last 17 years. I got my undergrad degree in CS in 2009 and an AWS Solutions Architect cert in '23. My dream is to work at a place like Waymo or on an app like the Seeing AI app at Microsoft. I've talked to several blind developers who have done very well from OMSCS and my employer will pay for it, so it seems like a worthwhile investment, even with all the AI changes that are happening. I applied for the spring semester and am fairly confident that I will get in. One of the blind developers suggested I start with Software Development Process. I'm thinking of starting with that or Operatin",
-   "author": "/u/geekgarious",
-   "source": "Reddit r/OMSCS",
-   "id": "678ebb5ffaca",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-17T11:49:40.293098+08:00"
-  },
-  {
-   "title": "Does it get better in graduate algorithms?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1whlwm8/does_it_get_better_in_graduate_algorithms/",
-   "published": "2026-09-16T03:33:47+00:00",
-   "excerpt": "I’m currently taking graduate algorithms. We just finished our DP exam. I don’t think it was too bad (knock on wood). I’ve seen some posts where students say DP is the hardest and then it gets better. Is this true? I’ve gone over the divide and conquer material (the next topic) and I’m having a harder time to grasp the solid template of step by step approach as I did with dynamic programming. We have five exams (four topic exams and then a final exam). What has everyone found the order of difficulty to be for the exams? Is DP truly the hardest (aka the worst is over)? submitted by /u/Fluid-Pipe-2831 [link] [留言]",
-   "author": "/u/Fluid-Pipe-2831",
-   "source": "Reddit r/OMSCS",
-   "id": "22fa896073ba",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-17T11:49:40.293098+08:00"
-  },
-  {
-   "title": "Bringing up your HCI specialization in interviews after graduation",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wi3ba7/bringing_up_your_hci_specialization_in_interviews/",
-   "published": "2026-09-16T17:10:50+00:00",
-   "excerpt": "If you are interviewing for a Software Engineer role would you mention that you specialized in HCI for your masters and how would you navigate it if they asked? I worry taking the HCI specialization looks like the easy way out of the program and might look bad to your future employer. submitted by /u/Typical_Childhood674 [link] [留言]",
-   "author": "/u/Typical_Childhood674",
-   "source": "Reddit r/OMSCS",
-   "id": "7ccdd4dc833a",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "first_seen": "2026-09-17T11:49:40.293098+08:00"
   },
   {
    "title": "The Digital Bridge - Harvard Graduate School of Education",

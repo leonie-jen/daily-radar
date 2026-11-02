@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-01T12:49:51.089240+08:00",
- "duration_sec": 123.6,
+ "updated_at": "2026-11-02T12:51:46.124443+08:00",
+ "duration_sec": 108.2,
  "sections": [
   {
    "key": "omscs",
@@ -29,7 +29,7 @@
     {
      "name": "Google News",
      "ok": true,
-     "count": 11,
+     "count": 12,
      "note": ""
     },
     {
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 754,
+   "items": 756,
    "sources": [
     {
      "name": "Google News",
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 972,
+   "items": 963,
    "sources": [
     {
      "name": "104｜自動化測試",
@@ -198,7 +198,7 @@
    "key": "finance",
    "label": "匯率與股市",
    "ok": true,
-   "items": 71,
+   "items": 70,
    "sources": [
     {
      "name": "匯率 USD/TWD",
@@ -215,7 +215,7 @@
     {
      "name": "哈利的投資研究筆記庫",
      "ok": true,
-     "count": 4,
+     "count": 2,
      "note": ""
     }
    ]

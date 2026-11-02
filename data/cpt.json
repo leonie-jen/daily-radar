@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T12:49:32.065021+08:00",
+ "updated_at": "2026-11-02T12:51:31.777690+08:00",
  "sources": [
   {
    "name": "Google News",
@@ -58,16 +58,136 @@
  ],
  "items": [
   {
-   "title": "US universities pausing CPT program after new ICE memo: Indian students in a fix - inkl",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdExTNTMxN0MyOGxvaDZaYzcxUmlIRC14X3NJZHppMkxMN0hNTjhuNEtkbkJaYXBjZzRXOElXOUdiM3N1SUVSb1REZXN4OWlVVGZmQmI2N2hTOFBOYWFmQTN6OGx6aTlBVHlmeVE2M3RGb0UwWDRYVU43M3BlMkdIRGlJR1d5ajlLYVluM1lzZ183OVQ2SUhPRFlDRGtaWDNKUXlxdlRvdmg?oc=5",
-   "published": "2026-08-24T07:00:00+00:00",
-   "excerpt": "US universities pausing CPT program after new ICE memo: Indian students in a fix inkl",
+   "title": "Fighting Back on Restrictions to Internships for International Students - Inside Higher Ed",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3pHbDNnQVNuTTR1Mk5HZHJDYWNYU3Btd3IwUmMzVzJTX1o4eFdCN3VUZzBHU1labVFETEdFamtPbi11MGY1OFZJaFNfWmtGRUFYTGluVmxRamYzLXRzZXVsV0dYdGppb3hubVlraWQyVTNjeGZHUkRvTnJTYllNOFdZZ2NNZEtJRFlCRlNsMjlybXd1Tkh6UlI5REU2OHQ4TENKTElwTGd5WEc1N2VzaWlpMVR6MkhpR1RNcjFaLWg?oc=5",
+   "published": "2026-10-08T07:00:00+00:00",
+   "excerpt": "Fighting Back on Restrictions to Internships for International Students Inside Higher Ed",
    "author": null,
    "source": "Google News",
-   "id": "ed5d445c76bc",
+   "id": "152ae8670f35",
    "policy_signal": false,
    "relevance": null,
-   "first_seen": "2026-11-01T12:49:32.065021+08:00"
+   "first_seen": "2026-11-02T12:51:31.777690+08:00"
+  },
+  {
+   "title": "UCLA pauses some international students’ work authorizations after ICE memo - Daily Bruin",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaFNjQl9XR05tdlNDV19wSnF4V3hsR1dGT19icmZYRTdlcFhrdVM1SGxlS3o0ZS1vY3FPbGlRbTktbkk5QUUyRTJoV1NGbVVXNXc5VjkwVkIwbGpVdW5uME1ldGhZd3lPNG5kblI1R3gtbTk4X1VGbFNaY3dPOTlUTkNoYmNCcUUtemRlam9vTjdiVkpJS0VuRzZqV21nVnJQM2VzLW1DVmo2MzMy?oc=5",
+   "published": "2026-08-25T07:00:00+00:00",
+   "excerpt": "UCLA pauses some international students’ work authorizations after ICE memo Daily Bruin",
+   "author": null,
+   "source": "Google News",
+   "id": "20f96fb74ccc",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-02T12:51:31.777690+08:00"
+  },
+  {
+   "title": "DHS finalizes rule replacing “Duration of Status” for F-1, J-1, and I visa holders - Nixon Peabody",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR1o2VDdCZF9xaXQ5bXNzanR1Y3FUOEhKSTNMdk9nNzFxSVhtSktPdVNTTzA0VnIwcV9jNTZQQkxBYjRwX3dGWkZQVDVLYWpXZEg5Zk5vOU4xVGEyOXBrRVlhdUVPdmJIR29wOGpibV9yN1Z4dEM3OXl2ZmRqZWxnVWtxb0pTS3JubVA4VEpvNzc5dk1qSEdEenNLbld1OWZfUENiLVlhSS1OZDJiVmlpQ2RVcWdfeXRPS1dLWjlnWExvWW9hWjhvc09SY2tKaUE?oc=5",
+   "published": "2026-07-17T07:00:00+00:00",
+   "excerpt": "DHS finalizes rule replacing “Duration of Status” for F-1, J-1, and I visa holders Nixon Peabody",
+   "author": null,
+   "source": "Google News",
+   "id": "896621613828",
+   "policy_signal": true,
+   "relevance": null,
+   "first_seen": "2026-11-02T12:51:31.777690+08:00"
+  },
+  {
+   "title": "H-1B → F-1 change of status (I-539) approved. Do I need F-1 stamping before traveling?",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xle2dj/h1b_f1_change_of_status_i539_approved_do_i_need/",
+   "published": "2026-11-01T20:50:45+00:00",
+   "excerpt": "Quick background: Had an F-1 visa before (stamp expired August 2026) Got H-1B in December 2025 Just got my I-539 change of status approved back to F-1 (H-1B → F-1) again for my PhD - Approved Oct 2026 Questions: Do I need to get a new F-1 visa stamp, or is the approval notice enough? If I travel internationally, can I re-enter without a new stamp, or will I be stuck until I get one? Has anyone gone through H-1B → F-1 COS recently? How did stamping and the interview go, and were there any issues because of the switch back and forth? Any advice or experiences appreciated, thanks! submitted by /u/Medulla_oblongata23 [link] [留言]",
+   "author": "/u/Medulla_oblongata23",
+   "source": "Reddit r/f1visa",
+   "id": "8943472a372a",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-02T12:51:31.777690+08:00"
+  },
+  {
+   "title": "F-1 student re entry inspection",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xld5d6/f1_student_re_entry_inspection/",
+   "published": "2026-11-01T20:13:23+00:00",
+   "excerpt": "Hi, if-1 visa student is traveling to home and has some unusual banking transactions. When taken to seconday inspection what are the things they mainly check in devices and does they really ask student to open their banking app or what will happen if student doesn’t have banking app in phone . Main concern what they really check and do they check live or in airplane mode. And what are the questions aked submitted by /u/Kingofkingsofworld_1 [link] [留言]",
+   "author": "/u/Kingofkingsofworld_1",
+   "source": "Reddit r/f1visa",
+   "id": "927e39af7f9d",
+   "policy_signal": true,
+   "relevance": null,
+   "first_seen": "2026-11-02T12:51:31.777690+08:00"
+  },
+  {
+   "title": "Applied for STEM OPT Extension on April 13 still waiting",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xl7eqn/applied_for_stem_opt_extension_on_april_13_still/",
+   "published": "2026-11-01T16:29:20+00:00",
+   "excerpt": "My 180 days extension ends on 27 October and I have it on pp is there anybody who has the same situation or applied on the same date and got the response. submitted by /u/Affectionate_One1439 [link] [留言]",
+   "author": "/u/Affectionate_One1439",
+   "source": "Reddit r/f1visa",
+   "id": "b785df06987e",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-02T12:51:31.777690+08:00"
+  },
+  {
+   "title": "Anyone Re-entered the US While Initial OPT Was Pending, Without EAD or Job Offer?",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xkzhvd/anyone_reentered_the_us_while_initial_opt_was/",
+   "published": "2026-11-01T10:12:52+00:00",
+   "excerpt": "Hi everyone, I graduated from UT Dallas on May 23, 2026, and applied for post-completion OPT. USCIS received my I-765 on July 2, and it is still pending. My F-1 visa is valid, my SEVIS is active, and I have a new I-20 showing OPT pending. However, I don’t have an EAD or a job offer yet. I travelled to India on October 18 because I had a serious wrist fracture from an accident in the US and needed surgery and recovery. I am planning to return on November 23. CBP advised me that travelling while OPT is pending carries risks, particularly if OPT gets approved while I am abroad. They also recommended carrying a job offer, which I currently don’t have. Has anyone been in a similar situation and s",
+   "author": "/u/miths1111",
+   "source": "Reddit r/f1visa",
+   "id": "78c397289c34",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-02T12:51:31.777690+08:00"
+  },
+  {
+   "title": "F-1 OPT Student in California – Can Minor Traffic Infractions Affect Immigration Status?",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xky56c/f1_opt_student_in_california_can_minor_traffic/",
+   "published": "2026-11-01T08:46:14+00:00",
+   "excerpt": "Hi everyone, I’m an international student currently working on F-1 post-completion OPT in California. I recently received a traffic citation from LAPD for three violations: CVC 24250 – Headlight violation CVC 4000(a)(1) – Expired vehicle registration CVC 16028(a) – Expired Insurance violation All three were marked as infractions. I was not arrested or detained; the officer simply issued the ticket and let me go. The officer mentioned that I could correct the violations and provide proof to the court or pay the applicable fines. My main concern is whether these minor traffic infractions could have any impact on: My current F-1/OPT status My upcoming STEM OPT extension Future H-1B or employmen",
+   "author": "/u/Brilliant_Draft4362",
+   "source": "Reddit r/f1visa",
+   "id": "117a51dd2ce6",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-02T12:51:31.777690+08:00"
+  },
+  {
+   "title": "F-1 visa renewal on STEM OPT",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xkxpez/f1_visa_renewal_on_stem_opt/",
+   "published": "2026-11-01T08:17:24+00:00",
+   "excerpt": "Hey guys, Has anyone lately renewed their visa? I’m trying to understand if there are any delays. Thank you submitted by /u/ToughBeginning772 [link] [留言]",
+   "author": "/u/ToughBeginning772",
+   "source": "Reddit r/f1visa",
+   "id": "edc05a2298e4",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-02T12:51:31.777690+08:00"
+  },
+  {
+   "title": "Opt filing help",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xkv8m0/opt_filing_help/",
+   "published": "2026-11-01T05:40:31+00:00",
+   "excerpt": "Hi guys, I’m applying for post completion opt. I came to the US for my masters and did one semester at x university and after one semester transferred to my current university. I did my cpt internship at my current university and now I’m applying for opt Question is if i should upload the initial i20 i received from my previous university along with the Cpt and opt endorsed i20’s Thanks looking forward to hearing from you guys submitted by /u/ResponsibleUnion7813 [link] [留言]",
+   "author": "/u/ResponsibleUnion7813",
+   "source": "Reddit r/f1visa",
+   "id": "3bc0739efcc6",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-02T12:51:31.777690+08:00"
+  },
+  {
+   "title": "How long will it take for f1 visa",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xkw26d/how_long_will_it_take_for_f1_visa/",
+   "published": "2026-11-01T06:32:08+00:00",
+   "excerpt": "Hey everyone, i am from india , i have got my admission letter , my approved financial aid and my i-20 . I am done with my ds-160 , but the slots are not opening, i stay awake till late and check alot but there are no slots , anyone who has any idea about what can be done , please help submitted by /u/Objective-Access-442 [link] [留言]",
+   "author": "/u/Objective-Access-442",
+   "source": "Reddit r/f1visa",
+   "id": "ee72d9781aaf",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-02T12:51:31.777690+08:00"
   },
   {
    "title": "F1 visa interview for PhD",
@@ -79,6 +199,8 @@
    "id": "ec37b490b56f",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-01T12:49:32.065021+08:00"
   },
   {
@@ -91,6 +213,8 @@
    "id": "5053c5bc5795",
    "policy_signal": true,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-01T12:49:32.065021+08:00"
   },
   {
@@ -103,6 +227,8 @@
    "id": "93c778d7d32f",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-01T12:49:32.065021+08:00"
   },
   {
@@ -115,6 +241,8 @@
    "id": "b95ec102dca2",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-01T12:49:32.065021+08:00"
   },
   {
@@ -127,6 +255,8 @@
    "id": "aa0ec28413bd",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-01T12:49:32.065021+08:00"
   },
   {
@@ -139,6 +269,8 @@
    "id": "5414a9e232be",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-01T12:49:32.065021+08:00"
   },
   {
@@ -151,6 +283,8 @@
    "id": "4eca75f46c1b",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-01T12:49:32.065021+08:00"
   },
   {
@@ -163,6 +297,8 @@
    "id": "ba92b5be6f21",
    "policy_signal": true,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-01T12:49:32.065021+08:00"
   },
   {
@@ -175,6 +311,8 @@
    "id": "22b189a9e5ef",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-01T12:49:32.065021+08:00"
   },
   {
@@ -187,6 +325,8 @@
    "id": "21559520e04e",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-01T12:49:32.065021+08:00"
   },
   {
@@ -199,6 +339,8 @@
    "id": "39a9b533a98b",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-01T12:49:32.065021+08:00"
   },
   {
@@ -209,6 +351,20 @@
    "author": null,
    "source": "ICE 新聞稿",
    "id": "a8fc9a3929ca",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-01T12:49:32.065021+08:00"
+  },
+  {
+   "title": "US universities pausing CPT program after new ICE memo: Indian students in a fix - inkl",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdExTNTMxN0MyOGxvaDZaYzcxUmlIRC14X3NJZHppMkxMN0hNTjhuNEtkbkJaYXBjZzRXOElXOUdiM3N1SUVSb1REZXN4OWlVVGZmQmI2N2hTOFBOYWFmQTN6OGx6aTlBVHlmeVE2M3RGb0UwWDRYVU43M3BlMkdIRGlJR1d5ajlLYVluM1lzZ183OVQ2SUhPRFlDRGtaWDNKUXlxdlRvdmg?oc=5",
+   "published": "2026-08-24T07:00:00+00:00",
+   "excerpt": "US universities pausing CPT program after new ICE memo: Indian students in a fix inkl",
+   "author": null,
+   "source": "Google News",
+   "id": "ed5d445c76bc",
    "policy_signal": false,
    "relevance": null,
    "first_seen": "2026-11-01T12:49:32.065021+08:00"
@@ -326,20 +482,6 @@
    "first_seen": "2026-10-31T12:29:56.525644+08:00"
   },
   {
-   "title": "DUI and F1 visa",
-   "url": "https://www.reddit.com/r/f1visa/comments/1xk0f3w/dui_and_f1_visa/",
-   "published": "2026-10-31T04:01:36+00:00",
-   "excerpt": "Hi, Is there anyone who suffered DUI+F1, my spouse has the problem unfortunately and it would be nice to talk with someone who has been thru this process, no matter what the outcome was. Just as a background, it is a first time DUI with BAC 0.11, no accident no injury, without prior criminal record. submitted by /u/ActiveGift2748 [link] [留言]",
-   "author": "/u/ActiveGift2748",
-   "source": "Reddit r/f1visa",
-   "id": "af0e26cf5139",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-31T12:29:56.525644+08:00"
-  },
-  {
    "title": "Wrong brithday date on OPT application HELP",
    "url": "https://www.reddit.com/r/f1visa/comments/1xjjw3v/wrong_brithday_date_on_opt_application_help/",
    "published": "2026-10-30T16:22:14+00:00",
@@ -348,20 +490,6 @@
    "source": "Reddit r/f1visa",
    "id": "ea8ba05c7b63",
    "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-31T12:29:56.525644+08:00"
-  },
-  {
-   "title": "WoM for visa pd march 2025",
-   "url": "https://www.reddit.com/r/f1visa/comments/1xjfvt5/wom_for_visa_pd_march_2025/",
-   "published": "2026-10-30T13:49:15+00:00",
-   "excerpt": "Hi everyone! I have a pending F-1 visa application that’s been stuck in AP since march 2025. Last month I finally got tired of waisting my time and decided to file WoM with a lawyer. All defendants were served Oct 25th and we tried the venue in Massachusetts. Has anyone had recent experiences with Mandamus lawsuits ? how fast do they tend to take actions ? What are the chances they don’t ask for a transfer to Washington DC (my lawyer told me it would be a huge disadvantage) ? What is the usual timeline of action for visas in particular ? submitted by /u/eelibetha [link] [留言]",
-   "author": "/u/eelibetha",
-   "source": "Reddit r/f1visa",
-   "id": "331234d28b56",
-   "policy_signal": true,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -390,6 +518,34 @@
    "source": "Reddit r/f1visa",
    "id": "802174e3c7f7",
    "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-31T12:29:56.525644+08:00"
+  },
+  {
+   "title": "DUI and F1 visa",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xk0f3w/dui_and_f1_visa/",
+   "published": "2026-10-31T04:01:36+00:00",
+   "excerpt": "Hi, Is there anyone who suffered DUI+F1, my spouse has the problem unfortunately and it would be nice to talk with someone who has been thru this process, no matter what the outcome was. Just as a background, it is a first time DUI with BAC 0.11, no accident no injury, without prior criminal record. submitted by /u/ActiveGift2748 [link] [留言]",
+   "author": "/u/ActiveGift2748",
+   "source": "Reddit r/f1visa",
+   "id": "af0e26cf5139",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-31T12:29:56.525644+08:00"
+  },
+  {
+   "title": "WoM for visa pd march 2025",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xjfvt5/wom_for_visa_pd_march_2025/",
+   "published": "2026-10-30T13:49:15+00:00",
+   "excerpt": "Hi everyone! I have a pending F-1 visa application that’s been stuck in AP since march 2025. Last month I finally got tired of waisting my time and decided to file WoM with a lawyer. All defendants were served Oct 25th and we tried the venue in Massachusetts. Has anyone had recent experiences with Mandamus lawsuits ? how fast do they tend to take actions ? What are the chances they don’t ask for a transfer to Washington DC (my lawyer told me it would be a huge disadvantage) ? What is the usual timeline of action for visas in particular ? submitted by /u/eelibetha [link] [留言]",
+   "author": "/u/eelibetha",
+   "source": "Reddit r/f1visa",
+   "id": "331234d28b56",
+   "policy_signal": true,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -582,20 +738,6 @@
    "first_seen": "2026-10-30T12:45:08.186554+08:00"
   },
   {
-   "title": "DHS Proposes Significant New Fees for Optional Practical Training - JD Supra",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSW1IX2F6RFJPS2VrVG5kdEFGaF9iajF3SWNLUk5kc3htcVhCMjg0Y3BiYXJwaWc0YlA3ZUR6WGd3R1ZtUVYyU2g5SlJrWHJQbFNXLU16YXNLZnJUUmZFQV9kYUE4YUNURXpVcUt6WlJfMUwyZnphcmUyLXYyU0R2c0pZT1FRa1k?oc=5",
-   "published": "2026-10-15T07:00:00+00:00",
-   "excerpt": "DHS Proposes Significant New Fees for Optional Practical Training JD Supra",
-   "author": null,
-   "source": "Google News",
-   "id": "e8b5c67b4f6b",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-30T12:45:08.186554+08:00"
-  },
-  {
    "title": "UMD international graduate students face new internship limits after federal restrictions - The Diamondback",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOVI3elBmRkJBWkhFYzFmV2duVjhYZTNrQi1NdFBnOTFSOVdzS2s4UWN0Y2cyTG9RbkpEOTVmWUdxWFhFMldVNlJoX1BnVVJTWnA0Sm02czUwaFRZcVFGMEx6aW5ic0d2TFpCQWl3bWNZZ0J0WC1QT01xa3hNVFg4RG1EZVVlZy1mcW8xanhFQXlZczhQSzVBMkFTaFBsR3R0?oc=5",
    "published": "2026-10-29T04:00:00+00:00",
@@ -603,6 +745,20 @@
    "author": null,
    "source": "Google News",
    "id": "fb5657734814",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-30T12:45:08.186554+08:00"
+  },
+  {
+   "title": "DHS Proposes Significant New Fees for Optional Practical Training - JD Supra",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSW1IX2F6RFJPS2VrVG5kdEFGaF9iajF3SWNLUk5kc3htcVhCMjg0Y3BiYXJwaWc0YlA3ZUR6WGd3R1ZtUVYyU2g5SlJrWHJQbFNXLU16YXNLZnJUUmZFQV9kYUE4YUNURXpVcUt6WlJfMUwyZnphcmUyLXYyU0R2c0pZT1FRa1k?oc=5",
+   "published": "2026-10-15T07:00:00+00:00",
+   "excerpt": "DHS Proposes Significant New Fees for Optional Practical Training JD Supra",
+   "author": null,
+   "source": "Google News",
+   "id": "e8b5c67b4f6b",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -822,10 +978,10 @@
    "first_seen": "2026-10-28T12:28:10.448065+08:00"
   },
   {
-   "title": "DHS Proposes $70,000 Fee for International Students' Work Training - Legis1",
+   "title": "DHS Proposes $70,000 Fee for International Students' Training - Legis1",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55SGlqSVRtZFlQOEhyc25MYlQ5QnhtajQtWWtqX3RtLTVLdVJTZE50cDRmRVhYakxLWWNJdlN6bVdsTGI3QXhSdGJucWZFUTBpQkd4NzlIUENWVVZ1OEJOVFVzUHNJTVpHS0dHaS03NW92UXlaaTZ3?oc=5",
    "published": "2026-10-27T20:27:42+00:00",
-   "excerpt": "DHS Proposes $70,000 Fee for International Students' Work Training Legis1",
+   "excerpt": "DHS Proposes $70,000 Fee for International Students' Training Legis1",
    "author": null,
    "source": "Google News",
    "id": "bffb0d2f9c8f",
@@ -1080,13 +1236,13 @@
    "first_seen": "2026-10-26T11:38:31.728874+08:00"
   },
   {
-   "title": "Trump administration plans to charge international students $70,000 for work authorization - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMlhCa1pMd3dvMl9qSjgtTlpObWgwcFNGcXUxd1RKYV9VTzl2WVFaRXdtZWNfMlE0VnpjM2pGZmlnXzFfX3VZYWJZU1NrU1VZYWpiVnpfVG1FR3NQREIxUHp1Z1EwU2lXdDE4WlFFWi1QXzhub3Z5S3NWeHFwOE9IakxINjk0VG1xT05sMUI3M1lBaGV0VkxVM05PRXZSTmhJcGZ6LXNNWUxwcWFJRmc4V19ac1A5MWNqLUgybQ?oc=5",
-   "published": "2026-10-07T07:00:00+00:00",
-   "excerpt": "Trump administration plans to charge international students $70,000 for work authorization Reuters",
+   "title": "Optional Practical Training (OPT) STEM Extension - Liberty University",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVpXVWhacEdSR0FZaUNhNWFiSzBBS2gtRzBMdS1BMnlaeTdUS01xSWFaQXdEVTlKamxwSXpuU3BtbGsyMk1xSkVlY1YzdVhnM2k0bVdudDJLbHZfcnRjeFQyQm1mRzJ3bjBsX0hHWC1UanRHRXFCcEtFNEdpZ2t5d25xUTZYSUZqSGI4NnB3bVlzVmNpem9paXVnSEZ0dDF2WDBqU3VKUQ?oc=5",
+   "published": "2026-06-11T06:48:26+00:00",
+   "excerpt": "Optional Practical Training (OPT) STEM Extension Liberty University",
    "author": null,
    "source": "Google News",
-   "id": "b8c826b0415c",
+   "id": "14d13d3f50dd",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -1101,6 +1257,20 @@
    "author": null,
    "source": "Google News",
    "id": "fcc7fbd8352b",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-25T11:35:53.948243+08:00"
+  },
+  {
+   "title": "Trump administration plans to charge international students $70,000 for work authorization - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMlhCa1pMd3dvMl9qSjgtTlpObWgwcFNGcXUxd1RKYV9VTzl2WVFaRXdtZWNfMlE0VnpjM2pGZmlnXzFfX3VZYWJZU1NrU1VZYWpiVnpfVG1FR3NQREIxUHp1Z1EwU2lXdDE4WlFFWi1QXzhub3Z5S3NWeHFwOE9IakxINjk0VG1xT05sMUI3M1lBaGV0VkxVM05PRXZSTmhJcGZ6LXNNWUxwcWFJRmc4V19ac1A5MWNqLUgybQ?oc=5",
+   "published": "2026-10-07T07:00:00+00:00",
+   "excerpt": "Trump administration plans to charge international students $70,000 for work authorization Reuters",
+   "author": null,
+   "source": "Google News",
+   "id": "b8c826b0415c",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -1424,18 +1594,6 @@
    "source": "Google News",
    "id": "b8782fc5adfe",
    "policy_signal": true,
-   "relevance": null,
-   "first_seen": "2026-10-25T11:35:53.948243+08:00"
-  },
-  {
-   "title": "Optional Practical Training (OPT) STEM Extension - Liberty University",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVpXVWhacEdSR0FZaUNhNWFiSzBBS2gtRzBMdS1BMnlaeTdUS01xSWFaQXdEVTlKamxwSXpuU3BtbGsyMk1xSkVlY1YzdVhnM2k0bVdudDJLbHZfcnRjeFQyQm1mRzJ3bjBsX0hHWC1UanRHRXFCcEtFNEdpZ2t5d25xUTZYSUZqSGI4NnB3bVlzVmNpem9paXVnSEZ0dDF2WDBqU3VKUQ?oc=5",
-   "published": "2026-06-11T06:48:26+00:00",
-   "excerpt": "Optional Practical Training (OPT) STEM Extension Liberty University",
-   "author": null,
-   "source": "Google News",
-   "id": "14d13d3f50dd",
-   "policy_signal": false,
    "relevance": null,
    "first_seen": "2026-10-25T11:35:53.948243+08:00"
   },
@@ -1816,13 +1974,13 @@
    "first_seen": "2026-10-22T11:39:32.977216+08:00"
   },
   {
-   "title": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers - Employment Law Worldview",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmxyRF9DQ21KNWZiZW9obWZYV3JQOXd0ZEZaU3Iwd1kwTVM0LUhRdkJnTTFGV3pMUnNpdVh3X0FCcTNfeHhzeEdic1ladHJSSVpqME5CaEYzeHk0VURIOVNXbmxFb3FKSmZzc1pWd2ZNVUxla3VsU2dwZGpocFdjeWRqUllybmpFNWhxUmJHWEZzd3ZZaUE2WHFTNHQ4VF9MVjc0akQ1eXBQa3lWTFJRWTdDOEI4SFFXUGVRTlotVkhhLUFYV0E?oc=5",
-   "published": "2025-12-15T08:00:00+00:00",
-   "excerpt": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers Employment Law Worldview",
+   "title": "More I-94 Monitoring + Timely EOS Filing for Employers as DHS Reshapes F-1 and J-1 Framework - Jackson Lewis",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFFlTVpjRnNiUEppaW9RdGRjTENVWDRfZ1pnSzFZV0p6aFZsYUJxTnh3Wk1RNDNaaUtwZWhjTkpFVUJvUDhZMzFVLUFMdVMwWHZTVnNiUGhsMEY3ODYyb2ZoME5KZ2JmMnY1c1ZNdU9mWHZKUkdSbjdaeVRQTGlrM3ZpOFpWRmtyWTlCN0NiWFdPaUwxN2lUYW9jTVRLeU11YXJ2OXdIblQwYkRPWWctdjBtMGFFR21yS2J5aVVn?oc=5",
+   "published": "2026-07-20T07:00:00+00:00",
+   "excerpt": "More I-94 Monitoring + Timely EOS Filing for Employers as DHS Reshapes F-1 and J-1 Framework Jackson Lewis",
    "author": null,
    "source": "Google News",
-   "id": "bf45294c2331",
+   "id": "94b861093d53",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -1858,13 +2016,13 @@
    "first_seen": "2026-10-22T11:39:32.977216+08:00"
   },
   {
-   "title": "US government warns universities to limit their authorisation of Curricular Practical Training work placements - ICEF Monitor",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVW5GU3NpbWlCWFN0NEdDdGlpdW15QUNnZEV3dUxMWXhwYXFmbUx5U3ZvbEhyanNpX01zclZQTlplUGpjRnJVZVo3V0U3d04xakU2VVkwaVZxUUwxdXJpRlByTWM3dVpTMXV5ME5zaDdRRWRUWmlHNElYV3pkMndLb1ZmLWc5eEZOb0poejl6ZEp1b3RTa0hmVmxESE1JOHFzc3k4amp0WGpkZTdOQ1FYbnhJdjE5ZWw0Z0EwRTlzRnp2SU9PNC1rZWhYaEZpSERVUGhIVWpybVBsZWt1?oc=5",
-   "published": "2026-09-03T07:00:00+00:00",
-   "excerpt": "US government warns universities to limit their authorisation of Curricular Practical Training work placements ICEF Monitor",
+   "title": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers - Employment Law Worldview",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmxyRF9DQ21KNWZiZW9obWZYV3JQOXd0ZEZaU3Iwd1kwTVM0LUhRdkJnTTFGV3pMUnNpdVh3X0FCcTNfeHhzeEdic1ladHJSSVpqME5CaEYzeHk0VURIOVNXbmxFb3FKSmZzc1pWd2ZNVUxla3VsU2dwZGpocFdjeWRqUllybmpFNWhxUmJHWEZzd3ZZaUE2WHFTNHQ4VF9MVjc0akQ1eXBQa3lWTFJRWTdDOEI4SFFXUGVRTlotVkhhLUFYV0E?oc=5",
+   "published": "2025-12-15T08:00:00+00:00",
+   "excerpt": "Major Changes to Employment Authorization Document Processing Will Impact U.S. Employers Employment Law Worldview",
    "author": null,
    "source": "Google News",
-   "id": "a78c21e7982d",
+   "id": "bf45294c2331",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -1872,13 +2030,13 @@
    "first_seen": "2026-10-22T11:39:32.977216+08:00"
   },
   {
-   "title": "More I-94 Monitoring + Timely EOS Filing for Employers as DHS Reshapes F-1 and J-1 Framework - Jackson Lewis",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFFlTVpjRnNiUEppaW9RdGRjTENVWDRfZ1pnSzFZV0p6aFZsYUJxTnh3Wk1RNDNaaUtwZWhjTkpFVUJvUDhZMzFVLUFMdVMwWHZTVnNiUGhsMEY3ODYyb2ZoME5KZ2JmMnY1c1ZNdU9mWHZKUkdSbjdaeVRQTGlrM3ZpOFpWRmtyWTlCN0NiWFdPaUwxN2lUYW9jTVRLeU11YXJ2OXdIblQwYkRPWWctdjBtMGFFR21yS2J5aVVn?oc=5",
-   "published": "2026-07-20T07:00:00+00:00",
-   "excerpt": "More I-94 Monitoring + Timely EOS Filing for Employers as DHS Reshapes F-1 and J-1 Framework Jackson Lewis",
+   "title": "US government warns universities to limit their authorisation of Curricular Practical Training work placements - ICEF Monitor",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVW5GU3NpbWlCWFN0NEdDdGlpdW15QUNnZEV3dUxMWXhwYXFmbUx5U3ZvbEhyanNpX01zclZQTlplUGpjRnJVZVo3V0U3d04xakU2VVkwaVZxUUwxdXJpRlByTWM3dVpTMXV5ME5zaDdRRWRUWmlHNElYV3pkMndLb1ZmLWc5eEZOb0poejl6ZEp1b3RTa0hmVmxESE1JOHFzc3k4amp0WGpkZTdOQ1FYbnhJdjE5ZWw0Z0EwRTlzRnp2SU9PNC1rZWhYaEZpSERVUGhIVWpybVBsZWt1?oc=5",
+   "published": "2026-09-03T07:00:00+00:00",
+   "excerpt": "US government warns universities to limit their authorisation of Curricular Practical Training work placements ICEF Monitor",
    "author": null,
    "source": "Google News",
-   "id": "94b861093d53",
+   "id": "a78c21e7982d",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -4646,13 +4804,13 @@
    "first_seen": "2026-10-09T12:59:38.349418+08:00"
   },
   {
-   "title": "Trump Administration Proposes $70K Fee for International Students to Work in U.S. - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObERuUGEzYTJwbHNyby1Udjd6V1N1UC02V1Y3UnBQX3AxcjJGWXA5M1RBVS1JVEJ5dVRKaThxWUhvNkZUZ3FONTZlTjJQM2YyeXpIaFZwUVhMT1BiWWlnZjM0dHpucS04TnBMcFhlaVZXa3FSUjNsMkdXYjRvUnhzYV8ydC1wSzQxeDQ1cUNWRTAwQmttZnczS0lvcnlXTmVtYjg4?oc=5",
-   "published": "2026-10-08T07:00:00+00:00",
-   "excerpt": "Trump Administration Proposes $70K Fee for International Students to Work in U.S. Time Magazine",
+   "title": "US Proposes $70,000 Fee for International Students Seeking Post-Graduation Work Authorization - INDIA New England News",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2FRblNZYVZhbXhWOTBBcW1icW9BNVV4ZTFpdDJvRzZpcDlFbVJ3dTVTSzBCQzRpS2N0MXptLUNtNlVlNWJsd2xpVVNHVjFJazJ5dl9CUnNpbWZVd0htUnVZUFJQZVRVaWxnN3hqNFJjTjZtd2M0czJDam1kUXdIV202VV9PbzkweU8tX3d1SlJfMFJxMjdiSmVkVGJuTzUwOUhPSDE5NjU3emZHNXVHT0JvYjBHRGNKMi1QNQ?oc=5",
+   "published": "2026-10-31T03:29:58+00:00",
+   "excerpt": "US Proposes $70,000 Fee for International Students Seeking Post-Graduation Work Authorization INDIA New England News",
    "author": null,
    "source": "Google News",
-   "id": "c82a46ad071d",
+   "id": "8e4c908ba262",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -4660,13 +4818,13 @@
    "first_seen": "2026-10-09T12:59:38.349418+08:00"
   },
   {
-   "title": "US Proposes $70,000 Fee for International Students Seeking Post-Graduation Work Authorization - INDIA New England News",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2FRblNZYVZhbXhWOTBBcW1icW9BNVV4ZTFpdDJvRzZpcDlFbVJ3dTVTSzBCQzRpS2N0MXptLUNtNlVlNWJsd2xpVVNHVjFJazJ5dl9CUnNpbWZVd0htUnVZUFJQZVRVaWxnN3hqNFJjTjZtd2M0czJDam1kUXdIV202VV9PbzkweU8tX3d1SlJfMFJxMjdiSmVkVGJuTzUwOUhPSDE5NjU3emZHNXVHT0JvYjBHRGNKMi1QNQ?oc=5",
-   "published": "2026-10-25T15:16:07+00:00",
-   "excerpt": "US Proposes $70,000 Fee for International Students Seeking Post-Graduation Work Authorization INDIA New England News",
+   "title": "Trump Administration Proposes $70K Fee for International Students to Work in U.S. - Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObERuUGEzYTJwbHNyby1Udjd6V1N1UC02V1Y3UnBQX3AxcjJGWXA5M1RBVS1JVEJ5dVRKaThxWUhvNkZUZ3FONTZlTjJQM2YyeXpIaFZwUVhMT1BiWWlnZjM0dHpucS04TnBMcFhlaVZXa3FSUjNsMkdXYjRvUnhzYV8ydC1wSzQxeDQ1cUNWRTAwQmttZnczS0lvcnlXTmVtYjg4?oc=5",
+   "published": "2026-10-08T07:00:00+00:00",
+   "excerpt": "Trump Administration Proposes $70K Fee for International Students to Work in U.S. Time Magazine",
    "author": null,
    "source": "Google News",
-   "id": "8e4c908ba262",
+   "id": "c82a46ad071d",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -4886,20 +5044,6 @@
    "first_seen": "2026-10-08T12:56:53.476136+08:00"
   },
   {
-   "title": "DHS proposes $70K fee for initial OPT participation and $30K for extensions - Higher Ed Dive",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnNvUEdTbzlubHBmUEMtUkVLZmd6cV9oMHpLZTdnVldQZDN1RHplRHphem54OHBmMWlTNXRJaWlNQWt4cGlwQ2FzMnhmOE1yeXdhQ3pZaHQyYTlhbXZhWEp5Zm5VZS1SMWkzQXRpNU83eVpweTdkbHpuelA4Rlc0WnZGbHA5ZmVlQVJLalRUMmpKMDVmZnRJam9tSnNlXzBuMFU5Y3gxNHFfMVpMQm52czdOUGJFUQ?oc=5",
-   "published": "2026-10-07T07:00:00+00:00",
-   "excerpt": "DHS proposes $70K fee for initial OPT participation and $30K for extensions Higher Ed Dive",
-   "author": null,
-   "source": "Google News",
-   "id": "ab5c765d8ee9",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:53.476136+08:00"
-  },
-  {
    "title": "DHS proposes $70K fee for international student work program - Politico",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3ZTcXdXUk1UWDNmRy1VcGpvekxSMFpNYzN4UjYtSGotbFVzaW11UDl5bGstT1hzUjlIcEltSUtRbnB2SWQ4eDBJaEpUQjVwSjdjSHlKXy1aNEtBU1kyT2hBWkZaNlJfd2RlSWRTOVU0c0l1R1ZUcUx4VV9jT08yd25qX2NrYUJsd3huM01IcDZmMmVHV0NLUw?oc=5",
    "published": "2026-10-07T07:00:00+00:00",
@@ -4907,6 +5051,20 @@
    "author": null,
    "source": "Google News",
    "id": "27fb92019acb",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:53.476136+08:00"
+  },
+  {
+   "title": "DHS proposes $70K fee for initial OPT participation and $30K for extensions - Higher Ed Dive",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnNvUEdTbzlubHBmUEMtUkVLZmd6cV9oMHpLZTdnVldQZDN1RHplRHphem54OHBmMWlTNXRJaWlNQWt4cGlwQ2FzMnhmOE1yeXdhQ3pZaHQyYTlhbXZhWEp5Zm5VZS1SMWkzQXRpNU83eVpweTdkbHpuelA4Rlc0WnZGbHA5ZmVlQVJLalRUMmpKMDVmZnRJam9tSnNlXzBuMFU5Y3gxNHFfMVpMQm52czdOUGJFUQ?oc=5",
+   "published": "2026-10-07T07:00:00+00:00",
+   "excerpt": "DHS proposes $70K fee for initial OPT participation and $30K for extensions Higher Ed Dive",
+   "author": null,
+   "source": "Google News",
+   "id": "ab5c765d8ee9",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -9417,128 +9575,6 @@
    "relevance": null,
    "summary": null,
    "tags": null,
-   "first_seen": "2026-09-18T11:37:12.338721+08:00"
-  },
-  {
-   "title": "New F-1 Rule Will Cloud Day 1 Practical Training Backup Plans - Law360",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZE84QU14OUlYVVV5dExvNkFCZGFPYU5ncTBDQ290bi05SnM1bjJuUWFIRzllR215eERyd3laOXBSd0NDLTVJS3RhSDBxRm84WUhlSVZCOFFRNk45aUtMRXdSSEx0LUNYVkdFYTZiVFBqNFFfb3dad2tuMmVEcW01QmxsbGEwQ0hrZFhHTE5JMTVJaGpKTEFEdFVWOVpKWHMtU1ZN0gFWQVVfeXFMT28wamQ1MEZUUWZJNUlYVlIwRDhuUjZHVXQtRnhsTTBVNDRaVy1MSHBqaVJoWG1wN3p2ZXJCQWRsaVJaWnp6b3V0RmVuOTY1UmYtdXZqZEE?oc=5",
-   "published": "2026-08-31T21:00:00+00:00",
-   "excerpt": "New F-1 Rule Will Cloud Day 1 Practical Training Backup Plans Law360",
-   "author": null,
-   "source": "Google News",
-   "id": "b7a283975e86",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-18T11:37:12.338721+08:00"
-  },
-  {
-   "title": "ICE expands local 287(g) law enforcement partnerships in Tennessee",
-   "url": "https://www.ice.gov/news/releases/ice-expands-local-287g-law-enforcement-partnerships-tennessee",
-   "published": null,
-   "excerpt": "ICE is expanding its state and local law enforcement partnerships across Tennessee, strengthening cooperation to identify and remove criminal illegal aliens who pose public safety threats.",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "3421b4fa210b",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-18T11:37:12.338721+08:00"
-  },
-  {
-   "title": "ICE Washington, DC arrests criminal alien fugitive charged with child sex crimes in Colorado",
-   "url": "https://www.ice.gov/news/releases/ice-washington-dc-arrests-criminal-alien-fugitive-charged-child-sex-crimes-colorado",
-   "published": null,
-   "excerpt": "ICE Washington, D.C. arrested a criminal illegal alien from El Salvador who is wanted by authorities in Colorado for felony sexual assault on a child by a person of trust, felony solicitation of child prostitution and felony use of the internet to lure a child with intent to exploit. ICE officers apprehended Jose Saul Canas-Guandique, 49, in Falls Church, Virginia, Aug. 31.",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "4685f821c832",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-18T11:37:12.338721+08:00"
-  },
-  {
-   "title": "70CDCR21DIG000012 P00021: Moshannon Valley Processing Center - Philipsburg, PA",
-   "url": "https://www.ice.gov/node/70281",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "d88b05e8873e",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-18T11:37:12.338721+08:00"
-  },
-  {
-   "title": "287gParticipatingAgencies091526pm",
-   "url": "https://www.ice.gov/node/70280",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "b64d5eba20ac",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-18T11:37:12.338721+08:00"
-  },
-  {
-   "title": "ICE arrests 2 illegal alien CDL operators in New Jersey during separate targeted enforcement actions",
-   "url": "https://www.ice.gov/news/releases/ice-arrests-2-illegal-alien-cdl-operators-new-jersey-during-separate-targeted",
-   "published": null,
-   "excerpt": "ICE arrested two illegal aliens at two different locations in New Jersey during operations in support of the Department of Homeland Security’s nationwide effort to crack down on fraudulent commercial driver’s license practices that put American lives in danger.",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "4ff57655d4aa",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-18T11:37:12.338721+08:00"
-  },
-  {
-   "title": "Job Trouble for Students: Student visas are being limited to certain internship opportunities - lsureveille.com",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1FtNmtjcXBVanBab0JWRUJVTmJSTUJOQW5PY25kcnQxc0R2VlQzeEtkSHlOOXJQQjRvbzNpWUFoWmltbEdsQkd0OXZPV2p2WHVMeFRzVjJ3d3NkdGZqUGxSRnJwMFdteFJJay1KT1ZzemF6UWQ2QzZKTkRMUkhCS2dDV3hmdVlfdi1HUGZqNnhxemY1RDdaWV8xQ3JmS0tXS1hSaXBfLUFDdWtzbVVVLTd6cWUteHIyb3hIcFNybWMzd2tnTVR5S1hIdng?oc=5",
-   "published": "2026-09-17T12:03:53+00:00",
-   "excerpt": "Job Trouble for Students: Student visas are being limited to certain internship opportunities lsureveille.com",
-   "author": null,
-   "source": "Google News",
-   "id": "153d6059d111",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-18T11:37:12.338721+08:00"
-  },
-  {
-   "title": "US Clarifies CPT Rules for F-1 Students as Colleges Review Approvals - IndianEagle",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMk4xV0IwVGlVbFdWNThLU085VFNnSElab21mdkxFY2E5NkNqYl9vcmlxclZGMEEyd0pibHBqVGVxUEhjeklYU0NtSkNIcHR2RWFfQkpvUy1jb29TLW8zQm1UNDQxTmd5S28zTk9abGx6TmEyZFJSQ3U0c2dzSlZRaFhGV21BSWc5Z2ZZNw?oc=5",
-   "published": "2026-08-26T07:00:00+00:00",
-   "excerpt": "US Clarifies CPT Rules for F-1 Students as Colleges Review Approvals IndianEagle",
-   "author": null,
-   "source": "Google News",
-   "id": "18072c6b35d1",
-   "policy_signal": true,
-   "relevance": null,
-   "first_seen": "2026-09-18T11:37:12.338721+08:00"
-  },
-  {
-   "title": "Trump administration seeks to restrict internships for international students - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWWFQejNhVHNBdHZSLTN1bkFpdDNwWnhCeGVaVGR3VTNrX1VMWU00ekxqdXlhQnp3cVlyYVRRRnhveDdqRXlzaW42ZkpaSGJJZ2tsbVF2bWY1Qm9fdEdtaGxiZmpQYUg0eGM2RElpcmdlNXF3ZU85LS13SVoyNUNpOHNxSXdta3gyWFd1ZFY3ZUlmLTNaaHJZSTdyU3ZyM0hCU3owRDZrMHpncUoyVWtzV3VJNGZfOEtBUGc?oc=5",
-   "published": "2026-08-28T07:00:00+00:00",
-   "excerpt": "Trump administration seeks to restrict internships for international students Reuters",
-   "author": null,
-   "source": "Google News",
-   "id": "567d510610e5",
-   "policy_signal": false,
-   "relevance": null,
    "first_seen": "2026-09-18T11:37:12.338721+08:00"
   },
   {

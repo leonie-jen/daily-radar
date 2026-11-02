@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T12:48:37.518677+08:00",
+ "updated_at": "2026-11-02T12:50:45.631851+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -22,7 +22,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "note": ""
   },
   {
@@ -52,6 +52,32 @@
  ],
  "items": [
   {
+   "title": "Seminar schedule/timing question",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xljz5l/seminar_scheduletiming_question/",
+   "published": "2026-11-02T01:13:14+00:00",
+   "excerpt": "Is there an official schedule for seminars? besides what is listed on this page -- https://omscs.gatech.edu/seminars . Or how do you know when they are going to be offered? I am asking because I'm starting this upcoming Spring semester and my plan was to start with Computer Networks. Then I saw that last summer the Intro to C Programming seminar was offered and I read some people suggested it's a good way to brush up on C before taking GIOS. So I was going to go Computer Networks this spring, Intro to C seminar in the summer (because I was guessing it was offered only in the summer as it was offered this fall), then GIOS next fall. However, I just looked at the classes for this spring and I ",
+   "author": "/u/sammaus",
+   "source": "Reddit r/OMSCS",
+   "id": "71f1ef329381",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-02T12:50:45.631851+08:00"
+  },
+  {
+   "title": "Georgia Tech OMSCS Robotics: AI Techniques Course Review | Vlog Ep. 15 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5NU03Z1Y1d3dBaUUtNk1mM1p4SDI2M3Vtb09SNHdicFZ1YXBSUzNwaE1WVVZlV0E3ZTFrVFlySDlEakFPOFJJbWJGcUpjTTVRb0tKUGVPREhSMWNj?oc=5",
+   "published": "2025-05-25T07:00:00+00:00",
+   "excerpt": "Georgia Tech OMSCS Robotics: AI Techniques Course Review | Vlog Ep. 15 YouTube",
+   "author": null,
+   "source": "Google News",
+   "id": "b4ee9a4b24a4",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-02T12:50:45.631851+08:00"
+  },
+  {
    "title": "Is there an online equivalent to Georgia Tech CS 3510 with hands-on algorithm implementation?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xknvy8/is_there_an_online_equivalent_to_georgia_tech_cs/",
    "published": "2026-10-31T23:02:02+00:00",
@@ -62,6 +88,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-01T12:48:37.518677+08:00"
   },
   {
@@ -75,6 +103,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-01T12:48:37.518677+08:00"
   },
   {
@@ -482,21 +512,6 @@
    "first_seen": "2026-10-24T11:37:35.792721+08:00"
   },
   {
-   "title": "Are you okay? r/OMSCS Mental Health Check-in.",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xchxkd/are_you_okay_romscs_mental_health_checkin/",
-   "published": "2026-10-22T13:01:06+00:00",
-   "excerpt": "You're doing great! Don't sweat the most recent or upcoming project, test, grade, etc. Make sure you give your best shot, and never, ever succumb to cheating. The OSI Police are in full force during this critical period, and you know it, through the Reddit threads that you would occasionally find how onerous these threats could be. You Are Not Alone & You'll Get Through This. Know that you are not alone. We all go through ups and downs and have tests or projects that don't go as planned. Never fear as bright days are ahead of you. Utilize this thread if you're feeling down and or want someone to talk to. We are all in this together and we're here for you and one another. There is a lot more ",
-   "author": "/u/AutoModerator",
-   "source": "Reddit r/OMSCS",
-   "id": "ec7feee5433c",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
    "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
    "url": "https://omscs.gatech.edu/external-news/where-are-they-now-team-atlanta-takes-ai-cybersecurity-beyond-competition",
    "published": null,
@@ -531,6 +546,21 @@
    "excerpt": "",
    "source": "Hacker News",
    "id": "6f6341c8a2eb",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "Are you okay? r/OMSCS Mental Health Check-in.",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xchxkd/are_you_okay_romscs_mental_health_checkin/",
+   "published": "2026-10-22T13:01:06+00:00",
+   "excerpt": "You're doing great! Don't sweat the most recent or upcoming project, test, grade, etc. Make sure you give your best shot, and never, ever succumb to cheating. The OSI Police are in full force during this critical period, and you know it, through the Reddit threads that you would occasionally find how onerous these threats could be. You Are Not Alone & You'll Get Through This. Know that you are not alone. We all go through ups and downs and have tests or projects that don't go as planned. Never fear as bright days are ahead of you. Utilize this thread if you're feeling down and or want someone to talk to. We are all in this together and we're here for you and one another. There is a lot more ",
+   "author": "/u/AutoModerator",
+   "source": "Reddit r/OMSCS",
+   "id": "ec7feee5433c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2249,12 +2279,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
-   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
+   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
+   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "c9fdb1306c54",
+   "id": "0484e7b5e74c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2263,12 +2293,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
-   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
+   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
+   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "0484e7b5e74c",
+   "id": "c9fdb1306c54",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2793,39 +2823,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-19T11:33:41.303126+08:00"
-  },
-  {
-   "title": "Dealing with work related burnout while taking my last OMSCS class (HCI)",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wj8sic/dealing_with_work_related_burnout_while_taking_my/",
-   "published": "2026-09-17T22:44:39+00:00",
-   "excerpt": "Hey guys, looking for advice. I am taking my last class right now (HCI). This class should not be that crazy. But I started a new job 3 months ago, and I am now in charge of the biggest project at the company. I am working 50-60 hour weeks every week (7am-7pm today for example), often get messages in the evening (like being sent 7am meetings at 9pm the night before). I also occasionally need to work some weekends and holidays coming up. I am traveling about 60% of the time. I really want to just finish the program and the HCI workload is not crazy. Time wise I could fit it in. However, the burnout is real. The problem is I am supposed to be going at this pace into February so if I withdraw i",
-   "author": "/u/GreenSpaceDorito2",
-   "source": "Reddit r/OMSCS",
-   "id": "ad467fa7f5ab",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-18T11:36:06.070068+08:00"
-  },
-  {
-   "title": "Readmission After Unfortunate Circumstances",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1winzsi/readmission_after_unfortunate_circumstances/",
-   "published": "2026-09-17T08:19:12+00:00",
-   "excerpt": "I’m curious if anyone has insight into whether readmission is any more or less possible given the following circumstances. I want to say 3-4 years ago I applied out of WGU, accepted, planned but never enrolled. Financially, we had to support my s/o to work towards a two income household with the way we saw the economy going. We are still a one income household, although my s/o is approaching the end of her masters in elementary education, and doing student teaching in a month or two. I’m a father of 3 children as well, 4-8, and my eldest is in therapy and has been for 1.5 years as he is potentially autistic (high functioning - apologize if I don’t use PC language it’s not intended), and conf",
-   "author": "/u/OkStick6410",
-   "source": "Reddit r/OMSCS",
-   "id": "fc06a4fb3925",
-   "admission_signal": true,
-   "keyword_hits": [
-    "accepted",
-    "admission"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-18T11:36:06.070068+08:00"
   },
   {
    "title": "The Digital Bridge - Harvard Graduate School of Education",

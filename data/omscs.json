@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T12:50:45.631851+08:00",
+ "updated_at": "2026-11-03T13:40:43.902212+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -22,7 +22,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "note": ""
   },
   {
@@ -52,6 +52,45 @@
  ],
  "items": [
   {
+   "title": "Cannot login into Canvas - Getting 2FA Error",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xmj274/cannot_login_into_canvas_getting_2fa_error/",
+   "published": "2026-11-03T04:07:24+00:00",
+   "excerpt": "https://preview.redd.it/go7dz6cxnbzh1.png?width=1043&format=png&auto=webp&s=87ab8448a74cce41b85d8fcda044d829657ba66a Same as body, i tried and i was able to login into Passport but cannot login to canvas. Can anyone help? As its part of MFA Failure Cannot login to 1. Gradescope 2. Outlook 3. Canvas submitted by /u/Cold_Releasee [link] [留言]",
+   "author": "/u/Cold_Releasee",
+   "source": "Reddit r/OMSCS",
+   "id": "846f1b2ff54b",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-03T13:40:43.902212+08:00"
+  },
+  {
+   "title": "CS6750: 1st semester workload experience",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xmi0t2/cs6750_1st_semester_workload_experience/",
+   "published": "2026-11-03T03:15:26+00:00",
+   "excerpt": "I've started OMSCS this semester, and I made the mistake of taking 2 courses - HCI & RAIT. I will only talk about HCI here. Learning material on this is an F-ing A. Top class. Some background: I have a CS undergrad degree and 9 YOE. But the structure of the course material, papers and examples are great! GREAT! Sure, after going through it you will feel - \"A lot of this is common sense.\" But you know, Newton's 1st law feels the same too. After you've learnt something, it's starts feeling simpler and common sense. That's the magic of the teacher. Try reading a chapter's required reading before going through the lecture material, you'll understand what I mean. Anyway, on the workload. I'll be ",
+   "author": "/u/Low_Supermarket1228",
+   "source": "Reddit r/OMSCS",
+   "id": "13ea73af0ac2",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-03T13:40:43.902212+08:00"
+  },
+  {
+   "title": "How bad are these NLP Meta lectures",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xlnwr3/how_bad_are_these_nlp_meta_lectures/",
+   "published": "2026-11-02T04:34:06+00:00",
+   "excerpt": "Currently taking up NLP and going through the lectures done in collaboration with Meta. It's pathetically bad and I have learnt nothing. Just reading from the notes would have been easier for me. Is it just me or do other folks agree? submitted by /u/Background_Topic9458 [link] [留言]",
+   "author": "/u/Background_Topic9458",
+   "source": "Reddit r/OMSCS",
+   "id": "c666d6948bd6",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-03T13:40:43.902212+08:00"
+  },
+  {
    "title": "Seminar schedule/timing question",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xljz5l/seminar_scheduletiming_question/",
    "published": "2026-11-02T01:13:14+00:00",
@@ -62,6 +101,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-02T12:50:45.631851+08:00"
   },
   {
@@ -75,6 +116,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-02T12:50:45.631851+08:00"
   },
   {
@@ -153,13 +196,13 @@
    "first_seen": "2026-10-31T12:29:13.537675+08:00"
   },
   {
-   "title": "CS 7470 Mobile and Ubiquitous Computing (How has the course been recently)?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xjdqib/cs_7470_mobile_and_ubiquitous_computing_how_has/",
-   "published": "2026-10-30T12:14:42+00:00",
-   "excerpt": "Hi everyone, For those currently taking CS 7470 Mobile and Ubiquitous Computing in Fall 2026 or who took it in Summer 2026, how has the course been? It has had a reputation for poor organisation, unclear structure and unresponsive TAs in previous semesters. Have things improved? I'd particularly appreciate feedback on: Course organisation and TA responsiveness. Average workload (hours per week). Assignments and project difficulty. Any recent experiences would be appreciated. Thanks! submitted by /u/crisdanyx [link] [留言]",
-   "author": "/u/crisdanyx",
+   "title": "Those who took gios in fall 2025 and spring 2026, what was the grade cutoff for an A",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xjpdb9/those_who_took_gios_in_fall_2025_and_spring_2026/",
+   "published": "2026-10-30T19:47:07+00:00",
+   "excerpt": "TLDR: Those of you who took gios in fall 2025 and spring 2026, what was the grade cutoff for an A? I am trying to see if it makes sense for me to drop the course or not Unfortunately my grade for the project 1 was not so hot - I had a working solution for part 1 server, but accidentally submitted the solution for part 2 server to part 1 (I was sleep deprived and panicking to submit part 2) - so I lost the points for part 1 server on top of not completing part 2 client or the readme. I really want an A for this course because it may help with getting into other courses, internships, or even a PhD program if I decide to pursue that. Assuming I get 100% on the rest of the projects and perform s",
+   "author": "/u/Duum",
    "source": "Reddit r/OMSCS",
-   "id": "e94217ab983e",
+   "id": "0fb8f2c5f195",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -168,13 +211,13 @@
    "first_seen": "2026-10-31T12:29:13.537675+08:00"
   },
   {
-   "title": "Those who took gios in fall 2025 and spring 2026, what was the grade cutoff for an A",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xjpdb9/those_who_took_gios_in_fall_2025_and_spring_2026/",
-   "published": "2026-10-30T19:47:07+00:00",
-   "excerpt": "TLDR: Those of you who took gios in fall 2025 and spring 2026, what was the grade cutoff for an A? I am trying to see if it makes sense for me to drop the course or not Unfortunately my grade for the project 1 was not so hot - I had a working solution for part 1 server, but accidentally submitted the solution for part 2 server to part 1 (I was sleep deprived and panicking to submit part 2) - so I lost the points for part 1 server on top of not completing part 2 client or the readme. I really want an A for this course because it may help with getting into other courses, internships, or even a PhD program if I decide to pursue that. Assuming I get 100% on the rest of the projects and perform s",
-   "author": "/u/Duum",
+   "title": "CS 7470 Mobile and Ubiquitous Computing (How has the course been recently)?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xjdqib/cs_7470_mobile_and_ubiquitous_computing_how_has/",
+   "published": "2026-10-30T12:14:42+00:00",
+   "excerpt": "Hi everyone, For those currently taking CS 7470 Mobile and Ubiquitous Computing in Fall 2026 or who took it in Summer 2026, how has the course been? It has had a reputation for poor organisation, unclear structure and unresponsive TAs in previous semesters. Have things improved? I'd particularly appreciate feedback on: Course organisation and TA responsiveness. Average workload (hours per week). Assignments and project difficulty. Any recent experiences would be appreciated. Thanks! submitted by /u/crisdanyx [link] [留言]",
+   "author": "/u/crisdanyx",
    "source": "Reddit r/OMSCS",
-   "id": "0fb8f2c5f195",
+   "id": "e94217ab983e",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -260,13 +303,13 @@
    "first_seen": "2026-10-30T12:44:13.847971+08:00"
   },
   {
-   "title": "Not yet enrolled, when can I access my gatech email?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xcv9nx/not_yet_enrolled_when_can_i_access_my_gatech_email/",
-   "published": "2026-10-22T21:23:47+00:00",
-   "excerpt": "I need a gatech email and account to signup for my country's local educational benefits. I can login to BuzzPort and Passport, but outlook 365 does not work. submitted by /u/Appropriate-Air-4592 [link] [留言]",
-   "author": "/u/Appropriate-Air-4592",
-   "source": "Reddit r/OMSCS",
-   "id": "e437beaf43d0",
+   "title": "A Step-by-Step Guide to Applying to Georgia Tech’s OMSCS Program as an Indian Applicant",
+   "url": "https://medium.com/@barvevedant/a-step-by-step-guide-to-applying-to-georgia-techs-omscs-program-as-an-indian-applicant-3912d09aa2e1?source=rss------omscs-5",
+   "published": "2026-10-29T12:52:48+00:00",
+   "excerpt": "Introduction Continue reading on Medium »",
+   "author": "vedantbarve",
+   "source": "Medium #omscs",
+   "id": "b7b6734adc4f",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -275,13 +318,13 @@
    "first_seen": "2026-10-30T12:44:13.847971+08:00"
   },
   {
-   "title": "A Step-by-Step Guide to Applying to Georgia Tech’s OMSCS Program as an Indian Applicant",
-   "url": "https://medium.com/@barvevedant/a-step-by-step-guide-to-applying-to-georgia-techs-omscs-program-as-an-indian-applicant-3912d09aa2e1?source=rss------omscs-5",
-   "published": "2026-10-29T12:52:48+00:00",
-   "excerpt": "Introduction Continue reading on Medium »",
-   "author": "vedantbarve",
-   "source": "Medium #omscs",
-   "id": "b7b6734adc4f",
+   "title": "Not yet enrolled, when can I access my gatech email?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xcv9nx/not_yet_enrolled_when_can_i_access_my_gatech_email/",
+   "published": "2026-10-22T21:23:47+00:00",
+   "excerpt": "I need a gatech email and account to signup for my country's local educational benefits. I can login to BuzzPort and Passport, but outlook 365 does not work. submitted by /u/Appropriate-Air-4592 [link] [留言]",
+   "author": "/u/Appropriate-Air-4592",
+   "source": "Reddit r/OMSCS",
+   "id": "e437beaf43d0",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -468,6 +511,20 @@
    "first_seen": "2026-10-26T11:37:37.724246+08:00"
   },
   {
+   "title": "Seeking Third Technical Cofounder",
+   "url": "https://news.ycombinator.com/item?id=48682086",
+   "published": "2026-06-26T03:39:51Z",
+   "excerpt": "We are seeking a third technical cofounder to help us build our company: - https:&#x2F;&#x2F;coffeechats.me&#x2F;<p>Equal equity splits. Prior big tech&#x2F;fast-growing startup experience strongly preferred.<p>The founding team consists of: - An MBA (Dartmouth), MSCS (UT Austin) graduate with prior 0 to 1 successes. - An MSCS (Dartmouth) graduate.",
+   "source": "Hacker News",
+   "id": "5ce7c7618b10",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-24T11:37:35.792721+08:00"
+  },
+  {
    "title": "Which classes require (or would be easier with) x64 CPU architecture?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xdng4u/which_classes_require_or_would_be_easier_with_x64/",
    "published": "2026-10-23T19:22:47+00:00",
@@ -498,18 +555,19 @@
    "first_seen": "2026-10-24T11:37:35.792721+08:00"
   },
   {
-   "title": "Seeking Third Technical Cofounder",
-   "url": "https://news.ycombinator.com/item?id=48682086",
-   "published": "2026-06-26T03:39:51Z",
-   "excerpt": "We are seeking a third technical cofounder to help us build our company: - https:&#x2F;&#x2F;coffeechats.me&#x2F;<p>Equal equity splits. Prior big tech&#x2F;fast-growing startup experience strongly preferred.<p>The founding team consists of: - An MBA (Dartmouth), MSCS (UT Austin) graduate with prior 0 to 1 successes. - An MSCS (Dartmouth) graduate.",
-   "source": "Hacker News",
-   "id": "5ce7c7618b10",
+   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
+   "published": "2023-04-21T07:00:00+00:00",
+   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "43f2eafe3c1d",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
-   "first_seen": "2026-10-24T11:37:35.792721+08:00"
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
   },
   {
    "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
@@ -984,21 +1042,6 @@
     "accepted",
     "decision"
    ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
-   "published": "2023-04-21T07:00:00+00:00",
-   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
-   "author": null,
-   "source": "Google News",
-   "id": "43f2eafe3c1d",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2279,12 +2322,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
-   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
+   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
+   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "0484e7b5e74c",
+   "id": "c9fdb1306c54",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2293,12 +2336,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
-   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
+   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
+   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "c9fdb1306c54",
+   "id": "0484e7b5e74c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2873,36 +2916,6 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
-   "published": "2025-02-28T08:00:00+00:00",
-   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "11f8714f6e18",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
-   "published": "2025-01-27T08:00:00+00:00",
-   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "3fe0c49fd522",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
    "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
    "published": "2024-08-25T07:00:00+00:00",
@@ -2933,6 +2946,21 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
+   "title": "Georgia Tech launches second low-cost online master's degree program - Inside Higher Ed",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmg5WE0weGxEN2doN1o5SEhkeENTSzVzVDVhNlVKRmZVbktBWTZXd2hXaUFUeGhhSTdpQmJYMzlHXzFzMWROVHVJOGh4OEdDY3hwNWFTYVpvZHllbmlmWmJFck1lMGE3VVdaQlFnZnNEQjdZdHYyR0xGTEdxUVZFbGtOTkl6dm5nQ0dDLUN0UnJ1LUNJcWZSLS00c1M4cXJCNFRUaGphaU13Wmd4VnI1bWl2aHg?oc=5",
+   "published": "2017-01-11T08:00:00+00:00",
+   "excerpt": "Georgia Tech launches second low-cost online master's degree program Inside Higher Ed",
+   "author": null,
+   "source": "Google News",
+   "id": "6cccadeeb3ff",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
    "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
    "published": "2023-05-03T07:00:00+00:00",
@@ -2948,13 +2976,28 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Georgia Tech launches second low-cost online master's degree program - Inside Higher Ed",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmg5WE0weGxEN2doN1o5SEhkeENTSzVzVDVhNlVKRmZVbktBWTZXd2hXaUFUeGhhSTdpQmJYMzlHXzFzMWROVHVJOGh4OEdDY3hwNWFTYVpvZHllbmlmWmJFck1lMGE3VVdaQlFnZnNEQjdZdHYyR0xGTEdxUVZFbGtOTkl6dm5nQ0dDLUN0UnJ1LUNJcWZSLS00c1M4cXJCNFRUaGphaU13Wmd4VnI1bWl2aHg?oc=5",
-   "published": "2017-01-11T08:00:00+00:00",
-   "excerpt": "Georgia Tech launches second low-cost online master's degree program Inside Higher Ed",
+   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
+   "published": "2025-02-28T08:00:00+00:00",
+   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
    "author": null,
    "source": "Google News",
-   "id": "6cccadeeb3ff",
+   "id": "11f8714f6e18",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
+   "published": "2025-01-27T08:00:00+00:00",
+   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "3fe0c49fd522",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

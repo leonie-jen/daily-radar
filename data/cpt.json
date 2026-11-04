@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T13:41:37.892728+08:00",
+ "updated_at": "2026-11-04T13:12:04.750607+08:00",
  "sources": [
   {
    "name": "Google News",
@@ -33,15 +33,15 @@
   },
   {
    "name": "Reddit r/f1visa",
-   "ok": true,
-   "count": 25,
-   "note": ""
-  },
-  {
-   "name": "Reddit r/immigration CPT",
    "ok": false,
    "count": 0,
    "note": "沒抓到資料（可能被擋或今天沒新內容）"
+  },
+  {
+   "name": "Reddit r/immigration CPT",
+   "ok": true,
+   "count": 25,
+   "note": ""
   },
   {
    "name": "ICE 新聞稿",
@@ -58,6 +58,150 @@
  ],
  "items": [
   {
+   "title": "DHS Further Restricts International Student Internships - The Scarlet",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbUFyT251UjhCUUFqdXowaS1HV2RwNWtUeVBOek1Xb1FONWJoLTM3RFBPTkNWYmJvV1VCMV9LZHdUMF91Z05zdHphSEw0LXIzSVh0X2VMRi1KUllXN01OWGRQbDcwdkxkblI4ZW1acHVlZWFiSVZsWWJVZ3Bzb083dmY0eHVVSlE5aDB0Unl2UVFoSFdO?oc=5",
+   "published": "2026-10-31T05:04:05+00:00",
+   "excerpt": "DHS Further Restricts International Student Internships The Scarlet",
+   "author": null,
+   "source": "Google News",
+   "id": "4edebc0d1dd6",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-04T13:12:04.750607+08:00"
+  },
+  {
+   "title": "How the Trump administration's crackdown on international students could affect the economy - PBS",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRnRrUnp5Q1FPTmpfdmJFdlprdUVqRWVaQzBtY25mVFFqNU8wWlZoUG5sTXFUV3dPRWRvSDZxRVZQX2IzRDRncEpNdTNqRnljbTFLcklyRjc5MlRqNXo0Y0VOMF9oVWpVeXQ2Yk5EQ21IYlRzeXgzblRqT1NGYzNXRjZzeWxRWFdlUmc5LXpsdjRQM211Qld2MVdKVVQwcXFyOU9XaGgxVHdUNWRlZlU4U1B5QTd0eUtLWTktRnpFeE9yNnNkaXlJ?oc=5",
+   "published": "2026-10-20T07:00:00+00:00",
+   "excerpt": "How the Trump administration's crackdown on international students could affect the economy PBS",
+   "author": null,
+   "source": "Google News",
+   "id": "69ad2c9c9b6a",
+   "policy_signal": true,
+   "relevance": null,
+   "first_seen": "2026-11-04T13:12:04.750607+08:00"
+  },
+  {
+   "title": "F-1 students could face a $70,000 fee to work in the US after graduation - El Cronista",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU3hMSHc5aW51ejQtbXhWM25oTVQxX1lVX09JZVFzS0EzY2xHR1dMaXlUQVcwNDF2VHBhLVBTMjRsVTVFWXZ1RlVtbGEtUnVkbm93VzVvOFBYS1RNR2RFZHF4TWhNWVV0U1lCaV80QWZCVlJDV004cFBVOE45T05hbVQ2YjRLTjFEU2Y3V3B0dGNsMjVpRUQ1Z2JDUXR5SWNjeVZkLW4yTUdGS1FHT0FsZQ?oc=5",
+   "published": "2026-11-03T14:52:14+00:00",
+   "excerpt": "F-1 students could face a $70,000 fee to work in the US after graduation El Cronista",
+   "author": null,
+   "source": "Google News",
+   "id": "bb6fdf24050c",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-04T13:12:04.750607+08:00"
+  },
+  {
+   "title": "Any BSN RNs here who successfully got an H-1B? Need advice!",
+   "url": "https://www.reddit.com/r/immigration/comments/1xnc77b/any_bsn_rns_here_who_successfully_got_an_h1b_need/",
+   "published": "2026-11-04T02:11:31+00:00",
+   "excerpt": "Hi everyone! I'm a BSN-prepared RN working on a cardiac step-down unit in the US. My employer has already filed for my EB-3, but my OPT expires in about 6 months, so I'm trying to figure out my next steps. My employer is H-1B cap-exempt, but I've heard mixed things about whether bedside RNs qualify for H-1B. Some say it's possible, while others say nurses don't qualify because the job isn't considered a specialty occupation. I'm honestly confused and worried about running out of work authorization while waiting for my EB-3. Has anyone here successfully gotten an H-1B as a bedside RN, especially in a hospital or specialty unit? What type of unit did you work on? How did your employer get your",
+   "author": "/u/No_Draft8580",
+   "source": "Reddit r/immigration CPT",
+   "id": "0a50f69dcd37",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-04T13:12:04.750607+08:00"
+  },
+  {
+   "title": "Posting for a friend: F-1 student with STEM OPT pending, arrested for suspected OWI in Michigan, what should he check first?",
+   "url": "https://www.reddit.com/r/immigration/comments/1xn6zxt/posting_for_a_friend_f1_student_with_stem_opt/",
+   "published": "2026-11-03T22:17:16+00:00",
+   "excerpt": "Hi, I am posting this on behalf of a friend. He is an F-1 student in Michigan. His regular OPT ended on July 3, 2026, and he filed his STEM OPT extension on time. It is still pending, and he understands his 180 day work extension should last through December 30, 2026, unless USCIS decides sooner. On October 31, 2026, he was arrested on suspicion of OWI after a traffic stop and released after about one day. He did not take a breath test. Police took a blood sample, but he does not know the result yet. His court case is pending, and he has not been convicted. He is trying to understand: - Could an arrest or a pending OWI case affect his STEM OPT application or his SEVIS record, even with no co",
+   "author": "/u/Neat_Alarm_7220",
+   "source": "Reddit r/immigration CPT",
+   "id": "2077877f17dc",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-04T13:12:04.750607+08:00"
+  },
+  {
+   "title": "Anyone Re-entered the US While Initial OPT Was Pending, Without EAD or Job Offer?",
+   "url": "https://www.reddit.com/r/immigration/comments/1xkzjys/anyone_reentered_the_us_while_initial_opt_was/",
+   "published": "2026-11-01T10:16:20+00:00",
+   "excerpt": "Hi everyone, I graduated from UT Dallas on May 23, 2026, and applied for post-completion OPT. USCIS received my I-765 on July 2, and it is still pending. My F-1 visa is valid, my SEVIS is active, and I have a new I-20 showing OPT pending. However, I don’t have an EAD or a job offer yet. I travelled to India on October 18 because I had a serious wrist fracture from an accident in the US and needed surgery and recovery. I am planning to return on November 23. CBP advised me that travelling while OPT is pending carries risks, particularly if OPT gets approved while I am abroad. They also recommended carrying a job offer, which I currently don’t have. Has anyone been in a similar situation and s",
+   "author": "/u/miths1111",
+   "source": "Reddit r/immigration CPT",
+   "id": "8030d87cba64",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-04T13:12:04.750607+08:00"
+  },
+  {
+   "title": "Title: Can I travel to India while on a 45\\-day notice period after a layoff?",
+   "url": "https://www.reddit.com/r/immigration/comments/1xkt1k6/title_can_i_travel_to_india_while_on_a_45day/",
+   "published": "2026-11-01T03:31:32+00:00",
+   "excerpt": "Hi everyone, I recently got laid off and am currently serving a 45-day notice period. My STEM OPT is valid until June 30, 2027. Can I travel to India for 1–2 weeks during my notice period and return to the US before my last working day? Will I face any issues with my F-1 STEM OPT status or at the US port of entry? Has anyone experienced a similar situation? Any advice would be appreciated. Thanks! submitted by /u/USA_Student_lpv [link] [留言]",
+   "author": "/u/USA_Student_lpv",
+   "source": "Reddit r/immigration CPT",
+   "id": "1395cde40e18",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-04T13:12:04.750607+08:00"
+  },
+  {
+   "title": "ICE Washington, D.C. arrests illegal alien, gang member in Fairfax County, Va.",
+   "url": "https://www.ice.gov/news/releases/ice-washington-dc-arrests-illegal-alien-gang-member-fairfax-county-va",
+   "published": null,
+   "excerpt": "The ICE Washington, D.C. Fugitive Operations Team apprehended Walter Alexander Soto-Rodriguez in Alexandria Oct. 29. Soto-Rodriguez is a documented member of the MS-13 Gangsters Clique.",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "0590b9126c0b",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-04T13:12:04.750607+08:00"
+  },
+  {
+   "title": "ICE Houston deports criminal illegal alien and accused child rapist who was granted conditional permanent resident status by Biden administration",
+   "url": "https://www.ice.gov/news/releases/ice-houston-deports-criminal-illegal-alien-and-accused-child-rapist-who-was-granted",
+   "published": null,
+   "excerpt": "ICE officers removed Christian Ruvalcaba-Salas, a 28-year-old criminal illegal alien and accused child rapist, to his home country of Mexico Oct. 16. He was granted conditional permanent resident status by the Biden administration.",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "715e4b335f8b",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-04T13:12:04.750607+08:00"
+  },
+  {
+   "title": "ICE arrests more than 180 illegal aliens during 5-day operation in Alabama",
+   "url": "https://www.ice.gov/news/releases/ice-arrests-more-180-illegal-aliens-during-5-day-operation-alabama",
+   "published": null,
+   "excerpt": "Many of the aliens arrested have criminal histories that include charges such as aggravated assault, domestic violence, sexual assault, assault on a law enforcement officer, driving under the influence and criminal impersonation.",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "15628a9f3d24",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-04T13:12:04.750607+08:00"
+  },
+  {
+   "title": "2026 Diamondback Correctional Facility, Watonga, OK - Sep. 1-3, 2026",
+   "url": "https://www.ice.gov/node/70481",
+   "published": null,
+   "excerpt": "",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "bfe0b3fc99b3",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-04T13:12:04.750607+08:00"
+  },
+  {
+   "title": "2026 Knox County Detention Facility, Knoxville, TN - Sep. 24, 2026",
+   "url": "https://www.ice.gov/node/70480",
+   "published": null,
+   "excerpt": "",
+   "author": null,
+   "source": "ICE 新聞稿",
+   "id": "997b437b5b08",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-04T13:12:04.750607+08:00"
+  },
+  {
    "title": "Why is Trump cracking down on foreign student internships? - The Indian Express",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdjd2NVcxcFpBUHhaUjEzNWVrd1RqLVdDQko1cWNTRkFJQ2Q2azgwVGlXNG91Mm5yMkYtUkNKc016QmZ6R1VYQl9sTjFaWWtQUlRQM21jWnFPZ2ZPTVpKaUthNU12LS1ZLW5FNHhCM0Y3eERJcnNfU3p1Z0RiMEIzYjA5RDdLem9LdnZaUUI4UEFPV2pWcVhCdjNLQUF6bXp4TkVXeUZrUTNIcGFrd0VMRTdJdWJYeEZaNTNCY3NicnZUTlJydDNGbW9VQTVJUzgxbEJnZtIB2wFBVV95cUxQRlF2eUlWZ293UC1VU3ZKdktoZTJEZDVaa0pCYUU5SmhMN2Rzc01nYVprRVgwS2FOQXlVeWQ4T3hBWnVBT1NKalpwN0V5WnduQjhqcUdQMzZBX2NlWS1yVTJTMmhYZEpSQ2JHZjdXcFlKSC1SX2ZNMjBqbTl2QlJqaHVFZ0sxaWpoUG1iZGFEVEd5NUtzci0wTGxoU3h5SlpJZVhWU3RGTHNxYXoxT3NZVXFfNnUyci1zUjB1X2NlNlRyVHlCVTdPNkNtWFczR25SRmFrS0pZcFJVaGs?oc=5",
    "published": "2026-08-29T07:00:00+00:00",
@@ -67,6 +211,8 @@
    "id": "2aae8994aaf8",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-03T13:41:37.892728+08:00"
   },
   {
@@ -79,6 +225,8 @@
    "id": "c48b47197e4a",
    "policy_signal": true,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-03T13:41:37.892728+08:00"
   },
   {
@@ -388,34 +536,6 @@
    "first_seen": "2026-11-02T12:51:31.777690+08:00"
   },
   {
-   "title": "F1 visa interview for PhD",
-   "url": "https://www.reddit.com/r/f1visa/comments/1xknt52/f1_visa_interview_for_phd/",
-   "published": "2026-10-31T22:58:40+00:00",
-   "excerpt": "Hello, My friend has her F1 visa interview for fully funded PhD in CS security in a few weeks. Can anyone share their interview experience and what are the chances of approval? Thank you!! submitted by /u/alive12121 [link] [留言]",
-   "author": "/u/alive12121",
-   "source": "Reddit r/f1visa",
-   "id": "ec37b490b56f",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-11-01T12:49:32.065021+08:00"
-  },
-  {
-   "title": "Divorced: how to remove F-2 dependent without cancelling my F-1 appointment?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1xkca4g/divorced_how_to_remove_f2_dependent_without/",
-   "published": "2026-10-31T14:54:49+00:00",
-   "excerpt": "Hi all, I’d appreciate advice from anyone who’s been through something similar. Situation I’m going for an F-1 (PhD, Spring 2027). My interview is at the US Embassy in mid-November. I booked a family appointment: me as principal (F-1) and my spouse as dependent (F-2). Both MRV fees are paid. We’re now divorcing, so my ex won’t attend the interview or travel. My school’s international office said I don’t need a new I-20. 1. Removing the F-2 dependent Visa support told me in writing to remove the dependent from my profile, and said it wouldn’t affect my F-1 appointment. But in the “Appointment Manager - Dependents” view, when I click “Cancel Appointment” on her row, the popup says “Are you sur",
-   "author": "/u/_Daisk_",
-   "source": "Reddit r/f1visa",
-   "id": "93c778d7d32f",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-11-01T12:49:32.065021+08:00"
-  },
-  {
    "title": "Illegal alien accused of assaulting NYPD officer released, now on the loose",
    "url": "https://www.ice.gov/news/releases/illegal-alien-accused-assaulting-nypd-officer-released-now-loose",
    "published": null,
@@ -465,6 +585,34 @@
    "author": null,
    "source": "ICE 新聞稿",
    "id": "22b189a9e5ef",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-01T12:49:32.065021+08:00"
+  },
+  {
+   "title": "F1 visa interview for PhD",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xknt52/f1_visa_interview_for_phd/",
+   "published": "2026-10-31T22:58:40+00:00",
+   "excerpt": "Hello, My friend has her F1 visa interview for fully funded PhD in CS security in a few weeks. Can anyone share their interview experience and what are the chances of approval? Thank you!! submitted by /u/alive12121 [link] [留言]",
+   "author": "/u/alive12121",
+   "source": "Reddit r/f1visa",
+   "id": "ec37b490b56f",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-01T12:49:32.065021+08:00"
+  },
+  {
+   "title": "Divorced: how to remove F-2 dependent without cancelling my F-1 appointment?",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xkca4g/divorced_how_to_remove_f2_dependent_without/",
+   "published": "2026-10-31T14:54:49+00:00",
+   "excerpt": "Hi all, I’d appreciate advice from anyone who’s been through something similar. Situation I’m going for an F-1 (PhD, Spring 2027). My interview is at the US Embassy in mid-November. I booked a family appointment: me as principal (F-1) and my spouse as dependent (F-2). Both MRV fees are paid. We’re now divorcing, so my ex won’t attend the interview or travel. My school’s international office said I don’t need a new I-20. 1. Removing the F-2 dependent Visa support told me in writing to remove the dependent from my profile, and said it wouldn’t affect my F-1 appointment. But in the “Appointment Manager - Dependents” view, when I click “Cancel Appointment” on her row, the popup says “Are you sur",
+   "author": "/u/_Daisk_",
+   "source": "Reddit r/f1visa",
+   "id": "93c778d7d32f",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -568,20 +716,6 @@
    "first_seen": "2026-11-01T12:49:32.065021+08:00"
   },
   {
-   "title": "US universities pausing CPT program after new ICE memo: Indian students in a fix - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTWRXd0pJWkVVQmtFTnQyRlJKTGVvLVN2cllQeklsOXd2Ml83UHlxUXFJQnZGMGd0N3ZOb1ZVM2NmSE05LW54NC1KNklrWTBNS1J6VU1yRl92UER6UDVyQzFyazNrWVBfV1RBVFgxWXdxRGhLek9kNm5ubGdRNUdnUG05NkpCWDRyTmR4d3ZnclYwVHhRZzdKRzRoZHl6OUJqcXlpYmdTUWlqTlYtNEswaDBkcVNhZFA3OGFhVW5hRXNDUWtTQl9xbmZqLVdIZkFIMm5TUjB3U2E5SkR0ZWFVdUg0WnHSAeoBQVVfeXFMUEdQZFVWYmJCblJMM0NuSG9JbUJvWkNlSzNibWh3dzgwOFYwcXFhbUx4bVFNYVBuZzduaC16VXBnS25QQUxEMi1HUlBhaUt6R3huaTczN3MyazE0T3M2Tk5uenhpVFQtU1d0d2pHNkZVU0NIakJJbXl0VkZMYTQxa21UQnBMbWttNV9tdlh5a1JIbnFoOEtMc2Nrb0dBUXFnV1ZSY0YxbVg5MG1VbUgzcTRXWVc0VGhpNXhEaUNleU1yM1UwZkcyU2dNNE5tV1p6SnJEaTR2eU1VOENFYTZDZXNZVk8yRHBud1l3?oc=5",
-   "published": "2026-08-25T07:00:00+00:00",
-   "excerpt": "US universities pausing CPT program after new ICE memo: Indian students in a fix The Times of India",
-   "author": null,
-   "source": "Google News",
-   "id": "a03610b59ca0",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-31T12:29:56.525644+08:00"
-  },
-  {
    "title": "US visa crackdown: F-1 visa violations Indian students need to know about under Trump administration - India Today",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNHpscE40UVJEWm9GLUJXSl9VSmtQUkxuUWpoZEc4UEU5bGRxN3JSTDR1M0haWDU2Tk55Vm4yd0pab0sxRHlxUnZvWl8td0gtZXRKd0dfemlaR3RvT3pabXJVbHlVeWZoTnJvV3dlSkpXbG55ajNCdldmdWtfLVVWTzFpYlBjS3pZdjREcGIyNGM3ZlVSZjJ3LXotYXM4SHJrU3NSYXd4Y0praFlDakJxNlExVnB4Y0t3SzBsSFNvMkFoZVBUTFZkUTY5cUIwZjBRYV9QcE1QZzd2TWNVaXh2cVhKMGVnZEk4?oc=5",
    "published": "2026-08-11T07:00:00+00:00",
@@ -590,6 +724,20 @@
    "source": "Google News",
    "id": "7d106a1e8777",
    "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-31T12:29:56.525644+08:00"
+  },
+  {
+   "title": "US universities pausing CPT program after new ICE memo: Indian students in a fix - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTWRXd0pJWkVVQmtFTnQyRlJKTGVvLVN2cllQeklsOXd2Ml83UHlxUXFJQnZGMGd0N3ZOb1ZVM2NmSE05LW54NC1KNklrWTBNS1J6VU1yRl92UER6UDVyQzFyazNrWVBfV1RBVFgxWXdxRGhLek9kNm5ubGdRNUdnUG05NkpCWDRyTmR4d3ZnclYwVHhRZzdKRzRoZHl6OUJqcXlpYmdTUWlqTlYtNEswaDBkcVNhZFA3OGFhVW5hRXNDUWtTQl9xbmZqLVdIZkFIMm5TUjB3U2E5SkR0ZWFVdUg0WnHSAeoBQVVfeXFMUEdQZFVWYmJCblJMM0NuSG9JbUJvWkNlSzNibWh3dzgwOFYwcXFhbUx4bVFNYVBuZzduaC16VXBnS25QQUxEMi1HUlBhaUt6R3huaTczN3MyazE0T3M2Tk5uenhpVFQtU1d0d2pHNkZVU0NIakJJbXl0VkZMYTQxa21UQnBMbWttNV9tdlh5a1JIbnFoOEtMc2Nrb0dBUXFnV1ZSY0YxbVg5MG1VbUgzcTRXWVc0VGhpNXhEaUNleU1yM1UwZkcyU2dNNE5tV1p6SnJEaTR2eU1VOENFYTZDZXNZVk8yRHBud1l3?oc=5",
+   "published": "2026-08-25T07:00:00+00:00",
+   "excerpt": "US universities pausing CPT program after new ICE memo: Indian students in a fix The Times of India",
+   "author": null,
+   "source": "Google News",
+   "id": "a03610b59ca0",
+   "policy_signal": false,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -964,20 +1112,6 @@
    "first_seen": "2026-10-30T12:45:08.186554+08:00"
   },
   {
-   "title": "UMD international graduate students face new internship limits after federal restrictions - The Diamondback",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOVI3elBmRkJBWkhFYzFmV2duVjhYZTNrQi1NdFBnOTFSOVdzS2s4UWN0Y2cyTG9RbkpEOTVmWUdxWFhFMldVNlJoX1BnVVJTWnA0Sm02czUwaFRZcVFGMEx6aW5ic0d2TFpCQWl3bWNZZ0J0WC1QT01xa3hNVFg4RG1EZVVlZy1mcW8xanhFQXlZczhQSzVBMkFTaFBsR3R0?oc=5",
-   "published": "2026-10-29T04:00:00+00:00",
-   "excerpt": "UMD international graduate students face new internship limits after federal restrictions The Diamondback",
-   "author": null,
-   "source": "Google News",
-   "id": "fb5657734814",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-30T12:45:08.186554+08:00"
-  },
-  {
    "title": "OPT RFE from USCIS requesting biometrics due to potentially adverse information",
    "url": "https://www.reddit.com/r/immigration/comments/1xip7iw/opt_rfe_from_uscis_requesting_biometrics_due_to/",
    "published": "2026-10-29T16:45:03+00:00",
@@ -987,6 +1121,8 @@
    "id": "f15c9c914d80",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-30T12:45:08.186554+08:00"
   },
   {
@@ -999,6 +1135,8 @@
    "id": "116b06b6aa85",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-30T12:45:08.186554+08:00"
   },
   {
@@ -1011,6 +1149,22 @@
    "id": "338eaf147158",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-30T12:45:08.186554+08:00"
+  },
+  {
+   "title": "UMD international graduate students face new internship limits after federal restrictions - The Diamondback",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOVI3elBmRkJBWkhFYzFmV2duVjhYZTNrQi1NdFBnOTFSOVdzS2s4UWN0Y2cyTG9RbkpEOTVmWUdxWFhFMldVNlJoX1BnVVJTWnA0Sm02czUwaFRZcVFGMEx6aW5ic0d2TFpCQWl3bWNZZ0J0WC1QT01xa3hNVFg4RG1EZVVlZy1mcW8xanhFQXlZczhQSzVBMkFTaFBsR3R0?oc=5",
+   "published": "2026-10-29T04:00:00+00:00",
+   "excerpt": "UMD international graduate students face new internship limits after federal restrictions The Diamondback",
+   "author": null,
+   "source": "Google News",
+   "id": "fb5657734814",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-10-30T12:45:08.186554+08:00"
   },
   {
@@ -1164,34 +1318,6 @@
    "first_seen": "2026-10-29T12:46:09.499336+08:00"
   },
   {
-   "title": "US CPT Crackdown: Why international students may lose internship options - The Financial Express",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEp1MmhnYlBEdzdwRW1YWDRkXzQ4RFNJVEpEaDZHWmh0OVpSME9DcnZyRHNBR0ctUXdLTF9HR21jeng4bDh3YVdvV1UzQVJ3cXpyYmpncjNwZnBrWHVYamVGR3d6bllqNUVzU1ZIWktYSEJ5ZXYxYkRjMmJNck8wLXpsRGpKSkZSUktEam9fSzg3MDN1THV0alAtQkQydzhsRU12LURhSHhLZUF5QXFvNFJEQVplSGZtbGVvdmJuX3FZTHhVRzFj0gHOAUFVX3lxTE5xcUt1a0JySy1uTWppc2hMM1ZVSmdpNVpjbGs4dkJ6SzYyU1lfWXp0RGEzYWhJVkZFam1ETFhSTjZsMHk0eGNpZXNjdFhvclBOa2VHS3RJMVppVjB0Z3lSNnJtSERna2l2WlRBa1VHZTRyamk0MVZiRGFsU2FmMGhPQjFEd2Q0LXNkbWhaZEVDaHdaNkdfUmRLME9PUUp5S0VFTUFUTlB1VGVGcW5KdWJpUThuOC1pdXpBSnQ3a1lwdnBvYlN3bTBSdElYZ3hn?oc=5",
-   "published": "2026-10-02T07:00:00+00:00",
-   "excerpt": "US CPT Crackdown: Why international students may lose internship options The Financial Express",
-   "author": null,
-   "source": "Google News",
-   "id": "d4dcbee35671",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-28T12:28:10.448065+08:00"
-  },
-  {
-   "title": "DHS Proposes $70,000 Fee for International Students' Training - Legis1",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55SGlqSVRtZFlQOEhyc25MYlQ5QnhtajQtWWtqX3RtLTVLdVJTZE50cDRmRVhYakxLWWNJdlN6bVdsTGI3QXhSdGJucWZFUTBpQkd4NzlIUENWVVZ1OEJOVFVzUHNJTVpHS0dHaS03NW92UXlaaTZ3?oc=5",
-   "published": "2026-10-27T20:27:42+00:00",
-   "excerpt": "DHS Proposes $70,000 Fee for International Students' Training Legis1",
-   "author": null,
-   "source": "Google News",
-   "id": "bffb0d2f9c8f",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-28T12:28:10.448065+08:00"
-  },
-  {
    "title": "Recent India Travel Experience on STEM OPT",
    "url": "https://www.reddit.com/r/immigration/comments/1xg5e2m/recent_india_travel_experience_on_stem_opt/",
    "published": "2026-10-26T18:42:58+00:00",
@@ -1220,6 +1346,34 @@
    "first_seen": "2026-10-28T12:28:10.448065+08:00"
   },
   {
+   "title": "US CPT Crackdown: Why international students may lose internship options - The Financial Express",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEp1MmhnYlBEdzdwRW1YWDRkXzQ4RFNJVEpEaDZHWmh0OVpSME9DcnZyRHNBR0ctUXdLTF9HR21jeng4bDh3YVdvV1UzQVJ3cXpyYmpncjNwZnBrWHVYamVGR3d6bllqNUVzU1ZIWktYSEJ5ZXYxYkRjMmJNck8wLXpsRGpKSkZSUktEam9fSzg3MDN1THV0alAtQkQydzhsRU12LURhSHhLZUF5QXFvNFJEQVplSGZtbGVvdmJuX3FZTHhVRzFj0gHOAUFVX3lxTE5xcUt1a0JySy1uTWppc2hMM1ZVSmdpNVpjbGs4dkJ6SzYyU1lfWXp0RGEzYWhJVkZFam1ETFhSTjZsMHk0eGNpZXNjdFhvclBOa2VHS3RJMVppVjB0Z3lSNnJtSERna2l2WlRBa1VHZTRyamk0MVZiRGFsU2FmMGhPQjFEd2Q0LXNkbWhaZEVDaHdaNkdfUmRLME9PUUp5S0VFTUFUTlB1VGVGcW5KdWJpUThuOC1pdXpBSnQ3a1lwdnBvYlN3bTBSdElYZ3hn?oc=5",
+   "published": "2026-10-02T07:00:00+00:00",
+   "excerpt": "US CPT Crackdown: Why international students may lose internship options The Financial Express",
+   "author": null,
+   "source": "Google News",
+   "id": "d4dcbee35671",
+   "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-28T12:28:10.448065+08:00"
+  },
+  {
+   "title": "DHS Proposes $70,000 Fee for International Students' Training - Legis1",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55SGlqSVRtZFlQOEhyc25MYlQ5QnhtajQtWWtqX3RtLTVLdVJTZE50cDRmRVhYakxLWWNJdlN6bVdsTGI3QXhSdGJucWZFUTBpQkd4NzlIUENWVVZ1OEJOVFVzUHNJTVpHS0dHaS03NW92UXlaaTZ3?oc=5",
+   "published": "2026-10-27T20:27:42+00:00",
+   "excerpt": "DHS Proposes $70,000 Fee for International Students' Training Legis1",
+   "author": null,
+   "source": "Google News",
+   "id": "bffb0d2f9c8f",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-28T12:28:10.448065+08:00"
+  },
+  {
    "title": "International students could see a massive fee increase for OPT work visa - Marketplace.org",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRzBtcFA5OHhVOTFQb2RUMF9mZnJSbUsySldhX09RcEtseDBiOVJfWXRDUkNYMTRNRnVsbU1iTG9nZTlNekFZVnM2aWpkMjRST3g5SWJoS1JGZFlzdHJ1OTNYazBUTmw2YmNnb2FDRDZUXzdjbEJHSm04SDFSakdkY0M3UkJJNGpJTDZFZHZybi1LTnVpNUI4c0poVHA1TTVKX0ZxcWFHVVN1QTZsTTN4SzA1MDZJUQ?oc=5",
    "published": "2026-10-09T07:00:00+00:00",
@@ -1230,6 +1384,20 @@
    "policy_signal": false,
    "relevance": null,
    "first_seen": "2026-10-28T12:28:10.448065+08:00"
+  },
+  {
+   "title": "International students weigh futures in US amid Trump’s visa, immigration crackdown - The GW Hatchet",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX005MjlkajVPcWFOUmdsb08zT1p3T1A4OHRCX2dQQjFKVFB6c3BWVlFXYk9YT3FsN21sZDY4T29xa2pnQ18zcGZ5NWgzalh0MmJuYTR3ZHhtalYxaFJLZTVCcTAzeG5Eb2hDbGlObjFQT0JnZUNUZlVXZVRTZjB1WERDU0ZwNnJpNHoycEZPZGM3b0RoY2JkdEZjcUMtbDN0NFRGVkRPY2xDZ3dTRHRIMkk3VlRldw?oc=5",
+   "published": "2026-10-26T06:51:54+00:00",
+   "excerpt": "International students weigh futures in US amid Trump’s visa, immigration crackdown The GW Hatchet",
+   "author": null,
+   "source": "Google News",
+   "id": "009e0d888116",
+   "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-27T12:03:11.059303+08:00"
   },
   {
    "title": "US CPT crackdown: Why are colleges suing DHS after new ICE rules - The Financial Express",
@@ -1267,20 +1435,6 @@
    "author": null,
    "source": "Google News",
    "id": "9306f2ac0be5",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-27T12:03:11.059303+08:00"
-  },
-  {
-   "title": "International students weigh futures in US amid Trump’s visa, immigration crackdown - The GW Hatchet",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX005MjlkajVPcWFOUmdsb08zT1p3T1A4OHRCX2dQQjFKVFB6c3BWVlFXYk9YT3FsN21sZDY4T29xa2pnQ18zcGZ5NWgzalh0MmJuYTR3ZHhtalYxaFJLZTVCcTAzeG5Eb2hDbGlObjFQT0JnZUNUZlVXZVRTZjB1WERDU0ZwNnJpNHoycEZPZGM3b0RoY2JkdEZjcUMtbDN0NFRGVkRPY2xDZ3dTRHRIMkk3VlRldw?oc=5",
-   "published": "2026-10-26T06:51:54+00:00",
-   "excerpt": "International students weigh futures in US amid Trump’s visa, immigration crackdown The GW Hatchet",
-   "author": null,
-   "source": "Google News",
-   "id": "009e0d888116",
    "policy_signal": true,
    "relevance": null,
    "summary": null,
@@ -1436,6 +1590,20 @@
    "first_seen": "2026-10-26T11:38:31.728874+08:00"
   },
   {
+   "title": "UPDATE: Trump administration proposes $70K fee for international students to work in U.S. - EdSource",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZjg2UURsTDg5b1luTjZqXzFWNWxmaWxOeUFhQnh6T3V2dFU0UktJc282M3drenBUVmpIQVNDemE1T0xNSHJwWTByemZ6RkhacjZ2Q2J2RnNzVGs1YXpSeFpHS0hKWVN0XzFDQU5OLXdKN1NpNHB6dlRVWGNjT1cxd08tMUw0ZWZYcWRHdE9mRkpWb2ZhVF8wUHNraUdqYVZWRWp2Mmo2RW1kSUt5UXZv?oc=5",
+   "published": "2026-10-07T07:00:00+00:00",
+   "excerpt": "UPDATE: Trump administration proposes $70K fee for international students to work in U.S. EdSource",
+   "author": null,
+   "source": "Google News",
+   "id": "fcc7fbd8352b",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-25T11:35:53.948243+08:00"
+  },
+  {
    "title": "Trump administration plans to charge international students $70,000 for work authorization - Reuters",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMlhCa1pMd3dvMl9qSjgtTlpObWgwcFNGcXUxd1RKYV9VTzl2WVFaRXdtZWNfMlE0VnpjM2pGZmlnXzFfX3VZYWJZU1NrU1VZYWpiVnpfVG1FR3NQREIxUHp1Z1EwU2lXdDE4WlFFWi1QXzhub3Z5S3NWeHFwOE9IakxINjk0VG1xT05sMUI3M1lBaGV0VkxVM05PRXZSTmhJcGZ6LXNNWUxwcWFJRmc4V19ac1A5MWNqLUgybQ?oc=5",
    "published": "2026-10-07T07:00:00+00:00",
@@ -1457,20 +1625,6 @@
    "author": null,
    "source": "Google News",
    "id": "14d13d3f50dd",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-25T11:35:53.948243+08:00"
-  },
-  {
-   "title": "UPDATE: Trump administration proposes $70K fee for international students to work in U.S. - EdSource",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZjg2UURsTDg5b1luTjZqXzFWNWxmaWxOeUFhQnh6T3V2dFU0UktJc282M3drenBUVmpIQVNDemE1T0xNSHJwWTByemZ6RkhacjZ2Q2J2RnNzVGs1YXpSeFpHS0hKWVN0XzFDQU5OLXdKN1NpNHB6dlRVWGNjT1cxd08tMUw0ZWZYcWRHdE9mRkpWb2ZhVF8wUHNraUdqYVZWRWp2Mmo2RW1kSUt5UXZv?oc=5",
-   "published": "2026-10-07T07:00:00+00:00",
-   "excerpt": "UPDATE: Trump administration proposes $70K fee for international students to work in U.S. EdSource",
-   "author": null,
-   "source": "Google News",
-   "id": "fcc7fbd8352b",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -1968,6 +2122,48 @@
    "first_seen": "2026-10-24T11:38:12.118886+08:00"
   },
   {
+   "title": "PAUSED due to nationwide injunction: Fixed period of admission & extension of stay - FAQs for students in F-1 status in the U.S. prior to rule effective date - University of Colorado Boulder",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3JnaEd6NEN0ZTBoZkxIeXRDVjNKb3ZPWndkMlBfWVg1bUMwLUEtMHdUS0lJSHVXd0ppY19wby1fM01ZN2N6blZDWFJ2d0dUTG9TT0t1TGZwNFJfVGJUbFZKcHNqRWZIakhNVmtJNFVEUzREa0xqSHdWRGJvWWNkUnI1X2pLUGhORWZmT01fZGY4c0hidUlEOXdJV09mYlN6VTFJTkNTTmV0VGMtN0VJeGlpTjhhazJ1UEx5cFY1T2R6RjQzQlp6Xw?oc=5",
+   "published": "2026-08-31T07:00:00+00:00",
+   "excerpt": "PAUSED due to nationwide injunction: Fixed period of admission & extension of stay - FAQs for students in F-1 status in the U.S. prior to rule effective date University of Colorado Boulder",
+   "author": null,
+   "source": "Google News",
+   "id": "3fc04f803aa9",
+   "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-24T11:38:12.118886+08:00"
+  },
+  {
+   "title": "J1",
+   "url": "https://www.reddit.com/r/immigration/comments/1xdabia/j1/",
+   "published": "2026-10-23T10:27:37+00:00",
+   "excerpt": "Are employers allowed to hire on J1 visa for a full time role? How does that work? Is J1 transfer allowed after opt? submitted by /u/Clean_Match6971 [link] [留言]",
+   "author": "/u/Clean_Match6971",
+   "source": "Reddit r/immigration CPT",
+   "id": "6e23076565d6",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-24T11:38:12.118886+08:00"
+  },
+  {
+   "title": "Should I take a short-term contract job on F-1 OPT if I already have a full-time job starting in March?",
+   "url": "https://www.reddit.com/r/immigration/comments/1xd3wvw/should_i_take_a_shortterm_contract_job_on_f1_opt/",
+   "published": "2026-10-23T04:07:17+00:00",
+   "excerpt": "tl;dr: I’m an international student in the US on post-completion F-1 OPT. I received a short-term contract job paying fair hourly, potentially starting in early November. I’ve already accepted a full-time job starting March of 2027. The contract says I can resign at any time but requests two weeks’ notice. It also has a broad 18-month non-solicitation/non-performance clause. Is it worth taking the contract for a few months, or could it create immigration, legal, or future employment issues? I’m an international student in the US who recently graduated with a Master’s in Computer Science and am currently on post-completion F-1 OPT. I received an offer for a QA Engineer position through a staf",
+   "author": "/u/swedevknowsball",
+   "source": "Reddit r/immigration CPT",
+   "id": "3c7368549a11",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-24T11:38:12.118886+08:00"
+  },
+  {
    "title": "Trump administration proposes a $70,000 fee for international students to work in the U.S. - PBS",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDczRmpkQnAzSnNnQTh1SnJqNlVWbVBfSHJUcFROWklMQzNCRDJPdUllYlVmQVZ6OVJtRFlVRGY3bTQxUmZ1dDhBNmxNM0NOeDdJV0RYWHJpNGRITmVYc3EyeG14N0hWelFiMWFLdVV1QllLZXBWNmRiOGhaWEN4VGk5ZjFiVWg4alZJaEFIM1Y5RTV2Si1vWXFxc0tWMDl6RERRclNqRnZqYWRydVNkRTdESDFQRHpaa2k3ZWJXUWVWbGfSAcgBQVVfeXFMTXpaVS1PRWdEZUxmWUZ4aVBGc0tVeUdNNERFM29xVXB2R0Z1TFVWV0Y0TW9DbWVsV0pTS0U1TWk4Z2l5MDFLWFN2Nm5jOXdjWTkxRkU1TjJiY1c3WGlnY21QWWlmTXQ1cWVlOFl3RG9JbHhFRVVLNzhMbzdBQmFJTGxQSzRuWnVzWjNGaFVFdWxtY2hNZmxrZTNtWEp5RTNBaFRWVWl2V21sYnIyYjlESjhTZVlDckVzVnFBX2ZkUDdWb0w0X1dhZFc?oc=5",
    "published": "2026-10-07T07:00:00+00:00",
@@ -2010,20 +2206,6 @@
    "first_seen": "2026-10-24T11:38:12.118886+08:00"
   },
   {
-   "title": "PAUSED due to nationwide injunction: Fixed period of admission & extension of stay - FAQs for students in F-1 status in the U.S. prior to rule effective date - University of Colorado Boulder",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3JnaEd6NEN0ZTBoZkxIeXRDVjNKb3ZPWndkMlBfWVg1bUMwLUEtMHdUS0lJSHVXd0ppY19wby1fM01ZN2N6blZDWFJ2d0dUTG9TT0t1TGZwNFJfVGJUbFZKcHNqRWZIakhNVmtJNFVEUzREa0xqSHdWRGJvWWNkUnI1X2pLUGhORWZmT01fZGY4c0hidUlEOXdJV09mYlN6VTFJTkNTTmV0VGMtN0VJeGlpTjhhazJ1UEx5cFY1T2R6RjQzQlp6Xw?oc=5",
-   "published": "2026-08-31T07:00:00+00:00",
-   "excerpt": "PAUSED due to nationwide injunction: Fixed period of admission & extension of stay - FAQs for students in F-1 status in the U.S. prior to rule effective date University of Colorado Boulder",
-   "author": null,
-   "source": "Google News",
-   "id": "3fc04f803aa9",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-24T11:38:12.118886+08:00"
-  },
-  {
    "title": "Employment End Date Suddenly Disappeared from Inactive Post-Completion OPT in SEVP Portal — Has Anyone Experienced This?",
    "url": "https://www.reddit.com/r/immigration/comments/1xdpwqb/employment_end_date_suddenly_disappeared_from/",
    "published": "2026-10-23T20:59:25+00:00",
@@ -2032,34 +2214,6 @@
    "source": "Reddit r/immigration CPT",
    "id": "1c73f7907264",
    "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-24T11:38:12.118886+08:00"
-  },
-  {
-   "title": "J1",
-   "url": "https://www.reddit.com/r/immigration/comments/1xdabia/j1/",
-   "published": "2026-10-23T10:27:37+00:00",
-   "excerpt": "Are employers allowed to hire on J1 visa for a full time role? How does that work? Is J1 transfer allowed after opt? submitted by /u/Clean_Match6971 [link] [留言]",
-   "author": "/u/Clean_Match6971",
-   "source": "Reddit r/immigration CPT",
-   "id": "6e23076565d6",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-24T11:38:12.118886+08:00"
-  },
-  {
-   "title": "Should I take a short-term contract job on F-1 OPT if I already have a full-time job starting in March?",
-   "url": "https://www.reddit.com/r/immigration/comments/1xd3wvw/should_i_take_a_shortterm_contract_job_on_f1_opt/",
-   "published": "2026-10-23T04:07:17+00:00",
-   "excerpt": "tl;dr: I’m an international student in the US on post-completion F-1 OPT. I received a short-term contract job paying fair hourly, potentially starting in early November. I’ve already accepted a full-time job starting March of 2027. The contract says I can resign at any time but requests two weeks’ notice. It also has a broad 18-month non-solicitation/non-performance clause. Is it worth taking the contract for a few months, or could it create immigration, legal, or future employment issues? I’m an international student in the US who recently graduated with a Master’s in Computer Science and am currently on post-completion F-1 OPT. I received an offer for a QA Engineer position through a staf",
-   "author": "/u/swedevknowsball",
-   "source": "Reddit r/immigration CPT",
-   "id": "3c7368549a11",
-   "policy_signal": false,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2160,6 +2314,20 @@
    "first_seen": "2026-10-23T11:44:04.724273+08:00"
   },
   {
+   "title": "US government warns universities to limit their authorisation of Curricular Practical Training work placements - ICEF Monitor",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVW5GU3NpbWlCWFN0NEdDdGlpdW15QUNnZEV3dUxMWXhwYXFmbUx5U3ZvbEhyanNpX01zclZQTlplUGpjRnJVZVo3V0U3d04xakU2VVkwaVZxUUwxdXJpRlByTWM3dVpTMXV5ME5zaDdRRWRUWmlHNElYV3pkMndLb1ZmLWc5eEZOb0poejl6ZEp1b3RTa0hmVmxESE1JOHFzc3k4amp0WGpkZTdOQ1FYbnhJdjE5ZWw0Z0EwRTlzRnp2SU9PNC1rZWhYaEZpSERVUGhIVWpybVBsZWt1?oc=5",
+   "published": "2026-09-03T07:00:00+00:00",
+   "excerpt": "US government warns universities to limit their authorisation of Curricular Practical Training work placements ICEF Monitor",
+   "author": null,
+   "source": "Google News",
+   "id": "a78c21e7982d",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-22T11:39:32.977216+08:00"
+  },
+  {
    "title": "USCIS Final Rule Ends 540-Day Automatic EAD Extension for Key Categories - Mintz",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmdHc1hlRFk4SDh3aktDci1CZmxQSnRxaDMyRjNFaWhkRUw5blpQU0hVSF9xNHV5cFljTjU4WE1uNVZaQjhCb0VEWnE2NW1obUNERGp5NlZFOEpkbzIybUNSR0I1N2ZnNUc0Ry1tdFRkNmJZVnRGZkI4clhrTFVfdGJCVzZDUjBuMXAtNlRUM241bE1waTVpMnN0b2dOOW9NMmdabU1JWXJyWV9qa2U0QVphbFZCN3hHQ2c?oc=5",
    "published": "2026-10-15T07:00:00+00:00",
@@ -2223,20 +2391,6 @@
    "author": null,
    "source": "Google News",
    "id": "bf45294c2331",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-22T11:39:32.977216+08:00"
-  },
-  {
-   "title": "US government warns universities to limit their authorisation of Curricular Practical Training work placements - ICEF Monitor",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVW5GU3NpbWlCWFN0NEdDdGlpdW15QUNnZEV3dUxMWXhwYXFmbUx5U3ZvbEhyanNpX01zclZQTlplUGpjRnJVZVo3V0U3d04xakU2VVkwaVZxUUwxdXJpRlByTWM3dVpTMXV5ME5zaDdRRWRUWmlHNElYV3pkMndLb1ZmLWc5eEZOb0poejl6ZEp1b3RTa0hmVmxESE1JOHFzc3k4amp0WGpkZTdOQ1FYbnhJdjE5ZWw0Z0EwRTlzRnp2SU9PNC1rZWhYaEZpSERVUGhIVWpybVBsZWt1?oc=5",
-   "published": "2026-09-03T07:00:00+00:00",
-   "excerpt": "US government warns universities to limit their authorisation of Curricular Practical Training work placements ICEF Monitor",
-   "author": null,
-   "source": "Google News",
-   "id": "a78c21e7982d",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -2604,20 +2758,6 @@
    "first_seen": "2026-10-21T11:40:04.604124+08:00"
   },
   {
-   "title": "Indian Students Could Face $70,000 OPT Fee Under Proposed US Immigration Rule - INDIA New England News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2VlQ000bTZfWHFmZTNfRjZGQlV2N2Y3d1I5ZmgxNTFPdllCV1RaTEstUVp0dHNpczF2ckZXbmUyeHZ5NzZUUjBsbVNIaC10ZGp2VWxTemVVRXhQQTM5YW56Si13TkdVanlESWZqRHFBaER3cXJPdDFiM0Yxd20yazZ3eG54OXpEWHhiQkxmdlZuM0l3OHJVUGc3a2xLSWtXRzlfZkFhVQ?oc=5",
-   "published": "2026-10-31T07:47:10+00:00",
-   "excerpt": "Indian Students Could Face $70,000 OPT Fee Under Proposed US Immigration Rule INDIA New England News",
-   "author": null,
-   "source": "Google News",
-   "id": "120250f7bb30",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-21T11:40:04.604124+08:00"
-  },
-  {
    "title": "I-485 with Pending Misdemeanor for Failure to Obey a Traffic Control Device — Anyone Similar Experience?",
    "url": "https://www.reddit.com/r/immigration/comments/1xaxk7t/i485_with_pending_misdemeanor_for_failure_to_obey/",
    "published": "2026-10-20T16:56:51+00:00",
@@ -2626,6 +2766,20 @@
    "source": "Reddit r/immigration CPT",
    "id": "d4a6cedde9ea",
    "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-21T11:40:04.604124+08:00"
+  },
+  {
+   "title": "Indian Students Could Face $70,000 OPT Fee Under Proposed US Immigration Rule - INDIA New England News",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2VlQ000bTZfWHFmZTNfRjZGQlV2N2Y3d1I5ZmgxNTFPdllCV1RaTEstUVp0dHNpczF2ckZXbmUyeHZ5NzZUUjBsbVNIaC10ZGp2VWxTemVVRXhQQTM5YW56Si13TkdVanlESWZqRHFBaER3cXJPdDFiM0Yxd20yazZ3eG54OXpEWHhiQkxmdlZuM0l3OHJVUGc3a2xLSWtXRzlfZkFhVQ?oc=5",
+   "published": "2026-10-31T07:47:10+00:00",
+   "excerpt": "Indian Students Could Face $70,000 OPT Fee Under Proposed US Immigration Rule INDIA New England News",
+   "author": null,
+   "source": "Google News",
+   "id": "120250f7bb30",
+   "policy_signal": true,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -4564,7 +4718,7 @@
   {
    "title": "DHS Proposes $70,000 Fee for International Student Work Authorization - Chicago Maroon",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZU1lbVhxb2k2Q0pKYmlCSWxDYVFpOTZBbnFKeFRlckMwVmVsTVhLcExPU09TYjFvVk01Vmt0NGdVY2tCMkRDdnFxUDFoWnNHb3RaR2F4OWlkTFhEeHRjaHpYc2F0TC1aMFg2M3l1ZVVOSktITEt5enFPN0w3Zll0ZEtYQkxod24yNHhPdXQtWGUwanB3aGxaQVZIRWh3UDZQYXNnNkxvb0w?oc=5",
-   "published": "2026-10-11T07:00:00+00:00",
+   "published": "2026-10-11T20:33:14+00:00",
    "excerpt": "DHS Proposes $70,000 Fee for International Student Work Authorization Chicago Maroon",
    "author": null,
    "source": "Google News",
@@ -5004,20 +5158,6 @@
    "first_seen": "2026-10-09T12:59:38.349418+08:00"
   },
   {
-   "title": "Trump Administration Proposes $70K Fee for International Students to Work in U.S. - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObERuUGEzYTJwbHNyby1Udjd6V1N1UC02V1Y3UnBQX3AxcjJGWXA5M1RBVS1JVEJ5dVRKaThxWUhvNkZUZ3FONTZlTjJQM2YyeXpIaFZwUVhMT1BiWWlnZjM0dHpucS04TnBMcFhlaVZXa3FSUjNsMkdXYjRvUnhzYV8ydC1wSzQxeDQ1cUNWRTAwQmttZnczS0lvcnlXTmVtYjg4?oc=5",
-   "published": "2026-10-08T07:00:00+00:00",
-   "excerpt": "Trump Administration Proposes $70K Fee for International Students to Work in U.S. Time Magazine",
-   "author": null,
-   "source": "Google News",
-   "id": "c82a46ad071d",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-09T12:59:38.349418+08:00"
-  },
-  {
    "title": "US Proposes $70,000 Fee for International Students Seeking Post-Graduation Work Authorization - INDIA New England News",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2FRblNZYVZhbXhWOTBBcW1icW9BNVV4ZTFpdDJvRzZpcDlFbVJ3dTVTSzBCQzRpS2N0MXptLUNtNlVlNWJsd2xpVVNHVjFJazJ5dl9CUnNpbWZVd0htUnVZUFJQZVRVaWxnN3hqNFJjTjZtd2M0czJDam1kUXdIV202VV9PbzkweU8tX3d1SlJfMFJxMjdiSmVkVGJuTzUwOUhPSDE5NjU3emZHNXVHT0JvYjBHRGNKMi1QNQ?oc=5",
    "published": "2026-10-31T03:29:58+00:00",
@@ -5025,6 +5165,20 @@
    "author": null,
    "source": "Google News",
    "id": "8e4c908ba262",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-09T12:59:38.349418+08:00"
+  },
+  {
+   "title": "Trump Administration Proposes $70K Fee for International Students to Work in U.S. - Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObERuUGEzYTJwbHNyby1Udjd6V1N1UC02V1Y3UnBQX3AxcjJGWXA5M1RBVS1JVEJ5dVRKaThxWUhvNkZUZ3FONTZlTjJQM2YyeXpIaFZwUVhMT1BiWWlnZjM0dHpucS04TnBMcFhlaVZXa3FSUjNsMkdXYjRvUnhzYV8ydC1wSzQxeDQ1cUNWRTAwQmttZnczS0lvcnlXTmVtYjg4?oc=5",
+   "published": "2026-10-08T07:00:00+00:00",
+   "excerpt": "Trump Administration Proposes $70K Fee for International Students to Work in U.S. Time Magazine",
+   "author": null,
+   "source": "Google News",
+   "id": "c82a46ad071d",
    "policy_signal": false,
    "relevance": null,
    "summary": null,
@@ -9409,34 +9563,6 @@
    "author": null,
    "source": "Google News",
    "id": "62189ebd54c2",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-20T11:50:12.192865+08:00"
-  },
-  {
-   "title": "DHS Ends Employment Authorization Auto Extension - International Legal and Business Services Group",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRkZ0YmpFV2hOWTI1ZHBQZ3d4TTRnTHg3SDdtc3RpTElIaXRsSUoxaWVqY0FkX01fNlBqbTJDSE5pTE1oRTNQRTZVRk1OZlhRMWNTUHhHdm5GYTNreUxtWTVvQU1fZ3NGZGQyTEg4VTMxbGh3Q2IxbGQtY0JsellDTFBUcTdQcGNMVWhZX19jODFTZ1E?oc=5",
-   "published": "2025-10-29T07:00:00+00:00",
-   "excerpt": "DHS Ends Employment Authorization Auto Extension International Legal and Business Services Group",
-   "author": null,
-   "source": "Google News",
-   "id": "e791c4e1b66d",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-20T11:50:12.192865+08:00"
-  },
-  {
-   "title": "US tightens checks on foreign student jobs, warns colleges of action - Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQU1RbWVrQWs4eHl1VjgwT2lZWHFEaWRQdzdyMXBBRWhxN0ZHRWp0czBKR0s1aW1US1ZlanA5Wk9tMlZaRlQycW0xbXI5QmR3TlF3RVpCc18yNWpRZjljVUxuVjZUUUhXZC1CRGdLNjE1SWhiNV84OVBtamRHUWVJNWdfc1ZibElid2g2QXp6NXNuYzQxMEZPREpYaDhLVGdSWVhua1RSV2hNV0VKTDdKVHdXTE5KTFhmTXg4eDd3bGdjRGRERkk2S1I2U1R1Z9IB0wFBVV95cUxQMzVJdDRjSmpCQ1NhczdCRFpaOXF6N01sY3F5WWxvSU9iNWdoX2RNd01YVVpLUzB4OVc0WktLMTdKeFF4UVY0QlRJa0RVbDd3Z2ljZWd4WUozSmlySDE5T2hXTkJsRktIcFFCNFBPWHJxeTA5eF9oaG41dlNCSEJKTEtMM0dVY2o4VFB5WUdTSmJGdW02UVJmU0YtdE5WaFBhRXo0SDBhVnR5MkM5VjNuUVRMd2JQUDRzS0QzbUxNV0VqU3NyX29pY3Z2WWdVTnNSWmtr?oc=5",
-   "published": "2026-08-28T07:00:00+00:00",
-   "excerpt": "US tightens checks on foreign student jobs, warns colleges of action Business Standard",
-   "author": null,
-   "source": "Google News",
-   "id": "68cce44990fa",
    "policy_signal": false,
    "relevance": null,
    "summary": null,

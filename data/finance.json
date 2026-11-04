@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T13:41:51.793043+08:00",
+ "updated_at": "2026-11-04T13:12:14.241448+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -16,11 +16,35 @@
   {
    "name": "哈利的投資研究筆記庫",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "note": ""
   }
  ],
  "items": [
+  {
+   "title": "[美股] 2026-11-04 美股盤後報告",
+   "url": "https://harrymemo.com/outputs/us/2026-11-04_US_Market_Dashboard",
+   "published": "2026-11-04",
+   "excerpt": "",
+   "market_section": "us",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "dacaf4a03855",
+   "relevance": null,
+   "first_seen": "2026-11-04T13:12:14.241448+08:00"
+  },
+  {
+   "title": "[台股] 2026-11-03 台股盤後報告",
+   "url": "https://harrymemo.com/outputs/tw/2026-11-03_TW_Market_Dashboard",
+   "published": "2026-11-03",
+   "excerpt": "",
+   "market_section": "tw",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "3982725d9ca5",
+   "relevance": null,
+   "first_seen": "2026-11-04T13:12:14.241448+08:00"
+  },
   {
    "title": "[美股] 2026-11-03 美股盤後報告",
    "url": "https://harrymemo.com/outputs/us/2026-11-03_US_Market_Dashboard",
@@ -31,6 +55,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "467d62667487",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-03T13:41:51.793043+08:00"
   },
   {
@@ -43,6 +69,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "2b921940d104",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-03T13:41:51.793043+08:00"
   },
   {
@@ -999,7 +1027,7 @@
   }
  ],
  "fx": {
-  "usd_twd": 32.731,
+  "usd_twd": 32.837,
   "source": "rter.info",
   "history": [
    {
@@ -1241,10 +1269,14 @@
    {
     "d": "2026-11-03",
     "v": 32.731
+   },
+   {
+    "d": "2026-11-04",
+    "v": 32.837
    }
   ],
-  "change_7d": 0.237,
-  "change_30d": 0.935,
+  "change_7d": 0.407,
+  "change_30d": 1.069,
   "alert_below": 30.5,
   "good_time_to_buy": false,
   "note": "中間價，實際銀行買賣會有價差"
@@ -1253,61 +1285,61 @@
   {
    "symbol": "^TWII",
    "name": "台股加權",
-   "price": 44920.14,
-   "change": -291.69,
-   "change_pct": 0.65,
-   "currency": "TWD",
-   "as_of": "2026-11-02",
-   "market": "TW"
-  },
-  {
-   "symbol": "^GSPC",
-   "name": "S&P 500",
-   "price": 7541.4,
-   "change": -38.67,
-   "change_pct": -0.51,
-   "currency": "USD",
-   "as_of": "2026-11-02",
-   "market": "US"
-  },
-  {
-   "symbol": "^IXIC",
-   "name": "那斯達克",
-   "price": 25164.363,
-   "change": -272.636,
-   "change_pct": -1.07,
-   "currency": "USD",
-   "as_of": "2026-11-02",
-   "market": "US"
-  },
-  {
-   "symbol": "^SOX",
-   "name": "費半",
-   "price": 10328.329,
-   "change": -360.471,
-   "change_pct": -3.37,
-   "currency": "USD",
-   "as_of": "2026-11-02",
-   "market": "US"
-  },
-  {
-   "symbol": "2330.TW",
-   "name": "台積電",
-   "price": 2295.0,
-   "change": -35.0,
-   "change_pct": -1.5,
+   "price": 43307.54,
+   "change": -1612.6,
+   "change_pct": 3.59,
    "currency": "TWD",
    "as_of": "2026-11-03",
    "market": "TW"
   },
   {
+   "symbol": "^GSPC",
+   "name": "S&P 500",
+   "price": 7568.92,
+   "change": 27.52,
+   "change_pct": 0.36,
+   "currency": "USD",
+   "as_of": "2026-11-03",
+   "market": "US"
+  },
+  {
+   "symbol": "^IXIC",
+   "name": "那斯達克",
+   "price": 25372.009,
+   "change": 207.646,
+   "change_pct": 0.83,
+   "currency": "USD",
+   "as_of": "2026-11-03",
+   "market": "US"
+  },
+  {
+   "symbol": "^SOX",
+   "name": "費半",
+   "price": 10600.396,
+   "change": 272.067,
+   "change_pct": 2.63,
+   "currency": "USD",
+   "as_of": "2026-11-03",
+   "market": "US"
+  },
+  {
+   "symbol": "2330.TW",
+   "name": "台積電",
+   "price": null,
+   "change": null,
+   "change_pct": null,
+   "currency": "TWD",
+   "as_of": "2026-11-04",
+   "market": "TW"
+  },
+  {
    "symbol": "NVDA",
    "name": "NVIDIA",
-   "price": 202.06,
-   "change": -2.58,
-   "change_pct": -1.26,
+   "price": 206.69,
+   "change": 4.63,
+   "change_pct": 2.29,
    "currency": "USD",
-   "as_of": "2026-11-02",
+   "as_of": "2026-11-03",
    "market": "US"
   }
  ],

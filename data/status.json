@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-11-04T13:12:16.016979+08:00",
- "duration_sec": 113.5,
+ "updated_at": "2026-11-05T13:32:29.103854+08:00",
+ "duration_sec": 104.3,
  "sections": [
   {
    "key": "omscs",
    "label": "OMSCS 情報",
    "ok": true,
-   "items": 213,
+   "items": 216,
    "sources": [
     {
      "name": "Reddit r/OMSCS",
@@ -16,15 +16,15 @@
     },
     {
      "name": "Reddit r/OMSCS 錄取討論",
-     "ok": false,
-     "count": 0,
-     "note": "沒抓到資料（可能被擋或今天沒新內容）"
-    },
-    {
-     "name": "Reddit r/gradadmissions",
      "ok": true,
      "count": 25,
      "note": ""
+    },
+    {
+     "name": "Reddit r/gradadmissions",
+     "ok": false,
+     "count": 0,
+     "note": "沒抓到資料（可能被擋或今天沒新內容）"
     },
     {
      "name": "Google News",
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 756,
+   "items": 718,
    "sources": [
     {
      "name": "Google News",
@@ -79,7 +79,7 @@
     {
      "name": "Google News",
      "ok": true,
-     "count": 12,
+     "count": 10,
      "note": ""
     },
     {
@@ -108,15 +108,15 @@
     },
     {
      "name": "ICE 新聞稿",
-     "ok": true,
-     "count": 10,
-     "note": ""
+     "ok": false,
+     "count": 0,
+     "note": "沒抓到資料（可能被擋或今天沒新內容）"
     },
     {
      "name": "Study in the States",
-     "ok": true,
-     "count": 10,
-     "note": ""
+     "ok": false,
+     "count": 0,
+     "note": "沒抓到資料（可能被擋或今天沒新內容）"
     }
    ]
   },
@@ -124,31 +124,31 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 938,
+   "items": 958,
    "sources": [
     {
      "name": "104｜自動化測試",
-     "ok": false,
-     "count": 0,
-     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+     "ok": true,
+     "count": 15,
+     "note": ""
     },
     {
      "name": "104｜QA Engineer",
-     "ok": false,
-     "count": 0,
-     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+     "ok": true,
+     "count": 15,
+     "note": ""
     },
     {
      "name": "104｜SDET",
-     "ok": false,
-     "count": 0,
-     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+     "ok": true,
+     "count": 15,
+     "note": ""
     },
     {
      "name": "104｜Playwright",
-     "ok": false,
-     "count": 0,
-     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+     "ok": true,
+     "count": 15,
+     "note": ""
     },
     {
      "name": "LinkedIn 職缺",
@@ -198,7 +198,7 @@
    "key": "finance",
    "label": "匯率與股市",
    "ok": true,
-   "items": 72,
+   "items": 74,
    "sources": [
     {
      "name": "匯率 USD/TWD",
@@ -215,7 +215,7 @@
     {
      "name": "哈利的投資研究筆記庫",
      "ok": true,
-     "count": 5,
+     "count": 8,
      "note": ""
     }
    ]

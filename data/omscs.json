@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T13:11:10.098105+08:00",
+ "updated_at": "2026-11-05T13:31:35.214136+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,15 +9,15 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
-  },
-  {
-   "name": "Reddit r/gradadmissions",
    "ok": true,
    "count": 25,
    "note": ""
+  },
+  {
+   "name": "Reddit r/gradadmissions",
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
    "name": "Google News",
@@ -52,19 +52,57 @@
  ],
  "items": [
   {
-   "title": "Cannot login into Canvas - Getting 2FA Error",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xmj274/cannot_login_into_canvas_getting_2fa_error/",
-   "published": "2026-11-03T04:07:24+00:00",
-   "excerpt": "https://preview.redd.it/go7dz6cxnbzh1.png?width=1043&format=png&auto=webp&s=87ab8448a74cce41b85d8fcda044d829657ba66a Same as body, i tried and i was able to login into Passport but cannot login to canvas. Can anyone help? As its part of MFA Failure Cannot login to 1. Gradescope 2. Outlook 3. Canvas submitted by /u/Cold_Releasee [link] [留言]",
-   "author": "/u/Cold_Releasee",
+   "title": "I just got withdrawn randomly on 31st....",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xo6qv2/i_just_got_withdrawn_randomly_on_31st/",
+   "published": "2026-11-05T02:07:02+00:00",
+   "excerpt": "Anyone know what to do if you just randomly got withdrawn from the course? I barely even touch my course beside doing the actual work so i have no idea how this happened... Yes, my payment was paid. On registration hub, it shows that student initiated a withdrawal. This is quite literally impossible unless there was a system bug. They also already processed my refund today on the payment portal of 41% of original payment... submitted by /u/YungRev [link] [留言]",
+   "author": "/u/YungRev",
    "source": "Reddit r/OMSCS",
-   "id": "846f1b2ff54b",
+   "id": "52799cd4fd78",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-11-03T13:40:43.902212+08:00"
+   "first_seen": "2026-11-05T13:31:35.214136+08:00"
+  },
+  {
+   "title": "Georgia Tech or UT Austin for Online MSCS",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wjoedo/georgia_tech_or_ut_austin_for_online_mscs/",
+   "published": "2026-09-18T12:07:13+00:00",
+   "excerpt": "I recently got accepted to both Georgia Tech’s OMSCS as well as UT Austin’s online CS program. I’m most interested in AI / machine learning but am struggling with a decision as these seem to be the two best programs within this very affordable “class”. Obviously this is the GT sub but any input is greatly appreciated. submitted by /u/RichPresentation8314 [link] [留言]",
+   "author": "/u/RichPresentation8314",
+   "source": "Reddit r/OMSCS 錄取討論",
+   "id": "42e6b87489a8",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted",
+    "decision"
+   ],
+   "relevance": null,
+   "first_seen": "2026-11-05T13:31:35.214136+08:00"
+  },
+  {
+   "title": "Researchers Find Architectural Backdoors in AI Models Are Harder to Exploit in the Real World",
+   "url": "https://omscs.gatech.edu/external-news/researchers-find-architectural-backdoors-ai-models-are-harder-exploit-real-world",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "90597a5f4163",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-05T13:31:35.214136+08:00"
+  },
+  {
+   "title": "Medical AI Harms Mostly Bypass Treating Doctors",
+   "url": "https://omscs.gatech.edu/external-news/medical-ai-harms-mostly-bypass-treating-doctors",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "75358243f6ac",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-05T13:31:35.214136+08:00"
   },
   {
    "title": "CS6750: 1st semester workload experience",
@@ -74,6 +112,21 @@
    "author": "/u/Low_Supermarket1228",
    "source": "Reddit r/OMSCS",
    "id": "13ea73af0ac2",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-03T13:40:43.902212+08:00"
+  },
+  {
+   "title": "Cannot login into Canvas - Getting 2FA Error",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xmj274/cannot_login_into_canvas_getting_2fa_error/",
+   "published": "2026-11-03T04:07:24+00:00",
+   "excerpt": "https://preview.redd.it/go7dz6cxnbzh1.png?width=1043&format=png&auto=webp&s=87ab8448a74cce41b85d8fcda044d829657ba66a Same as body, i tried and i was able to login into Passport but cannot login to canvas. Can anyone help? As its part of MFA Failure Cannot login to 1. Gradescope 2. Outlook 3. Canvas submitted by /u/Cold_Releasee [link] [留言]",
+   "author": "/u/Cold_Releasee",
+   "source": "Reddit r/OMSCS",
+   "id": "846f1b2ff54b",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -561,6 +614,64 @@
    "first_seen": "2026-10-24T11:37:35.792721+08:00"
   },
   {
+   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
+   "published": "2023-04-21T07:00:00+00:00",
+   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "43f2eafe3c1d",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "Research challenges assumptions about online education success - Phys.org",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
+   "published": "2026-08-03T07:00:00+00:00",
+   "excerpt": "Research challenges assumptions about online education success Phys.org",
+   "author": null,
+   "source": "Google News",
+   "id": "3fd446b8a3e2",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
+   "url": "https://omscs.gatech.edu/external-news/where-are-they-now-team-atlanta-takes-ai-cybersecurity-beyond-competition",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "76452fa7004b",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "When a Ship’s Systems Lie, Cybersecurity Gets Complicated",
+   "url": "https://omscs.gatech.edu/external-news/when-ships-systems-lie-cybersecurity-gets-complicated",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "0fdbc2225ff1",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
    "title": "[Profile Review] 3+1 BSMS Student Looking For MS Fall 2027",
    "url": "https://www.reddit.com/r/gradadmissions/comments/1xcpmc9/profile_review_31_bsms_student_looking_for_ms/",
    "published": "2026-10-22T17:51:54+00:00",
@@ -931,64 +1042,6 @@
     "accepted",
     "decision"
    ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
-   "published": "2023-04-21T07:00:00+00:00",
-   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
-   "author": null,
-   "source": "Google News",
-   "id": "43f2eafe3c1d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "Research challenges assumptions about online education success - Phys.org",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
-   "published": "2026-08-03T07:00:00+00:00",
-   "excerpt": "Research challenges assumptions about online education success Phys.org",
-   "author": null,
-   "source": "Google News",
-   "id": "3fd446b8a3e2",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
-   "url": "https://omscs.gatech.edu/external-news/where-are-they-now-team-atlanta-takes-ai-cybersecurity-beyond-competition",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "76452fa7004b",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "When a Ship’s Systems Lie, Cybersecurity Gets Complicated",
-   "url": "https://omscs.gatech.edu/external-news/when-ships-systems-lie-cybersecurity-gets-complicated",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "0fdbc2225ff1",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -1907,20 +1960,6 @@
    "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
-   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "31b0ee4cb5e7",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
    "title": "Postponing enrollment repercussions",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x03oqe/postponing_enrollment_repercussions/",
    "published": "2026-10-07T18:05:57+00:00",
@@ -1933,6 +1972,20 @@
     "accepted",
     "decision"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "31b0ee4cb5e7",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2756,21 +2809,6 @@
    "author": null,
    "source": "Google News",
    "id": "d4e768abfb19",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-21T11:45:40.624371+08:00"
-  },
-  {
-   "title": "Who do you use as a trusted person if you don’t know anyone in OMSCS?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wlah1p/who_do_you_use_as_a_trusted_person_if_you_dont/",
-   "published": "2026-09-20T07:32:03+00:00",
-   "excerpt": "I'm an OMSCS student and I signed up for the program completely on my own. Since it's fully online, I don't really know anyone else in the program personally, and I don't have classmates or friends from Georgia Tech that I could easily ask for help. I'm trying to figure out the account/password recovery setup, and it seems like I'm expected to designate a trusted person who could help me if I ever lose access to my account. But who are you supposed to put there if you literally don't know anyone else in the program? Has anyone else been in this situation? Who did you use as your trusted person, or is there some alternative for students who don't have anyone they know personally at Georgia Te",
-   "author": "/u/Hour_Challenge_7714",
-   "source": "Reddit r/OMSCS",
-   "id": "324392c00e33",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

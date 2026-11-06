@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T13:31:35.214136+08:00",
+ "updated_at": "2026-11-06T13:30:16.832652+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,20 +9,20 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": true,
-   "count": 25,
-   "note": ""
-  },
-  {
-   "name": "Reddit r/gradadmissions",
    "ok": false,
    "count": 0,
    "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
+   "name": "Reddit r/gradadmissions",
+   "ok": true,
+   "count": 25,
+   "note": ""
+  },
+  {
    "name": "Google News",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "note": ""
   },
   {
@@ -52,16 +52,102 @@
  ],
  "items": [
   {
+   "title": "[Profile Review] Working DS applying part-time: GT OMSCS, Cornell Tech part-time MEng, Columbia CVN (Fall 2027)",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1xp21cf/profile_review_working_ds_applying_parttime_gt/",
+   "published": "2026-11-06T02:57:15+00:00",
+   "excerpt": "I'm moving to the NYC area in January and keeping my remote job while I study. Want to move into ML/applied AI roles in NYC in the next few years. Not planning on a PhD right now. Education BS Computer Science + Psychology (behavioral/cognitive neuro), University of Florida, graduated 2026, cum laude GPA: 3.54 No GRE needed Work ~1.5 years as a data scientist at a mid-size healthcare data company (internship that turned into full-time) Stuff like provider outcome modeling, claims analysis, a dedup pipeline that went to production, synthetic data generation Research Undergrad RA in a neuroimaging lab for about a year: built an MRI brain-age prediction pipeline on 10k+ scans, came back this su",
+   "author": "/u/jacobnar",
+   "source": "Reddit r/gradadmissions",
+   "id": "ea81cd4e0a6b",
+   "admission_signal": true,
+   "keyword_hits": [
+    "profile"
+   ],
+   "relevance": null,
+   "first_seen": "2026-11-06T13:30:16.832652+08:00"
+  },
+  {
+   "title": "[Profile Review] Working DS applying part-time: GT OMSCS, Cornell Tech part-time MEng, Columbia CVN (Fall 2027)",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1xoqj1n/profile_review_working_ds_applying_parttime_gt/",
+   "published": "2026-11-05T18:38:17+00:00",
+   "excerpt": "submitted by /u/jacobnar [link] [留言]",
+   "author": "/u/jacobnar",
+   "source": "Reddit r/gradadmissions",
+   "id": "c0cc6f7e09d7",
+   "admission_signal": true,
+   "keyword_hits": [
+    "profile"
+   ],
+   "relevance": null,
+   "first_seen": "2026-11-06T13:30:16.832652+08:00"
+  },
+  {
+   "title": "Preferences? Cornell Tech part-time MEng vs Columbia CVN vs GT OMSCS while working full-time in NYC",
+   "url": "https://www.reddit.com/r/gradadmissions/comments/1xo86sy/preferences_cornell_tech_parttime_meng_vs/",
+   "published": "2026-11-05T03:17:58+00:00",
+   "excerpt": "submitted by /u/jacobnar [link] [留言]",
+   "author": "/u/jacobnar",
+   "source": "Reddit r/gradadmissions",
+   "id": "f421c03d138c",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-06T13:30:16.832652+08:00"
+  },
+  {
+   "title": "Unique Program Offers Campus Research Opportunities for Online Students - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0ZlSlQ5T2JrVjEtYmpGUGtzb1F1SlBIT0trOENndE9PeG9pN2pQNllxLUc5bk1vTzNmSW1GVWFsNl9ZQl92NnEwbGJjNGYyLTJkNjE0NDFnMEE5UlBybTJraXU1cDVlT1VJUEtFaU9WczBXRHZMTWpsRWxHYTlmQmtXNkJrS3NJMy1KUDBZQ0w0aWc5b25LOExxaVZiZEQ5SmFEaXF4N2RyRTQ?oc=5",
+   "published": "2024-04-29T07:00:00+00:00",
+   "excerpt": "Unique Program Offers Campus Research Opportunities for Online Students Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "2ffcf459be25",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-06T13:30:16.832652+08:00"
+  },
+  {
    "title": "I just got withdrawn randomly on 31st....",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xo6qv2/i_just_got_withdrawn_randomly_on_31st/",
    "published": "2026-11-05T02:07:02+00:00",
-   "excerpt": "Anyone know what to do if you just randomly got withdrawn from the course? I barely even touch my course beside doing the actual work so i have no idea how this happened... Yes, my payment was paid. On registration hub, it shows that student initiated a withdrawal. This is quite literally impossible unless there was a system bug. They also already processed my refund today on the payment portal of 41% of original payment... submitted by /u/YungRev [link] [留言]",
+   "excerpt": "UPDATE: They put me back in the course. They found 0 keystroke activity on my account and yet still withdrawn....LOL i guess they got hacked again Anyone know what to do if you just randomly got withdrawn from the course? I barely even touch my course beside doing the actual work so i have no idea how this happened... Yes, my payment was paid. On registration hub, it shows that student initiated a withdrawal. This is quite literally impossible unless there was a system bug. They also already processed my refund today on the payment portal of 41% of original payment... submitted by /u/YungRev [link] [留言]",
    "author": "/u/YungRev",
    "source": "Reddit r/OMSCS",
    "id": "52799cd4fd78",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-05T13:31:35.214136+08:00"
+  },
+  {
+   "title": "Researchers Find Architectural Backdoors in AI Models Are Harder to Exploit in the Real World",
+   "url": "https://omscs.gatech.edu/external-news/researchers-find-architectural-backdoors-ai-models-are-harder-exploit-real-world",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "90597a5f4163",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-05T13:31:35.214136+08:00"
+  },
+  {
+   "title": "Medical AI Harms Mostly Bypass Treating Doctors",
+   "url": "https://omscs.gatech.edu/external-news/medical-ai-harms-mostly-bypass-treating-doctors",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "75358243f6ac",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-05T13:31:35.214136+08:00"
   },
   {
@@ -77,30 +163,6 @@
     "accepted",
     "decision"
    ],
-   "relevance": null,
-   "first_seen": "2026-11-05T13:31:35.214136+08:00"
-  },
-  {
-   "title": "Researchers Find Architectural Backdoors in AI Models Are Harder to Exploit in the Real World",
-   "url": "https://omscs.gatech.edu/external-news/researchers-find-architectural-backdoors-ai-models-are-harder-exploit-real-world",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "90597a5f4163",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "first_seen": "2026-11-05T13:31:35.214136+08:00"
-  },
-  {
-   "title": "Medical AI Harms Mostly Bypass Treating Doctors",
-   "url": "https://omscs.gatech.edu/external-news/medical-ai-harms-mostly-bypass-treating-doctors",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "75358243f6ac",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "first_seen": "2026-11-05T13:31:35.214136+08:00"
   },
@@ -123,7 +185,7 @@
    "title": "Cannot login into Canvas - Getting 2FA Error",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xmj274/cannot_login_into_canvas_getting_2fa_error/",
    "published": "2026-11-03T04:07:24+00:00",
-   "excerpt": "https://preview.redd.it/go7dz6cxnbzh1.png?width=1043&format=png&auto=webp&s=87ab8448a74cce41b85d8fcda044d829657ba66a Same as body, i tried and i was able to login into Passport but cannot login to canvas. Can anyone help? As its part of MFA Failure Cannot login to 1. Gradescope 2. Outlook 3. Canvas submitted by /u/Cold_Releasee [link] [留言]",
+   "excerpt": "https://preview.redd.it/go7dz6cxnbzh1.png?width=1043&format=png&auto=webp&s=87ab8448a74cce41b85d8fcda044d829657ba66a Same as body, i tried and i was able to login into Passport but cannot login to canvas. Can anyone help? As its part of MFA Failure Cannot login to Gradescope Outlook Canvas EDIT: Its resolved now! submitted by /u/Cold_Releasee [link] [留言]",
    "author": "/u/Cold_Releasee",
    "source": "Reddit r/OMSCS",
    "id": "846f1b2ff54b",
@@ -255,6 +317,23 @@
    "first_seen": "2026-10-31T12:29:13.537675+08:00"
   },
   {
+   "title": "HELP - FAANG offer, First Semester, Withdrawal, Readmission",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xjqnvr/help_faang_offer_first_semester_withdrawal/",
+   "published": "2026-10-30T20:36:27+00:00",
+   "excerpt": "I'm in my first semester of ML4T, I enjoy it, but I got a job offer and start November 30th. I feel like the position is closer to what I already did (business/finance), and it wasn't OMSCS that got me this job. But I enjoy OMSCS and want to have an option in the future to maybe work on similar things. I'm only in my first class. Tomorrow is the withdrawal deadline. I don't see myself taking spring or summer classes, so I'd have to get readmission. Just have no idea if withdrawing is better than toughing it out, getting at least a B, and then seeking readmission later. I havea big move coming up so finishing the class will be TOUGH. HELP ! submitted by /u/distant-explosion [link] [留言]",
+   "author": "/u/distant-explosion",
+   "source": "Reddit r/OMSCS",
+   "id": "38e78222d45a",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admission"
+   ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-31T12:29:13.537675+08:00"
+  },
+  {
    "title": "Those who took gios in fall 2025 and spring 2026, what was the grade cutoff for an A",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xjpdb9/those_who_took_gios_in_fall_2025_and_spring_2026/",
    "published": "2026-10-30T19:47:07+00:00",
@@ -279,23 +358,6 @@
    "id": "e94217ab983e",
    "admission_signal": false,
    "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-31T12:29:13.537675+08:00"
-  },
-  {
-   "title": "HELP - FAANG offer, First Semester, Withdrawal, Readmission",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xjqnvr/help_faang_offer_first_semester_withdrawal/",
-   "published": "2026-10-30T20:36:27+00:00",
-   "excerpt": "I'm in my first semester of ML4T, I enjoy it, but I got a job offer and start November 30th. I feel like the position is closer to what I already did (business/finance), and it wasn't OMSCS that got me this job. But I enjoy OMSCS and want to have an option in the future to maybe work on similar things. I'm only in my first class. Tomorrow is the withdrawal deadline. I don't see myself taking spring or summer classes, so I'd have to get readmission. Just have no idea if withdrawing is better than toughing it out, getting at least a B, and then seeking readmission later. I havea big move coming up so finishing the class will be TOUGH. HELP ! submitted by /u/distant-explosion [link] [留言]",
-   "author": "/u/distant-explosion",
-   "source": "Reddit r/OMSCS",
-   "id": "38e78222d45a",
-   "admission_signal": true,
-   "keyword_hits": [
-    "admission"
-   ],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -612,64 +674,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-10-24T11:37:35.792721+08:00"
-  },
-  {
-   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
-   "published": "2023-04-21T07:00:00+00:00",
-   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
-   "author": null,
-   "source": "Google News",
-   "id": "43f2eafe3c1d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "Research challenges assumptions about online education success - Phys.org",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
-   "published": "2026-08-03T07:00:00+00:00",
-   "excerpt": "Research challenges assumptions about online education success Phys.org",
-   "author": null,
-   "source": "Google News",
-   "id": "3fd446b8a3e2",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
-   "url": "https://omscs.gatech.edu/external-news/where-are-they-now-team-atlanta-takes-ai-cybersecurity-beyond-competition",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "76452fa7004b",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "When a Ship’s Systems Lie, Cybersecurity Gets Complicated",
-   "url": "https://omscs.gatech.edu/external-news/when-ships-systems-lie-cybersecurity-gets-complicated",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "0fdbc2225ff1",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
   },
   {
    "title": "[Profile Review] 3+1 BSMS Student Looking For MS Fall 2027",
@@ -1042,6 +1046,64 @@
     "accepted",
     "decision"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
+   "published": "2023-04-21T07:00:00+00:00",
+   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "43f2eafe3c1d",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "Research challenges assumptions about online education success - Phys.org",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
+   "published": "2026-08-03T07:00:00+00:00",
+   "excerpt": "Research challenges assumptions about online education success Phys.org",
+   "author": null,
+   "source": "Google News",
+   "id": "3fd446b8a3e2",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
+   "url": "https://omscs.gatech.edu/external-news/where-are-they-now-team-atlanta-takes-ai-cybersecurity-beyond-competition",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "76452fa7004b",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "When a Ship’s Systems Lie, Cybersecurity Gets Complicated",
+   "url": "https://omscs.gatech.edu/external-news/when-ships-systems-lie-cybersecurity-gets-complicated",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "0fdbc2225ff1",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -1960,6 +2022,20 @@
    "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "31b0ee4cb5e7",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
    "title": "Postponing enrollment repercussions",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x03oqe/postponing_enrollment_repercussions/",
    "published": "2026-10-07T18:05:57+00:00",
@@ -1972,20 +2048,6 @@
     "accepted",
     "decision"
    ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
-   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "31b0ee4cb5e7",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2381,12 +2443,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
-   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
+   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
+   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "0484e7b5e74c",
+   "id": "c9fdb1306c54",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2395,12 +2457,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
-   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
+   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
+   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "c9fdb1306c54",
+   "id": "0484e7b5e74c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2787,21 +2849,6 @@
    "first_seen": "2026-09-23T11:42:11.383407+08:00"
   },
   {
-   "title": "Georgia Tech exam format [general Questions]",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wmgsq4/georgia_tech_exam_format_general_questions/",
-   "published": "2026-09-21T15:56:56+00:00",
-   "excerpt": "Hi everyone, I’m considering applying to Georgia Tech OMSCS and was wondering what the exams are generally like. Are exams usually proctored, or are some honor code? Are they typically open book/open notes, or closed book? Also, are exams usually timed with a fixed window, or do you get a longer window to complete them? Would appreciate any recent experiences, especially from current/recent OMSCS students. Thanks! submitted by /u/devilslayer3 [link] [留言]",
-   "author": "/u/devilslayer3",
-   "source": "Reddit r/OMSCS",
-   "id": "8c28650bb379",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-22T11:45:32.090596+08:00"
-  },
-  {
    "title": "Former Teaching Assistant and Student Embark on OMSCS Journey Together - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2VDUmNlTndDQmoweGltZGF2MGpWTTdYZmNjUHZtQlBrYUN0dUVkYjVrV2poNER1SnJ4czhMUmRhVHVydEdONmExc3VYSUJyZGJYdk54OWlRTFZYTUxGXzZlQUFlVGx3eG85eXpJZmpnbXk4S2ZseTJSMjZfRGVLaTI5aEJlclZTVjN6QV81VnpDazBvd25lamJoenlTcDVBV0kxUnJnWGpJbk0?oc=5",
    "published": "2024-05-07T07:00:00+00:00",
@@ -2865,6 +2912,36 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
+   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
+   "published": "2025-02-28T08:00:00+00:00",
+   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "11f8714f6e18",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
+   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
+   "published": "2025-01-27T08:00:00+00:00",
+   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "3fe0c49fd522",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
    "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
    "published": "2024-08-25T07:00:00+00:00",
@@ -2895,21 +2972,6 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Georgia Tech launches second low-cost online master's degree program - Inside Higher Ed",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmg5WE0weGxEN2doN1o5SEhkeENTSzVzVDVhNlVKRmZVbktBWTZXd2hXaUFUeGhhSTdpQmJYMzlHXzFzMWROVHVJOGh4OEdDY3hwNWFTYVpvZHllbmlmWmJFck1lMGE3VVdaQlFnZnNEQjdZdHYyR0xGTEdxUVZFbGtOTkl6dm5nQ0dDLUN0UnJ1LUNJcWZSLS00c1M4cXJCNFRUaGphaU13Wmd4VnI1bWl2aHg?oc=5",
-   "published": "2017-01-11T08:00:00+00:00",
-   "excerpt": "Georgia Tech launches second low-cost online master's degree program Inside Higher Ed",
-   "author": null,
-   "source": "Google News",
-   "id": "6cccadeeb3ff",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
    "title": "OMSCS (CS7646): Machine Learning for Trading (ML4T) — Review by Shaurya Uppal - DataDrivenInvestor",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGxaNnF2LVVuSTY0Nk1KWmJ6NFZmMDRZTkJlRjVjRDFVTGFXS1Z5c202NUE3eWFEaGtWdVVEQjd6dWF6SzdCRXptNDhxRXdDOUcydEhjbURrSFlEb1VZdnpudG1qN2pDWlduNU85cnVWUmEwYmZUeDh6dUxXYTJVSGptZXJfc3VmNndZbGYzWTI0dHdjVi1ldmhHMDZLdEg3ZmJDaE1oM1Z5aVlXVEdqbmxEeUVSQmpfbUE3MTJB?oc=5",
    "published": "2023-05-03T07:00:00+00:00",
@@ -2925,28 +2987,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
-   "published": "2025-02-28T08:00:00+00:00",
-   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
+   "title": "Georgia Tech launches second low-cost online master's degree program - Inside Higher Ed",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmg5WE0weGxEN2doN1o5SEhkeENTSzVzVDVhNlVKRmZVbktBWTZXd2hXaUFUeGhhSTdpQmJYMzlHXzFzMWROVHVJOGh4OEdDY3hwNWFTYVpvZHllbmlmWmJFck1lMGE3VVdaQlFnZnNEQjdZdHYyR0xGTEdxUVZFbGtOTkl6dm5nQ0dDLUN0UnJ1LUNJcWZSLS00c1M4cXJCNFRUaGphaU13Wmd4VnI1bWl2aHg?oc=5",
+   "published": "2017-01-11T08:00:00+00:00",
+   "excerpt": "Georgia Tech launches second low-cost online master's degree program Inside Higher Ed",
    "author": null,
    "source": "Google News",
-   "id": "11f8714f6e18",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
-   "published": "2025-01-27T08:00:00+00:00",
-   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "3fe0c49fd522",
+   "id": "6cccadeeb3ff",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

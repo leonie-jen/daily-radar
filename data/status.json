@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-11-06T13:32:32.087191+08:00",
- "duration_sec": 180.5,
+ "updated_at": "2026-11-07T12:59:18.116489+08:00",
+ "duration_sec": 111.1,
  "sections": [
   {
    "key": "omscs",
    "label": "OMSCS 情報",
    "ok": true,
-   "items": 219,
+   "items": 218,
    "sources": [
     {
      "name": "Reddit r/OMSCS",
@@ -29,7 +29,7 @@
     {
      "name": "Google News",
      "ok": true,
-     "count": 14,
+     "count": 13,
      "note": ""
     },
     {
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 716,
+   "items": 721,
    "sources": [
     {
      "name": "Google News",
@@ -128,20 +128,20 @@
    "sources": [
     {
      "name": "104｜自動化測試",
-     "ok": false,
-     "count": 0,
-     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+     "ok": true,
+     "count": 15,
+     "note": ""
     },
     {
      "name": "104｜QA Engineer",
-     "ok": false,
-     "count": 0,
-     "note": "沒抓到資料（可能被擋或今天沒新內容）"
+     "ok": true,
+     "count": 15,
+     "note": ""
     },
     {
      "name": "104｜SDET",
      "ok": true,
-     "count": 13,
+     "count": 15,
      "note": ""
     },
     {
@@ -177,7 +177,7 @@
     {
      "name": "Google News 文章",
      "ok": true,
-     "count": 10,
+     "count": 9,
      "note": ""
     },
     {

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T13:30:16.832652+08:00",
+ "updated_at": "2026-11-07T12:58:07.318346+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -22,7 +22,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "note": ""
   },
   {
@@ -52,6 +52,32 @@
  ],
  "items": [
   {
+   "title": "Are you okay? r/OMSCS Mental Health Check-in.",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xpdinv/are_you_okay_romscs_mental_health_checkin/",
+   "published": "2026-11-06T14:01:04+00:00",
+   "excerpt": "You're doing great! Don't sweat the most recent or upcoming project, test, grade, etc. Make sure you give your best shot, and never, ever succumb to cheating. The OSI Police are in full force during this critical period, and you know it, through the Reddit threads that you would occasionally find how onerous these threats could be. You Are Not Alone & You'll Get Through This. Know that you are not alone. We all go through ups and downs and have tests or projects that don't go as planned. Never fear as bright days are ahead of you. Utilize this thread if you're feeling down and or want someone to talk to. We are all in this together and we're here for you and one another. There is a lot more ",
+   "author": "/u/AutoModerator",
+   "source": "Reddit r/OMSCS",
+   "id": "0bd0fe82ccd5",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-07T12:58:07.318346+08:00"
+  },
+  {
+   "title": "Anybody currently doing this program and not employed?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xp5qwt/anybody_currently_doing_this_program_and_not/",
+   "published": "2026-11-06T06:21:02+00:00",
+   "excerpt": "If you are employed outside of software/CS, what are you doing? Full time or part time? submitted by /u/JustAPieceOfMeat385 [link] [留言]",
+   "author": "/u/JustAPieceOfMeat385",
+   "source": "Reddit r/OMSCS",
+   "id": "3d7b0449d3e2",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-07T12:58:07.318346+08:00"
+  },
+  {
    "title": "[Profile Review] Working DS applying part-time: GT OMSCS, Cornell Tech part-time MEng, Columbia CVN (Fall 2027)",
    "url": "https://www.reddit.com/r/gradadmissions/comments/1xp21cf/profile_review_working_ds_applying_parttime_gt/",
    "published": "2026-11-06T02:57:15+00:00",
@@ -64,6 +90,8 @@
     "profile"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-06T13:30:16.832652+08:00"
   },
   {
@@ -79,6 +107,8 @@
     "profile"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-06T13:30:16.832652+08:00"
   },
   {
@@ -92,6 +122,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-06T13:30:16.832652+08:00"
   },
   {
@@ -105,6 +137,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-06T13:30:16.832652+08:00"
   },
   {
@@ -2802,51 +2836,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-24T11:33:44.612900+08:00"
-  },
-  {
-   "title": "Are you okay? r/OMSCS Mental Health Check-in.",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wn8vd6/are_you_okay_romscs_mental_health_checkin/",
-   "published": "2026-09-22T13:01:06+00:00",
-   "excerpt": "You're doing great! Don't sweat the most recent or upcoming project, test, grade, etc. Make sure you give your best shot, and never, ever succumb to cheating. The OSI Police are in full force during this critical period, and you know it, through the Reddit threads that you would occasionally find how onerous these threats could be. You Are Not Alone & You'll Get Through This. Know that you are not alone. We all go through ups and downs and have tests or projects that don't go as planned. Never fear as bright days are ahead of you. Utilize this thread if you're feeling down and or want someone to talk to. We are all in this together and we're here for you and one another. There is a lot more ",
-   "author": "/u/AutoModerator",
-   "source": "Reddit r/OMSCS",
-   "id": "cdbf9bd3c6c5",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-23T11:42:11.383407+08:00"
-  },
-  {
-   "title": "Anyone else feeling burnout? Considering withdrawal",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wmzwhb/anyone_else_feeling_burnout_considering_withdrawal/",
-   "published": "2026-09-22T04:49:18+00:00",
-   "excerpt": "Writing this at 12:30am 🫠 I’m enrolled in ML this semester as my 6th course in the program and the first report is due this Sunday. I’ve picked up the job hunt this semester (as I’m unhappy in my current role, swe in consulting) which has been taking up a lot of my free time and energy, it’s grim out here as I’m sure we’re all aware. I just spent all weekend working on a take home assessment where I had to learn the technicals behind the start up’s products and make recommendations based on certain scenarios, ended up being 7 pages with an architecture diagram included. Now I have to write an 8pg research paper for ML, which I was planning to dedicate this past weekend to before the assessme",
-   "author": "/u/practical_james",
-   "source": "Reddit r/OMSCS",
-   "id": "f9593fd2d963",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-23T11:42:11.383407+08:00"
-  },
-  {
-   "title": "How is the startup scene among OMSCS folks?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wmzuzy/how_is_the_startup_scene_among_omscs_folks/",
-   "published": "2026-09-22T04:47:02+00:00",
-   "excerpt": "I co-founded an investment company while attending OMSCS and it has scaled into a successful but passive investment. However, I have been away from the industry for a few years and the job market has been tough so I have been thinking about starting something to fill my time now that the business is not taking time from me anymore. I am done with both OMSCS and OMSA and have ~ 6 years in the industry. I'm able to spend most of my time on a project if it is something promising. I have experience starting an LLC, and I work with experienced executives and have access to good attorneys, accountants, etc in my current business so I have a lot of resources handy as well. I'm based in the US. If t",
-   "author": "/u/Technical_Sympathy30",
-   "source": "Reddit r/OMSCS",
-   "id": "4c84a4efaaaf",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-23T11:42:11.383407+08:00"
   },
   {
    "title": "Former Teaching Assistant and Student Embark on OMSCS Journey Together - Georgia Tech News Center",

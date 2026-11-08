@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T12:58:07.318346+08:00",
+ "updated_at": "2026-11-08T12:52:14.362820+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -52,6 +52,84 @@
  ],
  "items": [
   {
+   "title": "Advanced Wireless Networks is the ideal OMSCS course",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xqbfue/advanced_wireless_networks_is_the_ideal_omscs/",
+   "published": "2026-11-07T17:11:01+00:00",
+   "excerpt": "First off, I know that this class is an exception given that it's new and being taught by an outside professor, but I hope someone in the administration will see this and take note. The class also hasn't finished yet but these are my thoughts so far: * The professor, Kurose, is excellent. He actually engages with the students and his videos are easy to watch while still being informative. You can tell that he actually enjoys the material as well as teaching, which makes the class a very pleasant experience. * The difficult is totally manageable but probably not a free A. If Computer Networks (another course taught using Prof Kurose's material) is a 1-2/10 in terms of difficulty, this is prob",
+   "author": "/u/ribeye_steak1",
+   "source": "Reddit r/OMSCS",
+   "id": "1e722012a3e1",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-08T12:52:14.362820+08:00"
+  },
+  {
+   "title": "What in NLP course was a waste of time",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xqejk6/what_in_nlp_course_was_a_waste_of_time/",
+   "published": "2026-11-07T19:21:38+00:00",
+   "excerpt": "I'm in NLP right now, from a CS background with a tiny bit ML experience, and honestly the class has taught me TONS. But the field moves so fast that I'm paranoid about how far behind I am. For anyone currently in an NLP class or finished one: what topics felt outdated to you, and what do you wish they'd taught or at least introduced the \"current industrial methods\" instead? Even just one or two things would help. Thanks in advance 🙏 submitted by /u/DistributionWeak9747 [link] [留言]",
+   "author": "/u/DistributionWeak9747",
+   "source": "Reddit r/OMSCS",
+   "id": "142076305753",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-08T12:52:14.362820+08:00"
+  },
+  {
+   "title": "Perspectives Course Required for New Students",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xqcmhw/perspectives_course_required_for_new_students/",
+   "published": "2026-11-07T18:00:58+00:00",
+   "excerpt": "I just completed this training after seeing an email about it being required. I'm all for openness and listening well to others but a required training for it is quite heavy handed. Not to mention the endless free response questions and poorly worded quizzes. If you haven't already taken it, consider this your reminder to do so by December 31st. Godspeed. submitted by /u/Radmansparkz [link] [留言]",
+   "author": "/u/Radmansparkz",
+   "source": "Reddit r/OMSCS",
+   "id": "320c51aecf45",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-08T12:52:14.362820+08:00"
+  },
+  {
+   "title": "Feedback: Course Catalog Website (like omscs.rocks)",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xph6tq/feedback_course_catalog_website_like_omscsrocks/",
+   "published": "2026-11-06T16:30:42+00:00",
+   "excerpt": "Hey folks, Image Preview: https://i.imgur.com/9n8SRsp.png Built out a course catalog website for OMS Programs as I missed the interface & directory resources of the old omscs.rocks Still developing but would love feedback 🙏 Link: https://sghose.me/omscs-course-catalog/ It also has some additional features embedded: course reviews (synced with OMS Hub / Central), 📝 course planner 🗓️ rough academic calendar 📅 course grade distributions 📊 submitted by /u/OMSCSBot463 [link] [留言]",
+   "author": "/u/OMSCSBot463",
+   "source": "Reddit r/OMSCS",
+   "id": "fa5fc8320d86",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-08T12:52:14.362820+08:00"
+  },
+  {
+   "title": "OMSCS academic misconduct: did you accept it or fight it? How did it turn out?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xpd1fb/omscs_academic_misconduct_did_you_accept_it_or/",
+   "published": "2026-11-06T13:39:38+00:00",
+   "excerpt": "I’ve been hearing from a lot of OMSCS students about academic integrity cases lately. It seems like many people just accept the faculty resolution, while others fight it and I only hear from a minority of students. I just wanted to see how it plays out for most students because I don't think their is great information out there. If you’ve been through one: What were you accused of? Did you accept it or fight it? How did it end? Did you have help, or handle it yourself? Even a one-line answer helps. Please don’t include names or identifying details, and if your case is still open, be careful what you post. submitted by /u/astudentslawyer [link] [留言]",
+   "author": "/u/astudentslawyer",
+   "source": "Reddit r/OMSCS",
+   "id": "36e9f57724e5",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-08T12:52:14.362820+08:00"
+  },
+  {
+   "title": "sightseeing suggestions on campus",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xpeui2/sightseeing_suggestions_on_campus/",
+   "published": "2026-11-06T14:58:02+00:00",
+   "excerpt": "Visiting Atlanta for the next week, anything I should check out on campus? submitted by /u/maxchooo [link] [留言]",
+   "author": "/u/maxchooo",
+   "source": "Reddit r/OMSCS",
+   "id": "308469e806de",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-08T12:52:14.362820+08:00"
+  },
+  {
    "title": "Are you okay? r/OMSCS Mental Health Check-in.",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xpdinv/are_you_okay_romscs_mental_health_checkin/",
    "published": "2026-11-06T14:01:04+00:00",
@@ -62,6 +140,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-07T12:58:07.318346+08:00"
   },
   {
@@ -75,6 +155,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-07T12:58:07.318346+08:00"
   },
   {
@@ -428,6 +510,21 @@
    "first_seen": "2026-10-30T12:44:13.847971+08:00"
   },
   {
+   "title": "A Step-by-Step Guide to Applying to Georgia Tech’s OMSCS Program as an Indian Applicant",
+   "url": "https://medium.com/@barvevedant/a-step-by-step-guide-to-applying-to-georgia-techs-omscs-program-as-an-indian-applicant-3912d09aa2e1?source=rss------omscs-5",
+   "published": "2026-10-29T12:52:48+00:00",
+   "excerpt": "Introduction Continue reading on Medium »",
+   "author": "vedantbarve",
+   "source": "Medium #omscs",
+   "id": "b7b6734adc4f",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-30T12:44:13.847971+08:00"
+  },
+  {
    "title": "Should I drop CS6515. Is it worth staying at this point?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xi67my/should_i_drop_cs6515_is_it_worth_staying_at_this/",
    "published": "2026-10-29T01:02:31+00:00",
@@ -458,21 +555,6 @@
    "first_seen": "2026-10-30T12:44:13.847971+08:00"
   },
   {
-   "title": "A Step-by-Step Guide to Applying to Georgia Tech’s OMSCS Program as an Indian Applicant",
-   "url": "https://medium.com/@barvevedant/a-step-by-step-guide-to-applying-to-georgia-techs-omscs-program-as-an-indian-applicant-3912d09aa2e1?source=rss------omscs-5",
-   "published": "2026-10-29T12:52:48+00:00",
-   "excerpt": "Introduction Continue reading on Medium »",
-   "author": "vedantbarve",
-   "source": "Medium #omscs",
-   "id": "b7b6734adc4f",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-30T12:44:13.847971+08:00"
-  },
-  {
    "title": "Not yet enrolled, when can I access my gatech email?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xcv9nx/not_yet_enrolled_when_can_i_access_my_gatech_email/",
    "published": "2026-10-22T21:23:47+00:00",
@@ -486,6 +568,21 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-10-30T12:44:13.847971+08:00"
+  },
+  {
+   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUlJvNDJaQ09BUWh6Q3JaaWE3Z0p3WlYwTnBZNGNtYTVQeFVzYXFtQVlLTHB6T3dPWnIwenRZeS1MQ3ppeDZYcVotdldSMnlPQTU5SFgwS1FJUFhEVlluNUVtLVZnWG9RVExfSEREMTBuZmZ0ZGtLaVF1YnFiaHRkeTFvRWwzR3RibzhiYUhqTGZ5dHdPTTc2NVEzTGw0a293eFVRQURHUjdKVmthN0dPN0lET3duREJr?oc=5",
+   "published": "2025-02-28T08:00:00+00:00",
+   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
+   "author": null,
+   "source": "Google News",
+   "id": "fdaa4f968c53",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-29T12:45:03.990995+08:00"
   },
   {
    "title": "CS 6515: Graduate Algorithms New Format",
@@ -540,21 +637,6 @@
    "author": "/u/uniquesoulfromearth",
    "source": "Reddit r/OMSCS",
    "id": "916b06ef2d60",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-29T12:45:03.990995+08:00"
-  },
-  {
-   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUlJvNDJaQ09BUWh6Q3JaaWE3Z0p3WlYwTnBZNGNtYTVQeFVzYXFtQVlLTHB6T3dPWnIwenRZeS1MQ3ppeDZYcVotdldSMnlPQTU5SFgwS1FJUFhEVlluNUVtLVZnWG9RVExfSEREMTBuZmZ0ZGtLaVF1YnFiaHRkeTFvRWwzR3RibzhiYUhqTGZ5dHdPTTc2NVEzTGw0a293eFVRQURHUjdKVmthN0dPN0lET3duREJr?oc=5",
-   "published": "2025-02-28T08:00:00+00:00",
-   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "fdaa4f968c53",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2791,51 +2873,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
-   "title": "On the Verge of Dropping Out",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wnz508/on_the_verge_of_dropping_out/",
-   "published": "2026-09-23T07:26:17+00:00",
-   "excerpt": "Hey all, OMSCS student here with an ML specialization, 3 classes in. Honestly, I'm split between dropping out of the program or just roughing it out for one more semester (the split is probably ~70% leaning towards just dropping out). For context I've been working a 9-5 at a big tech company for the last 3 years, this program was originally meant be a part time thing I would do to boost my resume. Honestly, its becoming much more than that, I feel like its been eating up so much time in my life I'm not sure what to do. To give quick points for why I want to end my involvement with this program: The course work is soul-draining. Everything is fully automated. I talk to no one in the program o",
-   "author": "/u/secondandmany",
-   "source": "Reddit r/OMSCS",
-   "id": "92ecd571ec89",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-24T11:33:44.612900+08:00"
-  },
-  {
-   "title": "Quantum Computing additions?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wns1ip/quantum_computing_additions/",
-   "published": "2026-09-23T01:20:19+00:00",
-   "excerpt": "Hi all, Third semester student here. I took network science, quantum hardware and now taking quantum computation. Just wondering if there has been any communication in the past about intentions to add any more classes/a degree related to Quantum Computation. I have been loving this quantum sequence and could definitely see myself working in the field. Additionally, I believe there's a quantum CS cluster at Georgia Tech. Does anyone know where/who to contact for potentially joining/contributing to the work there? Apologies if this is well-known information but I haven't seen anything about it since I've been in the program. Thanks! submitted by /u/Indolomnir_ [link] [留言]",
-   "author": "/u/Indolomnir_",
-   "source": "Reddit r/OMSCS",
-   "id": "4092fdf5cb13",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-24T11:33:44.612900+08:00"
-  },
-  {
-   "title": "INTA 6450 Project: Enron vs. NowSecure?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wn9sle/inta_6450_project_enron_vs_nowsecure/",
-   "published": "2026-09-22T13:39:13+00:00",
-   "excerpt": "Hey everyone, I'm taking INTA 6450 (Data Analytics and Security) and trying to decide between the two project tracks. I have a strong programming/Python background, so the technical implementation side isn't a major blocker for me. My goal is to minimize weekly time commitment . I have a full-time job and a very busy schedule outside of class. I have a solid Python/programming background, so the coding itself isn’t an issue. I just want to avoid unexpected scope creep, vague rubrics, or messy troubleshooting through the sem. submitted by /u/PassageAmbitious [link] [留言]",
-   "author": "/u/PassageAmbitious",
-   "source": "Reddit r/OMSCS",
-   "id": "69c0c6d31406",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-24T11:33:44.612900+08:00"
   },
   {
    "title": "Former Teaching Assistant and Student Embark on OMSCS Journey Together - Georgia Tech News Center",

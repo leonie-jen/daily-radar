@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T12:59:16.157861+08:00",
+ "updated_at": "2026-11-08T12:53:21.928516+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -16,7 +16,7 @@
   {
    "name": "哈利的投資研究筆記庫",
    "ok": true,
-   "count": 8,
+   "count": 6,
    "note": ""
   }
  ],
@@ -31,6 +31,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "59f5821fe362",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-07T12:59:16.157861+08:00"
   },
   {
@@ -43,6 +45,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "528f8eaf088b",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-07T12:59:16.157861+08:00"
   },
   {
@@ -1010,48 +1014,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-25T11:51:46.919655+08:00"
-  },
-  {
-   "title": "[美股] 2026/09/24 美股盤後：週三「PMI 再通膨驚嚇 × 10Y 回到 2007 水準 × 創高後首根修正」— 市場在賭…",
-   "url": "https://harrymemo.com/outputs/us/2026-09-24_US_Market_Dashboard",
-   "published": "2026-09-24",
-   "excerpt": "2026/09/24 美股盤後：週三「PMI 再通膨驚嚇 × 10Y 回到 2007 水準 × 創高後首根修正」— 市場在賭…｜哈利的投資研究筆記庫 ← 返回 報告列表 首頁 目錄 🤖 哈利小助理 📈 美股收盤指數 🏛️ 美股市值前十 🔭 技術雷達快覽 📰 產業敘事 🌡️ 產業熱力圖 📈 日漲幅資金主軸 📉 日跌幅資金主軸 📊 週漲跌幅前十 📊 月漲跌幅前十 🔥 產業熱度評等 🔭 短線關注 🔭 中期關注 🎲 情境與宏觀 📅 未來 2 週重點 🇹🇼 台美對照 📉 超跌雷達 📈 200 週突破 US Dashboard 報告：2026/09/24（台北）｜美股收盤：2026/09/23｜查詢：2026-09-24 06:33 台北 本日市場報告 技術線圖專區 🇺🇸 美股深度分析 Dashboard ⚠️ 今日重大事件：美國 9 月 S&P Global Flash PMI 顯示景氣與成本同步偏熱， 10Y 公債收益率升破 5.1%；Micron（ MU ）於美東時間 9/23 盤後公布 FY26 Q4 財報（本報告撰寫時以盤前收盤價為主，盤後數字請以公司新聞稿為準）。 🤖 哈利小助理 · 今日精評 不專業分析師視野 · 統整盤勢與展望 中性 偏防禦、結構選股；資安/存儲持有參考，金融/高 Beta 平台減碼； 2330 台積電 ， 2344 華邦電 STX 略正面 週三「 PMI 再通膨驚嚇 × 10Y 回到 2007 × 創高後首根修正」— 市場在賭 Fed 是否被迫再緊，同時用原物料/必需消費與資安 SaaS 對沖成長股估值殺 總經背景 S&P Global 9 月 Flash PMI 指商業活動創五年最快擴張，但供應鏈壅塞推升售價與能源成本（媒體引述 Chris Williamson 談話）。 10Y ^TNX 約 5.11% 為 2007 ，期貨市場對年底升息路徑再評估。 VIX 15.18 仍低於恐慌區，屬「利率重定價」而非全面 Risk-off，但 Nasdaq 自前日收盤新高回落顯示追價意願降溫。 資金輪動 資金從 XLU （ NEE -3.28% 級）、 XLC （ GOOGL -3.80% 拖累）與利率敏感 XLRE 流出；湧入 XLB / XLE / XLP 的「再通膨/防禦」組合，以及 XLK 內部 **資安/企業軟體**（ OKTA / PANW / CRWD / ZS ）而非整體 Mag7— NVDA -1.47% 、 GOOGL 弱、 MSFT +0.52% 抗跌，屬 **選股式科技** 而非全面多頭。金融 BX / WFC / MS 齊弱，延續殖利率曲線重估下的抽血。 台美連動 10Y 升破 5.1% + PMI 偏熱 → 成長股估值壓力 → NVDA / GOOGL 日弱 → 2330 台積電 、 2454 聯發科 開盤情緒略降溫（非基本面轉空）。 OKTA / PANW / CRWD 資安鏈強 → 企業 IT Capex/資安預算敘事 → 台股純軟體映射有限，** 2330 台積電 / 3661 世芯-KY NVDA Capex 主線**。 STX +5.30% 續強 → 存儲合約價/AI 容量 → 2344 華邦電 、 2408 南亞科 情緒偏暖。 WFC / MS 弱 → 台股金融映射弱，勿 over-read 道瓊 跌幅。 今日統整 劇本是「總經勝過財報」— 前一日 Nasdaq 創高後， PMI 把債市賣壓重新擺到台面上，指數普跌但板塊撕裂：資安與存儲仍在吸金，廣告/平台（ GOOGL ）與 PE（ BX ）",
-   "market_section": "us",
-   "paywalled": false,
-   "source": "哈利的投資研究筆記庫",
-   "id": "0eee11b979fa",
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-24T11:34:57.731901+08:00"
-  },
-  {
-   "title": "[加密貨幣] 2026-09-24 加密貨幣盤後報告",
-   "url": "https://harrymemo.com/outputs/crypto/2026-09-24_CRYPTO_Weekly_Dashboard",
-   "published": "2026-09-24",
-   "excerpt": "",
-   "market_section": "crypto",
-   "paywalled": true,
-   "source": "哈利的投資研究筆記庫",
-   "id": "aeae9ca760db",
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-24T11:34:57.731901+08:00"
-  },
-  {
-   "title": "[台股] 2026-09-23 台股盤後報告",
-   "url": "https://harrymemo.com/outputs/tw/2026-09-23_TW_Market_Dashboard",
-   "published": "2026-09-23",
-   "excerpt": "",
-   "market_section": "tw",
-   "paywalled": true,
-   "source": "哈利的投資研究筆記庫",
-   "id": "af66e30ef432",
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-24T11:34:57.731901+08:00"
   }
  ],
  "fx": {
@@ -1313,10 +1275,14 @@
    {
     "d": "2026-11-07",
     "v": 32.765
+   },
+   {
+    "d": "2026-11-08",
+    "v": 32.765
    }
   ],
   "change_7d": 0.16,
-  "change_30d": 0.854,
+  "change_30d": 0.853,
   "alert_below": 30.5,
   "good_time_to_buy": false,
   "note": "中間價，實際銀行買賣會有價差"
@@ -1339,7 +1305,7 @@
    "change": 23.13,
    "change_pct": 0.31,
    "currency": "USD",
-   "as_of": "2026-11-06T16:37:09.000-0500",
+   "as_of": "2026-11-06",
    "market": "US"
   },
   {
@@ -1349,7 +1315,7 @@
    "change": 264.427,
    "change_pct": 1.09,
    "currency": "USD",
-   "as_of": "2026-11-06T17:15:59.000-0500",
+   "as_of": "2026-11-06",
    "market": "US"
   },
   {
@@ -1359,7 +1325,7 @@
    "change": 379.113,
    "change_pct": 4.21,
    "currency": "USD",
-   "as_of": "2026-11-06T17:15:59.000-0500",
+   "as_of": "2026-11-06",
    "market": "US"
   },
   {
@@ -1379,7 +1345,7 @@
    "change": 5.04,
    "change_pct": 2.78,
    "currency": "USD",
-   "as_of": "2026-11-06T16:00:00.000-0500",
+   "as_of": "2026-11-06",
    "market": "US"
   }
  ],

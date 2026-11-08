@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T12:59:18.115541+08:00",
+ "updated_at": "2026-11-08T12:53:23.500938+08:00",
  "sources": [
   {
    "name": "電子鋼琴 DP200（88 鍵重鎚）",
@@ -293,9 +293,13 @@
     {
      "d": "2026-11-07",
      "v": 13800.0
+    },
+    {
+     "d": "2026-11-08",
+     "v": 13800.0
     }
    ],
-   "checked_at": "2026-11-07T12:59:17.362643+08:00",
+   "checked_at": "2026-11-08T12:53:23.276143+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,
@@ -304,7 +308,7 @@
   {
    "id": "c67f886722b7",
    "title": "Bora BX-20 折疊電鋼琴",
-   "detected_title": "momo購物網 -- Mobile管理訊息",
+   "detected_title": "",
    "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=9442657",
    "source": "www.momoshop.com.tw",
    "currency": "TWD",
@@ -483,7 +487,7 @@
      "v": 3588.0
     }
    ],
-   "checked_at": "2026-11-07T12:59:17.997424+08:00",
+   "checked_at": "2026-11-08T12:53:23.376202+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,
@@ -515,7 +519,7 @@
      "v": 629.0
     }
    ],
-   "checked_at": "2026-11-07T12:59:18.114768+08:00",
+   "checked_at": "2026-11-08T12:53:23.499757+08:00",
    "summary": null,
    "tags": null,
    "relevance": null,

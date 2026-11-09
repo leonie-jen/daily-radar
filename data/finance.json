@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T12:53:21.928516+08:00",
+ "updated_at": "2026-11-09T13:01:18.821990+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -16,11 +16,23 @@
   {
    "name": "哈利的投資研究筆記庫",
    "ok": true,
-   "count": 6,
+   "count": 4,
    "note": ""
   }
  ],
  "items": [
+  {
+   "title": "[加密貨幣] 2026-11-09 加密貨幣盤後報告",
+   "url": "https://harrymemo.com/outputs/crypto/2026-11-09_CRYPTO_Weekly_Dashboard",
+   "published": "2026-11-09",
+   "excerpt": "",
+   "market_section": "crypto",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "622f534a4ddf",
+   "relevance": null,
+   "first_seen": "2026-11-09T13:01:18.821990+08:00"
+  },
   {
    "title": "[美股] 2026-11-07 美股盤後報告",
    "url": "https://harrymemo.com/outputs/us/2026-11-07_US_Market_Dashboard",
@@ -986,38 +998,10 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-26T11:57:17.298790+08:00"
-  },
-  {
-   "title": "[美股] 2026-09-25 美股盤後報告",
-   "url": "https://harrymemo.com/outputs/us/2026-09-25_US_Market_Dashboard",
-   "published": "2026-09-25",
-   "excerpt": "",
-   "market_section": "us",
-   "paywalled": true,
-   "source": "哈利的投資研究筆記庫",
-   "id": "684f7f114c88",
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:51:46.919655+08:00"
-  },
-  {
-   "title": "[台股] 2026-09-24 台股盤後報告",
-   "url": "https://harrymemo.com/outputs/tw/2026-09-24_TW_Market_Dashboard",
-   "published": "2026-09-24",
-   "excerpt": "",
-   "market_section": "tw",
-   "paywalled": true,
-   "source": "哈利的投資研究筆記庫",
-   "id": "a72e3b6a8f6d",
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:51:46.919655+08:00"
   }
  ],
  "fx": {
-  "usd_twd": 32.765,
+  "usd_twd": 32.79,
   "source": "rter.info",
   "history": [
    {
@@ -1279,10 +1263,14 @@
    {
     "d": "2026-11-08",
     "v": 32.765
+   },
+   {
+    "d": "2026-11-09",
+    "v": 32.79
    }
   ],
-  "change_7d": 0.16,
-  "change_30d": 0.853,
+  "change_7d": 0.195,
+  "change_30d": 0.874,
   "alert_below": 30.5,
   "good_time_to_buy": false,
   "note": "中間價，實際銀行買賣會有價差"
@@ -1312,7 +1300,7 @@
    "symbol": "^IXIC",
    "name": "那斯達克",
    "price": 24579.425,
-   "change": 264.427,
+   "change": 264.428,
    "change_pct": 1.09,
    "currency": "USD",
    "as_of": "2026-11-06",
@@ -1331,11 +1319,11 @@
   {
    "symbol": "2330.TW",
    "name": "台積電",
-   "price": 2135.0,
-   "change": -105.0,
-   "change_pct": -4.69,
+   "price": null,
+   "change": null,
+   "change_pct": null,
    "currency": "TWD",
-   "as_of": "2026-11-06",
+   "as_of": "2026-11-09",
    "market": "TW"
   },
   {

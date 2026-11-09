@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T12:52:14.362820+08:00",
+ "updated_at": "2026-11-09T13:00:10.147124+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -52,6 +52,99 @@
  ],
  "items": [
   {
+   "title": "Georgia Tech OMSCS — My Experience So Far: Is It Really Worth It?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xraolr/georgia_tech_omscs_my_experience_so_far_is_it/",
+   "published": "2026-11-08T22:13:16+00:00",
+   "excerpt": "I'm in my first semester of Georgia Tech's OMSCS taking CS 6035, and honestly I have mixed feelings so far. I work fulltime as a software engineer, and balancing work with assignments has been tougher than I expected. Most evenings and weekends go into debugging, figuring out project requirements, and meeting deadlines. I don't mind putting in the hours. I knew OMSCS wouldn't be easy. But sometimes I wonder how much I'm actually learning versus just trying to get assignments done on time. CS 6035 has been particularly frustrating in that regard. I've spent hours troubleshooting things that didn't necessarily help me understand the underlying concepts any better. I still think OMSCS is a grea",
+   "author": "/u/Ok_Relative_529",
+   "source": "Reddit r/OMSCS",
+   "id": "c20ad6b52923",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-09T13:00:10.147124+08:00"
+  },
+  {
+   "title": "Retaking same class 3 time in OMSCS",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xrg235/retaking_same_class_3_time_in_omscs/",
+   "published": "2026-11-09T02:29:55+00:00",
+   "excerpt": "If I get a D, D and get a A next time, can I use that A to replace one of the D? using the grade replacement? Also if my GPA drops under 3.0 because of this I can still take next classe? submitted by /u/Professional_Ball_58 [link] [留言]",
+   "author": "/u/Professional_Ball_58",
+   "source": "Reddit r/OMSCS",
+   "id": "3589dea6ec25",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-09T13:00:10.147124+08:00"
+  },
+  {
+   "title": "OMSCS Prerequisites - Anyone Know If They Need to Be Completed by the Application Deadline?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xrf16k/omscs_prerequisites_anyone_know_if_they_need_to/",
+   "published": "2026-11-09T01:38:28+00:00",
+   "excerpt": "For those who have applied to OMSCS, anyone know if the prerequisites courses need to be completed by the application deadline for the semester you're applying to, or can they still be in progress as long as they're completed before the semester begins? Like can you just give them an expected grade? Would appreciate hearing from anyone who has experience with this! submitted by /u/Head-Investigator540 [link] [留言]",
+   "author": "/u/Head-Investigator540",
+   "source": "Reddit r/OMSCS",
+   "id": "bfcb05f5ed86",
+   "admission_signal": true,
+   "keyword_hits": [
+    "application"
+   ],
+   "relevance": null,
+   "first_seen": "2026-11-09T13:00:10.147124+08:00"
+  },
+  {
+   "title": "Is the GT VPN working ???????",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xr9gf5/is_the_gt_vpn_working/",
+   "published": "2026-11-08T21:19:52+00:00",
+   "excerpt": "Been trying to use the VPN for about a week to apply to a VIP team but it seems to be down for me on both my machines. I'm using the browser VPN and have tried downloading the client from the site but it won't let me. What should I do? submitted by /u/CrazyDog1738 [link] [留言]",
+   "author": "/u/CrazyDog1738",
+   "source": "Reddit r/OMSCS",
+   "id": "a49990d528b5",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-09T13:00:10.147124+08:00"
+  },
+  {
+   "title": "Anyone else having issues with Single Sign On?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xqrg38/anyone_else_having_issues_with_single_sign_on/",
+   "published": "2026-11-08T06:07:51+00:00",
+   "excerpt": "Title; just tried signing into Canvas but I was told \"Invalid credentials.\" Got spooked so I went to Passport, but I was able to log in; very slow though, and it's saying \"Password changing is not currently available. Please try again later.\" Are they doing maintenance or something? Anyone else having issues? EDIT: Just tried Canvas again, it worked with the exact same credentials. Weird submitted by /u/Repulsive-Case-8922 [link] [留言]",
+   "author": "/u/Repulsive-Case-8922",
+   "source": "Reddit r/OMSCS",
+   "id": "3f6f52ac2383",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-09T13:00:10.147124+08:00"
+  },
+  {
+   "title": "OMSCS Graduation Catalog Year? Which one applies for AI Spec?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xqloov/omscs_graduation_catalog_year_which_one_applies/",
+   "published": "2026-11-08T00:50:16+00:00",
+   "excerpt": "I switched to the AI spec this summer, after I saw you don’t need AI/ML. I’ve taken KBAI SDP and was planning on taking AI in my final sem but i’m too burnt out atp and was going to take the robotics course instead. I switched based on those requirements but when I saw the degree works tool, it’s showing I don’t meet the requirement and am missing AI or ML. I started in Fall 2024. I read somewhere that if you change your spec the catalog year / or basically any catalog year, can apply to your requirements for graduation. In fact when i filled out the program of study form for the advisors it followed their new requirements, so I just got kinda worried and confused after seeing degree works a",
+   "author": "/u/vis1onary",
+   "source": "Reddit r/OMSCS",
+   "id": "8bee1ed75d71",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-09T13:00:10.147124+08:00"
+  },
+  {
+   "title": "Any new info we need to look out for Fall Sem",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xqpv8b/any_new_info_we_need_to_look_out_for_fall_sem/",
+   "published": "2026-11-08T04:34:41+00:00",
+   "excerpt": "Hey guys, I got an admit for the fall semester in 2027. I wanted to understand if we need to be looking for any new info? Or activation of email id's? Or any new accesses we might have been given as of now? Thanks! submitted by /u/Old_Intention7499 [link] [留言]",
+   "author": "/u/Old_Intention7499",
+   "source": "Reddit r/OMSCS",
+   "id": "2c570eddfbc9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-09T13:00:10.147124+08:00"
+  },
+  {
    "title": "Advanced Wireless Networks is the ideal OMSCS course",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xqbfue/advanced_wireless_networks_is_the_ideal_omscs/",
    "published": "2026-11-07T17:11:01+00:00",
@@ -62,6 +155,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-08T12:52:14.362820+08:00"
   },
   {
@@ -75,6 +170,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-08T12:52:14.362820+08:00"
   },
   {
@@ -88,6 +185,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-08T12:52:14.362820+08:00"
   },
   {
@@ -101,6 +200,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-08T12:52:14.362820+08:00"
   },
   {
@@ -114,6 +215,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-08T12:52:14.362820+08:00"
   },
   {
@@ -127,22 +230,9 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
-   "first_seen": "2026-11-08T12:52:14.362820+08:00"
-  },
-  {
-   "title": "Are you okay? r/OMSCS Mental Health Check-in.",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xpdinv/are_you_okay_romscs_mental_health_checkin/",
-   "published": "2026-11-06T14:01:04+00:00",
-   "excerpt": "You're doing great! Don't sweat the most recent or upcoming project, test, grade, etc. Make sure you give your best shot, and never, ever succumb to cheating. The OSI Police are in full force during this critical period, and you know it, through the Reddit threads that you would occasionally find how onerous these threats could be. You Are Not Alone & You'll Get Through This. Know that you are not alone. We all go through ups and downs and have tests or projects that don't go as planned. Never fear as bright days are ahead of you. Utilize this thread if you're feeling down and or want someone to talk to. We are all in this together and we're here for you and one another. There is a lot more ",
-   "author": "/u/AutoModerator",
-   "source": "Reddit r/OMSCS",
-   "id": "0bd0fe82ccd5",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
    "summary": null,
    "tags": null,
-   "first_seen": "2026-11-07T12:58:07.318346+08:00"
+   "first_seen": "2026-11-08T12:52:14.362820+08:00"
   },
   {
    "title": "Anybody currently doing this program and not employed?",
@@ -152,6 +242,21 @@
    "author": "/u/JustAPieceOfMeat385",
    "source": "Reddit r/OMSCS",
    "id": "3d7b0449d3e2",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-07T12:58:07.318346+08:00"
+  },
+  {
+   "title": "Are you okay? r/OMSCS Mental Health Check-in.",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xpdinv/are_you_okay_romscs_mental_health_checkin/",
+   "published": "2026-11-06T14:01:04+00:00",
+   "excerpt": "You're doing great! Don't sweat the most recent or upcoming project, test, grade, etc. Make sure you give your best shot, and never, ever succumb to cheating. The OSI Police are in full force during this critical period, and you know it, through the Reddit threads that you would occasionally find how onerous these threats could be. You Are Not Alone & You'll Get Through This. Know that you are not alone. We all go through ups and downs and have tests or projects that don't go as planned. Never fear as bright days are ahead of you. Utilize this thread if you're feeling down and or want someone to talk to. We are all in this together and we're here for you and one another. There is a lot more ",
+   "author": "/u/AutoModerator",
+   "source": "Reddit r/OMSCS",
+   "id": "0bd0fe82ccd5",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -495,13 +600,13 @@
    "first_seen": "2026-10-31T12:29:13.537675+08:00"
   },
   {
-   "title": "Anyone else not finding time after work anymore and its affecting OMSCS?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xibt52/anyone_else_not_finding_time_after_work_anymore/",
-   "published": "2026-10-29T05:52:16+00:00",
-   "excerpt": "Hi, I wanted to share my experience over the past year. My boss found out about AI and since then has been working me like a dog. I’m working 60 hour weeks now and on top of it I have to attend hackathons, give presentations at conferences, evaluate new AI tools, answer calls on a Sunday and work on thanksgiving too. This just started happening to me a year ago. I used to have time after work to actually do my OMSCS course work but now I’m constantly doing work after work just to keep up with the new technology and stay competitive. I worked as a software engineer for 5 years before this year and I never had to work this hard to stay on top of things. I know this program is designed for peop",
-   "author": "/u/Typical_Childhood674",
-   "source": "Reddit r/OMSCS",
-   "id": "ea09279d4a77",
+   "title": "A Step-by-Step Guide to Applying to Georgia Tech’s OMSCS Program as an Indian Applicant",
+   "url": "https://medium.com/@barvevedant/a-step-by-step-guide-to-applying-to-georgia-techs-omscs-program-as-an-indian-applicant-3912d09aa2e1?source=rss------omscs-5",
+   "published": "2026-10-29T12:52:48+00:00",
+   "excerpt": "Introduction Continue reading on Medium »",
+   "author": "vedantbarve",
+   "source": "Medium #omscs",
+   "id": "b7b6734adc4f",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -510,13 +615,13 @@
    "first_seen": "2026-10-30T12:44:13.847971+08:00"
   },
   {
-   "title": "A Step-by-Step Guide to Applying to Georgia Tech’s OMSCS Program as an Indian Applicant",
-   "url": "https://medium.com/@barvevedant/a-step-by-step-guide-to-applying-to-georgia-techs-omscs-program-as-an-indian-applicant-3912d09aa2e1?source=rss------omscs-5",
-   "published": "2026-10-29T12:52:48+00:00",
-   "excerpt": "Introduction Continue reading on Medium »",
-   "author": "vedantbarve",
-   "source": "Medium #omscs",
-   "id": "b7b6734adc4f",
+   "title": "Anyone else not finding time after work anymore and its affecting OMSCS?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xibt52/anyone_else_not_finding_time_after_work_anymore/",
+   "published": "2026-10-29T05:52:16+00:00",
+   "excerpt": "Hi, I wanted to share my experience over the past year. My boss found out about AI and since then has been working me like a dog. I’m working 60 hour weeks now and on top of it I have to attend hackathons, give presentations at conferences, evaluate new AI tools, answer calls on a Sunday and work on thanksgiving too. This just started happening to me a year ago. I used to have time after work to actually do my OMSCS course work but now I’m constantly doing work after work just to keep up with the new technology and stay competitive. I worked as a software engineer for 5 years before this year and I never had to work this hard to stay on top of things. I know this program is designed for peop",
+   "author": "/u/Typical_Childhood674",
+   "source": "Reddit r/OMSCS",
+   "id": "ea09279d4a77",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2781,98 +2886,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-26T11:56:08.785653+08:00"
-  },
-  {
-   "title": "OMSCS vs in-person masters Similarity",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
-   "published": "2026-09-24T15:35:17+00:00",
-   "excerpt": "Hi!! I wanted to ask whether the course content and academic rigor of Georgia Tech’s OMSCS are generally the same as the in-person MSCS, or whether the online courses are more condensed. Also, how is the OMSCS viewed when applying to PhD programs? Does it carry similar academic weight to the in-person MSCS, particularly for PhD admissions in Computer Science? submitted by /u/dothisnightwing [link] [留言]",
-   "author": "/u/dothisnightwing",
-   "source": "Reddit r/OMSCS 錄取討論",
-   "id": "31f67e101c48",
-   "admission_signal": true,
-   "keyword_hits": [
-    "admission"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
-   "title": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0dJZ3dVVVNOU1ZPandFX0MyX2Fhc3RHMUNZQWF2UE5DeWd6SU5JNzBGOVpnWjZTUFZUUDFNeVZteHI1TlJiaDRrM1kwN3Z6aDl4SjVzRVVjMGNGR2FsYXFBd1U3S3djQ1IyZjRtLTZLVVNPeG1iUTFsbXBHZExfcGx6TUx3U2p5Vm1GVXFncHhERk5sZGZya3NiTlhiUjBBVDktaDFiRENId2tkbHZ4REl1c0Q?oc=5",
-   "published": "2025-04-24T07:00:00+00:00",
-   "excerpt": "Professor's CNBC Course Highlights College’s Leadership in Expanding AI Literacy Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "b46a54226e93",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
-   "title": "I'm a terrible SWE and I drown in coursework, how can I get better in this degree?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wpb8v2/im_a_terrible_swe_and_i_drown_in_coursework_how/",
-   "published": "2026-09-24T19:32:35+00:00",
-   "excerpt": "EDIT: It's a bit long, please don't downvote unless it super upsets you I hid nothing and was honest, as I got stuck and I really need help. I'm wondering if I'm cut out for this. So far throwing additional work hours isn't helping. Thank you :) Context & Current Role Basically the title. I get commended at work frequently, but I know the truth. We are although a known company, still a consultancy, and engineering from first principles is not really our forte, something that this degree asks for in spades. And something I want to master. I've dabbled in Data Analysis, Data Engineering, Machine Learning, Backend, Cloud and DevOps stuff. Learning Journey & Current difficulties For my first yea",
-   "author": "/u/SemperPistos",
-   "source": "Reddit r/OMSCS",
-   "id": "227dfdbb8b85",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
-   "title": "is CS6795 \"100 hour\" term project requirement \"easy\" to reach?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wpgq3j/is_cs6795_100_hour_term_project_requirement_easy/",
-   "published": "2026-09-24T23:18:09+00:00",
-   "excerpt": "Not asking to be lazy, but a genuine question. For some classes it's easy to rack up hours getting lost in solving a problem. The open-ended nature of Intro to Cog. Sci.'s research project makes the 100 hour requirement seem daunting as someone who generally operates well within structure. If anyone else has taken the class, how \"easy\" did you find it to reach the 100 hours? If I'm doing the literature review I could see myself taking several hours to get through each research paper...but seeing the final submission examples only being 5-6 pages makes it seem like I'd theoretically finish well under 100 hours. Are people padding their hours or am I just underestimating how much time this cou",
-   "author": "/u/american_hybrid",
-   "source": "Reddit r/OMSCS",
-   "id": "354f4d4623c2",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
-   "title": "Is using AI really that frowned upon?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wp8pld/is_using_ai_really_that_frowned_upon/",
-   "published": "2026-09-24T17:57:11+00:00",
-   "excerpt": "I’ll be honest, I’m not the smartest student out there, but I’m genuinely curious and I know how to put in the work. I also have work and personal commitments, so I use AI a lot to summarize readings, explain concepts, help me study, and make my workflow more efficient. I would never have AI do an assignment or project for me and pass it off as my own work. To me, AI should add to your learning, not replace it. Would I probably learn more if I struggled through every reading, quiz, problem set, and project completely on my own until I had that eureka moment? Probably. But realistically, I don’t always have the bandwidth for that. I’d rather understand 60–70% of the material with some help fr",
-   "author": "/u/SnooConfections1353",
-   "source": "Reddit r/OMSCS",
-   "id": "35fee1326b54",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
-  },
-  {
-   "title": "CS 6601: Need advice after academic integrity warning on an intro assignment",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1worfl0/cs_6601_need_advice_after_academic_integrity/",
-   "published": "2026-09-24T03:58:50+00:00",
-   "excerpt": "Hi everyone, I’m looking for some advice about an academic integrity situation. For Assignment 0, which was mainly an introductory assignment to familiarize us with the IDE, I received a warning because I had pasted some external code into the assignment environment. The teaching staff said they would not pursue the case because A0 was only an introduction assignment. The problem is that I had already submitted Assignment 1 before receiving this warning. In A1, I had some similar behavior as well, and now I’m very worried that it could lead to a more serious academic integrity case. Has anyone been in a similar situation, and what would typically be the worst-case consequence for this? I’m m",
-   "author": "/u/Dependent_Injury2608",
-   "source": "Reddit r/OMSCS",
-   "id": "0af02cedc149",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-25T11:50:36.805435+08:00"
   },
   {
    "title": "Former Teaching Assistant and Student Embark on OMSCS Journey Together - Georgia Tech News Center",

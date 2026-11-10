@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T13:00:10.147124+08:00",
+ "updated_at": "2026-11-10T14:17:35.247552+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,15 +9,15 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
-  },
-  {
-   "name": "Reddit r/gradadmissions",
    "ok": true,
    "count": 25,
    "note": ""
+  },
+  {
+   "name": "Reddit r/gradadmissions",
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
    "name": "Google News",
@@ -28,7 +28,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "note": ""
   },
   {
@@ -52,6 +52,86 @@
  ],
  "items": [
   {
+   "title": "Coping with losing my 4.0 after NLP",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xrwb6v/coping_with_losing_my_40_after_nlp/",
+   "published": "2026-11-09T16:31:50+00:00",
+   "excerpt": "This is my 9th class and so far I’ve been able to achieve a 4.0. After NLP, it’s looking very unlikely. I’ll likely hover right at the border (89.xx) and fall just short. It sucks because I’ve put in so much effort into this class that feels like it’ll never end. I’ve aced the HW assignments so far but it’s those single-attempt honorlock quizzes and the midterm that dragged me down. So I’ll likely lose my perfect streak I was hoping to maintain and be proud of after completing this degree. I know this sounds dumb, I know B’s get degrees, and I know worse things have happened to people haha. But I just can’t help but feel sad and like I failed. My undergrad wasn’t in CS, so this degree was my",
+   "author": "/u/SquidwardzTikiLand",
+   "source": "Reddit r/OMSCS",
+   "id": "462b5caa78df",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-10T14:17:35.247552+08:00"
+  },
+  {
+   "title": "Can I drop out of the program and re-enroll later?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xs3kvh/can_i_drop_out_of_the_program_and_reenroll_later/",
+   "published": "2026-11-09T20:59:34+00:00",
+   "excerpt": "Basically, I‘m taking HCI as my first class, and because of some poor work habits I’m trying to correct, I started workinf on the Individual Project too late and was unable to finish it and submitted something barely done. I’m now fighting to just get a B, and I’m not super confident I will. I’m thinking about how I need two B’s in foundational courses in the first 12 months to stay in the program. The thing is, if I don’t get a B in this class, I won’t be able to make up for it by taking two classes in one semester due to my job’s workload. So I’m wondering, worst-case, if I get a C, can I still re-enroll or somehow try again for OMSCS in the future without needing to fulfill the foundation",
+   "author": "/u/Hawexp",
+   "source": "Reddit r/OMSCS",
+   "id": "4fbb45cb4982",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-10T14:17:35.247552+08:00"
+  },
+  {
+   "title": "Deep Learning CS-7643 Quizzes",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xrqxvl/deep_learning_cs7643_quizzes/",
+   "published": "2026-11-09T12:55:16+00:00",
+   "excerpt": "The questions in the quizzes are strange, and I think they are intended to trick the student. I won’t go into details, but some of the questions ask for answers that, in machine learning, would require experimentation before you could draw a certain conclusion. For example, you can’t simply ask a student to tell you why using the Adam optimizer is better than RMSProp. Much of machine learning is based on trial and experimentation. Experimental results may give you a strong opinion about certain combinations of methods, but even then, you still cannot always make a definitive conclusion. The example question I mentioned here is not an actual quiz question; I only used it to explain my thought",
+   "author": "/u/Sea-Adhesiveness1656",
+   "source": "Reddit r/OMSCS",
+   "id": "b7ced79dcb29",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-10T14:17:35.247552+08:00"
+  },
+  {
+   "title": "CS 6291: Embedded Systems - Do you need to purchase equipment?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xrjw9y/cs_6291_embedded_systems_do_you_need_to_purchase/",
+   "published": "2026-11-09T05:56:09+00:00",
+   "excerpt": "Do you have to purchase some kind of kit like an Arduino (or some other piece of hardware)? If so, what is it? submitted by /u/JustAPieceOfMeat385 [link] [留言]",
+   "author": "/u/JustAPieceOfMeat385",
+   "source": "Reddit r/OMSCS",
+   "id": "98aec0dd5554",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-10T14:17:35.247552+08:00"
+  },
+  {
+   "title": "Unpopular opinion: OMSCS is mostly outdated",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xrl84a/unpopular_opinion_omscs_is_mostly_outdated/",
+   "published": "2026-11-09T07:15:25+00:00",
+   "excerpt": "For some background, I have 15+ years of experience working across IT, software engineering, systems architecture, product, and applied AI, and more recently, machine learning, engineering mgmt, etc. I know this is a very polarizing topic, and I understand where people on different sides are coming from. But I’m personally in the camp that believes AI will eventually automate 90% of lower- to mid-level knowledge work. Now, whether that’s a good or bad thing for humanity is a completely separate discussion. But from an economic perspective, it’s hard to fight the value proposition of AI doing work a thousand times faster than manual coding, math, analysis, etc. even if the output falls short ",
+   "author": "/u/SnooConfections1353",
+   "source": "Reddit r/OMSCS",
+   "id": "91a6f6438de2",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-10T14:17:35.247552+08:00"
+  },
+  {
+   "title": "OMSCS vs in-person masters Similarity",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wp4wyg/omscs_vs_inperson_masters_similarity/",
+   "published": "2026-09-24T15:35:17+00:00",
+   "excerpt": "Hi!! I wanted to ask whether the course content and academic rigor of Georgia Tech’s OMSCS are generally the same as the in-person MSCS, or whether the online courses are more condensed. Also, how is the OMSCS viewed when applying to PhD programs? Does it carry similar academic weight to the in-person MSCS, particularly for PhD admissions in Computer Science? submitted by /u/dothisnightwing [link] [留言]",
+   "author": "/u/dothisnightwing",
+   "source": "Reddit r/OMSCS 錄取討論",
+   "id": "31f67e101c48",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admission"
+   ],
+   "relevance": null,
+   "first_seen": "2026-11-10T14:17:35.247552+08:00"
+  },
+  {
    "title": "Georgia Tech OMSCS — My Experience So Far: Is It Really Worth It?",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xraolr/georgia_tech_omscs_my_experience_so_far_is_it/",
    "published": "2026-11-08T22:13:16+00:00",
@@ -62,6 +142,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-09T13:00:10.147124+08:00"
   },
   {
@@ -75,6 +157,68 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-09T13:00:10.147124+08:00"
+  },
+  {
+   "title": "Is the GT VPN working ???????",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xr9gf5/is_the_gt_vpn_working/",
+   "published": "2026-11-08T21:19:52+00:00",
+   "excerpt": "Been trying to use the VPN for about a week to apply to a VIP team but it seems to be down for me on both my machines. I'm using the browser VPN and have tried downloading the client from the site but it won't let me. What should I do? submitted by /u/CrazyDog1738 [link] [留言]",
+   "author": "/u/CrazyDog1738",
+   "source": "Reddit r/OMSCS",
+   "id": "a49990d528b5",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-09T13:00:10.147124+08:00"
+  },
+  {
+   "title": "Anyone else having issues with Single Sign On?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xqrg38/anyone_else_having_issues_with_single_sign_on/",
+   "published": "2026-11-08T06:07:51+00:00",
+   "excerpt": "Title; just tried signing into Canvas but I was told \"Invalid credentials.\" Got spooked so I went to Passport, but I was able to log in; very slow though, and it's saying \"Password changing is not currently available. Please try again later.\" Are they doing maintenance or something? Anyone else having issues? EDIT: Just tried Canvas again, it worked with the exact same credentials. Weird submitted by /u/Repulsive-Case-8922 [link] [留言]",
+   "author": "/u/Repulsive-Case-8922",
+   "source": "Reddit r/OMSCS",
+   "id": "3f6f52ac2383",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-09T13:00:10.147124+08:00"
+  },
+  {
+   "title": "OMSCS Graduation Catalog Year? Which one applies for AI Spec?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xqloov/omscs_graduation_catalog_year_which_one_applies/",
+   "published": "2026-11-08T00:50:16+00:00",
+   "excerpt": "I switched to the AI spec this summer, after I saw you don’t need AI/ML. I’ve taken KBAI SDP and was planning on taking AI in my final sem but i’m too burnt out atp and was going to take the robotics course instead. I switched based on those requirements but when I saw the degree works tool, it’s showing I don’t meet the requirement and am missing AI or ML. I started in Fall 2024. I read somewhere that if you change your spec the catalog year / or basically any catalog year, can apply to your requirements for graduation. In fact when i filled out the program of study form for the advisors it followed their new requirements, so I just got kinda worried and confused after seeing degree works a",
+   "author": "/u/vis1onary",
+   "source": "Reddit r/OMSCS",
+   "id": "8bee1ed75d71",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-09T13:00:10.147124+08:00"
+  },
+  {
+   "title": "Any new info we need to look out for Fall Sem",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xqpv8b/any_new_info_we_need_to_look_out_for_fall_sem/",
+   "published": "2026-11-08T04:34:41+00:00",
+   "excerpt": "Hey guys, I got an admit for the fall semester in 2027. I wanted to understand if we need to be looking for any new info? Or activation of email id's? Or any new accesses we might have been given as of now? Thanks! submitted by /u/Old_Intention7499 [link] [留言]",
+   "author": "/u/Old_Intention7499",
+   "source": "Reddit r/OMSCS",
+   "id": "2c570eddfbc9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-09T13:00:10.147124+08:00"
   },
   {
@@ -89,58 +233,6 @@
    "keyword_hits": [
     "application"
    ],
-   "relevance": null,
-   "first_seen": "2026-11-09T13:00:10.147124+08:00"
-  },
-  {
-   "title": "Is the GT VPN working ???????",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xr9gf5/is_the_gt_vpn_working/",
-   "published": "2026-11-08T21:19:52+00:00",
-   "excerpt": "Been trying to use the VPN for about a week to apply to a VIP team but it seems to be down for me on both my machines. I'm using the browser VPN and have tried downloading the client from the site but it won't let me. What should I do? submitted by /u/CrazyDog1738 [link] [留言]",
-   "author": "/u/CrazyDog1738",
-   "source": "Reddit r/OMSCS",
-   "id": "a49990d528b5",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "first_seen": "2026-11-09T13:00:10.147124+08:00"
-  },
-  {
-   "title": "Anyone else having issues with Single Sign On?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xqrg38/anyone_else_having_issues_with_single_sign_on/",
-   "published": "2026-11-08T06:07:51+00:00",
-   "excerpt": "Title; just tried signing into Canvas but I was told \"Invalid credentials.\" Got spooked so I went to Passport, but I was able to log in; very slow though, and it's saying \"Password changing is not currently available. Please try again later.\" Are they doing maintenance or something? Anyone else having issues? EDIT: Just tried Canvas again, it worked with the exact same credentials. Weird submitted by /u/Repulsive-Case-8922 [link] [留言]",
-   "author": "/u/Repulsive-Case-8922",
-   "source": "Reddit r/OMSCS",
-   "id": "3f6f52ac2383",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "first_seen": "2026-11-09T13:00:10.147124+08:00"
-  },
-  {
-   "title": "OMSCS Graduation Catalog Year? Which one applies for AI Spec?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xqloov/omscs_graduation_catalog_year_which_one_applies/",
-   "published": "2026-11-08T00:50:16+00:00",
-   "excerpt": "I switched to the AI spec this summer, after I saw you don’t need AI/ML. I’ve taken KBAI SDP and was planning on taking AI in my final sem but i’m too burnt out atp and was going to take the robotics course instead. I switched based on those requirements but when I saw the degree works tool, it’s showing I don’t meet the requirement and am missing AI or ML. I started in Fall 2024. I read somewhere that if you change your spec the catalog year / or basically any catalog year, can apply to your requirements for graduation. In fact when i filled out the program of study form for the advisors it followed their new requirements, so I just got kinda worried and confused after seeing degree works a",
-   "author": "/u/vis1onary",
-   "source": "Reddit r/OMSCS",
-   "id": "8bee1ed75d71",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "first_seen": "2026-11-09T13:00:10.147124+08:00"
-  },
-  {
-   "title": "Any new info we need to look out for Fall Sem",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xqpv8b/any_new_info_we_need_to_look_out_for_fall_sem/",
-   "published": "2026-11-08T04:34:41+00:00",
-   "excerpt": "Hey guys, I got an admit for the fall semester in 2027. I wanted to understand if we need to be looking for any new info? Or activation of email id's? Or any new accesses we might have been given as of now? Thanks! submitted by /u/Old_Intention7499 [link] [留言]",
-   "author": "/u/Old_Intention7499",
-   "source": "Reddit r/OMSCS",
-   "id": "2c570eddfbc9",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "first_seen": "2026-11-09T13:00:10.147124+08:00"
   },
@@ -265,6 +357,21 @@
    "first_seen": "2026-11-07T12:58:07.318346+08:00"
   },
   {
+   "title": "Unique Program Offers Campus Research Opportunities for Online Students - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0ZlSlQ5T2JrVjEtYmpGUGtzb1F1SlBIT0trOENndE9PeG9pN2pQNllxLUc5bk1vTzNmSW1GVWFsNl9ZQl92NnEwbGJjNGYyLTJkNjE0NDFnMEE5UlBybTJraXU1cDVlT1VJUEtFaU9WczBXRHZMTWpsRWxHYTlmQmtXNkJrS3NJMy1KUDBZQ0w0aWc5b25LOExxaVZiZEQ5SmFEaXF4N2RyRTQ?oc=5",
+   "published": "2024-04-29T07:00:00+00:00",
+   "excerpt": "Unique Program Offers Campus Research Opportunities for Online Students Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "2ffcf459be25",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-06T13:30:16.832652+08:00"
+  },
+  {
    "title": "[Profile Review] Working DS applying part-time: GT OMSCS, Cornell Tech part-time MEng, Columbia CVN (Fall 2027)",
    "url": "https://www.reddit.com/r/gradadmissions/comments/1xp21cf/profile_review_working_ds_applying_parttime_gt/",
    "published": "2026-11-06T02:57:15+00:00",
@@ -314,21 +421,6 @@
    "first_seen": "2026-11-06T13:30:16.832652+08:00"
   },
   {
-   "title": "Unique Program Offers Campus Research Opportunities for Online Students - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0ZlSlQ5T2JrVjEtYmpGUGtzb1F1SlBIT0trOENndE9PeG9pN2pQNllxLUc5bk1vTzNmSW1GVWFsNl9ZQl92NnEwbGJjNGYyLTJkNjE0NDFnMEE5UlBybTJraXU1cDVlT1VJUEtFaU9WczBXRHZMTWpsRWxHYTlmQmtXNkJrS3NJMy1KUDBZQ0w0aWc5b25LOExxaVZiZEQ5SmFEaXF4N2RyRTQ?oc=5",
-   "published": "2024-04-29T07:00:00+00:00",
-   "excerpt": "Unique Program Offers Campus Research Opportunities for Online Students Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "2ffcf459be25",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-11-06T13:30:16.832652+08:00"
-  },
-  {
    "title": "I just got withdrawn randomly on 31st....",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xo6qv2/i_just_got_withdrawn_randomly_on_31st/",
    "published": "2026-11-05T02:07:02+00:00",
@@ -338,6 +430,24 @@
    "id": "52799cd4fd78",
    "admission_signal": false,
    "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-05T13:31:35.214136+08:00"
+  },
+  {
+   "title": "Georgia Tech or UT Austin for Online MSCS",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wjoedo/georgia_tech_or_ut_austin_for_online_mscs/",
+   "published": "2026-09-18T12:07:13+00:00",
+   "excerpt": "I recently got accepted to both Georgia Tech’s OMSCS as well as UT Austin’s online CS program. I’m most interested in AI / machine learning but am struggling with a decision as these seem to be the two best programs within this very affordable “class”. Obviously this is the GT sub but any input is greatly appreciated. submitted by /u/RichPresentation8314 [link] [留言]",
+   "author": "/u/RichPresentation8314",
+   "source": "Reddit r/OMSCS 錄取討論",
+   "id": "42e6b87489a8",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted",
+    "decision"
+   ],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -372,22 +482,6 @@
    "first_seen": "2026-11-05T13:31:35.214136+08:00"
   },
   {
-   "title": "Georgia Tech or UT Austin for Online MSCS",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wjoedo/georgia_tech_or_ut_austin_for_online_mscs/",
-   "published": "2026-09-18T12:07:13+00:00",
-   "excerpt": "I recently got accepted to both Georgia Tech’s OMSCS as well as UT Austin’s online CS program. I’m most interested in AI / machine learning but am struggling with a decision as these seem to be the two best programs within this very affordable “class”. Obviously this is the GT sub but any input is greatly appreciated. submitted by /u/RichPresentation8314 [link] [留言]",
-   "author": "/u/RichPresentation8314",
-   "source": "Reddit r/OMSCS 錄取討論",
-   "id": "42e6b87489a8",
-   "admission_signal": true,
-   "keyword_hits": [
-    "accepted",
-    "decision"
-   ],
-   "relevance": null,
-   "first_seen": "2026-11-05T13:31:35.214136+08:00"
-  },
-  {
    "title": "CS6750: 1st semester workload experience",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xmi0t2/cs6750_1st_semester_workload_experience/",
    "published": "2026-11-03T03:15:26+00:00",
@@ -403,13 +497,13 @@
    "first_seen": "2026-11-03T13:40:43.902212+08:00"
   },
   {
-   "title": "Cannot login into Canvas - Getting 2FA Error",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xmj274/cannot_login_into_canvas_getting_2fa_error/",
-   "published": "2026-11-03T04:07:24+00:00",
-   "excerpt": "https://preview.redd.it/go7dz6cxnbzh1.png?width=1043&format=png&auto=webp&s=87ab8448a74cce41b85d8fcda044d829657ba66a Same as body, i tried and i was able to login into Passport but cannot login to canvas. Can anyone help? As its part of MFA Failure Cannot login to Gradescope Outlook Canvas EDIT: Its resolved now! submitted by /u/Cold_Releasee [link] [留言]",
-   "author": "/u/Cold_Releasee",
+   "title": "How bad are these NLP Meta lectures",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xlnwr3/how_bad_are_these_nlp_meta_lectures/",
+   "published": "2026-11-02T04:34:06+00:00",
+   "excerpt": "Currently taking up NLP and going through the lectures done in collaboration with Meta. It's pathetically bad and I have learnt nothing. Just reading from the notes would have been easier for me. Is it just me or do other folks agree? submitted by /u/Background_Topic9458 [link] [留言]",
+   "author": "/u/Background_Topic9458",
    "source": "Reddit r/OMSCS",
-   "id": "846f1b2ff54b",
+   "id": "c666d6948bd6",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -418,13 +512,13 @@
    "first_seen": "2026-11-03T13:40:43.902212+08:00"
   },
   {
-   "title": "How bad are these NLP Meta lectures",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xlnwr3/how_bad_are_these_nlp_meta_lectures/",
-   "published": "2026-11-02T04:34:06+00:00",
-   "excerpt": "Currently taking up NLP and going through the lectures done in collaboration with Meta. It's pathetically bad and I have learnt nothing. Just reading from the notes would have been easier for me. Is it just me or do other folks agree? submitted by /u/Background_Topic9458 [link] [留言]",
-   "author": "/u/Background_Topic9458",
+   "title": "Cannot login into Canvas - Getting 2FA Error",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xmj274/cannot_login_into_canvas_getting_2fa_error/",
+   "published": "2026-11-03T04:07:24+00:00",
+   "excerpt": "https://preview.redd.it/go7dz6cxnbzh1.png?width=1043&format=png&auto=webp&s=87ab8448a74cce41b85d8fcda044d829657ba66a Same as body, i tried and i was able to login into Passport but cannot login to canvas. Can anyone help? As its part of MFA Failure Cannot login to Gradescope Outlook Canvas EDIT: Its resolved now! submitted by /u/Cold_Releasee [link] [留言]",
+   "author": "/u/Cold_Releasee",
    "source": "Reddit r/OMSCS",
-   "id": "c666d6948bd6",
+   "id": "846f1b2ff54b",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -897,6 +991,49 @@
    "first_seen": "2026-10-24T11:37:35.792721+08:00"
   },
   {
+   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
+   "published": "2023-04-21T07:00:00+00:00",
+   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "43f2eafe3c1d",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
+   "url": "https://omscs.gatech.edu/external-news/where-are-they-now-team-atlanta-takes-ai-cybersecurity-beyond-competition",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "76452fa7004b",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "When a Ship’s Systems Lie, Cybersecurity Gets Complicated",
+   "url": "https://omscs.gatech.edu/external-news/when-ships-systems-lie-cybersecurity-gets-complicated",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "0fdbc2225ff1",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
    "title": "[Profile Review] 3+1 BSMS Student Looking For MS Fall 2027",
    "url": "https://www.reddit.com/r/gradadmissions/comments/1xcpmc9/profile_review_31_bsms_student_looking_for_ms/",
    "published": "2026-10-22T17:51:54+00:00",
@@ -1273,21 +1410,6 @@
    "first_seen": "2026-10-23T11:43:09.869237+08:00"
   },
   {
-   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
-   "published": "2023-04-21T07:00:00+00:00",
-   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
-   "author": null,
-   "source": "Google News",
-   "id": "43f2eafe3c1d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
    "title": "Research challenges assumptions about online education success - Phys.org",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOTlFQTV2S0hYQzJ3X0ZpMkx2UjdNTXpEZngzbFZlbGNac25MWW9lcTlDN3RDaHZoUmlfUklSSWVON3VIVVdYcGhDQTNHdUliSXRrQW9JN3ZtamJYMDZISjlFc3FxZFJua0ZMMU53?oc=5",
    "published": "2026-08-03T07:00:00+00:00",
@@ -1295,34 +1417,6 @@
    "author": null,
    "source": "Google News",
    "id": "3fd446b8a3e2",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
-   "url": "https://omscs.gatech.edu/external-news/where-are-they-now-team-atlanta-takes-ai-cybersecurity-beyond-competition",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "76452fa7004b",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "When a Ship’s Systems Lie, Cybersecurity Gets Complicated",
-   "url": "https://omscs.gatech.edu/external-news/when-ships-systems-lie-cybersecurity-gets-complicated",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "0fdbc2225ff1",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2243,20 +2337,6 @@
    "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
-   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "31b0ee4cb5e7",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
    "title": "Postponing enrollment repercussions",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x03oqe/postponing_enrollment_repercussions/",
    "published": "2026-10-07T18:05:57+00:00",
@@ -2269,6 +2349,20 @@
     "accepted",
     "decision"
    ],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "31b0ee4cb5e7",
+   "admission_signal": false,
+   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2664,12 +2758,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
-   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
+   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
+   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "c9fdb1306c54",
+   "id": "0484e7b5e74c",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2678,12 +2772,12 @@
    "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
-   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
-   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
+   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
+   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
    "published": null,
    "excerpt": "",
    "source": "OMSCS 官方公告",
-   "id": "0484e7b5e74c",
+   "id": "c9fdb1306c54",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2826,66 +2920,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-27T12:06:46.620903+08:00"
-  },
-  {
-   "title": "Computer Networks : CS6250 : Distance vector routing",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wq3xbc/computer_networks_cs6250_distance_vector_routing/",
-   "published": "2026-09-25T18:27:10+00:00",
-   "excerpt": "Hi, this is my first sem and I have taken CN and KBAI. In the first project of CN, Spanning tree protocol, I scored 100/100. But in the second one, I could score 85/100 in the gradescope since my code is failing 1 test case. How are the other subsequent projects for scoring? I consistently score 17-19/20 in the chapter quizzes. Should I move ahead with 85? Would it hamper my chances of getting A? I am not a really great exam taker hence I am a bit nervous about exams too. I found the content of CN a bit dry as well. It is neat but at times too many jargons. I see largely everyone gets A in CN but the second project kind of made me a bit nervous. TIA! P.S. I managed 100 :) more than a logic, ",
-   "author": "/u/BulkyAd9029",
-   "source": "Reddit r/OMSCS",
-   "id": "0630075cc87f",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-26T11:56:08.785653+08:00"
-  },
-  {
-   "title": "HackGT 13 - First Timer Attending in Person",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wq5q99/hackgt_13_first_timer_attending_in_person/",
-   "published": "2026-09-25T19:38:03+00:00",
-   "excerpt": "Hi guys, I'm on campus this weekend for HackGT and was wondering if anyone else is here from the OMSCS program. This is my first ever hackathon so I'm hoping to learn a lot and have a lot of fun. Let me know if you're also here and if you have any tips for a first timer! submitted by /u/doublecupnav [link] [留言]",
-   "author": "/u/doublecupnav",
-   "source": "Reddit r/OMSCS",
-   "id": "b101841bb0f9",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-26T11:56:08.785653+08:00"
-  },
-  {
-   "title": "GIOS - failing project 1, drop?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wq0411/gios_failing_project_1_drop/",
-   "published": "2026-09-25T15:59:01+00:00",
-   "excerpt": "Im taking GIOS and the first project is due this weekend but i've only gotten the warmups done, should I drop or try to stick through? edit: thanks for the motivation/advice everyone! I think i will try to stick it through to the drop date. Seems like there's a decent curve and i don't necessarilyy need a B, a C would be okay in the grand scheme of things. edit2: ended up getting part 1 server and part 2 server done , didn't touch the client side lol but better than I hoped for initially submitted by /u/icybreath11 [link] [留言]",
-   "author": "/u/icybreath11",
-   "source": "Reddit r/OMSCS",
-   "id": "69980bcee7aa",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-26T11:56:08.785653+08:00"
-  },
-  {
-   "title": "Getting bummed out that I can’t remember a lot of the stuff I’ve learned",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wouj1p/getting_bummed_out_that_i_cant_remember_a_lot_of/",
-   "published": "2026-09-24T06:52:03+00:00",
-   "excerpt": "For context, I’m not a tech worker at all. I’m a high school physics teacher in my mid 30s. I learned how to code during Covid and loved it so much I decided I wanted to formally learn stuff I’ve always been curious about. So far it’s great, and I’m on my 5th class taking one per semester. Loved all the classes so far, found all the topics really engaging, and have finished each class with a very high grade. But every now and then, I sit and think about all the stuff I’ve learned and all the projects I’ve coded and… I get bummed out when I realize how much of it I forgot. I vaguely remember concepts from past classes (KBAI, AI, ML4T, and RAIT) but I can’t recall the details well enough to ta",
-   "author": "/u/vwin90",
-   "source": "Reddit r/OMSCS",
-   "id": "aec5ce8f24a7",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-26T11:56:08.785653+08:00"
   },
   {
    "title": "Former Teaching Assistant and Student Embark on OMSCS Journey Together - Georgia Tech News Center",

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T14:17:35.247552+08:00",
+ "updated_at": "2026-11-11T13:03:38.687613+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -9,9 +9,9 @@
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
-   "ok": true,
-   "count": 25,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
    "name": "Reddit r/gradadmissions",
@@ -33,9 +33,9 @@
   },
   {
    "name": "OMSCS 官方公告",
-   "ok": true,
-   "count": 10,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
    "name": "Medium #omscs",
@@ -52,6 +52,31 @@
  ],
  "items": [
   {
+   "title": "Course Request: Formal Methods with Lean",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xsqmqu/course_request_formal_methods_with_lean/",
+   "published": "2026-11-10T16:00:38+00:00",
+   "excerpt": "Hi, considering all the breakthroughs in the frontier of math using AI made recently, wouldn't it be nice to have a course on formalization and interactive computer proofs? The course could take inspiration from related courses, like this one that exists on campus: CS 8803 LCS: Logic in Computer Science, taught by Prof. Suguman Bansal: https://syllabus.gatech.edu/syllabi/8803/lcs Also related: https://sites.gatech.edu/ai4math-center An OMSCS version would be especially valuable if it included substantial hands-on work with Lean. Some may think this is not applicable for OMSCS because it's a math subject, but I believe soon Lean formalization will be a necessary part of most papers that propo",
+   "author": "/u/DiscountTerrible5151",
+   "source": "Reddit r/OMSCS",
+   "id": "86c6e4484dd1",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-11T13:03:38.687613+08:00"
+  },
+  {
+   "title": "A Mathematician's Square Wheel Bike",
+   "url": "https://www.macalester.edu/mscs/multimedia/squarewheeledbike/squarewheelbike/",
+   "published": "2026-11-10T16:22:13Z",
+   "excerpt": "",
+   "source": "Hacker News",
+   "id": "887de58461f4",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-11T13:03:38.687613+08:00"
+  },
+  {
    "title": "Coping with losing my 4.0 after NLP",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xrwb6v/coping_with_losing_my_40_after_nlp/",
    "published": "2026-11-09T16:31:50+00:00",
@@ -62,6 +87,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-10T14:17:35.247552+08:00"
   },
   {
@@ -75,6 +102,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-10T14:17:35.247552+08:00"
   },
   {
@@ -88,6 +117,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-10T14:17:35.247552+08:00"
   },
   {
@@ -101,6 +132,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-10T14:17:35.247552+08:00"
   },
   {
@@ -114,6 +147,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-10T14:17:35.247552+08:00"
   },
   {
@@ -2905,23 +2940,6 @@
    "first_seen": "2026-09-28T12:08:08.693892+08:00"
   },
   {
-   "title": "How to Present Education Background to Job Apps",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wqoo3g/how_to_present_education_background_to_job_apps/",
-   "published": "2026-09-26T11:56:10+00:00",
-   "excerpt": "I'm at a slight loss for what to do about my GT situation on my resume and it seems no matter what I do, it throws a wrench into someone's ATS. I'm considering taking GT off of my resume entirely at this point (as I suspect I'm getting flagged as a full time student even though I am not) but it really does alter my resume for the better. Pros of including GT: I have a humanities background (minored in CS) and even though I practically got the major in undergrad, it doesn't show as such on paper. My work at GT comes with some really valuable (published) research in my area (systems) that I think really transforms my application and shows I'm serious about CS fundamentals, especially my partic",
-   "author": "/u/HemiDemi593462",
-   "source": "Reddit r/OMSCS 錄取討論",
-   "id": "f9fc6a37e668",
-   "admission_signal": true,
-   "keyword_hits": [
-    "application"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-27T12:06:46.620903+08:00"
-  },
-  {
    "title": "Former Teaching Assistant and Student Embark on OMSCS Journey Together - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2VDUmNlTndDQmoweGltZGF2MGpWTTdYZmNjUHZtQlBrYUN0dUVkYjVrV2poNER1SnJ4czhMUmRhVHVydEdONmExc3VYSUJyZGJYdk54OWlRTFZYTUxGXzZlQUFlVGx3eG85eXpJZmpnbXk4S2ZseTJSMjZfRGVLaTI5aEJlclZTVjN6QV81VnpDazBvd25lamJoenlTcDVBV0kxUnJnWGpJbk0?oc=5",
    "published": "2024-05-07T07:00:00+00:00",
@@ -3445,20 +3463,6 @@
    "excerpt": "",
    "source": "Hacker News",
    "id": "6dbf49fa843e",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "Genomics coordinate systems",
-   "url": "https://docs.rs/omics-coordinate/latest/omics_coordinate/",
-   "published": "2025-06-26T20:39:40Z",
-   "excerpt": "",
-   "source": "Hacker News",
-   "id": "295050d1612a",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

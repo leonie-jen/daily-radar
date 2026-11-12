@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T13:03:38.687613+08:00",
+ "updated_at": "2026-11-12T14:05:38.790931+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -22,7 +22,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 13,
+   "count": 11,
    "note": ""
   },
   {
@@ -33,9 +33,9 @@
   },
   {
    "name": "OMSCS 官方公告",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+   "ok": true,
+   "count": 10,
+   "note": ""
   },
   {
    "name": "Medium #omscs",
@@ -52,6 +52,83 @@
  ],
  "items": [
   {
+   "title": "CSE 6220: When the lecture itself becomes the distraction",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xt66y5/cse_6220_when_the_lecture_itself_becomes_the/",
+   "published": "2026-11-11T02:35:23+00:00",
+   "excerpt": "I'm finding the CSE 6220 lecture videos increasingly frustrating, and not because of the difficulty of the material. The lectures are packed with jokes, sound effects, cartoons, and running gags. The topology section, for example, interrupts a discussion of network structures to show a picture of a bull because \"Taurus\" sounds like \"torus.\" The problem isn't that the jokes are bad. It's that they're constant, and they're delivered with the same pacing, emphasis, and dramatic pauses as the actual instruction. Important concepts and throwaway gags receive essentially equal billing. As a student, you're left constantly sorting through the presentation to determine what's worth paying attention ",
+   "author": "/u/insideoutdune",
+   "source": "Reddit r/OMSCS",
+   "id": "cc7dba66bcab",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-12T14:05:38.790931+08:00"
+  },
+  {
+   "title": "Should I step away from the SWE Industry to Electronics?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xrrtlq/should_i_step_away_from_the_swe_industry_to/",
+   "published": "2026-11-09T13:36:05+00:00",
+   "excerpt": "I've worked as a SWE for the past 4 years and I'm 25 now. I am about to graduate soon from OMSCS with an ML Specialization and recently got laid off. I had to switch to 2 jobs in a span of 15 months and don't like how unstable this industry is. I was able to do some security research with a Prof through 8903 and did Security courses as well to gain some more breadth and decent security experience from my job. I have a decent profile, get reachouts from recruiters at good startups and big tech companies. I'm basically a good combination of SWE, Security and Electronics. I have an undergrad in Electronics engineering and I'm thinking of switching to a hardware role. I'm not sure how but I'm th",
+   "author": "/u/SnooSongs2979",
+   "source": "Reddit r/OMSCS",
+   "id": "2d36efb51d4c",
+   "admission_signal": true,
+   "keyword_hits": [
+    "profile"
+   ],
+   "relevance": null,
+   "first_seen": "2026-11-12T14:05:38.790931+08:00"
+  },
+  {
+   "title": "Additional Graduation Tickets",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xpjjsh/additional_graduation_tickets/",
+   "published": "2026-11-06T18:01:15+00:00",
+   "excerpt": "Are we given an opportunity to get additional graduation tickets, or is it capped at the 4 guests? Can you receive tickets from other students if its capped at 4? submitted by /u/NerdBanger [link] [留言]",
+   "author": "/u/NerdBanger",
+   "source": "Reddit r/OMSCS",
+   "id": "c75c9f3abeac",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-12T14:05:38.790931+08:00"
+  },
+  {
+   "title": "OMSCS Represented at ACM CCS Conference",
+   "url": "https://omscs.gatech.edu/external-news/omscs-represented-acm-ccs-conference",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "f7abd92711d6",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-12T14:05:38.790931+08:00"
+  },
+  {
+   "title": "Foundational Coding Skills Still Essential in the Age of AI",
+   "url": "https://omscs.gatech.edu/external-news/foundational-coding-skills-still-essential-age-ai",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "2ab717d42f6b",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-12T14:05:38.790931+08:00"
+  },
+  {
+   "title": "New Benchmark Tests AI Memory for Household Robots",
+   "url": "https://omscs.gatech.edu/external-news/new-benchmark-tests-ai-memory-household-robots",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "cb2554d8ca79",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-12T14:05:38.790931+08:00"
+  },
+  {
    "title": "Course Request: Formal Methods with Lean",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xsqmqu/course_request_formal_methods_with_lean/",
    "published": "2026-11-10T16:00:38+00:00",
@@ -62,6 +139,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-11T13:03:38.687613+08:00"
   },
   {
@@ -74,6 +153,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-11T13:03:38.687613+08:00"
   },
   {
@@ -456,6 +537,20 @@
    "first_seen": "2026-11-06T13:30:16.832652+08:00"
   },
   {
+   "title": "Researchers Find Architectural Backdoors in AI Models Are Harder to Exploit in the Real World",
+   "url": "https://omscs.gatech.edu/external-news/researchers-find-architectural-backdoors-ai-models-are-harder-exploit-real-world",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "90597a5f4163",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-05T13:31:35.214136+08:00"
+  },
+  {
    "title": "I just got withdrawn randomly on 31st....",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xo6qv2/i_just_got_withdrawn_randomly_on_31st/",
    "published": "2026-11-05T02:07:02+00:00",
@@ -483,20 +578,6 @@
     "accepted",
     "decision"
    ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-11-05T13:31:35.214136+08:00"
-  },
-  {
-   "title": "Researchers Find Architectural Backdoors in AI Models Are Harder to Exploit in the Real World",
-   "url": "https://omscs.gatech.edu/external-news/researchers-find-architectural-backdoors-ai-models-are-harder-exploit-real-world",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "90597a5f4163",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -1026,21 +1107,6 @@
    "first_seen": "2026-10-24T11:37:35.792721+08:00"
   },
   {
-   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
-   "published": "2023-04-21T07:00:00+00:00",
-   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
-   "author": null,
-   "source": "Google News",
-   "id": "43f2eafe3c1d",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
    "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
    "url": "https://omscs.gatech.edu/external-news/where-are-they-now-team-atlanta-takes-ai-cybersecurity-beyond-competition",
    "published": null,
@@ -1061,6 +1127,21 @@
    "excerpt": "",
    "source": "OMSCS 官方公告",
    "id": "0fdbc2225ff1",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
+   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
+   "published": "2023-04-21T07:00:00+00:00",
+   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "43f2eafe3c1d",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2372,6 +2453,20 @@
    "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
+   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "31b0ee4cb5e7",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-08T12:56:10.548866+08:00"
+  },
+  {
    "title": "Postponing enrollment repercussions",
    "url": "https://www.reddit.com/r/OMSCS/comments/1x03oqe/postponing_enrollment_repercussions/",
    "published": "2026-10-07T18:05:57+00:00",
@@ -2384,20 +2479,6 @@
     "accepted",
     "decision"
    ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
-   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "31b0ee4cb5e7",
-   "admission_signal": false,
-   "keyword_hits": [],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -2887,51 +2968,6 @@
    "author": "Shubham Raj",
    "source": "Medium #omscs",
    "id": "770d8b17bf67",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-28T12:08:08.693892+08:00"
-  },
-  {
-   "title": "Buzzcard on campus not working",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wr7ctb/buzzcard_on_campus_not_working/",
-   "published": "2026-09-27T01:33:00+00:00",
-   "excerpt": "I paid $30 for a buzzcard on campus but it doesn’t let me scan into libraries. Did I need to specify that I wanted it chipped or is the $30 supposed to come with the chip? submitted by /u/misulsoo [link] [留言]",
-   "author": "/u/misulsoo",
-   "source": "Reddit r/OMSCS",
-   "id": "528281ef63da",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-28T12:08:08.693892+08:00"
-  },
-  {
-   "title": "Summer 2026 Graduates - Diploma?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wqrt8d/summer_2026_graduates_diploma/",
-   "published": "2026-09-26T14:23:29+00:00",
-   "excerpt": "Has anyone that graduated Summer 2026 receive their physical diploma yet? I created my Parchment account a month or so ago, shortly after the Summer term ended. I don't see any active 'Order's in the Parchment account indicating the OMSCS degree is on the way. Would it show here anyway? I can't remember exactly what happened but when setting up the Parchment account, I remember something funky going on, so I hope it registered correctly to kick-off the original diploma shipping. submitted by /u/felmalorne [link] [留言]",
-   "author": "/u/felmalorne",
-   "source": "Reddit r/OMSCS",
-   "id": "5eeaa986746c",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-28T12:08:08.693892+08:00"
-  },
-  {
-   "title": "Used some AI to test out some code. Scared of getting flagged, should I drop?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wqhoa6/used_some_ai_to_test_out_some_code_scared_of/",
-   "published": "2026-09-26T04:55:47+00:00",
-   "excerpt": "I'm taking 6200 and this is my first course. We're working on Project 1. I didn't use any AI to code out the solution but I did use some AI to understand some concepts n test out my mini implementations on a little scratchpad repo since my C was a little rusty. The submissions passed alright but I did test the whole thing quite rigorously with valgrind and helgrind n ASAN n what not. I'm scared if I'll get flagged somehow. I started pretty early n spent almost 2-3 weeks to finish the whole thing. I'm not sure if I should drop. I asked the TAs and they always say \"AI should never see your code\". Not sure what I can do now. submitted by /u/BBQSauce95 [link] [留言]",
-   "author": "/u/BBQSauce95",
-   "source": "Reddit r/OMSCS",
-   "id": "67d8106cc14a",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

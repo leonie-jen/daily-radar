@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T14:05:38.790931+08:00",
+ "updated_at": "2026-11-13T13:29:17.024886+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -34,7 +34,7 @@
   {
    "name": "OMSCS 官方公告",
    "ok": true,
-   "count": 10,
+   "count": 3,
    "note": ""
   },
   {
@@ -52,6 +52,34 @@
  ],
  "items": [
   {
+   "title": "Historical waitlist data for Computer Law",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xuulwm/historical_waitlist_data_for_computer_law/",
+   "published": "2026-11-13T01:19:45+00:00",
+   "excerpt": "Hello! I’m waitlisted for Computer Law next semester and am wondering if there’s any historical data on waitlist movement? Currently sitting at position 8. I know it’s a high-demand class. submitted by /u/cs_guy_throwaway [link] [留言]",
+   "author": "/u/cs_guy_throwaway",
+   "source": "Reddit r/OMSCS",
+   "id": "9ecf081e3965",
+   "admission_signal": true,
+   "keyword_hits": [
+    "waitlist"
+   ],
+   "relevance": null,
+   "first_seen": "2026-11-13T13:29:17.024886+08:00"
+  },
+  {
+   "title": "Should I go for OSI resolution or just take the L?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xulizw/should_i_go_for_osi_resolution_or_just_take_the_l/",
+   "published": "2026-11-12T19:04:27+00:00",
+   "excerpt": "To start, I did not cheat and I know this for certain. Secondly, I know I'm dumb for somehow thinking that this was allowed and also doing it but the alternatives weren't working. I was taking a test and I used a different device to look at the authorized resources because the device I was using to take the test is my only computer with a camera and also is about 2947387439 years old so running anything more than chrome and honorlock is enough to drain the battery even when it's plugged in. It's also generally a piece of shit but I digress. I got flagged, I'm considering either taking the L and probably passing anyway if I do really well on everything else or trying to get OSI to understand ",
+   "author": "/u/PlusRepair1195",
+   "source": "Reddit r/OMSCS",
+   "id": "042600088da9",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-13T13:29:17.024886+08:00"
+  },
+  {
    "title": "CSE 6220: When the lecture itself becomes the distraction",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xt66y5/cse_6220_when_the_lecture_itself_becomes_the/",
    "published": "2026-11-11T02:35:23+00:00",
@@ -62,6 +90,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-12T14:05:38.790931+08:00"
   },
   {
@@ -77,19 +107,8 @@
     "profile"
    ],
    "relevance": null,
-   "first_seen": "2026-11-12T14:05:38.790931+08:00"
-  },
-  {
-   "title": "Additional Graduation Tickets",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xpjjsh/additional_graduation_tickets/",
-   "published": "2026-11-06T18:01:15+00:00",
-   "excerpt": "Are we given an opportunity to get additional graduation tickets, or is it capped at the 4 guests? Can you receive tickets from other students if its capped at 4? submitted by /u/NerdBanger [link] [留言]",
-   "author": "/u/NerdBanger",
-   "source": "Reddit r/OMSCS",
-   "id": "c75c9f3abeac",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-12T14:05:38.790931+08:00"
   },
   {
@@ -102,6 +121,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-12T14:05:38.790931+08:00"
   },
   {
@@ -111,6 +132,21 @@
    "excerpt": "",
    "source": "OMSCS 官方公告",
    "id": "2ab717d42f6b",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-12T14:05:38.790931+08:00"
+  },
+  {
+   "title": "Additional Graduation Tickets",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xpjjsh/additional_graduation_tickets/",
+   "published": "2026-11-06T18:01:15+00:00",
+   "excerpt": "Are we given an opportunity to get additional graduation tickets, or is it capped at the 4 guests? Can you receive tickets from other students if its capped at 4? submitted by /u/NerdBanger [link] [留言]",
+   "author": "/u/NerdBanger",
+   "source": "Reddit r/OMSCS",
+   "id": "c75c9f3abeac",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2858,107 +2894,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-30T12:25:13.601481+08:00"
-  },
-  {
-   "title": "GT Cybersecurity Expert Helping to Chart the Future of AI on the Energy Grid",
-   "url": "https://omscs.gatech.edu/external-news/gt-cybersecurity-expert-helping-chart-future-ai-energy-grid",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "4342be1d46a3",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-29T12:40:38.530061+08:00"
-  },
-  {
-   "title": "New Benchmark Measures Memory Capabilities of VLM-Powered Robots",
-   "url": "https://omscs.gatech.edu/external-news/new-benchmark-measures-memory-capabilities-vlm-powered-robots",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "0484e7b5e74c",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-29T12:40:38.530061+08:00"
-  },
-  {
-   "title": "Study Uncovers Security Weaknesses in Next-Generation Vehicle Technology",
-   "url": "https://omscs.gatech.edu/external-news/study-uncovers-security-weaknesses-next-generation-vehicle-technology",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "c9fdb1306c54",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-29T12:40:38.530061+08:00"
-  },
-  {
-   "title": "A New Kind of AI Model from a ChatGPT Inventor is Thrilling Developers",
-   "url": "https://omscs.gatech.edu/external-news/new-kind-ai-model-chatgpt-inventor-thrilling-developers",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "843b43f0f056",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-29T12:40:38.530061+08:00"
-  },
-  {
-   "title": "CS 6515: 3rd time taking this course, running on fumes, and seriously considering dropping",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wsejm5/cs_6515_3rd_time_taking_this_course_running_on/",
-   "published": "2026-09-28T13:24:16+00:00",
-   "excerpt": "I’m at my absolute breaking point with this course and genuinely don’t know what to do anymore. For context, I've started OMSCS in Spring 2022 on the Computing Systems track, this is my 3rd attempt for CS 6515, and this is my last course in the OMSCS program: Attempt 1: Got a C Attempt 2: Withdrew after Exam 1 Attempt 3 (Now): Just took Exams 1 and 2, and I feel hopeless. To give some background: I have an undergraduate degree in math and about 8 years of industry experience as a software developer. Just to be clear: I don’t consider myself a super smart student who breezes through difficult material. Everything I’ve accomplished has come down to putting my head down and working exceptionall",
-   "author": "/u/AdSilent2916",
-   "source": "Reddit r/OMSCS",
-   "id": "9cff38c5c6bd",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-29T12:40:38.530061+08:00"
-  },
-  {
-   "title": "Please tell me that Machine Learning gets easier after SL report 1",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wsecdd/please_tell_me_that_machine_learning_gets_easier/",
-   "published": "2026-09-28T13:15:45+00:00",
-   "excerpt": "I haven't slept in a week submitted by /u/abrbbb [link] [留言]",
-   "author": "/u/abrbbb",
-   "source": "Reddit r/OMSCS",
-   "id": "cdc76305eb89",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-29T12:40:38.530061+08:00"
-  },
-  {
-   "title": "Github Login Not working after Password Change",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wr5ab6/github_login_not_working_after_password_change/",
-   "published": "2026-09-26T23:52:07+00:00",
-   "excerpt": "So I changed my github password and it doesn't work now. I'm typing in the exact password that was saved and it doesn't allow me to login. Is it because its weekend and I need to wait a day or so? submitted by /u/Professional_Ball_58 [link] [留言]",
-   "author": "/u/Professional_Ball_58",
-   "source": "Reddit r/OMSCS",
-   "id": "a179e69652ee",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-29T12:40:38.530061+08:00"
   },
   {
    "title": "The OMSCS Resources I Wish I Knew About Before Starting Georgia Tech’s Online MSCS",

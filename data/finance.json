@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T14:06:49.357424+08:00",
+ "updated_at": "2026-11-13T13:30:39.670543+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -22,6 +22,18 @@
  ],
  "items": [
   {
+   "title": "[美股] 2026-11-13 美股盤後報告",
+   "url": "https://harrymemo.com/outputs/us/2026-11-13_US_Market_Dashboard",
+   "published": "2026-11-13",
+   "excerpt": "",
+   "market_section": "us",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "e47f4530ea08",
+   "relevance": null,
+   "first_seen": "2026-11-13T13:30:39.670543+08:00"
+  },
+  {
    "title": "[美股] 2026-11-12 美股盤後報告",
    "url": "https://harrymemo.com/outputs/us/2026-11-12_US_Market_Dashboard",
    "published": "2026-11-12",
@@ -31,6 +43,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "7be86c6428a5",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-12T14:06:49.357424+08:00"
   },
   {
@@ -43,6 +57,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "672c00ec8fa0",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-12T14:06:49.357424+08:00"
   },
   {
@@ -55,6 +71,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "62cad40ef1d2",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-12T14:06:49.357424+08:00"
   },
   {
@@ -67,15 +85,17 @@
    "source": "哈利的投資研究筆記庫",
    "id": "7cea238dd542",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-12T14:06:49.357424+08:00"
   },
   {
-   "title": "[美股] 2026-11-11 美股盤後報告",
+   "title": "[美股] 2026/11/11 美股盤後：CPI 兌現後的「升息預期再定價日」—週一 risk-on 的部分獲利了結，資金從 XLK 滑…",
    "url": "https://harrymemo.com/outputs/us/2026-11-11_US_Market_Dashboard",
    "published": "2026-11-11",
-   "excerpt": "",
+   "excerpt": "2026/11/11 美股盤後：CPI 兌現後的「升息預期再定價日」—週一 risk-on 的部分獲利了結，資金從 XLK 滑…｜哈利的投資研究筆記庫 ← 返回 報告列表 首頁 目錄 🤖 哈利小助理 📈 美股收盤指數 🏛️ 美股市值前十 🔭 技術雷達快覽 📰 產業敘事 🌡️ 產業熱力圖 📈 日漲幅資金主軸 📉 日跌幅資金主軸 📊 週漲跌幅前十 📊 月漲跌幅前十 🔥 產業熱度評等 🔭 短線關注 🔭 中期關注 🎲 情境與宏觀 📅 未來 2 週重點 🇹🇼 台美對照 📉 超跌雷達 📈 200 週突破 US Dashboard 報告：2026/11/11（台北）｜美股收盤：2026/11/10｜查詢：2026-11-11 06:33 台北 本日市場報告 技術線圖專區 🇺🇸 美股深度分析 Dashboard ⚠️ 今日重大事件 ：美東 11/10 公布 10 月 CPI （MoM +0.4% ，高於預期 +0.3% ） ，市場押注 12 月 Fed 升息 機率攀升； 科技股回吐週一漲幅 ， NVDA 再跌 ~5.5% 。 🤖 哈利小助理 · 今日精評 不專業分析師視野 · 統整盤勢與展望 偏多 偏防禦、結構性偏多 ASIC/防禦—減碼高 beta GPU/光鏈追價； CPI 後不抄底，等 10Y 與 NVDA 同時止穩 ；現金 12–18% CPI 兌現後的「升息預期再定價日」—週一 risk-on 的部分獲利了結，資金從 XLK 滑向金融／能源防禦，但 NVDA 單獨再殺一週 總經背景 10 月 CPI MoM +0.4% 高於 +0.3% 共識，連續第三個月黏在 0.4%+ （ Reuters ／ AP News ）。 Waller 先前暗示若通膨偏熱可接受 更大的 12 月升息 ，盤後 CME CME FedWatch 普遍押 至少 25bp ， 50bp 討論升溫（Moneycontrol／Yahoo Finance）。 10Y 4.88%（ FRED 11/09） 顯示 久期壓力 未解， 科技股 首當其衝。 資金輪動 資金自 XLK （ NVDA / MSFT / AAPL 拖累） 撤出， 相對 流向 XLF （利差交易） 、 XLE （油價跌但板塊仍日漲） 與 XLV （ UNH / MCK 強） 。 AVGO +3.9% vs NVDA -5.5% 凸顯 ASIC/網路 > GPU 龍頭 的日內輪動； 光鏈（ COHR / GLW ） 回吐週一漲幅，屬 CPI 後 beta 出清 而非單一財報。 台美連動 美股催化 ： CPI 熱 → 10Y 走高預期 → XLK / NVDA 重估 → 供應鏈層級 ： GPU 情緒 > ASIC > 光模組 > 封測/代工 → 台股族群 ： 2330 台積電 ADR 跟 NVDA 弱勢 、 3443 創意 / 2454 聯發科 受 利率 壓制、 2383 台光電 跟 COHR 逆跌 高波。 相對強鏈 ： AVGO 強 → 3661 世芯-KY /AI ASIC 敘事 較 純 GPU 有支撐。 壓制 ： ACN +1.6% 不代表 Enterprise IT 全面轉多 （ TEAM / CRM 仍弱）。 結論 ：台股開盤宜 降 beta ， 權值晶圓 看 ADR 與 NVDA 是否止跌 ， 光/設備 別追 週二長黑 的隔日反彈。 今日統整 週二劇本是 「 CPI 澆熄週一樂觀」 ：指數小跌但 科技股內部重摔 ， NVDA 兩日跌約一成 疊 董事會調查 CEO 傳聞（ Reuters ／TradingKey）。 ",
    "market_section": "us",
-   "paywalled": true,
+   "paywalled": false,
    "source": "哈利的投資研究筆記庫",
    "id": "4081f324b49e",
    "relevance": null,
@@ -1062,24 +1082,10 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-30T12:26:08.684557+08:00"
-  },
-  {
-   "title": "[美股] 2026/09/29 美股盤後：週一「長債再定價 × 全面回撤 × NVDA 回購敘事失效」— 市場在賭 10Y 5.2%+…",
-   "url": "https://harrymemo.com/outputs/us/2026-09-29_US_Market_Dashboard",
-   "published": "2026-09-29",
-   "excerpt": "2026/09/29 美股盤後：週一「長債再定價 × 全面回撤 × NVDA 回購敘事失效」— 市場在賭 10Y 5.2%+…｜哈利的投資研究筆記庫 ← 返回 報告列表 首頁 目錄 🤖 哈利小助理 📈 美股收盤指數 🏛️ 美股市值前十 🔭 技術雷達快覽 📰 產業敘事 🌡️ 產業熱力圖 📈 日漲幅資金主軸 📉 日跌幅資金主軸 📊 週漲跌幅前十 📊 月漲跌幅前十 🔥 產業熱度評等 🔭 短線關注 🔭 中期關注 🎲 情境與宏觀 📅 未來 2 週重點 🇹🇼 台美對照 📉 超跌雷達 📈 200 週突破 US Dashboard 報告：2026/09/29（台北）｜美股收盤：2026/09/28｜查詢：2026-09-29 06:32 台北 本日市場報告 技術線圖專區 🇺🇸 美股深度分析 Dashboard ⚠️ 利率警訊： 10Y 公債 ^TNX 收約 5.24%（AP 指 2007 ）， S&P 500 三指數同步收跌； NVDA 宣布增資 1,500 億美元回購授權但僅小漲，無法對沖長端貼現率上升。 🤖 哈利小助理 · 今日精評 不專業分析師視野 · 統整盤勢與展望 防禦觀望 ；減碼高 Beta 光互連／平台獲利了結段； 2330 台積電 、 3661 世芯-KY 、資安美股僅小倉參考 週一「長債再定價 × 全面回撤 × NVDA 回購敘事失效」— 市場在賭 10Y 5.2%+ 是否進入新常態，而非 AI 基本面轉空 總經背景 AP／247WallSt 均指 ** 10Y 觸 5.23–5.24%** 為本 session 主因：貼現率上升同時壓成長與價值，選股難以對沖指數。油價 WTI 約 **$93** 與霍爾木茲海峽不確定性推升通膨預期，部分抵銷能源股日內小漲。 VIX **16.07（ +8% ）** 仍低於恐慌閾值，屬 **溫和 Risk-off**，非疫情式全面清算。 資金輪動 資金從 ** XLC 通訊**（ META -4.79% 、 NFLX -2.7% ）與 **高 Beta 半導體**（ ARM / QCOM / MRVL / COHR 鏈）流出；** XLV / XLP ** 微幅收紅屬典型 **利率驚嚇防禦**。同時 **資安**（ PANW / CRWD / FTNT / ZS / OKTA ）逆勢走強— 板塊內 **從零信任情緒股切換到平台型防火牆**，非全面 Risk-on。 NVDA +1.68% 在 **1,500 億美元回購** 下仍跑輸 PANW ，顯示 **籌碼買的是「能扛利率」的現金流敘事**，不是單純 AI beta。 台美連動 10Y 5.24% 抬升估值分母 → ** 2330 台積電 ／ 2454 聯發科 ** 隔夜情緒偏保守，但 NVDA 回購 + 小漲 → **先進製程／CoWoS 敘事未斷**，台股開盤宜看 **外資期貨與 ADR 背離**。 ARM -8.7% （月漲後獲利了結 + SoftBank 質押貸敏感度）→ ** 3661 世芯-KY ／Arm 生態 IP** 短線壓力大於 2330 台積電 。 PANW / CRWD 強、 TEAM / CRM 弱 → 台股 **純 SaaS 映射少**，但 **伺服器 ODM**（ 2382 廣達 ／ 6669 緯穎 ）仍受 ** DELL / SMCI 日跌** 拖累，勿把 NVDA 回購直接線性外溢成追價信號。 今日統整 劇本是 **「無處可躲」的利率日**：媒體形容 breadth 普跌，連 NVDA 史上最大回購授權也只能換來溫和收紅。半導",
-   "market_section": "us",
-   "paywalled": false,
-   "source": "哈利的投資研究筆記庫",
-   "id": "d5db6db6bfac",
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-29T12:41:47.210821+08:00"
   }
  ],
  "fx": {
-  "usd_twd": 32.964,
+  "usd_twd": 32.836,
   "source": "rter.info",
   "history": [
    {
@@ -1357,10 +1363,14 @@
    {
     "d": "2026-11-12",
     "v": 32.964
+   },
+   {
+    "d": "2026-11-13",
+    "v": 32.836
    }
   ],
-  "change_7d": 0.027,
-  "change_30d": 0.865,
+  "change_7d": -0.108,
+  "change_30d": 0.664,
   "alert_below": 30.5,
   "good_time_to_buy": false,
   "note": "中間價，實際銀行買賣會有價差"
@@ -1369,61 +1379,61 @@
   {
    "symbol": "^TWII",
    "name": "台股加權",
-   "price": 44257.15,
-   "change": 1545.23,
-   "change_pct": 3.62,
-   "currency": "TWD",
-   "as_of": "2026-11-11",
-   "market": "TW"
-  },
-  {
-   "symbol": "^GSPC",
-   "name": "S&P 500",
-   "price": 7619.38,
-   "change": 98.45,
-   "change_pct": 1.31,
-   "currency": "USD",
-   "as_of": "2026-11-11",
-   "market": "US"
-  },
-  {
-   "symbol": "^IXIC",
-   "name": "那斯達克",
-   "price": 25466.189,
-   "change": 400.315,
-   "change_pct": 1.6,
-   "currency": "USD",
-   "as_of": "2026-11-11",
-   "market": "US"
-  },
-  {
-   "symbol": "^SOX",
-   "name": "費半",
-   "price": 10564.111,
-   "change": 565.781,
-   "change_pct": 5.66,
-   "currency": "USD",
-   "as_of": "2026-11-11",
-   "market": "US"
-  },
-  {
-   "symbol": "2330.TW",
-   "name": "台積電",
-   "price": 2340.0,
-   "change": -55.0,
-   "change_pct": -2.3,
+   "price": 43091.87,
+   "change": -1165.28,
+   "change_pct": 2.63,
    "currency": "TWD",
    "as_of": "2026-11-12",
    "market": "TW"
   },
   {
+   "symbol": "^GSPC",
+   "name": "S&P 500",
+   "price": 7592.4,
+   "change": -26.98,
+   "change_pct": -0.35,
+   "currency": "USD",
+   "as_of": "2026-11-12",
+   "market": "US"
+  },
+  {
+   "symbol": "^IXIC",
+   "name": "那斯達克",
+   "price": 25366.093,
+   "change": -100.096,
+   "change_pct": -0.39,
+   "currency": "USD",
+   "as_of": "2026-11-12",
+   "market": "US"
+  },
+  {
+   "symbol": "^SOX",
+   "name": "費半",
+   "price": 10506.674,
+   "change": -57.437,
+   "change_pct": -0.54,
+   "currency": "USD",
+   "as_of": "2026-11-12",
+   "market": "US"
+  },
+  {
+   "symbol": "2330.TW",
+   "name": "台積電",
+   "price": 2350.0,
+   "change": 10.0,
+   "change_pct": 0.43,
+   "currency": "TWD",
+   "as_of": "2026-11-13",
+   "market": "TW"
+  },
+  {
    "symbol": "NVDA",
    "name": "NVIDIA",
-   "price": 173.73,
-   "change": 4.84,
-   "change_pct": 2.87,
+   "price": 166.19,
+   "change": -7.54,
+   "change_pct": -4.34,
    "currency": "USD",
-   "as_of": "2026-11-11",
+   "as_of": "2026-11-12",
    "market": "US"
   }
  ],

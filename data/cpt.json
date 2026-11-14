@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T13:30:22.981154+08:00",
+ "updated_at": "2026-11-14T13:19:35.954041+08:00",
  "sources": [
   {
    "name": "Google News",
@@ -33,9 +33,9 @@
   },
   {
    "name": "Reddit r/f1visa",
-   "ok": false,
-   "count": 0,
-   "note": "沒抓到資料（可能被擋或今天沒新內容）"
+   "ok": true,
+   "count": 25,
+   "note": ""
   },
   {
    "name": "Reddit r/immigration CPT",
@@ -58,6 +58,270 @@
  ],
  "items": [
   {
+   "title": "GU Law Center Blocks International JD Students From Off-Campus Work - The Hoya",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjVfd0Y3SVVrSmdkSWVTWTlwWnFfd2N2SnRZbER6eXVrVGhGY3o2c1NyQ285cl9MZkpVdVJhWjV3QW9xYmFqTE90M2x1RG1CbTYzS2ZkeUU5cFFodHctekh3Q2VZdG5PVjZOWUdLdVpKajluMUQyUzdqOVV0cUI3MExELWMzY0hGcS1YUzV1RWRQS2V4WEV6ZA?oc=5",
+   "published": "2026-11-13T06:04:42+00:00",
+   "excerpt": "GU Law Center Blocks International JD Students From Off-Campus Work The Hoya",
+   "author": null,
+   "source": "Google News",
+   "id": "06e306e128c1",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "CPT lawsuit update when",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xvnse4/cpt_lawsuit_update_when/",
+   "published": "2026-11-13T23:57:32+00:00",
+   "excerpt": "Does anyone know when we can expect an update on the recent preliminary injunction lawsuit? Is there a good chance that CPT will resume in time for the spring quarter? I have a spring internship lined up, and the uncertainty surrounding the CPT situation is killing me. 😭 submitted by /u/Local-Quantity-2342 [link] [留言]",
+   "author": "/u/Local-Quantity-2342",
+   "source": "Reddit r/f1visa",
+   "id": "48fbf97e95a1",
+   "policy_signal": true,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "STEM USCIS Reschedule Appointment",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xvmvpp/stem_uscis_reschedule_appointment/",
+   "published": "2026-11-13T23:16:11+00:00",
+   "excerpt": "Hi, why does my USCIS portal show “Reschedule biometrics” even when my biometrics appointment has not been scheduled yet by USCIS? Can I self schedule? submitted by /u/Diligent_Passion3182 [link] [留言]",
+   "author": "/u/Diligent_Passion3182",
+   "source": "Reddit r/f1visa",
+   "id": "e33e9ed8d720",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "USCIS Is Currently Processing the Case” after biometrics, does this mean approval is close?",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xvmpjl/uscis_is_currently_processing_the_case_after/",
+   "published": "2026-11-13T23:08:37+00:00",
+   "excerpt": "Hi everyone, I submitted my STEM OPT I-765 application on October 18, 2026, and recently noticed an update in my USCIS case history: October 19: Case received October 31: Biometrics appointment scheduled November 10: Biometric appointment November 10: Status changed to “USCIS Is Currently Processing the Case” Does this latest update indicate that USCIS has completed the biometrics step and is getting closer to approving my STEM OPT application, or is it just a generic status update? Has anyone received this same update recently? If so, how long did it take to receive approval afterward? Thanks! submitted by /u/Murky-Commercial-112 [link] [留言]",
+   "author": "/u/Murky-Commercial-112",
+   "source": "Reddit r/f1visa",
+   "id": "acdc3f75cbea",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "STEM OPT Approved After 7 Months — EAD Delivery Timeline?",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xvcqea/stem_opt_approved_after_7_months_ead_delivery/",
+   "published": "2026-11-13T16:41:42+00:00",
+   "excerpt": "After almost 7 months of waiting, my DSO finally confirmed my STEM OPT approval on Nov 13! 🥹 Applied on April 18th 2026, received an RFE on Nov 9, responded Nov 11, and got the good news just two days later (regular processing). My USCIS portal hasn’t updated yet. For those recently approved, how long did your physical EAD take to arrive? My employer requires the card before I can return to work, so I’m hoping the wait is almost over. And to everyone still waiting, please don’t lose hope! I know how exhausting and uncertain this process feels. Sending good wishes to everyone waiting for their approval. We’re all rooting for each other! ❤️ submitted by /u/BattleWonderful6984 [link] [留言]",
+   "author": "/u/BattleWonderful6984",
+   "source": "Reddit r/f1visa",
+   "id": "08968d25ddfb",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "Traveling to the Bahamas for Thanksgiving while OPT is pending (before graduation) Should I risk it?",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xvj56d/traveling_to_the_bahamas_for_thanksgiving_while/",
+   "published": "2026-11-13T20:43:01+00:00",
+   "excerpt": "Hey everyone! I’m currently an F-1 student planning to travel to the Bahamas for Thanksgiving break, but I’m a little hesitant because my post-completion OPT application is still pending with USCIS. Here’s my situation: My OPT application has already been submitted, but it’s still pending. I haven’t graduated yet. My classes officially end on December 12, 2026. My I-20 is still valid, and I’m currently maintaining my F-1 status. I emailed my university’s ISSS office to ask about traveling, and they told me that although they don’t recommend international travel at any time, my current I-20 is valid for re-entry. I’m planning to return to the U.S. before my classes end, so technically I’d sti",
+   "author": "/u/HashbrownJay",
+   "source": "Reddit r/f1visa",
+   "id": "07aa4334819e",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "Initial OPT Biometrics",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xviabn/initial_opt_biometrics/",
+   "published": "2026-11-13T20:08:57+00:00",
+   "excerpt": "Hi everyone! I had my biometrics appointment today for my initial post-completion OPT (Form I-765), and my appointment notice showed Code 2. However, when I went in, they only took my photograph. They didn’t take any fingerprints. I’m quite confused. Has anyone else experienced this recently, especially for initial OPT? Did they only take your photo? Did your OPT eventually get approved without fingerprints? Did USCIS ask you to come back for another biometrics appointment? Would really appreciate hearing about your experiences. Thanks! submitted by /u/No-Storm2369 [link] [留言]",
+   "author": "/u/No-Storm2369",
+   "source": "Reddit r/f1visa",
+   "id": "65f51f4615ea",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "Lost Drivers License Renewal in 180 Day STEM OPT Extension",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xvdc1k/lost_drivers_license_renewal_in_180_day_stem_opt/",
+   "published": "2026-11-13T17:03:38+00:00",
+   "excerpt": "I lost my Virginia Driver's License. I'm in a 180 Day STEM Extension. My STEM is still pending. Do I get the Driver's License with previous expiration date which was until 2029 or with updated expiration date until 180 Day Extension End Date? Do they easily replace the old DL? Please help. Thank you! submitted by /u/TieImpossible3447 [link] [留言]",
+   "author": "/u/TieImpossible3447",
+   "source": "Reddit r/f1visa",
+   "id": "6502944a719f",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "Anyone who applied for OPT in May 2026 received an approval yet?",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xuvt7s/anyone_who_applied_for_opt_in_may_2026_received/",
+   "published": "2026-11-13T02:18:10+00:00",
+   "excerpt": "Hi everyone! I’m wondering if anyone who applied for post-completion OPT in May 2026 has received their approval or EAD card yet. Here is my timeline: May 21, 2026: Form I-765 submitted (OPT application). June 16, 2026: Biometrics appointment completed. June 16 – November 12: No updates whatsoever from USCIS. My case is still pending. I’m getting close to the 6-month mark, and honestly, the lack of updates is becoming really stressful. Hopefully we’re all getting our approvals soon. submitted by /u/Competitive_Pear_728 [link] [留言]",
+   "author": "/u/Competitive_Pear_728",
+   "source": "Reddit r/f1visa",
+   "id": "49d7639bb7c3",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "Travel internationally with Pending/Approved I140 while on F1 Visa",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xuueme/travel_internationally_with_pendingapproved_i140/",
+   "published": "2026-11-13T01:10:22+00:00",
+   "excerpt": "I have been very confused and hesitant about taking an international trip to visit my family. I currently have a valid visa until next year and a valid EAD card. My I-140 petition is still pending after I submitted a response to the RFE. Has anyone recently traveled internationally while their I-140 was pending, approved, or denied and experienced any issues re-entering the U.S.? Most of the posts and experiences I’ve found are from a year or more ago, so I’d really appreciate hearing about more recent experiences. I’m especially concerned about whether traveling under these circumstances could cause any issues or complications when returning to the United States. Any advice or experiences w",
+   "author": "/u/PikaPika-3",
+   "source": "Reddit r/f1visa",
+   "id": "e8ea3a7c1780",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "PREMIUM PROCESSING ??",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xuuvt2/premium_processing/",
+   "published": "2026-11-13T01:33:00+00:00",
+   "excerpt": "Hi everyone ! I applied for premium processing OPT on September 24 Biometrics October 13 and currently as of today November 11 it still states “the clock has started”. When do we assume I’ll be receiving my card or even an approval status ? Would appreciate some insight from people that have also applied for PP on the onset submitted by /u/eyespyeyez [link] [留言]",
+   "author": "/u/eyespyeyez",
+   "source": "Reddit r/f1visa",
+   "id": "beb59b5ffff3",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "June 2026 initial 0 P T still pending after 5+ months. Anyone else in the same boat?",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xuif3a/june_2026_initial_0_p_t_still_pending_after_5/",
+   "published": "2026-11-12T17:10:16+00:00",
+   "excerpt": "I filed my initial post-completion 0 P T (| -765, C03B) on June 7, 2026, completed biometrics on July 9, and my case has still been stuck on \"USCIS is currently processing the case\" with no RFE or other update. USCIS currently shows about a 5-month processing time, but my formal inquiry date is not until December 11. For anyone who filed around May/June/July 2026: when did you file, and when were you approved? I'm trying to understand whether this kind of delay is becoming normal or if I'm unusually far behind. I'm also debating whether to pay for premium processing now. Has anyone upgraded this late in the process, and was it worth it? Did you actually get a decision within the premium-proc",
+   "author": "/u/Brilliant_Picture_86",
+   "source": "Reddit r/f1visa",
+   "id": "e44e1eeb3930",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "STEM OPT Premium Processing – 30 Business Days Exceeded",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xup6gw/stem_opt_premium_processing_30_business_days/",
+   "published": "2026-11-12T21:24:39+00:00",
+   "excerpt": "Has anyone here exceeded the 30-business-day premium processing deadline for STEM OPT without a decision? For those who went past 30 business days, how many additional days did it take to get a decision? submitted by /u/Actual_Assist_8323 [link] [留言]",
+   "author": "/u/Actual_Assist_8323",
+   "source": "Reddit r/f1visa",
+   "id": "839658ff2df6",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "People who have their opt approved after upgrading to pp, do you mind sharing your timline?",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xuy0v6/people_who_have_their_opt_approved_after/",
+   "published": "2026-11-13T04:08:15+00:00",
+   "excerpt": "Hey everyone! For those who upgraded their initial OPT to premium processing, how long did it take to get approved? My timeline: June 25: Filed initial OPT (regular processing). July 14: Biometrics completed. October 22: Applied for premium processing. November 12: Still no updates. Would really appreciate you sharing your experience! My job is supposed to start on November 30, and I'm honestly not sure how to approach this situation with my employer. I'm particularly concerned because it's a nurse residency program, so if my start date gets pushed, I may have to wait another month to join the next cohort. submitted by /u/Aurora0125 [link] [留言]",
+   "author": "/u/Aurora0125",
+   "source": "Reddit r/f1visa",
+   "id": "b6ea0827d8e4",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "Pending I140, currently on F1, via till 2028 and I20 May 2028",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xuv09b/pending_i140_currently_on_f1_via_till_2028_and/",
+   "published": "2026-11-13T01:38:52+00:00",
+   "excerpt": "Hello, I have a question, I have applied for I140 last year and got denied. So applied this year as well. Now I am planning to travel outside US for a short trip in January. Is it recommended? Anyone has experienced any difficulty? submitted by /u/Alarming_Bonus_6566 [link] [留言]",
+   "author": "/u/Alarming_Bonus_6566",
+   "source": "Reddit r/f1visa",
+   "id": "01f6ef6dadd4",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "Title: OPT Students – Let's Connect! Opportunities, Networking & Career Support",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xuks8k/title_opt_students_lets_connect_opportunities/",
+   "published": "2026-11-12T18:37:10+00:00",
+   "excerpt": "Hi everyone! I’m currently working as an OPT Recruiter and would love to connect with students and recent graduates who are on OPT or STEM OPT in the USA. If you are: Currently on OPT or STEM OPT. Recently graduated and looking for job opportunities. Actively searching for opportunities in IT or related fields. Interested in networking with recruiters and expanding your professional connections. Feel free to connect with me! I'd be happy to connect, learn about your skills and experience, and discuss potential career opportunities that may align with your profile. Let's build connections and help each other grow professionally! You can connect with me on LinkedIn: 🔗 https://www.linkedin.com/",
+   "author": "/u/shiva1120",
+   "source": "Reddit r/f1visa",
+   "id": "4187892551c3",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "OPT/CPT Query ...",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xukl1o/optcpt_query/",
+   "published": "2026-11-12T18:29:43+00:00",
+   "excerpt": "I am an international student in the USA and will be graduating in May. Is it possible for me to do an internship right after I graduate under OPT for 3 months in my major and then get a job starting in August in my field? My major doesn't have a mandatory internship, so I can't do it rn bc of the new rule changes. Also, will there be any effect on my working hours, like I can't work more than 40 hrs with my OPT? submitted by /u/ComprehensiveDay1227 [link] [留言]",
+   "author": "/u/ComprehensiveDay1227",
+   "source": "Reddit r/f1visa",
+   "id": "ac2abcde3cba",
+   "policy_signal": true,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "F1 Renewal during final year of PhD",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xuivjb/f1_renewal_during_final_year_of_phd/",
+   "published": "2026-11-12T17:26:51+00:00",
+   "excerpt": "I am currently a PhD candidate in my final year. My current F-1 visa expires in May 2027, but my I-20 has been extended until May 2028. Due to a family emergency, I am planning to renew my F-1 visa so that I can travel back and forth between the U.S. and Bangladesh over the next few years, including while I am on OPT. My plan is to complete the DS-160 form now and start looking for visa interview appointments, hopefully securing a date sometime in December or January. However, I have been hearing mixed opinions about the risks involved in renewing my visa while my current one is still valid. Specifically, if my renewal application is denied, would that affect my existing F-1 visa? Another co",
+   "author": "/u/MaintenanceNo342",
+   "source": "Reddit r/f1visa",
+   "id": "2d7a6e111f0d",
+   "policy_signal": true,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "Higher salary vs. potential early green card processing. What would you choose?",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xumy8g/higher_salary_vs_potential_early_green_card/",
+   "published": "2026-11-12T19:56:58+00:00",
+   "excerpt": "I'm an international student graduating with a STEM master's degree and have two job offers. Option A: Large company offering around $115k base (Level 3 prevailing wage) + stock and relocation. Great career opportunity, and they sponsor H-1B, but won't consider green card sponsorship unless I'm on H-1B. Option B: Smaller engineering firm offering around $80k base (Level 1 prevailing wage) + bonuses and overtime. They've confirmed H-1B sponsorship and mentioned that we could revisit green card sponsorship at my one-year anniversary or sooner. They also don't require H-1B status to start EB-2 PERM. I'm really torn. The pay difference is huge, but having a possible green card pathway while on O",
+   "author": "/u/Vast_Mundane",
+   "source": "Reddit r/f1visa",
+   "id": "36502af777fa",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "Is it safe to travel to India while on OPT, given the current US immigration situation and upcoming H-1B lottery?",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xunk6u/is_it_safe_to_travel_to_india_while_on_opt_given/",
+   "published": "2026-11-12T20:20:21+00:00",
+   "excerpt": "Hi everyone, I'm currently on OPT and working as a software engineer at a startup in the US. The company is doing pretty well, growing steadily, and I'm happy with my job. I'm planning to travel to India, but I'm concerned about the current immigration situation and whether I could face issues when returning to the US. A little about my situation: Currently working on OPT as a software engineer. Working at a legitimate, growing startup. My company is registered at one location but has its actual office in another location. Because of work location changes, my location has been updated twice in payroll/paychecks. My employer is planning to sponsor me for the upcoming H-1B lottery. My biggest ",
+   "author": "/u/userman12334",
+   "source": "Reddit r/f1visa",
+   "id": "aec46a7ad4aa",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "Renewing expired F-1 visa while on first year OPT",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xu0zpd/renewing_expired_f1_visa_while_on_first_year_opt/",
+   "published": "2026-11-12T02:28:48+00:00",
+   "excerpt": "Hey everyone! I'm a Peruvian international student who graduated from a U.S. university in May 2026 with a STEM degree. I'm currently on my initial 12-month OPT, working full-time at a U.S. company since August. Here's my situation: Graduated in May 2026 Currently employed full-time on OPT EAD expires in July 2027 Eligible for the 24-month STEM OPT extension afterward. My F-1 visa stamp has expired, but I'm maintaining valid F-1 status in the U.S. I have an updated I-20 showing my employer. I really want to go home to Peru for Christmas to spend time with my family. However, I know that because my F-1 visa has expired, I'd need to renew it at the U.S. Embassy in Peru before returning My bigg",
+   "author": "/u/ManagerFun6662",
+   "source": "Reddit r/f1visa",
+   "id": "53ae14220987",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
+   "title": "F1 visa application on OPT",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xu0snd/f1_visa_application_on_opt/",
+   "published": "2026-11-12T02:19:18+00:00",
+   "excerpt": "I'm currently on post-completion OPT. I will be getting STEM OPT for two years next year. Has anyone had any stories applying for an F-1 visa while on STEM OPT? Are there any common issues with it? submitted by /u/IntelligentSlice1765 [link] [留言]",
+   "author": "/u/IntelligentSlice1765",
+   "source": "Reddit r/f1visa",
+   "id": "c72350d8051a",
+   "policy_signal": false,
+   "relevance": null,
+   "first_seen": "2026-11-14T13:19:35.954041+08:00"
+  },
+  {
    "title": "Congressman Riley M. Moore Leads Letter Urging DHS to End OPT Program, Protect American Workers - Representative Riley Moore | (.gov)",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3JRX0pRMk9iYWFCV2NOeS0tMzl1MTFTbjZsUUhFN2thelp4RUZaTnJEZXBMWUdGTVVQTmhjY2duSlg3ZWdaeTh5TERSZzhOblhqRUI1UkZwbWdaamlUWUU3UGdrLXJhZnpkRXl5U2l4VmZQc1Q0aFFQRmVlNkZ5N3A4cU9tVEFIV21mRGNNRHVEYzBUTGViNkR5TEJIaXpRYmVDNDRmRGpNWTVEcnItSmlUU19TYmZ3cW0wZmZ5UQ?oc=5",
    "published": "2026-04-20T07:00:00+00:00",
@@ -67,6 +331,8 @@
    "id": "5aaa898c1d9c",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
   },
   {
@@ -79,18 +345,8 @@
    "id": "6991ac405cb3",
    "policy_signal": false,
    "relevance": null,
-   "first_seen": "2026-11-13T13:30:22.981154+08:00"
-  },
-  {
-   "title": "Brown University suspends CPT for international undergraduates - The American Bazaar",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdnotVWV1RkVVbExOT1pnS2JMS3diYlhxd2NfRmNKNk1EN2VsNUlqWEdKY3NMUFZPQ2tPdnpMN1gyaHVYVEFlSDl0ckJmOVVJbC03VG1TY2d5SVRkVHZfdUhrS200MWRFOTVXZzdVN1BCeXFKbGRZUWxnYXV2VU84YjJDeklBT2Z6aW02SHFkdTdJQlJqal9taHhoQjQtTVNpZzNsRmd4MjFUVDRyaXhNWVFB?oc=5",
-   "published": "2026-11-12T19:51:56+00:00",
-   "excerpt": "Brown University suspends CPT for international undergraduates The American Bazaar",
-   "author": null,
-   "source": "Google News",
-   "id": "c2381ee0075b",
-   "policy_signal": true,
-   "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
   },
   {
@@ -103,6 +359,8 @@
    "id": "0b0448bf0869",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
   },
   {
@@ -115,6 +373,8 @@
    "id": "d854e8c08865",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
   },
   {
@@ -127,6 +387,8 @@
    "id": "375d56346f30",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
   },
   {
@@ -139,6 +401,8 @@
    "id": "0446a18fa85a",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
   },
   {
@@ -151,6 +415,8 @@
    "id": "1f9a09f8e385",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
   },
   {
@@ -163,6 +429,8 @@
    "id": "1d526e0f37f5",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
   },
   {
@@ -175,6 +443,8 @@
    "id": "e912e2df9364",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
   },
   {
@@ -187,6 +457,8 @@
    "id": "cab84c29c2f7",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
   },
   {
@@ -199,6 +471,8 @@
    "id": "3a67760a5dd1",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
   },
   {
@@ -211,6 +485,8 @@
    "id": "6a832c29048a",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
   },
   {
@@ -223,6 +499,8 @@
    "id": "3b7491920b62",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
   },
   {
@@ -235,6 +513,8 @@
    "id": "ed91ed912117",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
   },
   {
@@ -247,6 +527,8 @@
    "id": "72054276cdf6",
    "policy_signal": false,
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
   },
   {
@@ -257,6 +539,20 @@
    "author": "mmckee",
    "source": "Study in the States",
    "id": "dbc536ff46ab",
+   "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-13T13:30:22.981154+08:00"
+  },
+  {
+   "title": "Brown University suspends CPT for international undergraduates - The American Bazaar",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdnotVWV1RkVVbExOT1pnS2JMS3diYlhxd2NfRmNKNk1EN2VsNUlqWEdKY3NMUFZPQ2tPdnpMN1gyaHVYVEFlSDl0ckJmOVVJbC03VG1TY2d5SVRkVHZfdUhrS200MWRFOTVXZzdVN1BCeXFKbGRZUWxnYXV2VU84YjJDeklBT2Z6aW02SHFkdTdJQlJqal9taHhoQjQtTVNpZzNsRmd4MjFUVDRyaXhNWVFB?oc=5",
+   "published": "2026-11-12T19:51:56+00:00",
+   "excerpt": "Brown University suspends CPT for international undergraduates The American Bazaar",
+   "author": null,
+   "source": "Google News",
+   "id": "c2381ee0075b",
    "policy_signal": true,
    "relevance": null,
    "first_seen": "2026-11-13T13:30:22.981154+08:00"
@@ -332,6 +628,34 @@
    "first_seen": "2026-11-12T14:06:32.822407+08:00"
   },
   {
+   "title": "Any updates on the CPT lawsuit? Decision date scheduled yet?",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xtl60k/any_updates_on_the_cpt_lawsuit_decision_date/",
+   "published": "2026-11-11T15:48:26+00:00",
+   "excerpt": "Hello everyone! Has there been any new update regarding the CPT lawsuit? Has the court announced a decision date or provided any further clarification following the recent hearing? I currently have two job offers from hospitals, and I’m trying to figure out how to proceed given the uncertainty surrounding CPT. Would it be reasonable to move forward with a conditional offer for now and inform HR about the ongoing situation? Or would it be better to wait until there’s more clarity from the court? I’d really appreciate hearing from anyone who has received guidance from their DSO or has been in a similar situation. Thank you so much for your help submitted by /u/Miserable_Fact_6706 [link] [留言]",
+   "author": "/u/Miserable_Fact_6706",
+   "source": "Reddit r/f1visa",
+   "id": "6c28ba269030",
+   "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-12T14:06:32.822407+08:00"
+  },
+  {
+   "title": "Help Needed: OPT Application Still Processing, SEVIS reflects 'Completed'.",
+   "url": "https://www.reddit.com/r/f1visa/comments/1xts7gh/help_needed_opt_application_still_processing/",
+   "published": "2026-11-11T20:08:40+00:00",
+   "excerpt": "Hi everyone, I am in a very stressful situation. I seeking any information that helps. Following is what happened: I submitted my OPT application on March 27, 2026 and completed biometrics in April 27. On July 21, my DSO mentioned that my OPT application is still 'recommended' rather then 'pending'. I then realized that I submitted Pre-Completion OPT rather than Post-Completion OPT. On July 23, I submitted 'Typographical Error' service request for Category correction. I also uploaded category correction letter in USCIS portal explaining the cergical error. On September 1, I physically mailed the category correction letter, notices, and I-20 to Texas USCIS facility. On September 14, I receive",
+   "author": "/u/HelloWorld-2058",
+   "source": "Reddit r/f1visa",
+   "id": "a6d5cda9b611",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-12T14:06:32.822407+08:00"
+  },
+  {
    "title": "Yale GSAS quietly removed the option to stay registered during full-time summer internships. Heads up for international and native American PhDs",
    "url": "https://www.reddit.com/r/f1visa/comments/1xu49a0/yale_gsas_quietly_removed_the_option_to_stay/",
    "published": "2026-11-12T05:16:04+00:00",
@@ -344,18 +668,6 @@
    "first_seen": "2026-11-12T14:06:32.822407+08:00"
   },
   {
-   "title": "Any updates on the CPT lawsuit? Decision date scheduled yet?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1xtl60k/any_updates_on_the_cpt_lawsuit_decision_date/",
-   "published": "2026-11-11T15:48:26+00:00",
-   "excerpt": "Hello everyone! Has there been any new update regarding the CPT lawsuit? Has the court announced a decision date or provided any further clarification following the recent hearing? I currently have two job offers from hospitals, and I’m trying to figure out how to proceed given the uncertainty surrounding CPT. Would it be reasonable to move forward with a conditional offer for now and inform HR about the ongoing situation? Or would it be better to wait until there’s more clarity from the court? I’d really appreciate hearing from anyone who has received guidance from their DSO or has been in a similar situation. Thank you so much for your help submitted by /u/Miserable_Fact_6706 [link] [留言]",
-   "author": "/u/Miserable_Fact_6706",
-   "source": "Reddit r/f1visa",
-   "id": "6c28ba269030",
-   "policy_signal": true,
-   "relevance": null,
-   "first_seen": "2026-11-12T14:06:32.822407+08:00"
-  },
-  {
    "title": "STEM OPT (F-1) student: short business trip to Mexico. Anyone done this? What should I check?",
    "url": "https://www.reddit.com/r/f1visa/comments/1xtzrj7/stem_opt_f1_student_short_business_trip_to_mexico/",
    "published": "2026-11-12T01:28:54+00:00",
@@ -363,18 +675,6 @@
    "author": "/u/DifferenceLeather563",
    "source": "Reddit r/f1visa",
    "id": "cf31c0856edd",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-11-12T14:06:32.822407+08:00"
-  },
-  {
-   "title": "Help Needed: OPT Application Still Processing, SEVIS reflects 'Completed'.",
-   "url": "https://www.reddit.com/r/f1visa/comments/1xts7gh/help_needed_opt_application_still_processing/",
-   "published": "2026-11-11T20:08:40+00:00",
-   "excerpt": "Hi everyone, I am in a very stressful situation. I seeking any information that helps. Following is what happened: I submitted my OPT application on March 27, 2026 and completed biometrics in April 27. On July 21, my DSO mentioned that my OPT application is still 'recommended' rather then 'pending'. I then realized that I submitted Pre-Completion OPT rather than Post-Completion OPT. On July 23, I submitted 'Typographical Error' service request for Category correction. I also uploaded category correction letter in USCIS portal explaining the cergical error. On September 1, I physically mailed the category correction letter, notices, and I-20 to Texas USCIS facility. On September 14, I receive",
-   "author": "/u/HelloWorld-2058",
-   "source": "Reddit r/f1visa",
-   "id": "a6d5cda9b611",
    "policy_signal": false,
    "relevance": null,
    "first_seen": "2026-11-12T14:06:32.822407+08:00"
@@ -3998,20 +4298,6 @@
    "first_seen": "2026-10-23T11:44:04.724273+08:00"
   },
   {
-   "title": "More I-94 Monitoring + Timely EOS Filing for Employers as DHS Reshapes F-1 and J-1 Framework - Jackson Lewis",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFFlTVpjRnNiUEppaW9RdGRjTENVWDRfZ1pnSzFZV0p6aFZsYUJxTnh3Wk1RNDNaaUtwZWhjTkpFVUJvUDhZMzFVLUFMdVMwWHZTVnNiUGhsMEY3ODYyb2ZoME5KZ2JmMnY1c1ZNdU9mWHZKUkdSbjdaeVRQTGlrM3ZpOFpWRmtyWTlCN0NiWFdPaUwxN2lUYW9jTVRLeU11YXJ2OXdIblQwYkRPWWctdjBtMGFFR21yS2J5aVVn?oc=5",
-   "published": "2026-07-20T07:00:00+00:00",
-   "excerpt": "More I-94 Monitoring + Timely EOS Filing for Employers as DHS Reshapes F-1 and J-1 Framework Jackson Lewis",
-   "author": null,
-   "source": "Google News",
-   "id": "94b861093d53",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-22T11:39:32.977216+08:00"
-  },
-  {
    "title": "USCIS Final Rule Ends 540-Day Automatic EAD Extension for Key Categories - Mintz",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmdHc1hlRFk4SDh3aktDci1CZmxQSnRxaDMyRjNFaWhkRUw5blpQU0hVSF9xNHV5cFljTjU4WE1uNVZaQjhCb0VEWnE2NW1obUNERGp5NlZFOEpkbzIybUNSR0I1N2ZnNUc0Ry1tdFRkNmJZVnRGZkI4clhrTFVfdGJCVzZDUjBuMXAtNlRUM241bE1waTVpMnN0b2dOOW9NMmdabU1JWXJyWV9qa2U0QVphbFZCN3hHQ2c?oc=5",
    "published": "2026-10-15T07:00:00+00:00",
@@ -4020,6 +4306,20 @@
    "source": "Google News",
    "id": "8198d896c8d0",
    "policy_signal": true,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-22T11:39:32.977216+08:00"
+  },
+  {
+   "title": "More I-94 Monitoring + Timely EOS Filing for Employers as DHS Reshapes F-1 and J-1 Framework - Jackson Lewis",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFFlTVpjRnNiUEppaW9RdGRjTENVWDRfZ1pnSzFZV0p6aFZsYUJxTnh3Wk1RNDNaaUtwZWhjTkpFVUJvUDhZMzFVLUFMdVMwWHZTVnNiUGhsMEY3ODYyb2ZoME5KZ2JmMnY1c1ZNdU9mWHZKUkdSbjdaeVRQTGlrM3ZpOFpWRmtyWTlCN0NiWFdPaUwxN2lUYW9jTVRLeU11YXJ2OXdIblQwYkRPWWctdjBtMGFFR21yS2J5aVVn?oc=5",
+   "published": "2026-07-20T07:00:00+00:00",
+   "excerpt": "More I-94 Monitoring + Timely EOS Filing for Employers as DHS Reshapes F-1 and J-1 Framework Jackson Lewis",
+   "author": null,
+   "source": "Google News",
+   "id": "94b861093d53",
+   "policy_signal": false,
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -8540,380 +8840,6 @@
    "first_seen": "2026-10-01T12:37:04.478600+08:00"
   },
   {
-   "title": "New CPT rules threaten the future of international students at Brandeis - thejustice.org",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU0JEZmR1RUFXM042dkN4M3Z2Zk9wWUs2REpnMzZtRGd5Rk9VQ3F0V0I5b1VxTmFVbnAwaVVmc1RIZm1uT2J5cmFuOERPS2s2aTJ0aFdhTzlVOUJwQm8tMERYSVR2RzhmeFRzSGttNC1DN3VvT3FxWjYyN1VkUHNlVjRWb1FwV3hCcnhOeXRCeTF1aVd5WGE3WGY1TmRtSXQxZm91SmprQnNsZS1XOVduREFtYVI?oc=5",
-   "published": "2026-09-29T10:01:53+00:00",
-   "excerpt": "New CPT rules threaten the future of international students at Brandeis thejustice.org",
-   "author": null,
-   "source": "Google News",
-   "id": "749bb1571a8d",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "USF international students affected as ICE tightens CPT approvals - usforacle.com",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEpCYlU3N0t6ZkdOVndUNEltOW5VZ0dmb05sYmlVRURuOEI0ZjJTbGZTcTRQSFotNEtzUDg5a042Vm5hX1NCQ21pV3JHcTFYQWRYd1Bjb0R0SzhoRkFEYmVYREtUM0l6S3ZpcEpId1ZqeXBOeVFxRklRc0pSRjRvYm1vd2pzVm9GV1FlemI1WFE0bExlQnc?oc=5",
-   "published": "2026-09-29T19:54:57+00:00",
-   "excerpt": "USF international students affected as ICE tightens CPT approvals usforacle.com",
-   "author": null,
-   "source": "Google News",
-   "id": "e92405712d95",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "Visa rule leaves international students uncertain - utdmercury.com",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUDNCX2VXT0hPYU1qeUxJb3FZdDFzSW1aSkhzY2l5VnVaSVY4UUNWOW5obE5DcVl6MEJycW9tUmYtRHJpTVc0cHFTTlR2YzB0STRleVVMX2lJWWdoZG8ydm1BbkxPYXBmVXlYWWZXdmpBZ2hNM1QzVmdXcmE5VUFpVzdWclVDWEJQSy1WOA?oc=5",
-   "published": "2026-09-29T03:03:08+00:00",
-   "excerpt": "Visa rule leaves international students uncertain utdmercury.com",
-   "author": null,
-   "source": "Google News",
-   "id": "822c7a246789",
-   "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "70CDCR21C00000001 P00006: Emergency Family Centers - San Antonio, TX",
-   "url": "https://www.ice.gov/node/70347",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "9fd98492f99d",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "70CDCR21C00000001 P00005: Emergency Family Centers - San Antonio, TX",
-   "url": "https://www.ice.gov/node/70346",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "0679ea60e26c",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "International enrollment decreased for second year, visa delays are blamed - The State Press",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ2pKclh5WDN1MnFwc3lGNl9KZjFwSWV0eWtKdmlNUjNEZTF4bnRUbkFPRjk0NmY2RlY1cU51dFJnSk1UckJ3T19tZ1lTenp5eWh1S0pkdVZvaWdFRm5HWjVzRmt0TnVkR095QjF4SnN6aDdhWlpmWjRNNzlJQUg1QjFTV3d2UQ?oc=5",
-   "published": "2026-09-30T02:26:00+00:00",
-   "excerpt": "International enrollment decreased for second year, visa delays are blamed The State Press",
-   "author": null,
-   "source": "Google News",
-   "id": "5abd28f297ea",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "70CDCR21C00000001 P00004: Emergency Family Centers - San Antonio, TX",
-   "url": "https://www.ice.gov/node/70345",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "cf362bd4738f",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "70CDCR21C00000001 P00003: Emergency Family Centers - San Antonio, TX",
-   "url": "https://www.ice.gov/node/70344",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "da5b377087d9",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "70CDCR21C00000001 P00002: Emergency Family Centers - San Antonio, TX",
-   "url": "https://www.ice.gov/node/70343",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "c6d485cf02f1",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "70CDCR21C00000001 P00001: Emergency Family Centers - San Antonio, TX",
-   "url": "https://www.ice.gov/node/70342",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "960dab229f05",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "ICE lodges immigration detainer against criminal illegal alien linked to Virginia high school fentanyl overdoses",
-   "url": "https://www.ice.gov/news/releases/ice-lodges-immigration-detainer-against-criminal-illegal-alien-linked-virginia-high",
-   "published": null,
-   "excerpt": "On Aug. 20, the Loudoun County Sheriff's Office arrested Isaac Melendez-Carranza, 31, a criminal illegal alien from El Salvador, for possession with intent to distribute a controlled substance within 1,000 feet of a school and possession with intent to manufacture, sell or distribute fentanyl.",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "977dbcc9ef8c",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "ParticipatingAgencies09252026pm",
-   "url": "https://www.ice.gov/node/70305",
-   "published": null,
-   "excerpt": "",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "9de60dd944c5",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "ICE arrests 121 during summer enforcement initiative in Texas lake community, including 2 members of the Tren de Aragua terrorist organization",
-   "url": "https://www.ice.gov/news/releases/ice-arrests-121-during-summer-enforcement-initiative-texas-lake-community-including-2",
-   "published": null,
-   "excerpt": "The initiative began June 27 and ended on Labor Day weekend. ICE Dallas led the operation with support from various state and federal agencies.",
-   "author": null,
-   "source": "ICE 新聞稿",
-   "id": "cac80f23e168",
-   "policy_signal": false,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "‘You’re killing my future options:’ Quinnipiac international students face uncertain future amid new proposed regulations - The Quinnipiac Chronicle",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOTRLLVBtNE9lMG1wTUE2aHBYV0xoTmhidXVJeVd2d3lIOTdUdGJhTVNQdkNqTlI5aDZvOV96TVJ4TFBWMExJVmswalB6OWtYMHpVVmJ3ZWxHU1Bvb0JOc3VjNWFHRjhuUmExZHJIRGRvRFdtU20zc284eXRVNHZXTEF6bnNFRHRUV3E1aXhZSElwT2pCREUxRjZSaXI1QzBUdmcwNEZsaklnd29OTmtadlZOTTVSM29Jb2tFYVFKa1hqNVo2cVE1bFctdzRvOTRBSi0xZkM5OTlOZng3aVIyZS1mc2YyMTkxWHNwMHBB?oc=5",
-   "published": "2026-09-30T01:46:32+00:00",
-   "excerpt": "‘You’re killing my future options:’ Quinnipiac international students face uncertain future amid new proposed regulations The Quinnipiac Chronicle",
-   "author": null,
-   "source": "Google News",
-   "id": "72066965b1ce",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "F-1 visa expires before graduation — can I renew it while on OPT and re-enter the U.S.?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wttixb/f1_visa_expires_before_graduation_can_i_renew_it/",
-   "published": "2026-09-30T02:39:12+00:00",
-   "excerpt": "Hi everyone, I’m an international student currently studying in the U.S. and I’m expected to graduate at the end of December 2026. My current F-1 visa stamp expired this year, but my I-20/program continues through December. I’m planning to apply for OPT; I got an offer letter for a job to work in the U.S. after graduation. Since my degree is STEM-eligible, I may stay and work under OPT/STEM OPT for up to around three years if everything goes as planned. After my OPT is approved and I receive my EAD card, I’m thinking about going back to my home country for a short break to visit my family before returning to the U.S. to start/continue working. My questions are: Since my F-1 visa stamp will a",
-   "author": "/u/Imaginary_Space_7432",
-   "source": "Reddit r/f1visa",
-   "id": "85e76db85c4d",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "seeking advice for Start Date (may applicant)",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wtnbo1/seeking_advice_for_start_date_may_applicant/",
-   "published": "2026-09-29T21:52:51+00:00",
-   "excerpt": "I recently received two job offers. Neither employer asked about OPT or work authorization during the application or interview process, and one of them has sponsored H1B in the past. They’re now sending onboarding paperwork, with proposed start dates of October 7 and October 17, but I’m still waiting for my initial post-completion OPT approval/EAD. For reasons outside of my control, I wasn’t able to apply for OPT until May 18th, and I’m hoping to receive it by October, but with the delays that’s uncertain. How can I ask my employer to delay the start date, and explain the situation with OPT? For others who have been in this situation, were employers willing to keep the offer open without a c",
-   "author": "/u/ConsiderationEven670",
-   "source": "Reddit r/f1visa",
-   "id": "3e99f366fcf3",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "STEM OPT E verify question",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wtv6dy/stem_opt_e_verify_question/",
-   "published": "2026-09-30T04:04:26+00:00",
-   "excerpt": "Company A (where I currently work) was acquired by Company B. I would remain employed and paid by Company A, which is enrolled in E-Verify and potentially could sign my I-983, but I would physically work at Company B’s facility in another state. Company B’s worksite address is not a hiring site listed under Company A’s E-Verify enrollment. Only company A's headquarters address is listed on their e-verify. For STEM OPT, can I still use Company A’s E-Verify information, or does the physical worksite itself also need to be enrolled under Company A’s E-Verify account? I'm so confused and would appreciate any DSO's insight and insights from students who went through a similar thing. submitted by ",
-   "author": "/u/WarmLilly",
-   "source": "Reddit r/f1visa",
-   "id": "1d14132bafdd",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "Biometrics timeline",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wtulg6/biometrics_timeline/",
-   "published": "2026-09-30T03:33:48+00:00",
-   "excerpt": "Hope everyone is doing well. I received the receipt notices for Forms I-765 and I-907, with a receipt date of September 27, 2026. What are the chances that I will receive a biometrics notice? I’m a little concerned that I may have missed something or made a mistake in my application. Has anyone with a recent OPT application had a similar timeline? submitted by /u/deadsec26 [link] [留言]",
-   "author": "/u/deadsec26",
-   "source": "Reddit r/f1visa",
-   "id": "1578a66c41db",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "Anyone with the same OPT timelines as me [Regular: May 6, 2026 | Upgraded to PP: Sept 16, 2026]",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wtu361/anyone_with_the_same_opt_timelines_as_me_regular/",
-   "published": "2026-09-30T03:07:39+00:00",
-   "excerpt": "I applied for Post-Completion OPT (I-765) on May 6, 2026. Timeline: • Filed: May 6 • Biometrics: June 3 • Regular processing: 4+ months • Premium Processing (I-907) filed: September 16 • Receipt/email: September 18 • Service Center: Potomac • Category: C03B I still haven’t received my EAD. For anyone who upgraded a case after several months: • Were there any status updates before approval? • How long did card production and delivery take after approval? I have an offer to start mid next month I’d especially appreciate recent timelines from people who upgraded in September 2026 or had their I-765 pending for 4+ months. submitted by /u/Onlymypvthoes [link] [留言]",
-   "author": "/u/Onlymypvthoes",
-   "source": "Reddit r/f1visa",
-   "id": "593e6e583e60",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "Snap cleared me for L4 MLE but won’t team match or offer until I have my OPT EAD — how to navigate this?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wtrm07/snap_cleared_me_for_l4_mle_but_wont_team_match_or/",
-   "published": "2026-09-30T01:05:40+00:00",
-   "excerpt": "I’m a PhD student on F-1 and recently cleared all interviews for a Snapchat MLE role at L4. However, the recruiter said they cannot proceed with team matching or issue an offer until I have my OPT EAD card in hand. I also have another MLE offer from Stripe, but Snapchat is my preferred option due to location. My concern is that given the uncertainties in the market today I don’t want to make that decision without a signed or conditional offer from Snap. Being a PhD student, I can choose my graduation date around my start date and defend accordingly so I do not lose my unemployment days in case team matching takes too long, but I don't want to choose one at random because it could either dela",
-   "author": "/u/RevolutionaryTie1336",
-   "source": "Reddit r/f1visa",
-   "id": "9805fc5f721e",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "Travelling after applying for OPT(before graduated)-risks and advice",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wtmwsr/travelling_after_applying_for_optbefore/",
-   "published": "2026-09-29T21:36:02+00:00",
-   "excerpt": "Hello I am currently an international senior majoring in Electrical Engineering at UCLA who will be graduating next year in May 14 2027. I hold an Indian citizenship and I am on the F1 visa who will be applying for the OPT next year in Feb as I graduate in May 2027 so 90 days before. I wanna know if it will be ok for me to travel to Europe for a grad trip during the spring break which is March end for about 8 to 9 days. Will it be a problem to travel after applying for the OPT in Feb and waiting for it or it will be fine cuz I will be a F1 student till mid May. I want to avoid any issues or risks so any guidance or suggestions will be appreciated from people with past experience or knowledge",
-   "author": "/u/Mountain_Ad8263",
-   "source": "Reddit r/f1visa",
-   "id": "85e5d5f6ddf1",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "Required Documents for Online Post Completion OPT Application",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wtkgex/required_documents_for_online_post_completion_opt/",
-   "published": "2026-09-29T20:00:39+00:00",
-   "excerpt": "Those who have applied recently online for i765 post completion OPT, what documents are required to do online application? Did you upload official current student transcript on additional information. Also, are all the OPT applicants required to complete biometric? submitted by /u/Effective-Neat2052 [link] [留言]",
-   "author": "/u/Effective-Neat2052",
-   "source": "Reddit r/f1visa",
-   "id": "5dce50557d60",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "LL.M. on OPT — has anyone worked in AML / transaction monitoring?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wtoen3/llm_on_opt_has_anyone_worked_in_aml_transaction/",
-   "published": "2026-09-29T22:38:49+00:00",
-   "excerpt": "I'm an LL.M. graduate on post-completion OPT. BSA/AML and transaction monitoring analyst roles are constantly described as JD-advantage, and law grads clearly do this work — but For OPT the job has to be \"directly related to your major area of study.\" On paper transaction monitoring reads as a finance role, even though the actual work is applying federal regulation to facts. Has anyone with a law degree done this on OPT? Did the relatedness ever get questioned? submitted by /u/Effective-Scar2639 [link] [留言]",
-   "author": "/u/Effective-Scar2639",
-   "source": "Reddit r/f1visa",
-   "id": "397a6e64f5f3",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "How does automatic 180 day extension work?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wteuay/how_does_automatic_180_day_extension_work/",
-   "published": "2026-09-29T16:30:38+00:00",
-   "excerpt": "My EAD expires tomorrow and I’m about to start a new job with an e-verified employer. I’m still waiting on my STEM OPT adjudication but do I just take my expired EAD and I-797 to employer or do they need something else to verify the 180 day extension? I don’t want them to say ‘oh but your work permit is expired therefore you can’t work’ submitted by /u/a2cwy887752 [link] [留言]",
-   "author": "/u/a2cwy887752",
-   "source": "Reddit r/f1visa",
-   "id": "9beb1977a193",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "F1 Student NTA (Notice to Appear)",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wt72bp/f1_student_nta_notice_to_appear/",
-   "published": "2026-09-29T10:59:53+00:00",
-   "excerpt": "A few students I know received a Notice to Appear (NTA) in their myUSCIS accounts last week, along with biometrics appointment notices. This case their F-2 status had lapsed for various reasons. As a result, they received NTAs and biometrics appointments. In another case, an F-1 student's OPT application was denied because the university issued the I-20 recommendation incorrectly. Four months later, he received an NTA scheduling him for a master calendar hearing. submitted by /u/Many_Zucchini_335 [link] [留言]",
-   "author": "/u/Many_Zucchini_335",
-   "source": "Reddit r/f1visa",
-   "id": "b11535014cab",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "Traveling to my home country in the middle of a semester",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wt66s3/traveling_to_my_home_country_in_the_middle_of_a/",
-   "published": "2026-09-29T10:08:33+00:00",
-   "excerpt": "Has anyone traveled to their home country in the middle of an active semester? I needed to go back home for 6 days due to an emergency. Ide be missing 1 class for the time I’ll be gone. All my professors are okay with me leaving. submitted by /u/AggravatingMap8064 [link] [留言]",
-   "author": "/u/AggravatingMap8064",
-   "source": "Reddit r/f1visa",
-   "id": "01f6ccd46fcf",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "Why does USCIS website say my opt start date needs to be 30 days after my program end date?",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wt2je0/why_does_uscis_website_say_my_opt_start_date/",
-   "published": "2026-09-29T06:20:01+00:00",
-   "excerpt": "Urgent. I’m graduating this semester and my OPT Recommended start date by my DSO is 30 days after my program end date and the uscis website (while filing online) also is suggesting 30 days after only. I thought that rule is not enforced yet? And I was in the country before Sept 15th. Am I missing some news? submitted by /u/Little-Let-3730 [link] [留言]",
-   "author": "/u/Little-Let-3730",
-   "source": "Reddit r/f1visa",
-   "id": "c3f4f935bdf7",
-   "policy_signal": true,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "Losing 2 mo. Of OPT due to pending withdrawal request",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wt4gtg/losing_2_mo_of_opt_due_to_pending_withdrawal/",
-   "published": "2026-09-29T08:20:08+00:00",
-   "excerpt": "Hi guys, I was informed today by my DSO that I will lose 2 months of my post-completion OPT (10 months only), because USCIS had not processed my withdrawal request for my pre-completion OPT application. My withdrawal request was sent in through the online portal via a letter uploaded on Aug 12th. What are my options here? I graduate in December and have a job offer, so I want to get my post-completion OPT asap. submitted by /u/Relevant-Bet-51 [link] [留言]",
-   "author": "/u/Relevant-Bet-51",
-   "source": "Reddit r/f1visa",
-   "id": "a88faf1f5925",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
-   "title": "2nd April OPT Case, Normal Processing, Still waiting approval",
-   "url": "https://www.reddit.com/r/f1visa/comments/1wt1qmd/2nd_april_opt_case_normal_processing_still/",
-   "published": "2026-09-29T05:33:05+00:00",
-   "excerpt": "Hello Everyone, I applied for OPT on 2nd April and my biometric was on 5th May and I am yet to receive an approval. The only thing I changed on my site was address as I was moving to a new place. Is anyone going through the same thing and if so what have you done about the situation. TIA! UPDATE: GOT APPROVED TODAY, WHAT ARE THE CHANCES ! submitted by /u/NewtPsychological680 [link] [留言]",
-   "author": "/u/NewtPsychological680",
-   "source": "Reddit r/f1visa",
-   "id": "ccaae1496ac6",
-   "policy_signal": false,
-   "relevance": null,
-   "first_seen": "2026-09-30T12:25:56.507257+08:00"
-  },
-  {
    "title": "‘No planned changes’ to Dartmouth international student work program despite SEVP warning - The Dartmouth",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORzhyblNGcDBXandPUEE2UDhzcTY3MmdVR0JsNjZQOS04eDVJanpaUVdlcVFMMnFUVXY1OXdmNElrQjdyY0VabGxsRFRGR0tvU3B2Q1NjYTNDdGZNZjM4RER0TGpFdnBsTElwdzhLQ3BFQkMyVVYtV1k2WFFHN1FKWXZBcUcxVjRhdUstMVQ5LTJYVEkzVVZ6SEIzQktfZjVTekM1ME16clhQQTR6d0hvM0hoWDBMekpKTjRYbWR3QnhaQUFBRUlFQW56RWc2YjliSTJB?oc=5",
    "published": "2026-08-21T07:00:00+00:00",
@@ -9054,6 +8980,20 @@
    "first_seen": "2026-09-05T21:08:07.595859+08:00"
   },
   {
+   "title": "International students face new CPT scrutiny as Trump administration warns US universities - The American Bazaar",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaldNWHV5N0E5MUV2VFphNjNTQUxCdVZJMVRTVHhYUUVIMmVYZDlOYXJkZmdtZkpzNzBsRUpqbXVrV0dPNXppVHdvd1o5T1p0aEhqd2xDcTVfQTZucXFERDZzVnpmZFFHRUlhcnprUmt6b0wxMkhmdkp5N0pNSnRTLUZoT1BOUUVtc1lSMmY0ajdHM3NMODlqSGlwSlVDRGJVdldnZzhHaktweF85UW9SelF6SWNVQURHNE1NSElueTIwUnJWYk1saHctVVZjb3F5QnRQU0duUjhXdw?oc=5",
+   "published": "2026-08-28T07:00:00+00:00",
+   "excerpt": "International students face new CPT scrutiny as Trump administration warns US universities The American Bazaar",
+   "author": null,
+   "source": "Google News",
+   "id": "8b2f8ee84ac4",
+   "policy_signal": false,
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:08:07.595859+08:00"
+  },
+  {
    "title": "NU announces it will not approve experiential learning CPT requests from international students - The Daily Northwestern",
    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOS0hnbmJsSnVkZFlhdk1FLVZvcE8ySEloSVZBcUdOSlVmZnZLSUxjRnVFdkY3YzFNZTF2dnFfcEtlWXc2cVRDMFlmM3MwY09wZGU2enZHcG9ZbnE5TFd6X1EyaVJ3UEFQdGhoYlJZNHVubUtiYzR1b1RqR21UODd2RWY4cGtXQ3A0LWNJYXk5X2R5dnNrczNuVTFuWkFvRlBKNjZmVDN5eUlZdWdVUHVyMUFxbFF3YThzZzVlaEJsZS1iMUkzOXJjUWVzX0tNa3o3REJaWjdHQnE1TzZSM29yTGtUckE1eUlQU1NjNDJVRHQ5ckUzYi00MnU5SjZYUFlraTJPRlNDcTg?oc=5",
    "published": "2026-08-31T07:00:00+00:00",
@@ -9090,20 +9030,6 @@
    "source": "Google News",
    "id": "752950a509d6",
    "policy_signal": true,
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:08:07.595859+08:00"
-  },
-  {
-   "title": "International students face new CPT scrutiny as Trump administration warns US universities - The American Bazaar",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaldNWHV5N0E5MUV2VFphNjNTQUxCdVZJMVRTVHhYUUVIMmVYZDlOYXJkZmdtZkpzNzBsRUpqbXVrV0dPNXppVHdvd1o5T1p0aEhqd2xDcTVfQTZucXFERDZzVnpmZFFHRUlhcnprUmt6b0wxMkhmdkp5N0pNSnRTLUZoT1BOUUVtc1lSMmY0ajdHM3NMODlqSGlwSlVDRGJVdldnZzhHaktweF85UW9SelF6SWNVQURHNE1NSElueTIwUnJWYk1saHctVVZjb3F5QnRQU0duUjhXdw?oc=5",
-   "published": "2026-08-28T07:00:00+00:00",
-   "excerpt": "International students face new CPT scrutiny as Trump administration warns US universities The American Bazaar",
-   "author": null,
-   "source": "Google News",
-   "id": "8b2f8ee84ac4",
-   "policy_signal": false,
    "relevance": null,
    "summary": null,
    "tags": null,

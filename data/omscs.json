@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T13:29:17.024886+08:00",
+ "updated_at": "2026-11-14T13:18:50.583516+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -34,7 +34,7 @@
   {
    "name": "OMSCS 官方公告",
    "ok": true,
-   "count": 3,
+   "count": 10,
    "note": ""
   },
   {
@@ -52,6 +52,49 @@
  ],
  "items": [
   {
+   "title": "CS 7641 (ML) Syllabus has been updated for Spring 2027",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xvjk1g/cs_7641_ml_syllabus_has_been_updated_for_spring/",
+   "published": "2026-11-13T20:59:07+00:00",
+   "excerpt": "Overall, the biggest changes in the patch notes include removing RL and OL from the course, and focusing more on an individual/team project throughout the semester. Much more in depth on covering SL and UL, and it seems like projects are MUCH more structured (with provided templates!) Grades are now based on quizzes (15%), midterm (10%), individual (35%), and team (40%) projects. I'm taking this next semester, probably. Thoughts? submitted by /u/zehooves [link] [留言]",
+   "author": "/u/zehooves",
+   "source": "Reddit r/OMSCS",
+   "id": "80de52477621",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-14T13:18:50.583516+08:00"
+  },
+  {
+   "title": "Waitlisted CS6300, Needed for Graduation",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xvkffv/waitlisted_cs6300_needed_for_graduation/",
+   "published": "2026-11-13T21:33:30+00:00",
+   "excerpt": "Due to a massive brain fart on my end, along with some personal circumstances (that don't excuse said brain fart) I totally forgot registering for classes when my time ticket opened a week ago. Now I'm waitlisted on CS6300 (#234 on the list), and it's the last class I need to graduate this Spring (AI specialization, already applied for graduation and submitted the POS form). Was anyone else in a similar situation and ended up getting in, whether through the regular waitlist or getting priority due to graduation? Already emailed my advisor but wanted to see if there were others in my shoes while I wait to hear back. submitted by /u/titan_of_saturn [link] [留言]",
+   "author": "/u/titan_of_saturn",
+   "source": "Reddit r/OMSCS",
+   "id": "77b8abf1cc8f",
+   "admission_signal": true,
+   "keyword_hits": [
+    "waitlist"
+   ],
+   "relevance": null,
+   "first_seen": "2026-11-14T13:18:50.583516+08:00"
+  },
+  {
+   "title": "Quick question about NLP waitlist",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xvpf56/quick_question_about_nlp_waitlist/",
+   "published": "2026-11-14T01:13:10+00:00",
+   "excerpt": "I joined the NLP course waitlist today but did not see my position number on the list from the registration detail. Is that normal, or the number would be shown after a few days? submitted by /u/Main-Garlic6978 [link] [留言]",
+   "author": "/u/Main-Garlic6978",
+   "source": "Reddit r/OMSCS",
+   "id": "c1b262b7d642",
+   "admission_signal": true,
+   "keyword_hits": [
+    "waitlist"
+   ],
+   "relevance": null,
+   "first_seen": "2026-11-14T13:18:50.583516+08:00"
+  },
+  {
    "title": "Historical waitlist data for Computer Law",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xuulwm/historical_waitlist_data_for_computer_law/",
    "published": "2026-11-13T01:19:45+00:00",
@@ -64,6 +107,8 @@
     "waitlist"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-13T13:29:17.024886+08:00"
   },
   {
@@ -140,6 +185,20 @@
    "first_seen": "2026-11-12T14:05:38.790931+08:00"
   },
   {
+   "title": "New Benchmark Tests AI Memory for Household Robots",
+   "url": "https://omscs.gatech.edu/external-news/new-benchmark-tests-ai-memory-household-robots",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "cb2554d8ca79",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-12T14:05:38.790931+08:00"
+  },
+  {
    "title": "Additional Graduation Tickets",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xpjjsh/additional_graduation_tickets/",
    "published": "2026-11-06T18:01:15+00:00",
@@ -147,18 +206,6 @@
    "author": "/u/NerdBanger",
    "source": "Reddit r/OMSCS",
    "id": "c75c9f3abeac",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "first_seen": "2026-11-12T14:05:38.790931+08:00"
-  },
-  {
-   "title": "New Benchmark Tests AI Memory for Household Robots",
-   "url": "https://omscs.gatech.edu/external-news/new-benchmark-tests-ai-memory-household-robots",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "cb2554d8ca79",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2834,66 +2881,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-10-01T12:36:09.562200+08:00"
-  },
-  {
-   "title": "How did OMSCS change your career and life?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wtr2s8/how_did_omscs_change_your_career_and_life/",
-   "published": "2026-09-30T00:40:18+00:00",
-   "excerpt": "A lot of people have posted that it takes a lot of effort. If you are a current student, WHY did you choose this program? And HOW did it help your career and life after enrollment or graduation? submitted by /u/Tough-Ice-3353 [link] [留言]",
-   "author": "/u/Tough-Ice-3353",
-   "source": "Reddit r/OMSCS",
-   "id": "55ff03628d17",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:13.601481+08:00"
-  },
-  {
-   "title": "Joined in Fall 2026 and thinking of dropping already",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wth83k/joined_in_fall_2026_and_thinking_of_dropping/",
-   "published": "2026-09-29T17:59:29+00:00",
-   "excerpt": "I joined OMSCS this Fall 2026 only and I realised it is becoming very difficult to be on top of things. I am barely finishing the lectures. Writing reports, taking exams, posting discussions, I find them way too much to be managed alongside a full time job and a family. How are you managing this with other things? submitted by /u/navneet9135 [link] [留言]",
-   "author": "/u/navneet9135",
-   "source": "Reddit r/OMSCS",
-   "id": "30f66056a141",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:13.601481+08:00"
-  },
-  {
-   "title": "Are OMSCS Course Materials Outdated Compared to On-Campus MSCS or industry ?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wtn2u7/are_omscs_course_materials_outdated_compared_to/",
-   "published": "2026-09-29T21:42:40+00:00",
-   "excerpt": "Hi everyone! I have a question about the OMSCS course materials. I’ve come across two very different opinions on Reddit. On one hand, some people say that the OMSCS course content and academic rigor are broadly comparable to the on-campus MSCS courses. On the other hand, I’ve seen people complain that some OMSCS lectures and course materials are outdated. Which is more accurate? Are the recorded lectures simply older while the assignments, projects, readings, and overall curriculum are regularly updated? Or are there actually OMSCS courses where the material itself has become outdated compared with the current on-campus version or in person masters of other unis or industry? I’m particularly",
-   "author": "/u/dothisnightwing",
-   "source": "Reddit r/OMSCS",
-   "id": "18f54f96dd26",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:13.601481+08:00"
-  },
-  {
-   "title": "Any chance that new courses related to robot learning, simulation etc would be published soon?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wt9a5o/any_chance_that_new_courses_related_to_robot/",
-   "published": "2026-09-29T12:51:31+00:00",
-   "excerpt": "Hello all, I am really interested in the booming field of robot learning. Are there any plans to introduce some relevant modern material like Simulation, RL, imitation learning, diffusion, world models etc from a robotics perspective? My understanding is that similar courses exist on-campus. I felt that Computer Graphics in the AI era was a great course filled with cutting edge content! Looking forward to similar courses coming out in robotics in addition to Robotics: AI techniques which is a great fundamental course but quite outdated in today’s age. submitted by /u/Top-Persimmon8033 [link] [留言]",
-   "author": "/u/Top-Persimmon8033",
-   "source": "Reddit r/OMSCS",
-   "id": "f7d0ef7e5951",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-30T12:25:13.601481+08:00"
   },
   {
    "title": "The OMSCS Resources I Wish I Knew About Before Starting Georgia Tech’s Online MSCS",

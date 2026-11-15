@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T13:18:50.583516+08:00",
+ "updated_at": "2026-11-15T13:14:31.450539+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -28,7 +28,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "note": ""
   },
   {
@@ -52,6 +52,100 @@
  ],
  "items": [
   {
+   "title": "I might have to pass up on a life-changing opportunity",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xw313l/i_might_have_to_pass_up_on_a_lifechanging/",
+   "published": "2026-11-14T13:57:48+00:00",
+   "excerpt": "My paper was unexpectedly accepted at a major conference recently. Completely didn't plan for this to happen, never bothered to look for funding to attend. My undergrad was in a completely different field and I have zero academic experience in CS (I start OMSCS in Spring). Going to the conference is mandatory to be published but as a broke ass student going directly from undergrad to OMSCS, I don't have the means to self-fund. Does anyone know if OMSCS is able to fund students prior to them starting their first semester? The conference application early-bird ends before 2027 starts. submitted by /u/Plus_Deal33 [link] [留言]",
+   "author": "/u/Plus_Deal33",
+   "source": "Reddit r/OMSCS",
+   "id": "63e45ce20d98",
+   "admission_signal": true,
+   "keyword_hits": [
+    "accepted",
+    "application"
+   ],
+   "relevance": null,
+   "first_seen": "2026-11-15T13:14:31.450539+08:00"
+  },
+  {
+   "title": "Can anyone tell me where can I buy this awesome keychain?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xwkyse/can_anyone_tell_me_where_can_i_buy_this_awesome/",
+   "published": "2026-11-15T03:14:53+00:00",
+   "excerpt": "I love how vintage it looks! submitted by /u/FeelingNeither8270 [link] [留言]",
+   "author": "/u/FeelingNeither8270",
+   "source": "Reddit r/OMSCS",
+   "id": "fa52a60d81bf",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-15T13:14:31.450539+08:00"
+  },
+  {
+   "title": "Dr. Joyner Announces POST-OMSCS Graduate Credential Options!",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xvu5zw/dr_joyner_announces_postomscs_graduate_credential/",
+   "published": "2026-11-14T05:21:02+00:00",
+   "excerpt": "Below is an email from the god himself. Hey everyone! In the next few weeks, we hope to announce something that is specifically targeted at alumni. To participate, you'll need to return as a non-degree seeking student, though, and the deadline to apply for that to register during Phase II registration for Spring 2027 is December 1 . So, I wanted to go ahead and give y'all a preview of it in case you want to return and participate. We plan to soon create a new type of credential, specifically available to Georgia Tech MSCS graduates. The credential itself will be co-offered between the College of Computing and the College of Lifetime Learning as a non-credit credential awarded for completing ",
+   "author": "/u/GeorgePBurdell1927",
+   "source": "Reddit r/OMSCS",
+   "id": "c6047a2b923c",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-15T13:14:31.450539+08:00"
+  },
+  {
+   "title": "Any reviews about the conference?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xwci9q/any_reviews_about_the_conference/",
+   "published": "2026-11-14T20:31:18+00:00",
+   "excerpt": "Wondering what the goal of the omscs conference is? Is it more of a networking event? I was checking previous years's programs, and it didn't seem to be focused on technical presentations, mostly about mooc's, ed tech, etc? When does it make sense to attend in person or online? Please share any experience/reviews! submitted by /u/ShoePillow [link] [留言]",
+   "author": "/u/ShoePillow",
+   "source": "Reddit r/OMSCS",
+   "id": "d7bffa6493a7",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-15T13:14:31.450539+08:00"
+  },
+  {
+   "title": "Does Introduction to Quantum Computing cover mathematical derivations of quantum algorithms?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xwk1io/does_introduction_to_quantum_computing_cover/",
+   "published": "2026-11-15T02:26:52+00:00",
+   "excerpt": "I'm planning to take CS 7400: Introduction to Quantum Computing in Spring 2027. I noticed that the syllabus covers Grover's algorithm, Shor's algorithm, the Quantum Fourier Transform (QFT), Simon's algorithm, and other quantum algorithms. I looked at some of the course videos through my EdStem account, and the course seems quite basic. For those who have completed the course, I wanted to ask whether the lectures explain the mathematical derivations and proofs behind these algorithms step by step? I'd appreciate any insights from students who have taken the course. Thanks! P.S: I previously enrolled in a 36-hour quantum computing certification program organized by a prestigious university and",
+   "author": "/u/dothisnightwing",
+   "source": "Reddit r/OMSCS",
+   "id": "dc7743d7766b",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-15T13:14:31.450539+08:00"
+  },
+  {
+   "title": "Help finding my time ticket, Oscar down",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xwazww/help_finding_my_time_ticket_oscar_down/",
+   "published": "2026-11-14T19:27:14+00:00",
+   "excerpt": "Didn't realize how late it has gotten, been really busy this semester. Any way I can find what my ticket is with Oscar on maintenance this weekend? submitted by /u/JohnBGaming [link] [留言]",
+   "author": "/u/JohnBGaming",
+   "source": "Reddit r/OMSCS",
+   "id": "9563ed6866b4",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-15T13:14:31.450539+08:00"
+  },
+  {
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXRtclE5eHgxeG55N2gxTDlGbzI0d1EzTXVEOWRNSUxZRzdwb28wd1BaemhwY0JkRTBWcnV6Y3ZkTmRZZXhZeFd5ZmktUXZHdjNXT2NpeXpWSWlkUkhTYXJlOE5vYkdIbktpd29ocWZraFFGVm1ES3NwZWdNV0pEbjBEejNndjBKM29vajhWcWNsSnhsR0lRZTdmTF8yNnZxOWtmLTlGblA1cFhITEVuTXdn?oc=5",
+   "published": "2026-10-06T07:00:00+00:00",
+   "excerpt": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "225a87a78f8b",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-15T13:14:31.450539+08:00"
+  },
+  {
    "title": "CS 7641 (ML) Syllabus has been updated for Spring 2027",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xvjk1g/cs_7641_ml_syllabus_has_been_updated_for_spring/",
    "published": "2026-11-13T20:59:07+00:00",
@@ -62,6 +156,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-14T13:18:50.583516+08:00"
   },
   {
@@ -77,6 +173,8 @@
     "waitlist"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-14T13:18:50.583516+08:00"
   },
   {
@@ -2789,98 +2887,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-10-02T12:28:36.672107+08:00"
-  },
-  {
-   "title": "Calling bullshit on the OMSCS haters",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wucgja/calling_bullshit_on_the_omscs_haters/",
-   "published": "2026-09-30T18:17:53+00:00",
-   "excerpt": "I keep seeing the same \"OMSCS isn't worth it\" posts, so here's my rebuttal. Bias disclosure: I'm justifying my own time and money. I'm five classes in (GIOS, AOS, DC, EdTech, HCI), a PM in legacy enterprise tech, with a civil/aerospace undergrad, so I have a lot to gain here. \"You can learn all of this on your own for free.\" You could. You won't. The materials have been online for years, and ~95% of MOOC students never finish. You're paying for the forcing function: deadlines, autograders, TAs, classmates, and a grade. \"I didn't learn anything; it's busywork.\" Check which courses they took. There's a well-known low-effort path through this program. Show some backbone and take a tough course ",
-   "author": "/u/Sensei_Daniel_San",
-   "source": "Reddit r/OMSCS 錄取討論",
-   "id": "3512205930d5",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-01T12:36:09.562200+08:00"
-  },
-  {
-   "title": "Starting OMSCS in Spring 2027, traveling for 2 weeks in mid-January. How manageable is the first",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wu5orc/starting_omscs_in_spring_2027_traveling_for_2/",
-   "published": "2026-09-30T13:59:21+00:00",
-   "excerpt": "Admitted for Spring 2027 and planning the HCI, starting with this course. I'll be traveling for about two weeks in mid-January (different time zone, laptop and internet most days), so I'll likely miss part of weeks 1-2. I've read the syllabus and the reviews for the course I'm considering. For people who took an HCI course in a recent Spring or Fall, did the first two weeks have hard deadlines, or was it flexible enough to get ahead on lectures beforehand? submitted by /u/Prestigious_Gain7804 [link] [留言]",
-   "author": "/u/Prestigious_Gain7804",
-   "source": "Reddit r/OMSCS 錄取討論",
-   "id": "a4ed617daadd",
-   "admission_signal": true,
-   "keyword_hits": [
-    "admitted"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-01T12:36:09.562200+08:00"
-  },
-  {
-   "title": "Fall 2026 - College of Computing Graduation Celebration Date",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wup110/fall_2026_college_of_computing_graduation/",
-   "published": "2026-10-01T03:30:28+00:00",
-   "excerpt": "Hey Y’all, I’m planning to attend the College of Computing Graduation Ceremony (not the big one for all Masters students). When I check the website, I only see details for this past Spring’s celebration. I’m trying to plan a trip with my family to attend this event. As such, I was wondering if anyone has an updated link (maybe I’m looking at the wrong site) or any information on this. Thanks in advance! submitted by /u/baubble_tea [link] [留言]",
-   "author": "/u/baubble_tea",
-   "source": "Reddit r/OMSCS",
-   "id": "6f5b0e4a02cf",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-01T12:36:09.562200+08:00"
-  },
-  {
-   "title": "Should I continue OMSCS or withdraw",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wug9u5/should_i_continue_omscs_or_withdraw/",
-   "published": "2026-09-30T20:43:44+00:00",
-   "excerpt": "I’ve tried the OMSCS program a couple of times, but I always end up withdrawing because I simply don’t have the time or energy to learn effectively after a full day of work. As a busy tech lead, my days are demanding. Even though my company covers the tuition, I feel the opportunity cost of my time is too high. I already have a master’s in data science, and I don't care about collecting another degree—it won't move the needle for my career. My long-term goal is to transition into a Machine Learning Engineer (MLE) role. I’m questioning whether finishing this degree is actually helpful for that path, or if my time would be far better spent building side projects, taking targeted online courses",
-   "author": "/u/Amcnewbie",
-   "source": "Reddit r/OMSCS",
-   "id": "d8300d8634b9",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-01T12:36:09.562200+08:00"
-  },
-  {
-   "title": "OMSCS best professors you enjoyed learning from?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wu6v5w/omscs_best_professors_you_enjoyed_learning_from/",
-   "published": "2026-09-30T14:46:28+00:00",
-   "excerpt": "Who are the best professors in the OMSCS program you enjoyed learning from? What did you love the most about their teaching? Looking forward to hearing more positive vibes from current and ex students. submitted by /u/Tough-Ice-3353 [link] [留言]",
-   "author": "/u/Tough-Ice-3353",
-   "source": "Reddit r/OMSCS",
-   "id": "8c3553ba65bc",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-01T12:36:09.562200+08:00"
-  },
-  {
-   "title": "Transferring MCIT course credits to OMSCS",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wu59gy/transferring_mcit_course_credits_to_omscs/",
-   "published": "2026-09-30T13:41:24+00:00",
-   "excerpt": "I know this is a weird question. But has anyone started the MCIT program, completed a few core courses, dropped out, and were able to transfer those class credits to the OMSCS program? submitted by /u/errbone [link] [留言]",
-   "author": "/u/errbone",
-   "source": "Reddit r/OMSCS",
-   "id": "01c197220df8",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-01T12:36:09.562200+08:00"
   },
   {
    "title": "The OMSCS Resources I Wish I Knew About Before Starting Georgia Tech’s Online MSCS",

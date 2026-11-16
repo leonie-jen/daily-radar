@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T13:14:31.450539+08:00",
+ "updated_at": "2026-11-16T13:12:05.933133+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -52,6 +52,22 @@
  ],
  "items": [
   {
+   "title": "Internal transfer from OMSCS (Computing Systems) to OMS Cybersecurity",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xwt49t/internal_transfer_from_omscs_computing_systems_to/",
+   "published": "2026-11-15T11:22:06+00:00",
+   "excerpt": "I’m a current OMSCS student in the Computing Systems specialization and have completed two courses. I chose this specialization mainly because of the cost. My coursework is already security-focused, and I’ve worked in cybersecurity for about four years. Looking at what’s left in my degree plan, I’d get more value from the final project than from Graduate Algorithms, and OMS Cybersecurity seems to fit that better. It’s a more direct match for the career I’m building. I know OMS Cyber is a separate degree, but I’m hoping there’s a simpler route than a full new application. I’d rather not go back to my recommenders so soon after being admitted, since they already wrote letters for me last year.",
+   "author": "/u/italianshepherd",
+   "source": "Reddit r/OMSCS",
+   "id": "30b3f13603b5",
+   "admission_signal": true,
+   "keyword_hits": [
+    "admitted",
+    "application"
+   ],
+   "relevance": null,
+   "first_seen": "2026-11-16T13:12:05.933133+08:00"
+  },
+  {
    "title": "I might have to pass up on a life-changing opportunity",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xw313l/i_might_have_to_pass_up_on_a_lifechanging/",
    "published": "2026-11-14T13:57:48+00:00",
@@ -65,6 +81,8 @@
     "application"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-15T13:14:31.450539+08:00"
   },
   {
@@ -78,6 +96,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-15T13:14:31.450539+08:00"
   },
   {
@@ -91,6 +111,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-15T13:14:31.450539+08:00"
   },
   {
@@ -104,6 +126,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-15T13:14:31.450539+08:00"
   },
   {
@@ -117,6 +141,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-15T13:14:31.450539+08:00"
   },
   {
@@ -130,6 +156,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-15T13:14:31.450539+08:00"
   },
   {
@@ -143,6 +171,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-15T13:14:31.450539+08:00"
   },
   {
@@ -2842,51 +2872,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-10-03T12:11:09.535187+08:00"
-  },
-  {
-   "title": "OMSCS helped me land a ~300k MLE offer with 4 YOE",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wuqajx/omscs_helped_me_land_a_300k_mle_offer_with_4_yoe/",
-   "published": "2026-10-01T04:39:06+00:00",
-   "excerpt": "For all the people asking whether OMSCS is worth it, just wanted to throw my 2 cents in. Yes, it absolutely is worth finishing. GT on your resume is very well regarded. Feel free to ama. submitted by /u/Perfect_Kangaroo6233 [link] [留言]",
-   "author": "/u/Perfect_Kangaroo6233",
-   "source": "Reddit r/OMSCS",
-   "id": "19e9e96e1e7e",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-02T12:28:36.672107+08:00"
-  },
-  {
-   "title": "For anyone who took MUC during either of the past 2 summers, how was it?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wuop85/for_anyone_who_took_muc_during_either_of_the_past/",
-   "published": "2026-10-01T03:13:00+00:00",
-   "excerpt": "I have 2 classes left to take and one of them is MUC. My first class taken was during Fall 2022, so I think I need to complete everything by end of Summer 2028. MUC overall doesn't have great reviews, but the professor who teaches during Spring seemed to have the best ones. Because of that, I was originally planning to take it during Spring 2027, however I will now be traveling from January 16-Feb 2. I'd prefer not to have to worry about school during this trip, but could do so from January 27 onwards (but not between Jan 16-27). Rather than try to work ahead then play catch-up, I am thinking of just taking MUC in the summer so I'm curious to hear if anyone has had any recent positive experi",
-   "author": "/u/-wimp",
-   "source": "Reddit r/OMSCS",
-   "id": "f54f6a80f970",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-02T12:28:36.672107+08:00"
-  },
-  {
-   "title": "Fall 2026 commencement anyone know the master's ceremony date/time yet?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wuqwph/fall_2026_commencement_anyone_know_the_masters/",
-   "published": "2026-10-01T05:14:19+00:00",
-   "excerpt": "Hi everyone, finally wrapping up this fall and planning to fly out to Atlanta to walk. I know commencement is Dec 17 to 19 but the official schedule page still has the spring info up. So I haven't seen the actual day for the master's ceremony. Spring had it Saturday morning at so I'm guessing similar on Dec 19? A few questions Has anyone gotten the RSVP email from the school yet? From the website it says opening Oct 5 but not sure if they send something out first. Has anyone seen the official master's ceremony date/time for fall? Any tips for OMSCS folks flying in? Hotels near campus, how early to book, worth staying an extra day? submitted by /u/North_Vegetable_5520 [link] [留言]",
-   "author": "/u/North_Vegetable_5520",
-   "source": "Reddit r/OMSCS",
-   "id": "d95222a2068c",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-02T12:28:36.672107+08:00"
   },
   {
    "title": "The OMSCS Resources I Wish I Knew About Before Starting Georgia Tech’s Online MSCS",

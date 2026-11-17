@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T13:12:05.933133+08:00",
+ "updated_at": "2026-11-17T14:56:31.758982+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -22,13 +22,13 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 11,
+   "count": 9,
    "note": ""
   },
   {
    "name": "Google News",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "note": ""
   },
   {
@@ -52,6 +52,97 @@
  ],
  "items": [
   {
+   "title": "PSA - Switching to AI specialization to avoid CS6515",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xy64ub/psa_switching_to_ai_specialization_to_avoid_cs6515/",
+   "published": "2026-11-17T00:28:24+00:00",
+   "excerpt": "I'm doing this even with only 1 course to go for the computing systems specialization. Not registering for this class and wasting my money seems like the only way to get them to change this course but if they wont want to thats fine. Enough people will realize how poor the class is submitted by /u/BearFanEngineer [link] [留言]",
+   "author": "/u/BearFanEngineer",
+   "source": "Reddit r/OMSCS",
+   "id": "bf37f6236972",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-17T14:56:31.758982+08:00"
+  },
+  {
+   "title": "CS6515 triggers lots of anger and is honestly a PR risk for OMSCS, but there is a super easy fix",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xyc98z/cs6515_triggers_lots_of_anger_and_is_honestly_a/",
+   "published": "2026-11-17T05:32:49+00:00",
+   "excerpt": "You see the discussions about switching to the AI spec to avoid CS6515 every semester, and I think it's really sad that the program doesn't do something about this. If CS6515 is intended to gatekeep, that's fine, but the program should just be upfront about it so that people don't reach their final course and find they cannot graduate. Or even better, just fix the course so that people don't need to avoid it and can take the courses they want to take. The only issue I see with CS6515 is the all-or-nothing nature of exam grading. At the end of the day, I think the root problem is that students expect continuous-scale grading where their own understanding of their preparation matches (at least",
+   "author": "/u/Virtual-City7550",
+   "source": "Reddit r/OMSCS",
+   "id": "3a8f34ab8be7",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-17T14:56:31.758982+08:00"
+  },
+  {
+   "title": "So those GA exam 3 results….",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xxxac9/so_those_ga_exam_3_results/",
+   "published": "2026-11-16T18:36:54+00:00",
+   "excerpt": "I haven’t seen a post whining about GA in a while so I thought I’d start one. I knew I did bad in exam 3 but not THAT bad…how are you all doing? Hanging in there? submitted by /u/kickshinner [link] [留言]",
+   "author": "/u/kickshinner",
+   "source": "Reddit r/OMSCS",
+   "id": "d8eb326599f8",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-17T14:56:31.758982+08:00"
+  },
+  {
+   "title": "Strange Exam 3 Grades CS6515",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xxul3u/strange_exam_3_grades_cs6515/",
+   "published": "2026-11-16T16:57:00+00:00",
+   "excerpt": "Anyone else in CS6515 this semester feel like there was overtly punishing grading on Exam 3? The median was a 14/40 for the class and based on the regrade threads I would wager to say most students wrote down a solution which was correct but missed a trick which was alluded to NOWHERE in the course materials. You were expected to invent a brand new technique on the fly under pressure with no paper. I just don't see how understanding of the course materials was really tested, felt like a low blow (on purpose?). Several students are considering raising a formal academic complaint. Thoughts from others? submitted by /u/remote_math_rock [link] [留言]",
+   "author": "/u/remote_math_rock",
+   "source": "Reddit r/OMSCS",
+   "id": "df1cb6077b72",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-17T14:56:31.758982+08:00"
+  },
+  {
+   "title": "I think im going to fail cs-6515",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xxwtoc/i_think_im_going_to_fail_cs6515/",
+   "published": "2026-11-16T18:20:06+00:00",
+   "excerpt": "This is my last course and i was supposed to graduate this semester but i think im gonna be failing this course as the exams have been really hard and i failed the last one (class average was 16/40). What should i do right now ? Should i email my advisor and tell them that i will most likely fail so they can allow me to register for the next semester ? submitted by /u/Full-Juggernaut2303 [link] [留言]",
+   "author": "/u/Full-Juggernaut2303",
+   "source": "Reddit r/OMSCS",
+   "id": "9b35fe583842",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-17T14:56:31.758982+08:00"
+  },
+  {
+   "title": "\"Export Crtl Verification Sp 27\" registration hold – anyone else get this for Spring 2027?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xxrma9/export_crtl_verification_sp_27_registration_hold/",
+   "published": "2026-11-16T15:03:33+00:00",
+   "excerpt": "Hi all, I'm a second-semester OMSCS student (started Fall 2026) studying from outside the US. When I went to register for Spring 2027, I found a hold on my account that I can't find mentioned anywhere: - Category: Registrar/Registration - Reason: Export Crtl Verification Sp 27 - From date: 11/01/2026 - Originator: Registrar's Office - Processes affected: Registration It isn't covered in the Fall 2026 orientation doc or the Spring 2027 Phase I registration PDF. Those only list the OFAC, Registrar Location, Financial Agreement, etc. holds. Under Prepare for Registration, the \"Update Student Term Data\" tab just says \"No changes are required at this time. Please contact your administrator for as",
+   "author": "/u/Substantial-Hand-798",
+   "source": "Reddit r/OMSCS",
+   "id": "26205cf8c02d",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-17T14:56:31.758982+08:00"
+  },
+  {
+   "title": "New Student, Confusing Signup",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xxrala/new_student_confusing_signup/",
+   "published": "2026-11-16T14:51:04+00:00",
+   "excerpt": "I'm a new student starting Spring 2027, and signing up for classes this year has been extremely confusing. There has been no documentation from GA Tech around signup times, time tickets, etc, leaving me to parse through the piles of AI slop and 7 year old reddit posts. Whatever, that's not anything new I assume, but once I was confident when and how to sign up, there was site maintenance scheduled during the allotted sign up time for new students, forcing me to figure out exactly when the maintenance was slated to finish. Click through the 900 portals, figure out when to sign up. Then, I check today, ready to sign up for CS6200, and it seems that everything is now moved to January during Pha",
+   "author": "/u/Acrobatic-Boot-3843",
+   "source": "Reddit r/OMSCS",
+   "id": "970e40eba2a6",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-17T14:56:31.758982+08:00"
+  },
+  {
    "title": "Internal transfer from OMSCS (Computing Systems) to OMS Cybersecurity",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xwt49t/internal_transfer_from_omscs_computing_systems_to/",
    "published": "2026-11-15T11:22:06+00:00",
@@ -65,6 +156,8 @@
     "application"
    ],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-16T13:12:05.933133+08:00"
   },
   {
@@ -146,13 +239,13 @@
    "first_seen": "2026-11-15T13:14:31.450539+08:00"
   },
   {
-   "title": "Help finding my time ticket, Oscar down",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xwazww/help_finding_my_time_ticket_oscar_down/",
-   "published": "2026-11-14T19:27:14+00:00",
-   "excerpt": "Didn't realize how late it has gotten, been really busy this semester. Any way I can find what my ticket is with Oscar on maintenance this weekend? submitted by /u/JohnBGaming [link] [留言]",
-   "author": "/u/JohnBGaming",
-   "source": "Reddit r/OMSCS",
-   "id": "9563ed6866b4",
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXRtclE5eHgxeG55N2gxTDlGbzI0d1EzTXVEOWRNSUxZRzdwb28wd1BaemhwY0JkRTBWcnV6Y3ZkTmRZZXhZeFd5ZmktUXZHdjNXT2NpeXpWSWlkUkhTYXJlOE5vYkdIbktpd29ocWZraFFGVm1ES3NwZWdNV0pEbjBEejNndjBKM29vajhWcWNsSnhsR0lRZTdmTF8yNnZxOWtmLTlGblA1cFhITEVuTXdn?oc=5",
+   "published": "2026-10-06T07:00:00+00:00",
+   "excerpt": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "225a87a78f8b",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -161,13 +254,13 @@
    "first_seen": "2026-11-15T13:14:31.450539+08:00"
   },
   {
-   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXRtclE5eHgxeG55N2gxTDlGbzI0d1EzTXVEOWRNSUxZRzdwb28wd1BaemhwY0JkRTBWcnV6Y3ZkTmRZZXhZeFd5ZmktUXZHdjNXT2NpeXpWSWlkUkhTYXJlOE5vYkdIbktpd29ocWZraFFGVm1ES3NwZWdNV0pEbjBEejNndjBKM29vajhWcWNsSnhsR0lRZTdmTF8yNnZxOWtmLTlGblA1cFhITEVuTXdn?oc=5",
-   "published": "2026-10-06T07:00:00+00:00",
-   "excerpt": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "225a87a78f8b",
+   "title": "Help finding my time ticket, Oscar down",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xwazww/help_finding_my_time_ticket_oscar_down/",
+   "published": "2026-11-14T19:27:14+00:00",
+   "excerpt": "Didn't realize how late it has gotten, been really busy this semester. Any way I can find what my ticket is with Oscar on maintenance this weekend? submitted by /u/JohnBGaming [link] [留言]",
+   "author": "/u/JohnBGaming",
+   "source": "Reddit r/OMSCS",
+   "id": "9563ed6866b4",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2842,38 +2935,6 @@
    "first_seen": "2026-10-05T12:31:10.964120+08:00"
   },
   {
-   "title": "Bolstering application after Academic Probation",
-   "url": "https://www.reddit.com/r/gradadmissions/comments/1kfpur0/bolstering_application_after_academic_probation/",
-   "published": "2025-05-05T23:11:21+00:00",
-   "excerpt": "Hi all. I am looking to apply to go full time in Fall 2026 in CS/Bioengineering. I graduated with a bachelors in CS in 2022 with an ok GPA (3.2). I've been working full time as a developer since. In spring 2024 I started GATech's OMSCS program online, and at the perfect timing my work load at my job ramped up, and so I neglected my masters program and I think I'm going to fail out this semester. Last semester I was put on academic probation. I really enjoyed the OMSCS program, and I've always wanted to do research. I went into industry because I wanted to build a financial cushion to start. But me failing OMSCS has really hampered my self confidence that I will make it into a masters program",
-   "author": "/u/No-Watercress-8897",
-   "source": "Reddit r/gradadmissions",
-   "id": "2b39f582c01e",
-   "admission_signal": true,
-   "keyword_hits": [
-    "application"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-03T12:11:09.535187+08:00"
-  },
-  {
-   "title": "Fall 2026 Commencement Ceremony",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wvr2i2/fall_2026_commencement_ceremony/",
-   "published": "2026-10-02T11:12:29+00:00",
-   "excerpt": "Dr. Joyner sent this out last night. Thought I’d share so we can discuss here: “Hey everyone! If you're receiving this, you're on my list of Fall 2026 OMSCS degree candidates. Good luck finishing out your OMSCS studies! Secondly, if you were planning to walk at Fall commencement, I wanted to point out that the Fall 2026 Commencement schedule was just posted: https://commencement.gatech.edu/events-schedule Importantly, there are two significant changes from previous years that I wanted to call out: OMSCS students will graduate on Thursday evening, December 17 . The commencement is scheduled for 6PM, with doors opening at 4:30PM. OMSCS graduates have their own ceremony this semester. The other",
-   "author": "/u/Federal_Rich_3675",
-   "source": "Reddit r/OMSCS",
-   "id": "29b9b12a5f07",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-03T12:11:09.535187+08:00"
-  },
-  {
    "title": "The OMSCS Resources I Wish I Knew About Before Starting Georgia Tech’s Online MSCS",
    "url": "https://medium.com/@shubhamraj97/the-omscs-resources-i-wish-i-knew-about-before-starting-georgia-techs-online-mscs-396c9366d002?source=rss------omscs-5",
    "published": "2026-09-27T09:24:43+00:00",
@@ -2902,21 +2963,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-09-21T11:45:40.624371+08:00"
-  },
-  {
-   "title": "The Digital Bridge - Harvard Graduate School of Education",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4WElYZVptUTFza2dhNV9TSWlNUnVyVFBXQTZhZXE5SmxBemZ1cV82RnAwbDhsOG1mZzZRX0pQWkxienVzV0VOTkc3ZHhwWlBWYV9lb0RNUDRtcFdnVV9DZTUtWGtRdXFmNHYybnlFUE5ETFh4VjYzSmoyWQ?oc=5",
-   "published": "2016-10-17T07:00:00+00:00",
-   "excerpt": "The Digital Bridge Harvard Graduate School of Education",
-   "author": null,
-   "source": "Google News",
-   "id": "879e1d986e19",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-10T11:29:06.422193+08:00"
   },
   {
    "title": "Admissions Megathread - Results, Chances and Logistics",

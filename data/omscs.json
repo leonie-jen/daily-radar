@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-17T14:56:31.758982+08:00",
+ "updated_at": "2026-11-18T14:17:40.324442+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
-   "ok": true,
-   "count": 25,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
    "name": "Reddit r/OMSCS 錄取討論",
@@ -22,13 +22,13 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "note": ""
   },
   {
    "name": "Google News",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "note": ""
   },
   {
@@ -51,6 +51,31 @@
   }
  ],
  "items": [
+  {
+   "title": "The Digital Bridge - Harvard Graduate School of Education",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4WElYZVptUTFza2dhNV9TSWlNUnVyVFBXQTZhZXE5SmxBemZ1cV82RnAwbDhsOG1mZzZRX0pQWkxienVzV0VOTkc3ZHhwWlBWYV9lb0RNUDRtcFdnVV9DZTUtWGtRdXFmNHYybnlFUE5ETFh4VjYzSmoyWQ?oc=5",
+   "published": "2016-10-17T07:00:00+00:00",
+   "excerpt": "The Digital Bridge Harvard Graduate School of Education",
+   "author": null,
+   "source": "Google News",
+   "id": "879e1d986e19",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-18T14:17:40.324442+08:00"
+  },
+  {
+   "title": "Genomics coordinate systems",
+   "url": "https://docs.rs/omics-coordinate/latest/omics_coordinate/",
+   "published": "2025-06-26T20:39:40Z",
+   "excerpt": "",
+   "source": "Hacker News",
+   "id": "295050d1612a",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-18T14:17:40.324442+08:00"
+  },
   {
    "title": "PSA - Switching to AI specialization to avoid CS6515",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xy64ub/psa_switching_to_ai_specialization_to_avoid_cs6515/",
@@ -161,6 +186,21 @@
    "first_seen": "2026-11-16T13:12:05.933133+08:00"
   },
   {
+   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence - Georgia Tech News Center",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXRtclE5eHgxeG55N2gxTDlGbzI0d1EzTXVEOWRNSUxZRzdwb28wd1BaemhwY0JkRTBWcnV6Y3ZkTmRZZXhZeFd5ZmktUXZHdjNXT2NpeXpWSWlkUkhTYXJlOE5vYkdIbktpd29ocWZraFFGVm1ES3NwZWdNV0pEbjBEejNndjBKM29vajhWcWNsSnhsR0lRZTdmTF8yNnZxOWtmLTlGblA1cFhITEVuTXdn?oc=5",
+   "published": "2026-10-06T07:00:00+00:00",
+   "excerpt": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence Georgia Tech News Center",
+   "author": null,
+   "source": "Google News",
+   "id": "225a87a78f8b",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-15T13:14:31.450539+08:00"
+  },
+  {
    "title": "I might have to pass up on a life-changing opportunity",
    "url": "https://www.reddit.com/r/OMSCS/comments/1xw313l/i_might_have_to_pass_up_on_a_lifechanging/",
    "published": "2026-11-14T13:57:48+00:00",
@@ -231,21 +271,6 @@
    "author": "/u/dothisnightwing",
    "source": "Reddit r/OMSCS",
    "id": "dc7743d7766b",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-11-15T13:14:31.450539+08:00"
-  },
-  {
-   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXRtclE5eHgxeG55N2gxTDlGbzI0d1EzTXVEOWRNSUxZRzdwb28wd1BaemhwY0JkRTBWcnV6Y3ZkTmRZZXhZeFd5ZmktUXZHdjNXT2NpeXpWSWlkUkhTYXJlOE5vYkdIbktpd29ocWZraFFGVm1ES3NwZWdNV0pEbjBEejNndjBKM29vajhWcWNsSnhsR0lRZTdmTF8yNnZxOWtmLTlGblA1cFhITEVuTXdn?oc=5",
-   "published": "2026-10-06T07:00:00+00:00",
-   "excerpt": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "225a87a78f8b",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -346,38 +371,6 @@
    "first_seen": "2026-11-13T13:29:17.024886+08:00"
   },
   {
-   "title": "CSE 6220: When the lecture itself becomes the distraction",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xt66y5/cse_6220_when_the_lecture_itself_becomes_the/",
-   "published": "2026-11-11T02:35:23+00:00",
-   "excerpt": "I'm finding the CSE 6220 lecture videos increasingly frustrating, and not because of the difficulty of the material. The lectures are packed with jokes, sound effects, cartoons, and running gags. The topology section, for example, interrupts a discussion of network structures to show a picture of a bull because \"Taurus\" sounds like \"torus.\" The problem isn't that the jokes are bad. It's that they're constant, and they're delivered with the same pacing, emphasis, and dramatic pauses as the actual instruction. Important concepts and throwaway gags receive essentially equal billing. As a student, you're left constantly sorting through the presentation to determine what's worth paying attention ",
-   "author": "/u/insideoutdune",
-   "source": "Reddit r/OMSCS",
-   "id": "cc7dba66bcab",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-11-12T14:05:38.790931+08:00"
-  },
-  {
-   "title": "Should I step away from the SWE Industry to Electronics?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xrrtlq/should_i_step_away_from_the_swe_industry_to/",
-   "published": "2026-11-09T13:36:05+00:00",
-   "excerpt": "I've worked as a SWE for the past 4 years and I'm 25 now. I am about to graduate soon from OMSCS with an ML Specialization and recently got laid off. I had to switch to 2 jobs in a span of 15 months and don't like how unstable this industry is. I was able to do some security research with a Prof through 8903 and did Security courses as well to gain some more breadth and decent security experience from my job. I have a decent profile, get reachouts from recruiters at good startups and big tech companies. I'm basically a good combination of SWE, Security and Electronics. I have an undergrad in Electronics engineering and I'm thinking of switching to a hardware role. I'm not sure how but I'm th",
-   "author": "/u/SnooSongs2979",
-   "source": "Reddit r/OMSCS",
-   "id": "2d36efb51d4c",
-   "admission_signal": true,
-   "keyword_hits": [
-    "profile"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-11-12T14:05:38.790931+08:00"
-  },
-  {
    "title": "OMSCS Represented at ACM CCS Conference",
    "url": "https://omscs.gatech.edu/external-news/omscs-represented-acm-ccs-conference",
    "published": null,
@@ -414,6 +407,38 @@
    "id": "cb2554d8ca79",
    "admission_signal": false,
    "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-12T14:05:38.790931+08:00"
+  },
+  {
+   "title": "CSE 6220: When the lecture itself becomes the distraction",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xt66y5/cse_6220_when_the_lecture_itself_becomes_the/",
+   "published": "2026-11-11T02:35:23+00:00",
+   "excerpt": "I'm finding the CSE 6220 lecture videos increasingly frustrating, and not because of the difficulty of the material. The lectures are packed with jokes, sound effects, cartoons, and running gags. The topology section, for example, interrupts a discussion of network structures to show a picture of a bull because \"Taurus\" sounds like \"torus.\" The problem isn't that the jokes are bad. It's that they're constant, and they're delivered with the same pacing, emphasis, and dramatic pauses as the actual instruction. Important concepts and throwaway gags receive essentially equal billing. As a student, you're left constantly sorting through the presentation to determine what's worth paying attention ",
+   "author": "/u/insideoutdune",
+   "source": "Reddit r/OMSCS",
+   "id": "cc7dba66bcab",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-11-12T14:05:38.790931+08:00"
+  },
+  {
+   "title": "Should I step away from the SWE Industry to Electronics?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xrrtlq/should_i_step_away_from_the_swe_industry_to/",
+   "published": "2026-11-09T13:36:05+00:00",
+   "excerpt": "I've worked as a SWE for the past 4 years and I'm 25 now. I am about to graduate soon from OMSCS with an ML Specialization and recently got laid off. I had to switch to 2 jobs in a span of 15 months and don't like how unstable this industry is. I was able to do some security research with a Prof through 8903 and did Security courses as well to gain some more breadth and decent security experience from my job. I have a decent profile, get reachouts from recruiters at good startups and big tech companies. I'm basically a good combination of SWE, Security and Electronics. I have an undergrad in Electronics engineering and I'm thinking of switching to a hardware role. I'm not sure how but I'm th",
+   "author": "/u/SnooSongs2979",
+   "source": "Reddit r/OMSCS",
+   "id": "2d36efb51d4c",
+   "admission_signal": true,
+   "keyword_hits": [
+    "profile"
+   ],
    "relevance": null,
    "summary": null,
    "tags": null,
@@ -1439,6 +1464,20 @@
    "first_seen": "2026-10-23T11:43:09.869237+08:00"
   },
   {
+   "title": "The Growing Importance of Computational Biology",
+   "url": "https://omicstutorials.com/from-lab-bench-to-laptop-the-growing-importance-of-computational-biology/",
+   "published": "2025-01-03T15:22:25Z",
+   "excerpt": "",
+   "source": "Hacker News",
+   "id": "6f6341c8a2eb",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
    "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
    "published": "2023-04-21T07:00:00+00:00",
@@ -1837,20 +1876,6 @@
    "author": null,
    "source": "Google News",
    "id": "3fd446b8a3e2",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "The Growing Importance of Computational Biology",
-   "url": "https://omicstutorials.com/from-lab-bench-to-laptop-the-growing-importance-of-computational-biology/",
-   "published": "2025-01-03T15:22:25Z",
-   "excerpt": "",
-   "source": "Hacker News",
-   "id": "6f6341c8a2eb",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2834,13 +2859,12 @@
    "first_seen": "2026-10-08T12:56:10.548866+08:00"
   },
   {
-   "title": "How is the new OMS AI degree going to be different from OMSCS?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wzmyrc/how_is_the_new_oms_ai_degree_going_to_be/",
-   "published": "2026-10-07T04:04:30+00:00",
-   "excerpt": "Just found out about this and wondering how it will differ from ML or AI tracks. https://news.gatech.edu/news/2026/10/06/georgia-tech-announces-new-online-masters-degree-artificial-intelligence submitted by /u/zelena23 [link] [留言]",
-   "author": "/u/zelena23",
-   "source": "Reddit r/OMSCS",
-   "id": "84dd0c5edab7",
+   "title": "New Neural Framework Could Make LLMs More Empathetic",
+   "url": "https://omscs.gatech.edu/external-news/new-neural-framework-could-make-llms-more-empathetic",
+   "published": null,
+   "excerpt": "",
+   "source": "OMSCS 官方公告",
+   "id": "8bbeadab8372",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2849,12 +2873,13 @@
    "first_seen": "2026-10-07T12:45:11.389225+08:00"
   },
   {
-   "title": "New Neural Framework Could Make LLMs More Empathetic",
-   "url": "https://omscs.gatech.edu/external-news/new-neural-framework-could-make-llms-more-empathetic",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "8bbeadab8372",
+   "title": "How is the new OMS AI degree going to be different from OMSCS?",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1wzmyrc/how_is_the_new_oms_ai_degree_going_to_be/",
+   "published": "2026-10-07T04:04:30+00:00",
+   "excerpt": "Just found out about this and wondering how it will differ from ML or AI tracks. https://news.gatech.edu/news/2026/10/06/georgia-tech-announces-new-online-masters-degree-artificial-intelligence submitted by /u/zelena23 [link] [留言]",
+   "author": "/u/zelena23",
+   "source": "Reddit r/OMSCS",
+   "id": "84dd0c5edab7",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2965,24 +2990,6 @@
    "first_seen": "2026-09-21T11:45:40.624371+08:00"
   },
   {
-   "title": "Admissions Megathread - Results, Chances and Logistics",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1uiiy5w/admissions_megathread_results_chances_and/",
-   "published": "2026-06-29T05:01:56+00:00",
-   "excerpt": "📌OMSCS Admissions Megathread This is the Admissions Megathread of the GaTech's O nline M asters of S cience in C omputer S cience! We design this as a one-stop page for the following things that you might have in your head. Admissions Overview / Admissions FAQs Preparing Yourself for OMSCS CS 1301: Introduction to Programming (in Python) CS 1331: Object Oriented Programming (in Java) CS 1332: Data Structures & Algorithms CSE 6040: Computing for Data Analysis (if you're transferring from r/OMSA ) Additional Application Guidelines (to strengthen your chances) Applications URL (oh damn finally!) Deadline for Fall is fixed at March 1st. Deadline for Spring is fixed at August 15th. There are no S",
-   "author": "/u/AutoModerator",
-   "source": "Reddit r/OMSCS",
-   "id": "6dad5c6b59c9",
-   "admission_signal": true,
-   "keyword_hits": [
-    "admission",
-    "application"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:20:16.080232+08:00"
-  },
-  {
    "title": "Joyner Appointed Interim Vice Provost for AI in Education - Georgia Tech News Center",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2lfb2syRWY4RzZNMUxyNUdHTUstX2dZX21NQ0JiX1ZZeE5aVVlwNDQtbkdXcldTdVc0V2tNdEgwa01HSFIzN3ZJZjJKeEdITXlrNVJMX2hMSk92QnRvYkJycHQ0Qy02cDNZdV9iYWVIdG1oOFpzOEtXRi0tREtnLTZvcVBaYTNvLVNZUTEteUFURHRO?oc=5",
    "published": "2026-07-01T07:00:00+00:00",
@@ -3028,13 +3035,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
-   "published": "2024-08-25T07:00:00+00:00",
-   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
+   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
+   "published": "2022-05-07T07:00:00+00:00",
+   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
    "author": null,
    "source": "Google News",
-   "id": "0236a502b4bf",
+   "id": "29987ae51976",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -3043,13 +3050,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
-   "published": "2022-05-07T07:00:00+00:00",
-   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
+   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
+   "published": "2024-08-25T07:00:00+00:00",
+   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
    "author": null,
    "source": "Google News",
-   "id": "29987ae51976",
+   "id": "0236a502b4bf",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

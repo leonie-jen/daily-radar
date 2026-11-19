@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T14:18:48.501557+08:00",
+ "updated_at": "2026-11-19T14:20:49.745396+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -16,11 +16,47 @@
   {
    "name": "哈利的投資研究筆記庫",
    "ok": true,
-   "count": 6,
+   "count": 8,
    "note": ""
   }
  ],
  "items": [
+  {
+   "title": "[美股] 2026-11-19 美股盤後報告",
+   "url": "https://harrymemo.com/outputs/us/2026-11-19_US_Market_Dashboard",
+   "published": "2026-11-19",
+   "excerpt": "",
+   "market_section": "us",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "fb5a09a7dbb1",
+   "relevance": null,
+   "first_seen": "2026-11-19T14:20:49.745396+08:00"
+  },
+  {
+   "title": "[台股] 2026-11-19 台股盤後報告",
+   "url": "https://harrymemo.com/outputs/tw/2026-11-19_TW_Market_Dashboard",
+   "published": "2026-11-19",
+   "excerpt": "",
+   "market_section": "tw",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "7776537a9906",
+   "relevance": null,
+   "first_seen": "2026-11-19T14:20:49.745396+08:00"
+  },
+  {
+   "title": "[加密貨幣] 2026-11-19 加密貨幣盤後報告",
+   "url": "https://harrymemo.com/outputs/crypto/2026-11-19_CRYPTO_Weekly_Dashboard",
+   "published": "2026-11-19",
+   "excerpt": "",
+   "market_section": "crypto",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "0af894ec6efb",
+   "relevance": null,
+   "first_seen": "2026-11-19T14:20:49.745396+08:00"
+  },
   {
    "title": "[美股] 2026-11-18 美股盤後報告",
    "url": "https://harrymemo.com/outputs/us/2026-11-18_US_Market_Dashboard",
@@ -31,6 +67,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "2b32034ec5cf",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-18T14:18:48.501557+08:00"
   },
   {
@@ -43,15 +81,17 @@
    "source": "哈利的投資研究筆記庫",
    "id": "48a0265952c6",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-18T14:18:48.501557+08:00"
   },
   {
-   "title": "[美股] 2026-11-17 美股盤後報告",
+   "title": "[美股] 2026/11/17 美股盤後：NVDA 敘事風暴日—市場在賭「AI 龍頭風險溢價」，不是單純利率轉折",
    "url": "https://harrymemo.com/outputs/us/2026-11-17_US_Market_Dashboard",
    "published": "2026-11-17",
-   "excerpt": "",
+   "excerpt": "2026/11/17 美股盤後：NVDA 敘事風暴日—市場在賭「AI 龍頭風險溢價」，不是單純利率轉折｜哈利的投資研究筆記庫 ← 返回 報告列表 首頁 目錄 🤖 哈利小助理 📈 美股收盤指數 🏛️ 美股市值前十 🔭 技術雷達快覽 📰 產業敘事 🌡️ 產業熱力圖 📈 日漲幅資金主軸 📉 日跌幅資金主軸 📊 週漲跌幅前十 📊 月漲跌幅前十 🔥 產業熱度評等 🔭 短線關注 🔭 中期關注 🎲 情境與宏觀 📅 未來 2 週重點 🇹🇼 台美對照 📉 超跌雷達 📈 200 週突破 US Dashboard 報告：2026/11/17（台北）｜美股收盤：2026/11/16｜查詢：2026-11-17 06:33 台北 本日市場報告 技術線圖專區 🇺🇸 美股深度分析 Dashboard ⚠️ 本週重點：美東 11/17 NVDA 盤後財報、 HD ／ DIS 盤前 🤖 哈利小助理 · 今日精評 不專業分析師視野 · 統整盤勢與展望 防禦觀望 —減碼 AI 鏈高 beta 與光模組、保留 XLP /現金； NVDA 財報前不加槓桿，台股跟 ADR 逢高調節 NVDA 敘事風暴日—市場在賭「AI 龍頭風險溢價」，不是單純利率轉折 總經背景 CNBC ／AP 報導 NVDA 董事會未討論迎回黃仁勳 、 商務部堵海外算力租賃漏洞 與 貝森特呼籲董事會改組 ，把 Semis 從「需求故事」拉回「治理＋地緣」定價。 FRED 10Y 5.15%（11/13） 維持 高久期壓力 ； VIX +18.7% 至 22.9 顯示避險買回。 油價 WTI 85.06（11/16） 日跌近 4% ， XLE -1.96% ，再通膨尾風稍降但未扭轉 科技弱勢。 資金輪動 資金從 XLK -3.24% （ NVDA 、 GOOGL 、 AVGO ） 與 AI 鏈高 beta（ LITE / MRVL / MU / INTC ） 撤出；光通訊 COHR / GLW / LITE 跟 月線深跌 區間 二次殺估值 。流向 XLP （ PG / PEP / COST ） 、 XLU （ DUK / SO ） 與少數 防禦醫療（ UNH /MOH 情緒） ； APP +1.5% 孤島式撐 廣告 AI ，非全面科技反彈。 台美連動 美股催化 ： NVDA -4.1% + 治理／出口新聞 → SOX 情緒轉空 → VIX 升 → 供應鏈層級 ： GPU（ NVDA ）> 網路／光（ MRVL / COHR / LITE ）> 記憶體（ MU / INTC ）> ODM（ DELL / SMCI ） 同步回吐→ 台股族群 ： 2330 台積電 讀 TSM ADR／ NVDA 財報前 宜 跟跌但幅度打折 ； 2383 台光電 / 6443 跟 LITE -8.5% 開盤壓力大 ； 2382 廣達 / 6669 緯穎 ODM 映射 DELL -7% ； 2344 華邦電 / 2408 南亞科 跟 MU -7.6% 。 壓制 ： 必需消費強 無直接台股 beta， 勿誤讀為電子全面補漲 。 結論 ：台股次日 電子權值偏空、光鏈避險、ODM 勿接刀 ； NVDA 盤後指引 才是週中錨。 今日統整 劇本是 「Mag7 之外的 AI 鏈血洗」 ： LITE / ARM / MU 領跌，顯示 月線獲利了結 疊 NVDA 治理恐慌 。 SBUX / PG 等少數防禦撐 XLP ，但 Nasdaq 仍連三黑 ，籌碼屬 減碼高 beta、買波動避險 ，非抄底日。 今日財報亮點 TSN Tyson Foods 今日已公布 · ",
    "market_section": "us",
-   "paywalled": true,
+   "paywalled": false,
    "source": "哈利的投資研究筆記庫",
    "id": "7e3db0c190e7",
    "relevance": null,
@@ -60,12 +100,12 @@
    "first_seen": "2026-11-17T14:58:21.151180+08:00"
   },
   {
-   "title": "[台股] 2026-11-17 台股盤後報告",
+   "title": "[台股] 2026/11/17 台股盤後：早盤拉高翻黑，載板／ASIC 第二根跌停；NVDA 財報前觀望",
    "url": "https://harrymemo.com/outputs/tw/2026-11-17_TW_Market_Dashboard",
    "published": "2026-11-17",
-   "excerpt": "",
+   "excerpt": "2026/11/17 台股盤後：早盤拉高翻黑，載板／ASIC 第二根跌停；NVDA 財報前觀望｜哈利的投資研究筆記庫 ← 返回 報告列表 首頁 目錄 🤖 哈利小助理 🏛️ 台股市值前十 📈 大盤與重點指標 🏦 三大法人 📈 日漲幅資金主軸 📉 日跌幅資金主軸 🌡️ 產業熱力圖 📰 產業敘事 🔮 未來展望 💡 未來關注重點 📊 0050 估值雷達 🎯 0050 目標價 📋 0050 估值排行 TW Dashboard 報告：2026-11-17（台北）｜查詢：2026-11-17 18:32 台北 本日市場報告 估值雷達 Beta 🇹🇼 台股深度分析 Dashboard 早盤拉高翻黑 ，載板／ASIC 第二根跌停；NVDA 財報前觀望 🤖 哈利小助理 · 今日精評 不專業分析師視野 · 統整盤勢與展望 中性偏空 輕倉保命 周一暴跌後的「假反彈日」——早盤拉高誘多、午後融資追繳與載板第二根跌停主導，市場在賭 NVDA 財報前不敢抄底 AI 高 beta。 總經背景 美東 11/16 S&P 500 收跌 1.92%、 Nasdaq 收跌 2.49%， NVDA 跌 4.12%、 DELL 跌 6.96%，TSM ADR 跌 6.34%； 10Y 公債最新約 5.15%（2026-11-13）， Fed 有效聯邦基金利率 3.88%。媒體稱市場消化黃仁勳辭任、Vera Rubin／HBM4 時程雜音與 AI 估值重評；USD/TWD 約 32.97、日升約 0.28%。台股三大法人合計賣超 547.25 億（外資賣超 380.94 億、投信賣超 9.35 億、自營賣超 156.96 億）。 資金輪動 資金從 AI 材料鏈繼續撤出：載板 PCB（ 3037 欣興 、 8046 南電 、 3189 景碩 多檔跌停或近跌停，類股均跌約 -8.6% ）、散熱電源（ 2308 台達電 、 3017 奇鋐 ）與 AI 網通（ 2345 智邦 、 2368 金像電 ）最弱；金融（ 2882 國泰金 、 2891 中信金 ）與部分 IC 設計（ 2454 聯發科 、 3034 聯詠 、 2379 瑞昱 ）相對抗跌，傳產航運小跌，屬「減虧式防禦」而非全面多頭輪動。 台美連動 隔夜 Nasdaq -2.49% 、 NVDA -4.12% → AI 敘事續弱 → 台股 3443 創意 、載板三雄再遭估值殺，但 2330 台積電 日跌 -2.03% 相對抗跌，顯示權值與材料鏈脫鉤。 DELL -6.96% → 2382 廣達 、 6669 緯穎 、 2317 鴻海 ODM 鏈續弱但未再崩；TSM ADR -6.34% 大於 2330 台積電 → ADR 風險溢價仍高。 10Y 5.15% 壓高本益比，千金股與融資標的（散熱、CCL、ASIC）續為提款對象； S&P -1.92% 外溢下，台股早盤一度上攻後翻黑，本土融資追繳主導跌幅大於美股映射。 今日統整 加權收 40,146.34 點（日 -2.18% ，週 -6.01% ，月 -14.53% ），昨（16）千點級暴跌後早盤最高逾 41,500 點再下殺，媒體稱盤中低點逼近 3.98 萬、融資維持率急降引發追繳賣壓。上市市值百大僅少數收紅： 2454 聯發科 +1.19% 、金融族群小漲； 3443 創意 、 8046 南電 、 6213 聯茂 、 3037 欣興 等再跌停。 2330 台積電 收 2,170 元（ -2.03% ）撐盤有限。 展望研判 本週焦點為 NVDA 美東 11/17 盤後財報（台灣時間 11/18 ",
    "market_section": "tw",
-   "paywalled": true,
+   "paywalled": false,
    "source": "哈利的投資研究筆記庫",
    "id": "b0954c25475a",
    "relevance": null,
@@ -1052,24 +1092,10 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-10-06T13:18:26.585092+08:00"
-  },
-  {
-   "title": "[加密貨幣] 2026/10/05 加密貨幣週報：Uptober 開局 BTC 攻破 8.5 萬、現貨 ETF 首日淨流入逾億，但 Blast…",
-   "url": "https://harrymemo.com/outputs/crypto/2026-10-05_CRYPTO_Weekly_Dashboard",
-   "published": "2026-10-05",
-   "excerpt": "2026/10/05 加密貨幣週報：Uptober 開局 BTC 攻破 8.5 萬、現貨 ETF 首日淨流入逾億，但 Blast…｜哈利的投資研究筆記庫 ← 返回 報告列表 首頁 目錄 🤖 哈利小助理 📰 本週消息精選 📈 技術線圖走勢 📊 市場數據參考 📊 現貨 ETF 週成交額 💵 穩定幣觀測 💳 加密支付卡消費觀測 📈 加密概念股 🔷 愛達幣 Cardano ⚔️ 公鏈 TVL 🔥 DeFi 專區 🔧 技術與協議 ₿ 加密貨幣週報 發布 2026-10-05（台北）｜涵蓋 2026/10/01–2026/10/05（週四～週一）｜查詢 2026-10-05 09:03 台北 產業消息 · 週度整理 本週週報 技術線圖走勢 🤖 哈利小助理 · 本週週報精評 消息驅動 週，Uptober 與 ETF 資金觀察為主、不追 ZEC 等極端波動標的 Uptober 開局 BTC 攻破 8.5 萬、現貨 ETF 首日淨流入逾億，但 Blast 關網與北韓駭客鏈上安全再亮紅燈——本週定調為「十月季節性反彈 vs 長債 5.3% 與 L2 出清並陳」 週內消息 自 10/1 週四報告以來五線更新：（1）**Uptober／ ETF **： BTC 突破 8.5 萬美元賣牆，10 月首個交易日美國現貨 BTC ETF 淨流入約 1.03 億美元，空單清算逾億；Decrypt 指歷史「十月效應」與 9 月強勢收官，但 10Y 公債殖利率觸 5.34% 仍壓風險資產。（2）**監管人事**： SEC 「加密教母」Hester Peirce 10/2 離任，委員會僅剩 2 人；前 SEC 主席 Jay Clayton 被任命為 AI Czar，與 XRP 執法舊帳並存。（3）**機構／ RWA **：BlackRock 透過 Ondo 展示 tokenized 投資組合如何鏈上再平衡；薩爾瓦多雖未達 BTC 累積績效仍獲 IMF 1.38 億美元撥款。（4）**安全**：Chainalysis 以 AI 指 Bitget 3.87 億美元駭客歸因北韓，2026 年朝鮮相關竊盜逾 10 億；NEAR Intents 再遭駭約 380 萬美元，團隊限 48 小時還款。（5）**協議／ L2 **：Blast 10/2 宣布 wind down，峰值 TVL 約 22 億、現僅約 3,200 萬；Aave 10/2 提出 Aave Foundation Phase 1 ARFC。 鏈上與機構 BTC 收 $86,639（7d +2.62% ）、 ETH $2,729（ +1.56% ），全球市值約 2.93 兆、 BTC 市占 59.34%。Fear & Greed 本日 70（Greed）、週均 70.3。 穩定幣 總市值 313.68B（WoW +0.64% ）； USDT 184.07B（ +0.16% ）、 USDC 74.21B（WoW -1.61% ）、 USDe 4.91B（ -0.66% ）、PYUSD 2.89B（ +4.74% WoW）。 BTC ETF 本窗口（4 個交易日）週成交額約 84.5 億美元（較上週 -346 億）、 ETH ETF 約 24.2 億（-132 億）；媒體稱 10/2 現貨 BTC ETF 淨流入約 1.03 億。Hyperliquid Perps 7 日量約 58.2 億、占鏈上永續 58.9%。Cardano 鏈 TVL 約 6,831 萬美元（7d -0.49% ）、 DEX 24h 約 339 萬； ADA 7d",
-   "market_section": "crypto",
-   "paywalled": false,
-   "source": "哈利的投資研究筆記庫",
-   "id": "4353a34daa98",
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-05T12:32:07.617094+08:00"
   }
  ],
  "fx": {
-  "usd_twd": 32.928,
+  "usd_twd": 32.945,
   "source": "rter.info",
   "history": [
    {
@@ -1371,10 +1397,14 @@
    {
     "d": "2026-11-18",
     "v": 32.928
+   },
+   {
+    "d": "2026-11-19",
+    "v": 32.945
    }
   ],
-  "change_7d": 0.108,
-  "change_30d": 0.402,
+  "change_7d": -0.019,
+  "change_30d": 0.361,
   "alert_below": 30.5,
   "good_time_to_buy": false,
   "note": "中間價，實際銀行買賣會有價差"
@@ -1383,61 +1413,61 @@
   {
    "symbol": "^TWII",
    "name": "台股加權",
-   "price": 40092.11,
-   "change": -947.97,
-   "change_pct": 2.31,
-   "currency": "TWD",
-   "as_of": "2026-11-17",
-   "market": "TW"
-  },
-  {
-   "symbol": "^GSPC",
-   "name": "S&P 500",
-   "price": 7340.53,
-   "change": -76.06,
-   "change_pct": -1.03,
-   "currency": "USD",
-   "as_of": "2026-11-17",
-   "market": "US"
-  },
-  {
-   "symbol": "^IXIC",
-   "name": "那斯達克",
-   "price": 24328.383,
-   "change": -181.375,
-   "change_pct": -0.74,
-   "currency": "USD",
-   "as_of": "2026-11-17",
-   "market": "US"
-  },
-  {
-   "symbol": "^SOX",
-   "name": "費半",
-   "price": 9642.878,
-   "change": 32.226,
-   "change_pct": 0.34,
-   "currency": "USD",
-   "as_of": "2026-11-17",
-   "market": "US"
-  },
-  {
-   "symbol": "2330.TW",
-   "name": "台積電",
-   "price": 2175.0,
-   "change": 5.0,
-   "change_pct": 0.23,
+   "price": 40194.91,
+   "change": 102.8,
+   "change_pct": 0.26,
    "currency": "TWD",
    "as_of": "2026-11-18",
    "market": "TW"
   },
   {
+   "symbol": "^GSPC",
+   "name": "S&P 500",
+   "price": 7323.63,
+   "change": -16.9,
+   "change_pct": -0.23,
+   "currency": "USD",
+   "as_of": "2026-11-18",
+   "market": "US"
+  },
+  {
+   "symbol": "^IXIC",
+   "name": "那斯達克",
+   "price": 24429.885,
+   "change": 101.502,
+   "change_pct": 0.42,
+   "currency": "USD",
+   "as_of": "2026-11-18",
+   "market": "US"
+  },
+  {
+   "symbol": "^SOX",
+   "name": "費半",
+   "price": 9652.797,
+   "change": 9.919,
+   "change_pct": 0.1,
+   "currency": "USD",
+   "as_of": "2026-11-18",
+   "market": "US"
+  },
+  {
+   "symbol": "2330.TW",
+   "name": "台積電",
+   "price": 2100.0,
+   "change": -75.0,
+   "change_pct": -3.45,
+   "currency": "TWD",
+   "as_of": "2026-11-19",
+   "market": "TW"
+  },
+  {
    "symbol": "NVDA",
    "name": "NVIDIA",
-   "price": 155.46,
-   "change": -0.68,
-   "change_pct": -0.44,
+   "price": 150.96,
+   "change": -4.5,
+   "change_pct": -2.89,
    "currency": "USD",
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "market": "US"
   }
  ],

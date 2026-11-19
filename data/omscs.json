@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T14:17:40.324442+08:00",
+ "updated_at": "2026-11-19T14:19:38.241143+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -62,6 +62,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-18T14:17:40.324442+08:00"
   },
   {
@@ -458,13 +460,12 @@
    "first_seen": "2026-11-12T14:05:38.790931+08:00"
   },
   {
-   "title": "Course Request: Formal Methods with Lean",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1xsqmqu/course_request_formal_methods_with_lean/",
-   "published": "2026-11-10T16:00:38+00:00",
-   "excerpt": "Hi, considering all the breakthroughs in the frontier of math using AI made recently, wouldn't it be nice to have a course on formalization and interactive computer proofs? The course could take inspiration from related courses, like this one that exists on campus: CS 8803 LCS: Logic in Computer Science, taught by Prof. Suguman Bansal: https://syllabus.gatech.edu/syllabi/8803/lcs Also related: https://sites.gatech.edu/ai4math-center An OMSCS version would be especially valuable if it included substantial hands-on work with Lean. Some may think this is not applicable for OMSCS because it's a math subject, but I believe soon Lean formalization will be a necessary part of most papers that propo",
-   "author": "/u/DiscountTerrible5151",
-   "source": "Reddit r/OMSCS",
-   "id": "86c6e4484dd1",
+   "title": "A Mathematician's Square Wheel Bike",
+   "url": "https://www.macalester.edu/mscs/multimedia/squarewheeledbike/squarewheelbike/",
+   "published": "2026-11-10T16:22:13Z",
+   "excerpt": "",
+   "source": "Hacker News",
+   "id": "887de58461f4",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -473,12 +474,13 @@
    "first_seen": "2026-11-11T13:03:38.687613+08:00"
   },
   {
-   "title": "A Mathematician's Square Wheel Bike",
-   "url": "https://www.macalester.edu/mscs/multimedia/squarewheeledbike/squarewheelbike/",
-   "published": "2026-11-10T16:22:13Z",
-   "excerpt": "",
-   "source": "Hacker News",
-   "id": "887de58461f4",
+   "title": "Course Request: Formal Methods with Lean",
+   "url": "https://www.reddit.com/r/OMSCS/comments/1xsqmqu/course_request_formal_methods_with_lean/",
+   "published": "2026-11-10T16:00:38+00:00",
+   "excerpt": "Hi, considering all the breakthroughs in the frontier of math using AI made recently, wouldn't it be nice to have a course on formalization and interactive computer proofs? The course could take inspiration from related courses, like this one that exists on campus: CS 8803 LCS: Logic in Computer Science, taught by Prof. Suguman Bansal: https://syllabus.gatech.edu/syllabi/8803/lcs Also related: https://sites.gatech.edu/ai4math-center An OMSCS version would be especially valuable if it included substantial hands-on work with Lean. Some may think this is not applicable for OMSCS because it's a math subject, but I believe soon Lean formalization will be a necessary part of most papers that propo",
+   "author": "/u/DiscountTerrible5151",
+   "source": "Reddit r/OMSCS",
+   "id": "86c6e4484dd1",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2945,21 +2947,6 @@
    "first_seen": "2026-10-06T13:17:03.685090+08:00"
   },
   {
-   "title": "CS6515 Thinking to withdraw after exam 1 results",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wwxy1z/cs6515_thinking_to_withdraw_after_exam_1_results/",
-   "published": "2026-10-03T21:03:07+00:00",
-   "excerpt": "I am feeling I should drop out after exam 1 results. I got 10/20 which is making me cry. I did solve all the practice problems and still failed. I am feeling I should drop but will it become any better next time I retake don't know. Anyone here who is feeling the same after results for this class or been there? submitted by /u/Regular_Smile4466 [link] [留言]",
-   "author": "/u/Regular_Smile4466",
-   "source": "Reddit r/OMSCS",
-   "id": "493dfb878cef",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-05T12:31:10.964120+08:00"
-  },
-  {
    "title": "The OMSCS Resources I Wish I Knew About Before Starting Georgia Tech’s Online MSCS",
    "url": "https://medium.com/@shubhamraj97/the-omscs-resources-i-wish-i-knew-about-before-starting-georgia-techs-online-mscs-396c9366d002?source=rss------omscs-5",
    "published": "2026-09-27T09:24:43+00:00",
@@ -3035,13 +3022,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
-   "published": "2022-05-07T07:00:00+00:00",
-   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
+   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
+   "published": "2024-08-25T07:00:00+00:00",
+   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
    "author": null,
    "source": "Google News",
-   "id": "29987ae51976",
+   "id": "0236a502b4bf",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -3050,13 +3037,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
-   "published": "2024-08-25T07:00:00+00:00",
-   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
+   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
+   "published": "2022-05-07T07:00:00+00:00",
+   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
    "author": null,
    "source": "Google News",
-   "id": "0236a502b4bf",
+   "id": "29987ae51976",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

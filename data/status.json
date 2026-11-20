@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-11-19T14:20:51.900986+08:00",
- "duration_sec": 123.0,
+ "updated_at": "2026-11-20T14:04:21.900132+08:00",
+ "duration_sec": 133.7,
  "sections": [
   {
    "key": "omscs",
    "label": "OMSCS 情報",
    "ok": true,
-   "items": 224,
+   "items": 221,
    "sources": [
     {
      "name": "Reddit r/OMSCS",
@@ -29,7 +29,7 @@
     {
      "name": "Google News",
      "ok": true,
-     "count": 10,
+     "count": 12,
      "note": ""
     },
     {
@@ -62,7 +62,7 @@
    "key": "cpt",
    "label": "CPT / 簽證",
    "ok": true,
-   "items": 690,
+   "items": 701,
    "sources": [
     {
      "name": "Google News",
@@ -124,7 +124,7 @@
    "key": "jobs",
    "label": "職缺與文章",
    "ok": true,
-   "items": 979,
+   "items": 987,
    "sources": [
     {
      "name": "104｜自動化測試",

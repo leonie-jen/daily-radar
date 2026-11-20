@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T14:19:38.241143+08:00",
+ "updated_at": "2026-11-20T14:03:06.990458+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -22,7 +22,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 10,
+   "count": 12,
    "note": ""
   },
   {
@@ -51,6 +51,18 @@
   }
  ],
  "items": [
+  {
+   "title": "UCSF QBI Awarded $46M to Translate Landmark Autism Map into Precision Therapies",
+   "url": "https://www.genengnews.com/topics/omics/ucsf-qbi-awarded-46m-to-translate-landmark-autism-map-into-precision-therapies/",
+   "published": "2026-11-20T04:16:20Z",
+   "excerpt": "",
+   "source": "Hacker News",
+   "id": "fb1495d98d07",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "first_seen": "2026-11-20T14:03:06.990458+08:00"
+  },
   {
    "title": "The Digital Bridge - Harvard Graduate School of Education",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4WElYZVptUTFza2dhNV9TSWlNUnVyVFBXQTZhZXE5SmxBemZ1cV82RnAwbDhsOG1mZzZRX0pQWkxienVzV0VOTkc3ZHhwWlBWYV9lb0RNUDRtcFdnVV9DZTUtWGtRdXFmNHYybnlFUE5ETFh4VjYzSmoyWQ?oc=5",
@@ -2902,51 +2914,6 @@
    "first_seen": "2026-10-07T12:45:11.389225+08:00"
   },
   {
-   "title": "Got a 170k job from being in OMSCS! Keep going guys!",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wy1t6v/got_a_170k_job_from_being_in_omscs_keep_going_guys/",
-   "published": "2026-10-05T06:53:57+00:00",
-   "excerpt": "saw a similar post but also wanted to make it known that this program IS WORTH IT. After not even finishing my first semester last year I got an internship at a big tech company and interned there this past summer, and got a return offer for 170k in technical support engineering. I did not from a top 20 undergrad school or anything like that and i had 3 internships from non Faang companies prior but no full time working experience. This was also this was my first paid internship since 2021. Safe to say it’s been a long journey to get here and thankful i took the leap to do this program. To whoever is reading this, keep pushing and someone will notice, trust the process submitted by /u/thunde",
-   "author": "/u/thunderoclock",
-   "source": "Reddit r/OMSCS",
-   "id": "55f98f29134c",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-06T13:17:03.685090+08:00"
-  },
-  {
-   "title": "Joyner Campus Tour Fall 2026 Grad",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wxy2bf/joyner_campus_tour_fall_2026_grad/",
-   "published": "2026-10-05T03:10:44+00:00",
-   "excerpt": "Planning my trip for graduation for Fall 2026 semester for OMSCS. I see the graduation is Dec 17th 6 PM. Any idea if the Dr. Joyner graduation tour is planned for this graduation and if so when is it. Does the tour usually happen the day before? Congrats to everyone graduating! submitted by /u/Positive_Run_2831 [link] [留言]",
-   "author": "/u/Positive_Run_2831",
-   "source": "Reddit r/OMSCS",
-   "id": "17a93b16c565",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-06T13:17:03.685090+08:00"
-  },
-  {
-   "title": "Does anyone have access to the ISYE 6999 lecture videos?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wxygpr/does_anyone_have_access_to_the_isye_6999_lecture/",
-   "published": "2026-10-05T03:32:40+00:00",
-   "excerpt": "Hi everyone! I’m looking for the lecture videos for ISYE 6999. Has anyone taken the course and still has access to them, or knows where they’re available? I’d appreciate any links or pointers to the videos through official or publicly accessible sources. If sharing isn’t permitted, information on how to get access would also be helpful. Thanks! submitted by /u/StormAnnual479 [link] [留言]",
-   "author": "/u/StormAnnual479",
-   "source": "Reddit r/OMSCS",
-   "id": "ef3e414a87f5",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-06T13:17:03.685090+08:00"
-  },
-  {
    "title": "The OMSCS Resources I Wish I Knew About Before Starting Georgia Tech’s Online MSCS",
    "url": "https://medium.com/@shubhamraj97/the-omscs-resources-i-wish-i-knew-about-before-starting-georgia-techs-online-mscs-396c9366d002?source=rss------omscs-5",
    "published": "2026-09-27T09:24:43+00:00",
@@ -3022,13 +2989,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
-   "published": "2024-08-25T07:00:00+00:00",
-   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
+   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
+   "published": "2022-05-07T07:00:00+00:00",
+   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
    "author": null,
    "source": "Google News",
-   "id": "0236a502b4bf",
+   "id": "29987ae51976",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -3037,13 +3004,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
-   "published": "2022-05-07T07:00:00+00:00",
-   "excerpt": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging Nature",
+   "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
+   "published": "2024-08-25T07:00:00+00:00",
+   "excerpt": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming DataDrivenInvestor",
    "author": null,
    "source": "Google News",
-   "id": "29987ae51976",
+   "id": "0236a502b4bf",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -3438,20 +3405,6 @@
    "excerpt": "",
    "source": "Hacker News",
    "id": "56495e540a05",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "ODFM, an omics data resource from microorganisms associated with fermented foods",
-   "url": "https://www.nature.com/articles/s41597-021-00895-x",
-   "published": "2025-06-28T16:41:58Z",
-   "excerpt": "",
-   "source": "Hacker News",
-   "id": "6dbf49fa843e",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

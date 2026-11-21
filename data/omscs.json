@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T14:03:06.990458+08:00",
+ "updated_at": "2026-11-21T13:56:36.404586+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -22,7 +22,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "note": ""
   },
   {
@@ -61,6 +61,8 @@
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-20T14:03:06.990458+08:00"
   },
   {
@@ -1450,6 +1452,21 @@
    "first_seen": "2026-10-24T11:37:35.792721+08:00"
   },
   {
+   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
+   "published": "2023-04-21T07:00:00+00:00",
+   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
+   "author": null,
+   "source": "Google News",
+   "id": "43f2eafe3c1d",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-10-23T11:43:09.869237+08:00"
+  },
+  {
    "title": "Where Are They Now? Team Atlanta Takes AI Cybersecurity Beyond the Competition",
    "url": "https://omscs.gatech.edu/external-news/where-are-they-now-team-atlanta-takes-ai-cybersecurity-beyond-competition",
    "published": null,
@@ -1484,21 +1501,6 @@
    "excerpt": "",
    "source": "Hacker News",
    "id": "6f6341c8a2eb",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-23T11:43:09.869237+08:00"
-  },
-  {
-   "title": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews - DataDrivenInvestor",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tWbDh3Tk9jY1p1Tml6Q09vNmo5VllFRHZIcndHV3g3NERiRFdXdjc0QkIxbWJodmwwNXJfZkF5S0JoTWZXOHlaWExlR0Jpci16OHAyclYwdVBvNXlaV2VFV3BLbUYxNTd6c3M0TVZtVy1RWk1UdExvZHlBRk5XSnVuZFBwTzMxVngyX21qOXdIcElydEZOT09QbGtrU25zc05jRE0xbUQ2MndabTBvSUdDcUVhaWhLRkE?oc=5",
-   "published": "2023-04-21T07:00:00+00:00",
-   "excerpt": "Use Python to Analyze Georgia Tech OMSCS Course Ratings and Reviews DataDrivenInvestor",
-   "author": null,
-   "source": "Google News",
-   "id": "43f2eafe3c1d",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
@@ -2884,33 +2886,6 @@
    "relevance": null,
    "summary": null,
    "tags": null,
-   "first_seen": "2026-10-07T12:45:11.389225+08:00"
-  },
-  {
-   "title": "How is the new OMS AI degree going to be different from OMSCS?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wzmyrc/how_is_the_new_oms_ai_degree_going_to_be/",
-   "published": "2026-10-07T04:04:30+00:00",
-   "excerpt": "Just found out about this and wondering how it will differ from ML or AI tracks. https://news.gatech.edu/news/2026/10/06/georgia-tech-announces-new-online-masters-degree-artificial-intelligence submitted by /u/zelena23 [link] [留言]",
-   "author": "/u/zelena23",
-   "source": "Reddit r/OMSCS",
-   "id": "84dd0c5edab7",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-07T12:45:11.389225+08:00"
-  },
-  {
-   "title": "Academic AI Strategy Establishes Shared Vision for Teaching and Learning at Georgia Tech",
-   "url": "https://omscs.gatech.edu/external-news/academic-ai-strategy-establishes-shared-vision-teaching-and-learning-georgia-tech",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "b3fdbdb771b0",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
    "first_seen": "2026-10-07T12:45:11.389225+08:00"
   },
   {

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T13:56:36.404586+08:00",
+ "updated_at": "2026-11-22T13:31:14.324938+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -2804,69 +2804,6 @@
    "excerpt": "",
    "source": "OMSCS 官方公告",
    "id": "31b0ee4cb5e7",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
-   "title": "Postponing enrollment repercussions",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x03oqe/postponing_enrollment_repercussions/",
-   "published": "2026-10-07T18:05:57+00:00",
-   "excerpt": "I was accepted into the OMSCS program and was set to enroll for this fall but I had some life circumstances come up so I was thinking of registering for courses in Fall 27. My concern is I know there’s a requirement that you must complete 2 core classes in your first year with a minimum of a B to remain in the program. So if I defer for a year am I not able to attend and take the OMSCS route? Some of the life stuff is good and some is bad but I feel deeply that not enrolling for this fall and the upcoming Spring semester is the right decision. But I’m randomly getting super depressed because getting my masters in machine learning is my dream and Im worried I can’t register next year if I don",
-   "author": "/u/MickeySlips",
-   "source": "Reddit r/OMSCS 錄取討論",
-   "id": "9ece923f0c0c",
-   "admission_signal": true,
-   "keyword_hits": [
-    "accepted",
-    "decision"
-   ],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
-   "title": "The Real OMSAI Reddit",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x032gm/the_real_omsai_reddit/",
-   "published": "2026-10-07T17:42:59+00:00",
-   "excerpt": "Hi all, this is the real subreddit for the newly announced OMSAI program: https://www.reddit.com/r/omsai Go check it out, the previous community that was posted this morning here was a false start, the OMSAI URL for Reddit was already reserved. See you there on r/OMSAI ! submitted by /u/cyber_mail [link] [留言]",
-   "author": "/u/cyber_mail",
-   "source": "Reddit r/OMSCS",
-   "id": "203a5a840813",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
-   "title": "Are you okay? r/OMSCS Mental Health Check-in.",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wzvx5m/are_you_okay_romscs_mental_health_checkin/",
-   "published": "2026-10-07T13:01:04+00:00",
-   "excerpt": "You're doing great! Don't sweat the most recent or upcoming project, test, grade, etc. Make sure you give your best shot, and never, ever succumb to cheating. The OSI Police are in full force during this critical period, and you know it, through the Reddit threads that you would occasionally find how onerous these threats could be. You Are Not Alone & You'll Get Through This. Know that you are not alone. We all go through ups and downs and have tests or projects that don't go as planned. Never fear as bright days are ahead of you. Utilize this thread if you're feeling down and or want someone to talk to. We are all in this together and we're here for you and one another. There is a lot more ",
-   "author": "/u/AutoModerator",
-   "source": "Reddit r/OMSCS",
-   "id": "708d178ef553",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
-   "title": "The Recent Controversy of Graduate Algorithms in OMSCS - YouTube",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZRU9vUUhja245M0tybmhGdmhqcDlXSUVaXzRqaGF0b0I0bVc5bW9ZWk9GSTlJWGVGNmUxcFNWdDVoYW54dUg4eG1uTVNGdm42cFhQZ091dWdZTVo2?oc=5",
-   "published": "2024-12-10T08:00:00+00:00",
-   "excerpt": "The Recent Controversy of Graduate Algorithms in OMSCS YouTube",
-   "author": null,
-   "source": "Google News",
-   "id": "c607f979e302",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

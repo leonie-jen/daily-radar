@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T13:31:14.324938+08:00",
+ "updated_at": "2026-11-23T14:10:34.442249+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -2736,66 +2736,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-10-10T12:44:37.032036+08:00"
-  },
-  {
-   "title": "CS6290 (HPCA) is the worst course I've taken.",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x18gqf/cs6290_hpca_is_the_worst_course_ive_taken/",
-   "published": "2026-10-09T01:24:10+00:00",
-   "excerpt": "This is the first course in this program that I've been heavily disappointed in. The problem isn't about the lecture material, but rather about the projects. We're given word documents to provide our answers, which contains: Outdated questions, instructions, and errors that we have to refer to a LONG \"FAQ\" Ed post. There is no reason that the instructor(s) or maintainer(s) of this course can't update the actual working document. Why is that we're forced to continuously go back and forth while working on an assignment that requires tedious/meticulous attention? Styling/formatting issues from the word document. Entering an answer will often shift the document, sometimes erasing a blank for stu",
-   "author": "/u/__merc",
-   "source": "Reddit r/OMSCS",
-   "id": "dc2f5cab3a14",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-09T12:58:43.435864+08:00"
-  },
-  {
-   "title": "Can we request a 3-course overload immediately?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x0qhmv/can_we_request_a_3course_overload_immediately/",
-   "published": "2026-10-08T13:08:56+00:00",
-   "excerpt": "Hey everyone, I’m a new student starting in Spring 2027. I’ve heard that traditionally you can only sign up for three classes once you’ve completed 4 classes with a B or better, but I recently saw a thread claiming you can now request to take three right off the bat. Is this the case? My employer is sponsoring my degree and I have a deadline coming up soon to submit my academic plan, but unfortunately, I haven't heard back from advising after reaching out weeks ago. Thanks! Edit: Two other pieces of info. I read through Fall's orientation and the only relevant info I saw was \"During the Fall and Spring semesters, all students can, by default, enroll in a maximum of seven hours.\". I didn't se",
-   "author": "/u/Fangman22",
-   "source": "Reddit r/OMSCS",
-   "id": "0a5467ee7476",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-09T12:58:43.435864+08:00"
-  },
-  {
-   "title": "CS7646- Incorrect report name for Project 3",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x11zpk/cs7646_incorrect_report_name_for_project_3/",
-   "published": "2026-10-08T20:33:59+00:00",
-   "excerpt": "Hi, Just noticed that I had submitted the PDF for Project 3 with an incorrect name. Since Project 3 accounts for 10% of the total and report is 50% of Project 3, I’m scared I might lose 5 marks entirely because of this issue. More scared because this may directly impact my grade. I know I need to be more careful and I’ll review everything from now on, but since this project submission has closed already, is there something I can do? Thanks in advance. submitted by /u/Individual-Mud5511 [link] [留言]",
-   "author": "/u/Individual-Mud5511",
-   "source": "Reddit r/OMSCS",
-   "id": "fb44b20f3e8f",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-09T12:58:43.435864+08:00"
-  },
-  {
-   "title": "Anyone interested in building a community set of OMSCS notes?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1wz7eh5/anyone_interested_in_building_a_community_set_of/",
-   "published": "2026-10-06T16:41:20+00:00",
-   "excerpt": "I feel like we need a canonical source of \"OMSCS notes.\" There are a few really awesome repos floating around ( OMSCS Notes stands out, plus a bunch of personal per-course ones), but what I'm thinking of is more of a community-driven, community-validated set of materials with some shared standards of rigour (and yes, I know, relevant xkcd 😅). Everything in Markdown so it's easy to contribute to. Basically a constantly evolving open-source \"textbook.\" In the age of AI this seems totally doable... though obviously we'd want to avoid creating a repo consisting of millions of lines of AI slop (hence, \"shared standards of rigour\"). Context: For each of my courses, I've been attempting to build my",
-   "author": "/u/john-c34",
-   "source": "Reddit r/OMSCS",
-   "id": "65c1f1ce587f",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-09T12:58:43.435864+08:00"
   },
   {
    "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T14:10:34.442249+08:00",
+ "updated_at": "2026-11-24T16:48:09.790354+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -2700,36 +2700,6 @@
    "excerpt": "Hi HN, I’m sharing tgv, a new kind of genome viewer built for humans-agent collaboration in genomics.<p>I work in a cancer diagnostics lab and we check cancer patients’ sequencing data in genome viewers every day. Frustrated by the standard tools, last year I built tgv, a Vim-style, keyboard-driven genome viewer.<p>In 2026, while agents are scarily good at bioinformatics, bioinformatics tools haven’t kept up. tgv now brings a new kind of research workflow: expose multi-omics data to agents throu",
    "source": "Hacker News",
    "id": "50a8942187b0",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-10T12:44:37.032036+08:00"
-  },
-  {
-   "title": "Unpopular Opinion: OMSCS Makes Learning Harder Than It Needs to Be",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x1x2y1/unpopular_opinion_omscs_makes_learning_harder/",
-   "published": "2026-10-09T21:08:46+00:00",
-   "excerpt": "Unpopular opinion: Georgia Tech's OMSCS classes are unnecessarily difficult and tedious. Or maybe the difficulty is necessary, depending on your goals. For context, I'm currently taking a robotics course at a different institution that combines theory, hands-on work, projects, and research. Comparing the two, I find OMSCS unnecessarily more difficult. Sometimes it feels like doing “wax on, wax off” with Mr. Miyagi. I don't know about others, but I learn best when I understand maybe 50% of the theory, then work on a practical project that helps another 25–35% click. The rest I pick up on my own when I want to explore something in more depth. Maybe OMSCS just isn't for me, but I feel like the ",
-   "author": "/u/SnooConfections1353",
-   "source": "Reddit r/OMSCS",
-   "id": "1b0aae03d2e6",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-10T12:44:37.032036+08:00"
-  },
-  {
-   "title": "Fall 2026 Commencement Ceremony Tickets",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x17ciq/fall_2026_commencement_ceremony_tickets/",
-   "published": "2026-10-09T00:28:06+00:00",
-   "excerpt": "I emailed [ events@gatech.edu ](mailto: events@gatech.edu ) the below: \"The schedule events website says the Masters only ceremony on Thursday requires RSVP. The RSVP website does not have a category for Masters only ceremonies. What is the policy for tickets for this ceremony?\" This was their response: \"Thank you for reaching out. To clarify, all of our non-Ph.D. Ceremonies are ticketed and students are allotted 4 tickets each.\" So go ahead and RSVP your tickets if you plan to attend graduation this fall. submitted by /u/jmikey29 [link] [留言]",
-   "author": "/u/jmikey29",
-   "source": "Reddit r/OMSCS",
-   "id": "e24db549b741",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T14:11:21.878828+08:00",
+ "updated_at": "2026-11-24T16:49:14.761698+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -22,6 +22,30 @@
  ],
  "items": [
   {
+   "title": "[美股] 2026-11-24 美股盤後報告",
+   "url": "https://harrymemo.com/outputs/us/2026-11-24_US_Market_Dashboard",
+   "published": "2026-11-24",
+   "excerpt": "",
+   "market_section": "us",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "20fbcfd8965e",
+   "relevance": null,
+   "first_seen": "2026-11-24T16:49:14.761698+08:00"
+  },
+  {
+   "title": "[台股] 2026-11-24 台股盤後報告",
+   "url": "https://harrymemo.com/outputs/tw/2026-11-24_TW_Market_Dashboard",
+   "published": "2026-11-24",
+   "excerpt": "",
+   "market_section": "tw",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "ebe1e2a1dea5",
+   "relevance": null,
+   "first_seen": "2026-11-24T16:49:14.761698+08:00"
+  },
+  {
    "title": "[台股] 2026-11-23 台股盤後報告",
    "url": "https://harrymemo.com/outputs/tw/2026-11-23_TW_Market_Dashboard",
    "published": "2026-11-23",
@@ -31,6 +55,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "9bc554ce20c7",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-23T14:11:21.878828+08:00"
   },
   {
@@ -43,6 +69,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "df9550b5652f",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-23T14:11:21.878828+08:00"
   },
   {
@@ -1024,24 +1052,10 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-10-12T12:46:23.054250+08:00"
-  },
-  {
-   "title": "[美股] 2026-10-10 美股盤後報告",
-   "url": "https://harrymemo.com/outputs/us/2026-10-10_US_Market_Dashboard",
-   "published": "2026-10-10",
-   "excerpt": "",
-   "market_section": "us",
-   "paywalled": true,
-   "source": "哈利的投資研究筆記庫",
-   "id": "32d5c7186274",
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-10T12:45:47.757558+08:00"
   }
  ],
  "fx": {
-  "usd_twd": 32.916,
+  "usd_twd": 32.896,
   "source": "rter.info",
   "history": [
    {
@@ -1363,10 +1377,14 @@
    {
     "d": "2026-11-23",
     "v": 32.916
+   },
+   {
+    "d": "2026-11-24",
+    "v": 32.896
    }
   ],
-  "change_7d": -0.052,
-  "change_30d": 0.346,
+  "change_7d": -0.076,
+  "change_30d": 0.326,
   "alert_below": 30.5,
   "good_time_to_buy": false,
   "note": "中間價，實際銀行買賣會有價差"
@@ -1375,61 +1393,61 @@
   {
    "symbol": "^TWII",
    "name": "台股加權",
-   "price": 36033.29,
-   "change": -2393.6,
-   "change_pct": 6.23,
-   "currency": "TWD",
-   "as_of": "2026-11-20",
-   "market": "TW"
-  },
-  {
-   "symbol": "^GSPC",
-   "name": "S&P 500",
-   "price": 6910.39,
-   "change": -265.44,
-   "change_pct": -3.7,
-   "currency": "USD",
-   "as_of": "2026-11-20",
-   "market": "US"
-  },
-  {
-   "symbol": "^IXIC",
-   "name": "那斯達克",
-   "price": 22617.733,
-   "change": null,
-   "change_pct": null,
-   "currency": "USD",
-   "as_of": "2026-11-20",
-   "market": "US"
-  },
-  {
-   "symbol": "^SOX",
-   "name": "費半",
-   "price": 8408.59,
-   "change": null,
-   "change_pct": null,
-   "currency": "USD",
-   "as_of": "2026-11-20",
-   "market": "US"
-  },
-  {
-   "symbol": "2330.TW",
-   "name": "台積電",
-   "price": 2030.0,
-   "change": 30.0,
-   "change_pct": 1.5,
+   "price": 36811.89,
+   "change": 778.6,
+   "change_pct": 2.16,
    "currency": "TWD",
    "as_of": "2026-11-23",
    "market": "TW"
   },
   {
+   "symbol": "^GSPC",
+   "name": "S&P 500",
+   "price": 7237.17,
+   "change": 326.78,
+   "change_pct": 4.73,
+   "currency": "USD",
+   "as_of": "2026-11-23",
+   "market": "US"
+  },
+  {
+   "symbol": "^IXIC",
+   "name": "那斯達克",
+   "price": 24089.558,
+   "change": 1471.825,
+   "change_pct": 6.51,
+   "currency": "USD",
+   "as_of": "2026-11-23",
+   "market": "US"
+  },
+  {
+   "symbol": "^SOX",
+   "name": "費半",
+   "price": 9588.05,
+   "change": 1179.46,
+   "change_pct": 14.03,
+   "currency": "USD",
+   "as_of": "2026-11-23",
+   "market": "US"
+  },
+  {
+   "symbol": "2330.TW",
+   "name": "台積電",
+   "price": 2230.0,
+   "change": 200.0,
+   "change_pct": 9.85,
+   "currency": "TWD",
+   "as_of": "2026-11-24",
+   "market": "TW"
+  },
+  {
    "symbol": "NVDA",
    "name": "NVIDIA",
-   "price": 125.53,
-   "change": -20.45,
-   "change_pct": -14.01,
+   "price": 165.05,
+   "change": 39.52,
+   "change_pct": 31.48,
    "currency": "USD",
-   "as_of": "2026-11-20",
+   "as_of": "2026-11-23",
    "market": "US"
   }
  ],

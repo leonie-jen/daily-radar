@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T16:49:14.761698+08:00",
+ "updated_at": "2026-11-25T15:24:24.578115+08:00",
  "sources": [
   {
    "name": "匯率 USD/TWD",
@@ -16,11 +16,35 @@
   {
    "name": "哈利的投資研究筆記庫",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "note": ""
   }
  ],
  "items": [
+  {
+   "title": "[美股] 2026-11-25 美股盤後報告",
+   "url": "https://harrymemo.com/outputs/us/2026-11-25_US_Market_Dashboard",
+   "published": "2026-11-25",
+   "excerpt": "",
+   "market_section": "us",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "fef8dc2cbcf6",
+   "relevance": null,
+   "first_seen": "2026-11-25T15:24:24.578115+08:00"
+  },
+  {
+   "title": "[台股] 2026-11-25 台股盤後報告",
+   "url": "https://harrymemo.com/outputs/tw/2026-11-25_TW_Market_Dashboard",
+   "published": "2026-11-25",
+   "excerpt": "",
+   "market_section": "tw",
+   "paywalled": true,
+   "source": "哈利的投資研究筆記庫",
+   "id": "ab36f59867e8",
+   "relevance": null,
+   "first_seen": "2026-11-25T15:24:24.578115+08:00"
+  },
   {
    "title": "[美股] 2026-11-24 美股盤後報告",
    "url": "https://harrymemo.com/outputs/us/2026-11-24_US_Market_Dashboard",
@@ -31,6 +55,8 @@
    "source": "哈利的投資研究筆記庫",
    "id": "20fbcfd8965e",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-24T16:49:14.761698+08:00"
   },
   {
@@ -43,15 +69,17 @@
    "source": "哈利的投資研究筆記庫",
    "id": "ebe1e2a1dea5",
    "relevance": null,
+   "summary": null,
+   "tags": null,
    "first_seen": "2026-11-24T16:49:14.761698+08:00"
   },
   {
-   "title": "[台股] 2026-11-23 台股盤後報告",
+   "title": "[台股] 2026/11/23 台股盤後：禁空令 3.0 ＋ 國安基金護盤；盤中震盪逾 1,200 點技術反彈，電子強、金融弱",
    "url": "https://harrymemo.com/outputs/tw/2026-11-23_TW_Market_Dashboard",
    "published": "2026-11-23",
-   "excerpt": "",
+   "excerpt": "2026/11/23 台股盤後：禁空令 3.0 ＋ 國安基金護盤；盤中震盪逾 1,200 點技術反彈，電子強、金融弱｜哈利的投資研究筆記庫 ← 返回 報告列表 首頁 目錄 🤖 哈利小助理 🏛️ 台股市值前十 📈 大盤與重點指標 🏦 三大法人 📈 日漲幅資金主軸 📉 日跌幅資金主軸 🌡️ 產業熱力圖 📰 產業敘事 🔮 未來展望 💡 未來關注重點 📊 0050 估值雷達 🎯 0050 目標價 📋 0050 估值排行 TW Dashboard 報告：2026-11-23（台北）｜查詢：2026-11-23 18:32 台北 本日市場報告 估值雷達 Beta 🇹🇼 台股深度分析 Dashboard 禁空令 3.0 ＋ 國安基金護盤 ；盤中震盪逾 1,200 點技術反彈，電子強、金融弱 🤖 哈利小助理 · 今日精評 不專業分析師視野 · 統整盤勢與展望 中性 嚴控槓桿；反彈日參與跌深電子宜分批、不追漲停；權值與金融保守觀望 禁空令 3.0 與國安基金護盤下的「抽血後反彈日」——開低一度下探 3.54 萬，電子跌深族群強力回升，但權值 2330 台積電 僅溫和跟漲，市場仍在消化美股七連黑與 AI 估值重修。 總經背景 美東 11/20 S&P 500 連七日落至 6,910.39（ -3.70% ）、 Nasdaq -5.28% ， NVDA 單日 -14.01% 至 125.53 美元， 費半 -10.73% ， VIX 飆至約 35.9。金管會禁空令 3.0 與國安基金進場，媒體稱台股早盤由恐慌轉急拉。USD/TWD 約 32.90（日 -0.37% ）。 10Y 公債仍處偏高區（市場預期／媒體報導）。三大法人合計賣超 511.77 億（外資賣超 289.48 億、投信賣超 32.28 億、自營賣超 190.01 億）。 資金輪動 資金從週末恐慌的「全面殺估值」轉向「跌深電子＋政策護盤」：記憶體均漲約 7.8%（ 2344 華邦電 、 2408 南亞科 ）、載板 PCB 約 7.6%（ 2383 台光電 、 8046 南電 ）、散熱電源 2308 台達電 觸及漲停；金融均跌約 3.8%（ 2891 中信金 、 2881 富邦金 ）顯示資金非全面轉多而是結構性補倉。 台美連動 NVDA -14% ／ 費半 -10.73% 代表 AI 交易情緒崩壞 → TSM ADR -9.48% 反映代工 ADR 折價擴大 → 2330 台積電 僅 +1.75% 顯示權王跟漲不及跌深設計與零組件。 DELL -11% 外溢有限： 2382 廣達 +2.38% 、 2317 鴻海 -1.9% ，ODM 仍等營收與美股 Capex 訊號。ASIC 鏈偏弱： 3443 創意 -5.46% 與美股客製晶片疑慮呼應。 今日統整 加權收 36,879.40 點（^TWII 日 +2.35% ），盤中高低震盪逾 1,200 點。 2454 聯發科 、 2308 台達電 等十檔權值觸漲停；前波空頭領跌的 2891 中信金 、 3443 創意 仍居日跌前列。三大法人合計賣超 511.77 億（外資賣超 289.48 億、投信賣超 32.28 億、自營賣超 190.01 億）。 展望研判 短線看 3.6–3.7 萬能否站穩、融資大減與法人是否由賣轉買；月線仍 -21% 技術性熊市未改。中線需 NVDA 止穩與外資連買兩週以上，才算跌深反彈升級為趨勢修復。 🏛️ 台股市值前十 Top 10 上市全檔依總市值排序取前十；收盤 2026/11/23｜成交量＝證交所成交金額（尚未公布時暫用 Yaho",
    "market_section": "tw",
-   "paywalled": true,
+   "paywalled": false,
    "source": "哈利的投資研究筆記庫",
    "id": "9bc554ce20c7",
    "relevance": null,
@@ -1055,7 +1083,7 @@
   }
  ],
  "fx": {
-  "usd_twd": 32.896,
+  "usd_twd": 33.17,
   "source": "rter.info",
   "history": [
    {
@@ -1381,10 +1409,14 @@
    {
     "d": "2026-11-24",
     "v": 32.896
+   },
+   {
+    "d": "2026-11-25",
+    "v": 33.17
    }
   ],
-  "change_7d": -0.076,
-  "change_30d": 0.326,
+  "change_7d": 0.242,
+  "change_30d": 0.606,
   "alert_below": 30.5,
   "good_time_to_buy": false,
   "note": "中間價，實際銀行買賣會有價差"
@@ -1393,61 +1425,61 @@
   {
    "symbol": "^TWII",
    "name": "台股加權",
-   "price": 36811.89,
-   "change": 778.6,
-   "change_pct": 2.16,
-   "currency": "TWD",
-   "as_of": "2026-11-23",
-   "market": "TW"
-  },
-  {
-   "symbol": "^GSPC",
-   "name": "S&P 500",
-   "price": 7237.17,
-   "change": 326.78,
-   "change_pct": 4.73,
-   "currency": "USD",
-   "as_of": "2026-11-23",
-   "market": "US"
-  },
-  {
-   "symbol": "^IXIC",
-   "name": "那斯達克",
-   "price": 24089.558,
-   "change": 1471.825,
-   "change_pct": 6.51,
-   "currency": "USD",
-   "as_of": "2026-11-23",
-   "market": "US"
-  },
-  {
-   "symbol": "^SOX",
-   "name": "費半",
-   "price": 9588.05,
-   "change": 1179.46,
-   "change_pct": 14.03,
-   "currency": "USD",
-   "as_of": "2026-11-23",
-   "market": "US"
-  },
-  {
-   "symbol": "2330.TW",
-   "name": "台積電",
-   "price": 2230.0,
-   "change": 200.0,
-   "change_pct": 9.85,
+   "price": 40122.35,
+   "change": 3310.46,
+   "change_pct": 8.99,
    "currency": "TWD",
    "as_of": "2026-11-24",
    "market": "TW"
   },
   {
+   "symbol": "^GSPC",
+   "name": "S&P 500",
+   "price": 7201.09,
+   "change": -36.08,
+   "change_pct": -0.5,
+   "currency": "USD",
+   "as_of": "2026-11-24",
+   "market": "US"
+  },
+  {
+   "symbol": "^IXIC",
+   "name": "那斯達克",
+   "price": 23733.535,
+   "change": -356.023,
+   "change_pct": -1.48,
+   "currency": "USD",
+   "as_of": "2026-11-24",
+   "market": "US"
+  },
+  {
+   "symbol": "^SOX",
+   "name": "費半",
+   "price": 8832.501,
+   "change": -755.549,
+   "change_pct": -7.88,
+   "currency": "USD",
+   "as_of": "2026-11-24",
+   "market": "US"
+  },
+  {
+   "symbol": "2330.TW",
+   "name": "台積電",
+   "price": 2150.0,
+   "change": -80.0,
+   "change_pct": -3.59,
+   "currency": "TWD",
+   "as_of": "2026-11-25",
+   "market": "TW"
+  },
+  {
    "symbol": "NVDA",
    "name": "NVIDIA",
-   "price": 165.05,
-   "change": 39.52,
-   "change_pct": 31.48,
+   "price": 155.38,
+   "change": -9.67,
+   "change_pct": -5.86,
    "currency": "USD",
-   "as_of": "2026-11-23",
+   "as_of": "2026-11-24",
    "market": "US"
   }
  ],

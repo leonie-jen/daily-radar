@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T15:11:14.760215+08:00",
+ "updated_at": "2026-11-27T15:08:41.676025+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -28,14 +28,14 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "note": ""
   },
   {
    "name": "OMSCS 官方公告",
-   "ok": true,
-   "count": 10,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "沒抓到資料（可能被擋或今天沒新內容）"
   },
   {
    "name": "Medium #omscs",
@@ -2501,66 +2501,6 @@
    "first_seen": "2026-10-14T11:52:41.091945+08:00"
   },
   {
-   "title": "AI Use by PROFESSORS in Coursework",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x4gpiu/ai_use_by_professors_in_coursework/",
-   "published": "2026-10-12T23:03:29+00:00",
-   "excerpt": "Has anyone else noticed just how many professors are using AI to create all of our coursework (often busywork) but then proceed to ban AI usage by students? Feels like this should cut both ways submitted by /u/AcrobaticFox2218 [link] [留言]",
-   "author": "/u/AcrobaticFox2218",
-   "source": "Reddit r/OMSCS",
-   "id": "5526fee14534",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-13T13:49:37.059421+08:00"
-  },
-  {
-   "title": "Is this acceptable or unacceptable use of AI if the content is yours but formatting is not?",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x4jjom/is_this_acceptable_or_unacceptable_use_of_ai_if/",
-   "published": "2026-10-13T01:18:01+00:00",
-   "excerpt": "So I'm taking a very writing report heavy course. We basically conduct our own experiment and then we write up a report usually in either IEEE or Joyner Format or whatever. Now I conduct the experiment myself. I actually do write up the material entirely myself and cite sources. However I do run it through LLM to do a lot of formatting and to put citations in properly. I will usually run the assignment instructions paper as well through LLM. And will usually ask did I answer everything that was needed. If not point to which and then I'll answer it Again the actual content is fully mine and the sources cited are sources I found and cited in my drafts. I feel like this should be fine cause con",
-   "author": "/u/downtimeredditor",
-   "source": "Reddit r/OMSCS",
-   "id": "c676d7343626",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-13T13:49:37.059421+08:00"
-  },
-  {
-   "title": "NLP course scheduling doesn't make sense",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x3vv96/nlp_course_scheduling_doesnt_make_sense/",
-   "published": "2026-10-12T07:53:32+00:00",
-   "excerpt": "The course calendar for NLP has a strangely uneven workload. Some weeks have several closed-book module quizzes and a homework assignment due, while others have nothing due. The (closed-book) midterm covers the first several modules, and a quiz on entirely new material is due the same day. Several students asked on Ed whether the quiz could be moved to another week so they could better prepare for the midterm. Staff replied that agreeing to extend the quiz deadline would oblige them to accept hundreds of individual rescheduling requests, which doesn't make sense at all. It’s a very unprofessional whataboutism way to respond to a reasonable request. In my experience, most teaching staff in ot",
-   "author": "/u/goro-n",
-   "source": "Reddit r/OMSCS",
-   "id": "1adb1258bb1f",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-13T13:49:37.059421+08:00"
-  },
-  {
-   "title": "Most of my team-members probably? use AI to write required Documents",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x3wmyq/most_of_my_teammembers_probably_use_ai_to_write/",
-   "published": "2026-10-12T08:43:11+00:00",
-   "excerpt": "I am unsure what to do! I tried so hard not to use any AI when writing the required documents... And then suddely someone pushes the most crazy mermaid diagrams and perfectly aligned and written tables.. It's not even the text, but who would create manually a perfect Table with 15 rows and 7 columns? Can't believe I have those problems in the last semester! I might get out this semester. How did you handle this? I saw other posts like this but not a solution.. Especially, I don't even know if they did, perhaps there are tools to easily create diagrams? Perhaps they are mermaid pros? EDIT: Added some more clarification. submitted by /u/Fusken [link] [留言]",
-   "author": "/u/Fusken",
-   "source": "Reddit r/OMSCS",
-   "id": "c0a7aa4810f5",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-13T13:49:37.059421+08:00"
-  },
-  {
    "title": "Show HN: tgv: Genome viewer for you and your agents",
    "url": "https://github.com/zeqianli/tgv",
    "published": "2026-10-10T03:12:19Z",
@@ -2573,34 +2513,6 @@
    "summary": null,
    "tags": null,
    "first_seen": "2026-10-10T12:44:37.032036+08:00"
-  },
-  {
-   "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-   "url": "https://omscs.gatech.edu/external-news/georgia-tech-announces-new-online-masters-degree-artificial-intelligence",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "31b0ee4cb5e7",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-08T12:56:10.548866+08:00"
-  },
-  {
-   "title": "New Neural Framework Could Make LLMs More Empathetic",
-   "url": "https://omscs.gatech.edu/external-news/new-neural-framework-could-make-llms-more-empathetic",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "8bbeadab8372",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-07T12:45:11.389225+08:00"
   },
   {
    "title": "The OMSCS Resources I Wish I Knew About Before Starting Georgia Tech’s Online MSCS",

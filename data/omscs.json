@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T15:08:41.676025+08:00",
+ "updated_at": "2026-11-28T14:42:47.714074+08:00",
  "sources": [
   {
    "name": "Reddit r/OMSCS",
@@ -22,7 +22,7 @@
   {
    "name": "Google News",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "note": ""
   },
   {
@@ -2443,64 +2443,6 @@
    "first_seen": "2026-10-14T11:52:41.091945+08:00"
   },
   {
-   "title": "Deleted AI Chats May Leave Clues Behind",
-   "url": "https://omscs.gatech.edu/external-news/deleted-ai-chats-may-leave-clues-behind",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "661fddd60253",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-14T11:52:41.091945+08:00"
-  },
-  {
-   "title": "OMSCS Instructors Make Summer 2026 Honor Roll",
-   "url": "https://omscs.gatech.edu/external-news/omscs-instructors-make-summer-2026-honor-roll",
-   "published": null,
-   "excerpt": "",
-   "source": "OMSCS 官方公告",
-   "id": "17523f00a658",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-14T11:52:41.091945+08:00"
-  },
-  {
-   "title": "Grade I in OMSCS Deep Learning",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x4qlad/grade_i_in_omscs_deep_learning/",
-   "published": "2026-10-13T07:50:21+00:00",
-   "excerpt": "I got a grade I in deep learning , but on gradescope it still shows as a C. I have tried following up with the instructor to help get this resolved . submitted by /u/ana-dorak [link] [留言]",
-   "author": "/u/ana-dorak",
-   "source": "Reddit r/OMSCS",
-   "id": "a5a97edf0a81",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-14T11:52:41.091945+08:00"
-  },
-  {
-   "title": "OMSAI --> OMSSI: Guys, we could be the first on this...",
-   "url": "https://www.reddit.com/r/OMSCS/comments/1x4o05o/omsai_omssi_guys_we_could_be_the_first_on_this/",
-   "published": "2026-10-13T05:09:03+00:00",
-   "excerpt": "Super > Artificial submitted by /u/Slow_Taste7955 [link] [留言]",
-   "author": "/u/Slow_Taste7955",
-   "source": "Reddit r/OMSCS",
-   "id": "04675bfbf6a0",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-10-14T11:52:41.091945+08:00"
-  },
-  {
    "title": "Show HN: tgv: Genome viewer for you and your agents",
    "url": "https://github.com/zeqianli/tgv",
    "published": "2026-10-10T03:12:19Z",
@@ -2560,36 +2502,6 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
-   "published": "2025-02-28T08:00:00+00:00",
-   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
-   "author": null,
-   "source": "Google News",
-   "id": "11f8714f6e18",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
-   "title": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia - Georgia Tech News Center",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFKQnBKMmNfUVNsWWZhVHVMSldHaE5MbnpZTngyZTJ1MDAtODc1dmZRenJvLTkyLUhqamgwZXlvT0VDZUJVN3E3TF93WTZ3dDg5X1VmSWFZcnBwd3FJMUVMMlZ4N3ZMLS03OHRYZDY1TFpMNWhLeDBabTJ6MzZKaGFJNTlvUWJaaC1UN1pscWFGQm4xMXhLaTNQazJYQy1hQWpUWEExcw?oc=5",
-   "published": "2025-01-27T08:00:00+00:00",
-   "excerpt": "OMSCS Alum Teams with His Family to Create App Aiding Children with Echolalia Georgia Tech News Center",
-   "author": null,
-   "source": "Google News",
-   "id": "3fe0c49fd522",
-   "admission_signal": false,
-   "keyword_hits": [],
-   "relevance": null,
-   "summary": null,
-   "tags": null,
-   "first_seen": "2026-09-05T21:07:52.468042+08:00"
-  },
-  {
    "title": "Loss of KDM4B impairs osteogenic differentiation of OMSCs and promotes oral bone aging - Nature",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OTBfR2l4QjFkQWNpR1dHMDAwQjBURkc3MkxXY3JJVmt3Z21qWDB4a19kUWwxQS1OT2ZjVmhBS3N0SnRVM0Y0R3RaQnZuZk01SkdmNlZ2SlNGTXYzMFVj?oc=5",
    "published": "2022-05-07T07:00:00+00:00",
@@ -2620,6 +2532,21 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
+   "title": "Georgia Tech launches second low-cost online master's degree program - Inside Higher Ed",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmg5WE0weGxEN2doN1o5SEhkeENTSzVzVDVhNlVKRmZVbktBWTZXd2hXaUFUeGhhSTdpQmJYMzlHXzFzMWROVHVJOGh4OEdDY3hwNWFTYVpvZHllbmlmWmJFck1lMGE3VVdaQlFnZnNEQjdZdHYyR0xGTEdxUVZFbGtOTkl6dm5nQ0dDLUN0UnJ1LUNJcWZSLS00c1M4cXJCNFRUaGphaU13Wmd4VnI1bWl2aHg?oc=5",
+   "published": "2017-01-11T08:00:00+00:00",
+   "excerpt": "Georgia Tech launches second low-cost online master's degree program Inside Higher Ed",
+   "author": null,
+   "source": "Google News",
+   "id": "6cccadeeb3ff",
+   "admission_signal": false,
+   "keyword_hits": [],
+   "relevance": null,
+   "summary": null,
+   "tags": null,
+   "first_seen": "2026-09-05T21:07:52.468042+08:00"
+  },
+  {
    "title": "OMSCS (CS 7632) Game AI: My Engineering Milestone in the World of Gaming - DataDrivenInvestor",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHJzaTBlUVUzSkJOX1h0amdBdHhaOFdvOVVPVU9OZHlIcXlNOHFoNDY0Y09TOEdZZ1JBMm5xZFFNeXNVN0hEbFJkQzJBYm9qaWFvWXF6Y0wwVi0yZzhSRDJRQkxZVGg4UTVLNlZ2QktUZUI1ODZWbWVjOGZWLW5LYUM1Wml6YmE2NTl0c19TSU9QS0tqb2Frem81eXNoaWtFR3U0QXQwQXVzLWMxX2NmSjZCdVBmRDlmMHprZw?oc=5",
    "published": "2024-08-25T07:00:00+00:00",
@@ -2635,13 +2562,13 @@
    "first_seen": "2026-09-05T21:07:52.468042+08:00"
   },
   {
-   "title": "Georgia Tech launches second low-cost online master's degree program - Inside Higher Ed",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmg5WE0weGxEN2doN1o5SEhkeENTSzVzVDVhNlVKRmZVbktBWTZXd2hXaUFUeGhhSTdpQmJYMzlHXzFzMWROVHVJOGh4OEdDY3hwNWFTYVpvZHllbmlmWmJFck1lMGE3VVdaQlFnZnNEQjdZdHYyR0xGTEdxUVZFbGtOTkl6dm5nQ0dDLUN0UnJ1LUNJcWZSLS00c1M4cXJCNFRUaGphaU13Wmd4VnI1bWl2aHg?oc=5",
-   "published": "2017-01-11T08:00:00+00:00",
-   "excerpt": "Georgia Tech launches second low-cost online master's degree program Inside Higher Ed",
+   "title": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology - Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUTRQUEFhTTlvblZndVc1OTBoMExjMm93Vms0aDYzUEp2eVpnNlZzRlZPajA2OTIxT3J4aFluVGU4dDNWczZQRFJqeXdQSDM0SVVDVE1KZlFWbGhpdVFGaXJPVC1ZbzJiRHg3UHFWRXRaTEhENXJ1RQ?oc=5",
+   "published": "2025-02-28T08:00:00+00:00",
+   "excerpt": "From Refineries to OMSCS: One Yellow Jacket’s Path From a Texas Oil Town to Educational Technology Georgia Institute of Technology",
    "author": null,
    "source": "Google News",
-   "id": "6cccadeeb3ff",
+   "id": "11f8714f6e18",
    "admission_signal": false,
    "keyword_hits": [],
    "relevance": null,
